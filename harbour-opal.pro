@@ -22,6 +22,17 @@ include(libs/opal-about/opal-about.pri)
 # Opal gallery configuration
 # ---
 
+DEFINES += APP_VERSION=\\\"$$VERSION\\\"
+DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
+
+OLD_DEFINES = "$$cat($$OUT_PWD/requires_defines.h)"
+!isEqual($$join(DEFINES, ";", "//"), $$OLD_DEFINES) {
+    NEW_DEFINES = $$join(DEFINES, ";", "//")
+    write_file($$OUT_PWD/requires_defines.h, NEW_DEFINES)
+    message("DEFINES changed, rebuilding...")
+    message($$NEW_DEFINES)
+}
+
 CONFIG += sailfishapp
 
 SOURCES += src/harbour-opal.cpp

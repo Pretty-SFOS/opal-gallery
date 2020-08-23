@@ -1,3 +1,9 @@
+/*
+ * This file is part of harbour-opal.
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2020 Mirian Margiani
+ */
+
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 import Opal.About 1.0
@@ -8,7 +14,8 @@ AboutPageBase {
 
     appName: "Opal.About Example"
     iconSource: Qt.resolvedUrl("../images/harbour-opal.png")
-    versionNumber: app.versionNumber
+    versionNumber: APP_VERSION
+    releaseNumber: APP_RELEASE
     description: qsTr("This is a short description of the app which can use <i>styled</i> " +
                       "and <a href='https://example.org'>rich</a> text.")
     author: "the main author or maintainer"

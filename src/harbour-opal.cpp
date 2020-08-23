@@ -3,6 +3,7 @@
 #endif
 
 #include <sailfishapp.h>
+#include "requires_defines.h"
 
 int main(int argc, char *argv[])
 {
@@ -15,6 +16,14 @@ int main(int argc, char *argv[])
     //   - SailfishApp::pathToMainQml() to get a QUrl to the main QML file
     //
     // To display the view, call "show()" (will show fullscreen on device).
+    //
+    // return SailfishApp::main(argc, argv);
 
-    return SailfishApp::main(argc, argv);
+    QScopedPointer<QGuiApplication> app(SailfishApp::application(argc, argv));
+    QScopedPointer<QQuickView> view(SailfishApp::createView());
+    view->rootContext()->setContextProperty("APP_VERSION", QString(APP_VERSION));
+    view->rootContext()->setContextProperty("APP_RELEASE", QString(APP_RELEASE));
+    view->setSource(SailfishApp::pathToMainQml());
+    view->show();
+    return app->exec();
 }
