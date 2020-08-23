@@ -13,7 +13,7 @@
 TARGET = harbour-opal
 
 # ---
-# Opal components
+# Opal modules
 # ---
 
 include(libs/opal-about/opal-about.pri)
@@ -29,8 +29,7 @@ OLD_DEFINES = "$$cat($$OUT_PWD/requires_defines.h)"
 !isEqual($$join(DEFINES, ";", "//"), $$OLD_DEFINES) {
     NEW_DEFINES = $$join(DEFINES, ";", "//")
     write_file($$OUT_PWD/requires_defines.h, NEW_DEFINES)
-    message("DEFINES changed, rebuilding...")
-    message($$NEW_DEFINES)
+    message("DEFINES changed...")
 }
 
 CONFIG += sailfishapp
