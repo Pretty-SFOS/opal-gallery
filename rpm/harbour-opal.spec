@@ -11,9 +11,9 @@ Name:       harbour-opal
 Summary:    A collection of pretty QML components for SailfishOS
 Version:    1.0
 Release:    1
-Group:      Qt/Qt
-License:    LICENSE
-URL:        http://example.org/
+Group:      System/Libraries
+License:    GPL-3.0-or-later
+URL:        https://github.com/Pretty-SFOS/opal
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-opal.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9

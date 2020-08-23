@@ -1,3 +1,9 @@
+/*
+ * This file is part of harbour-opal.
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2020 Mirian Margiani
+ */
+
 #ifdef QT_QML_DEBUG
 #include <QtQuick>
 #endif
