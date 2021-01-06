@@ -38,13 +38,11 @@ Requires:
   - sailfishsilica-qt5 >= 0.10.9
 
 # All installed files
-# todo: find QML directory dynamically
 Files:
   - '%{_bindir}'
   - '%{_datadir}/%{name}'
   - '%{_datadir}/applications/%{name}.desktop'
   - '%{_datadir}/icons/hicolor/*/apps/%{name}.png'
-  - '%{_libdir}/qt5/qml/Opal'
 
 # For more information about yaml and what's supported in Sailfish OS
 # build system, please see https://wiki.merproject.org/wiki/Spectacle

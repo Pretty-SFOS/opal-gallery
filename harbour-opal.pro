@@ -11,28 +11,11 @@
 
 # The name of your application
 TARGET = harbour-opal
-
-# ---
-# Opal modules
-# ---
-
-include(libs/opal-about/opal-about.pri)
+CONFIG += sailfishapp
 
 # ---
 # Opal gallery configuration
 # ---
-
-DEFINES += APP_VERSION=\\\"$$VERSION\\\"
-DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
-
-OLD_DEFINES = "$$cat($$OUT_PWD/requires_defines.h)"
-!isEqual($$join(DEFINES, ";", "//"), $$OLD_DEFINES) {
-    NEW_DEFINES = $$join(DEFINES, ";", "//")
-    write_file($$OUT_PWD/requires_defines.h, NEW_DEFINES)
-    message("DEFINES changed...")
-}
-
-CONFIG += sailfishapp
 
 SOURCES += src/harbour-opal.cpp
 
@@ -59,4 +42,14 @@ CONFIG += sailfishapp_i18n
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-TRANSLATIONS += translations/harbour-opal-de.ts
+TRANSLATIONS += translations/harbour-opal-de.ts \
+    translations/harbour-opal-en.ts
+
+# Select Opal modules
+CONFIG += opal-about
+include(libs/opal-use-modules.pri)
+
+# Note: version number is configured in yaml
+DEFINES += APP_VERSION=\\\"$$VERSION\\\"
+DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
+include(libs/opal-cached-defines.pri)

@@ -6,6 +6,7 @@
 Name:       harbour-opal
 
 # >> macros
+%define __provides_exclude_from ^%{_datadir}/.*$
 # << macros
 
 Summary:    A collection of pretty QML components for SailfishOS
@@ -66,6 +67,5 @@ desktop-file-install --delete-original       \
 %{_datadir}/%{name}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
-%{_libdir}/qt5/qml/Opal
 # >> files
 # << files
