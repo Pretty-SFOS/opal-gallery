@@ -25,6 +25,7 @@ DISTFILES += qml/harbour-opal.qml \
     qml/pages/AboutOpalPage.qml \
     qml/pages/AboutModulePageBase.qml \
     qml/module-pages/About.qml \
+    qml/module-pages/EmptyDummyPage.qml \
     rpm/harbour-opal.changes.in \
     rpm/harbour-opal.changes.run.in \
     rpm/harbour-opal.spec \
