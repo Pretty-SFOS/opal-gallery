@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-opal.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2020 Mirian Margiani
+ * SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
  */
 
 import QtQuick 2.0
@@ -17,8 +17,11 @@ AboutPageBase {
     versionNumber: APP_VERSION
     releaseNumber: APP_RELEASE
     description: qsTr("This is a short description of the app which can use <i>styled</i> " +
-                      "and <a href='https://example.org'>rich</a> text.")
-    author: "the main author or maintainer"
+                      "<i><b>and</b></i> <u>rich</u> text or " +
+                      "<a href='https://example.org'>links</a>.")
+
+    // note: don't use qsTr() for names in real applications
+    author: qsTr("the main author or maintainer")
     licenses: [
         License {
             spdxId: "GPL-3.0-or-later"
@@ -45,7 +48,7 @@ AboutPageBase {
             button.onClicked: Qt.openUrlExternally("https://example.org")
         },
         InfoSection {
-            title: qsTr("Other stuff")
+            title: qsTr("Extra info")
             text: qsTr("Lorem ipsum dolor sit amet, consectetuer adipiscing elit. " +
                        "Aenean commodo ligula eget dolorus.")
         }
@@ -79,7 +82,7 @@ AboutPageBase {
             ]
         },
         ContributionSection {
-            title: qsTr("Third party libraries")
+            title: qsTr("Third-party libraries")
             groups: [
                 ContributionGroup {
                     title: qsTr("Some Software")
@@ -96,11 +99,8 @@ AboutPageBase {
     PullDownMenu {
         parent: page.flickable
         MenuItem {
-            text: "This does nothing"
-        }
-        MenuItem {
-            text: "Let's loop"
-            onClicked: pageStack.push(Qt.resolvedUrl("About.qml"))
+            text: qsTr("Open another page")
+            onClicked: pageStack.push(Qt.resolvedUrl("EmptyDummyPage.qml"))
         }
     }
 }
