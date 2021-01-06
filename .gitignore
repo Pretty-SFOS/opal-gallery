@@ -1,5 +1,12 @@
+# Ignore Opal module sources. Use libs/opal-fetch-modules.sh to download latest
+# sources.
+qml/opal-modules
+libs/opal-translations
+
 build/
 .directory
+
+# ----------------------------------------------------------------------------
 
 # C++ objects and libs
 *.slo
