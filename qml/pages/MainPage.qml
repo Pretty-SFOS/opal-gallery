@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-opal.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2020 Mirian Margiani
+ * SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
  */
 
 import QtQuick 2.0
@@ -35,7 +35,7 @@ Page {
             contentHeight: Math.max(Theme.itemSizeExtraLarge,
                                     contents.height+2*Theme.paddingMedium)
             menu: contextMenu
-            onClicked: pageStack.push(Qt.resolvedUrl("../module-pages/"+examplePage))
+            onClicked: openMenu()
 
             Column {
                 id: contents
@@ -65,6 +65,10 @@ Page {
             Component {
                 id: contextMenu
                 ContextMenu {
+                    MenuItem {
+                        text: qsTr("Preview and Examples")
+                        onClicked: pageStack.push(Qt.resolvedUrl("../module-pages/"+examplePage))
+                    }
                     MenuItem {
                         text: qsTr("About")
                         onClicked: pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
