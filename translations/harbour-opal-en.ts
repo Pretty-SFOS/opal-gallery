@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_CH">
+<TS version="2.1" language="en_US">
 <context>
     <name>About</name>
     <message>
         <source>Data</source>
-        <translation>Daten</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Data License</source>
-        <translation>Daten-Lizenz</translation>
+        <translation>Data License</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
@@ -21,62 +21,62 @@
     </message>
     <message>
         <source>Development</source>
-        <translation>Entwicklung</translation>
+        <translation>Development</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation>Programmierung</translation>
+        <translation>Programming</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation>Icon-Design</translation>
+        <translation>Icon Design</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Übersetzungen</translation>
+        <translation>Translations</translation>
     </message>
     <message>
         <source>English</source>
-        <translation>Englisch</translation>
+        <translation>English</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>Deutsch</translation>
+        <translation>German</translation>
     </message>
     <message>
         <source>Some Software</source>
-        <translation>Irgendeine Software</translation>
+        <translation>Some Software</translation>
     </message>
     <message>
         <source>Other Library</source>
-        <translation>Eine andere Bibliothek</translation>
+        <translation>Other Library</translation>
     </message>
     <message>
         <source>Third-party libraries</source>
-        <translation>Externe Bibliotheken</translation>
+        <translation>Third-party libraries</translation>
     </message>
     <message>
         <source>the main author or maintainer</source>
-        <translation>Haupt-Autor:in oder Maintainer</translation>
+        <translation>the main author or maintainer</translation>
     </message>
     <message>
         <source>Open another page</source>
-        <translation>Eine andere Seite öffnen</translation>
+        <translation>Open another page</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation>Zusätzliche Infos</translation>
+        <translation>Extra info</translation>
     </message>
     <message>
         <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>Das ist eine kurze Beschreibung der App. Sie kann &lt;i&gt;verschieden&lt;/i&gt; &lt;i&gt;&lt;b&gt;formatierten&lt;/b&gt;&lt;/i&gt; Text oder &lt;a href=&apos;https://example.org&apos;&gt;Links&lt;/a&gt; beinhalten.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation>Opal ist eine Sammlung schöner QML-Komponenten für SailfishOS auf der Basis von Sailfishs Silica-Komponenten.</translation>
+        <translation>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</translation>
     </message>
 </context>
 <context>
@@ -87,157 +87,157 @@
     </message>
     <message>
         <source>Development</source>
-        <translation>Entwicklung</translation>
+        <translation>Development</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation>Autor</translation>
+        <translation>Author</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>Mitwirkende zeigen</translation>
+        <translation>show contributors</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Lizenz</translation>
+        <translation>License</translation>
     </message>
     <message>
         <source>This is proprietary software. All rights reserved.</source>
-        <translation>Dies ist geschützte Software. Alle Rechte vorbehalten.</translation>
+        <translation>This is proprietary software. All rights reserved.</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation>
-            <numerusform>Lizenz zeigen</numerusform>
-            <numerusform>Lizenzen zeigen</numerusform>
+            <numerusform>show license</numerusform>
+            <numerusform>show licenses</numerusform>
         </translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation>Quellcode</translation>
+        <translation>Source Code</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>About</translation>
     </message>
 </context>
 <context>
     <name>ContributorsPage</name>
     <message>
         <source>Contributors</source>
-        <translation>Mitwirkende</translation>
+        <translation>Contributors</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
-        <translation>Opal-Galerie</translation>
+        <translation>Opal Gallery</translation>
     </message>
 </context>
 <context>
     <name>EmptyDummyPage</name>
     <message>
         <source>Empty page</source>
-        <translation>Leere Seite</translation>
+        <translation>Empty page</translation>
     </message>
     <message>
         <source>This page is intentionally left blank for demonstrational purposes.</source>
-        <translation>Diese Seite ist absichtlich für Demonstrationszwecke freigelassen.</translation>
+        <translation>This page is intentionally left blank for demonstrational purposes.</translation>
     </message>
 </context>
 <context>
     <name>ExtraTranslations</name>
     <message>
         <source>Development</source>
-        <translation>Entwicklung</translation>
+        <translation>Development</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation>Programmierung</translation>
+        <translation>Programming</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Übersetzungen</translation>
+        <translation>Translations</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation>Icon-Design</translation>
+        <translation>Icon Design</translation>
     </message>
     <message>
-        <source>Third-party libraries</source>
-        <translation>Externe Bibliotheken</translation>
+        <source>Swedish</source>
+        <translation>Swedish</translation>
     </message>
     <message>
-        <source>Data License</source>
-        <translation>Daten-Lizenz</translation>
+        <source>Polish</source>
+        <translation>Polish</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>German</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>French</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation>Chinese</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>English</translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation>Italian</translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation>Finnish</translation>
+    </message>
+    <message>
+        <source>Norwegian</source>
+        <translation>Norwegian</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Daten</translation>
+        <translation>Data</translation>
     </message>
     <message numerus="yes">
         <source>Data License(s)</source>
         <translation>
-            <numerusform>Daten-Lizenz</numerusform>
-            <numerusform>Daten-Lizenzen</numerusform>
+            <numerusform>Data License</numerusform>
+            <numerusform>Data Licenses</numerusform>
         </translation>
     </message>
     <message>
-        <source>Swedish</source>
-        <translation>Schwedisch</translation>
+        <source>Third-party libraries</source>
+        <translation>Third-party libraries</translation>
     </message>
     <message>
-        <source>Polish</source>
-        <translation>Polnisch</translation>
-    </message>
-    <message>
-        <source>German</source>
-        <translation>Deutsch</translation>
-    </message>
-    <message>
-        <source>French</source>
-        <translation>Französisch</translation>
-    </message>
-    <message>
-        <source>Chinese</source>
-        <translation>Chinesisch</translation>
-    </message>
-    <message>
-        <source>English</source>
-        <translation>Englisch</translation>
-    </message>
-    <message>
-        <source>Italian</source>
-        <translation>Italienisch</translation>
-    </message>
-    <message>
-        <source>Finnish</source>
-        <translation>Finnisch</translation>
-    </message>
-    <message>
-        <source>Norwegian</source>
-        <translation>Norwegisch</translation>
+        <source>Data License</source>
+        <translation>Data License</translation>
     </message>
 </context>
 <context>
     <name>InfoSection</name>
     <message>
         <source>show details</source>
-        <translation>Details zeigen</translation>
+        <translation>show details</translation>
     </message>
 </context>
 <context>
     <name>LicensePage</name>
     <message>
         <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Bitte beachten Sie &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
-            <numerusform>Lizenz</numerusform>
-            <numerusform>Lizenzen</numerusform>
+            <numerusform>License</numerusform>
+            <numerusform>Licenses</numerusform>
         </translation>
     </message>
 </context>
@@ -245,23 +245,23 @@
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
-        <translation>Über Opal</translation>
+        <translation>About Opal</translation>
     </message>
     <message>
         <source>for form and function</source>
-        <translation>für Form und Funktion</translation>
+        <translation>for form and function</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>About</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation>Opal-Galerie</translation>
+        <translation>Opal Gallery</translation>
     </message>
     <message>
         <source>Preview and Examples</source>
-        <translation>Vorschau und Beispiele</translation>
+        <translation>Preview and Examples</translation>
     </message>
 </context>
 <context>
@@ -275,7 +275,7 @@
     <name>harbour-opal</name>
     <message>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt;                                for building customizable application                                information pages.</source>
-        <translation>Dieses Modul stellt die &lt;i&gt;AboutPageBase&lt;/i&gt; bereit, mit der einfach anpassbare App-Infoseiten erstellt werden können.</translation>
+        <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
     </message>
 </context>
 </TS>

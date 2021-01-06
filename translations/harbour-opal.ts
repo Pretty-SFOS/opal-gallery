@@ -4,10 +4,6 @@
 <context>
     <name>About</name>
     <message>
-        <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; and &lt;a href=&apos;https://example.org&apos;&gt;rich&lt;/a&gt; text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Data</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17,10 +13,6 @@
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other stuff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -52,15 +44,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Third party libraries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Some Software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Third-party libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the main author or maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open another page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -72,10 +80,162 @@
     </message>
 </context>
 <context>
+    <name>AboutPageBase</name>
+    <message>
+        <source>Version %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Development</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show contributors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is proprietary software. All rights reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>show license(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Source Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContributorsPage</name>
+    <message>
+        <source>Contributors</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EmptyDummyPage</name>
+    <message>
+        <source>Empty page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This page is intentionally left blank for demonstrational purposes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtraTranslations</name>
+    <message>
+        <source>Development</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Programming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swedish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norwegian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Data License(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Third-party libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data License</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>InfoSection</name>
+    <message>
+        <source>show details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LicensePage</name>
+    <message>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -95,6 +255,17 @@
     <message>
         <source>Opal Gallery</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview and Examples</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpalAbout</name>
+    <message>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
