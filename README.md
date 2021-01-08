@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2021 Mirian Margiani
+SPDX-License-Identifier: GFDL-1.3-or-later
+-->
+
 # Opal
 
 Opal is a collection of pretty QML components for SailfishOS, building on top
@@ -30,8 +35,6 @@ documentation on how to include new modules in the gallery application.
 
 The Opal Gallery application is released under the GNU GPL v3 or later.
 
-    Copyright (C) 2020-2021  Mirian Margiani
-
     harbour-opal is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -52,7 +55,6 @@ or simply refer to the respective repositories.
 All documentation is released under the terms of the
 [GFDL-1.3-or-later](https://spdx.org/licenses/GFDL-1.3-or-later.html).
 
-        Copyright (C)  2021  Mirian Margiani
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
