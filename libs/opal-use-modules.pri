@@ -26,15 +26,18 @@ OPAL_TR_PATH = libs/opal-translations
 # ------------------------------------------------------------------------------
 # Available modules - no configuration required
 
+# To be used for setting the import path in main(...).
+DEFINES += OPAL_IMPORT_PATH=\\\"$$OPAL_PATH\\\"
+
 # activate with: CONFIG += opal-about
 opal-about {
-    OPAL_TRANSLATIONS += $$files($$absolute_path($$OPAL_TR_PATH, $$_PRO_FILE_PWD_)/opal-about-*.ts)
+    OPAL_TRANSLATIONS += $$files($$absolute_path($$OPAL_TR_PATH, $$_PRO_FILE_PWD_)/opal-about/opal-about-*.ts)
     DISTFILES += $$files($$absolute_path($$OPAL_PATH, $$_PRO_FILE_PWD_)/Opal/About, true)
 }
 
 # activate with: CONFIG += opal-tabbar
 opal-tabbar {
-    OPAL_TRANSLATIONS += $$files($$absolute_path($$OPAL_TR_PATH, $$_PRO_FILE_PWD_)/opal-tabbar-*.ts)
+    OPAL_TRANSLATIONS += $$files($$absolute_path($$OPAL_TR_PATH, $$_PRO_FILE_PWD_)/opal-tabbar/opal-tabbar-*.ts)
     DISTFILES += $$files($$absolute_path($$OPAL_PATH, $$_PRO_FILE_PWD_)/Opal/TabBar, true)
 }
 
