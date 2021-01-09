@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -80,7 +80,52 @@
     </message>
 </context>
 <context>
-    <name>AboutPageBase</name>
+    <name>CoverPage</name>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal Gallery</translation>
+    </message>
+</context>
+<context>
+    <name>EmptyDummyPage</name>
+    <message>
+        <source>Empty page</source>
+        <translation>Empty page</translation>
+    </message>
+    <message>
+        <source>This page is intentionally left blank for demonstrational purposes.</source>
+        <translation>This page is intentionally left blank for demonstrational purposes.</translation>
+    </message>
+</context>
+<context>
+    <name>MainPage</name>
+    <message>
+        <source>About Opal</source>
+        <translation>About Opal</translation>
+    </message>
+    <message>
+        <source>for form and function</source>
+        <translation>for form and function</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>About</translation>
+    </message>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal Gallery</translation>
+    </message>
+    <message>
+        <source>Preview and Examples</source>
+        <translation>Preview and Examples</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.About</name>
+    <message>
+        <source>About</source>
+        <translation>About</translation>
+    </message>
     <message>
         <source>Version %1</source>
         <translation>Version %1</translation>
@@ -117,37 +162,27 @@
         <translation>Source Code</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>About</translation>
+        <source>show details</source>
+        <translation>show details</translation>
     </message>
-</context>
-<context>
-    <name>ContributorsPage</name>
     <message>
         <source>Contributors</source>
         <translation>Contributors</translation>
     </message>
-</context>
-<context>
-    <name>CoverPage</name>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation>
+            <numerusform>License</numerusform>
+            <numerusform>Licenses</numerusform>
+        </translation>
+    </message>
     <message>
-        <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
+        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
-    <name>EmptyDummyPage</name>
-    <message>
-        <source>Empty page</source>
-        <translation>Empty page</translation>
-    </message>
-    <message>
-        <source>This page is intentionally left blank for demonstrational purposes.</source>
-        <translation>This page is intentionally left blank for demonstrational purposes.</translation>
-    </message>
-</context>
-<context>
-    <name>ExtraTranslations</name>
+    <name>Opal.About.Common</name>
     <message>
         <source>Development</source>
         <translation>Development</translation>
@@ -163,6 +198,25 @@
     <message>
         <source>Icon Design</source>
         <translation>Icon Design</translation>
+    </message>
+    <message>
+        <source>Third-party libraries</source>
+        <translation>Third-party libraries</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation>Data</translation>
+    </message>
+    <message>
+        <source>Data License</source>
+        <translation>Data License</translation>
+    </message>
+    <message numerus="yes">
+        <source>Data License(s)</source>
+        <translation>
+            <numerusform>Data License</numerusform>
+            <numerusform>Data Licenses</numerusform>
+        </translation>
     </message>
     <message>
         <source>Swedish</source>
@@ -199,69 +253,6 @@
     <message>
         <source>Norwegian</source>
         <translation>Norwegian</translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <translation>Data</translation>
-    </message>
-    <message numerus="yes">
-        <source>Data License(s)</source>
-        <translation>
-            <numerusform>Data License</numerusform>
-            <numerusform>Data Licenses</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Third-party libraries</source>
-        <translation>Third-party libraries</translation>
-    </message>
-    <message>
-        <source>Data License</source>
-        <translation>Data License</translation>
-    </message>
-</context>
-<context>
-    <name>InfoSection</name>
-    <message>
-        <source>show details</source>
-        <translation>show details</translation>
-    </message>
-</context>
-<context>
-    <name>LicensePage</name>
-    <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation>
-            <numerusform>License</numerusform>
-            <numerusform>Licenses</numerusform>
-        </translation>
-    </message>
-</context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <source>About Opal</source>
-        <translation>About Opal</translation>
-    </message>
-    <message>
-        <source>for form and function</source>
-        <translation>for form and function</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation>About</translation>
-    </message>
-    <message>
-        <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
-    </message>
-    <message>
-        <source>Preview and Examples</source>
-        <translation>Preview and Examples</translation>
     </message>
 </context>
 <context>

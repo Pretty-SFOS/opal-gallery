@@ -80,7 +80,52 @@
     </message>
 </context>
 <context>
-    <name>AboutPageBase</name>
+    <name>CoverPage</name>
+    <message>
+        <source>Opal Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EmptyDummyPage</name>
+    <message>
+        <source>Empty page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This page is intentionally left blank for demonstrational purposes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MainPage</name>
+    <message>
+        <source>About Opal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for form and function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opal Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview and Examples</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Opal.About</name>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Version %1</source>
         <translation type="unfinished"></translation>
@@ -116,37 +161,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About</source>
+        <source>show details</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ContributorsPage</name>
     <message>
         <source>Contributors</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>CoverPage</name>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
-        <source>Opal Gallery</source>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>EmptyDummyPage</name>
-    <message>
-        <source>Empty page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This page is intentionally left blank for demonstrational purposes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ExtraTranslations</name>
+    <name>Opal.About.Common</name>
     <message>
         <source>Development</source>
         <translation type="unfinished"></translation>
@@ -162,6 +196,24 @@
     <message>
         <source>Icon Design</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Third-party libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data License</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Data License(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>Swedish</source>
@@ -197,67 +249,6 @@
     </message>
     <message>
         <source>Norwegian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>Data License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Third-party libraries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data License</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>InfoSection</name>
-    <message>
-        <source>show details</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LicensePage</name>
-    <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-</context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <source>About Opal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for form and function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview and Examples</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

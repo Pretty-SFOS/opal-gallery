@@ -80,7 +80,52 @@
     </message>
 </context>
 <context>
-    <name>AboutPageBase</name>
+    <name>CoverPage</name>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal-Galerie</translation>
+    </message>
+</context>
+<context>
+    <name>EmptyDummyPage</name>
+    <message>
+        <source>Empty page</source>
+        <translation>Leere Seite</translation>
+    </message>
+    <message>
+        <source>This page is intentionally left blank for demonstrational purposes.</source>
+        <translation>Diese Seite ist absichtlich für Demonstrationszwecke freigelassen.</translation>
+    </message>
+</context>
+<context>
+    <name>MainPage</name>
+    <message>
+        <source>About Opal</source>
+        <translation>Über Opal</translation>
+    </message>
+    <message>
+        <source>for form and function</source>
+        <translation>für Form und Funktion</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>Über</translation>
+    </message>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal-Galerie</translation>
+    </message>
+    <message>
+        <source>Preview and Examples</source>
+        <translation>Vorschau und Beispiele</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.About</name>
+    <message>
+        <source>About</source>
+        <translation>Über</translation>
+    </message>
     <message>
         <source>Version %1</source>
         <translation>Version %1</translation>
@@ -117,37 +162,27 @@
         <translation>Quellcode</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>Über</translation>
+        <source>show details</source>
+        <translation>Details zeigen</translation>
     </message>
-</context>
-<context>
-    <name>ContributorsPage</name>
     <message>
         <source>Contributors</source>
         <translation>Mitwirkende</translation>
     </message>
-</context>
-<context>
-    <name>CoverPage</name>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation>
+            <numerusform>Lizenz</numerusform>
+            <numerusform>Lizenzen</numerusform>
+        </translation>
+    </message>
     <message>
-        <source>Opal Gallery</source>
-        <translation>Opal-Galerie</translation>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
+        <translation>Bitte beachten Sie &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
-    <name>EmptyDummyPage</name>
-    <message>
-        <source>Empty page</source>
-        <translation>Leere Seite</translation>
-    </message>
-    <message>
-        <source>This page is intentionally left blank for demonstrational purposes.</source>
-        <translation>Diese Seite ist absichtlich für Demonstrationszwecke freigelassen.</translation>
-    </message>
-</context>
-<context>
-    <name>ExtraTranslations</name>
+    <name>Opal.About.Common</name>
     <message>
         <source>Development</source>
         <translation>Entwicklung</translation>
@@ -169,12 +204,12 @@
         <translation>Externe Bibliotheken</translation>
     </message>
     <message>
-        <source>Data License</source>
-        <translation>Daten-Lizenz</translation>
-    </message>
-    <message>
         <source>Data</source>
         <translation>Daten</translation>
+    </message>
+    <message>
+        <source>Data License</source>
+        <translation>Daten-Lizenz</translation>
     </message>
     <message numerus="yes">
         <source>Data License(s)</source>
@@ -218,50 +253,6 @@
     <message>
         <source>Norwegian</source>
         <translation>Norwegisch</translation>
-    </message>
-</context>
-<context>
-    <name>InfoSection</name>
-    <message>
-        <source>show details</source>
-        <translation>Details zeigen</translation>
-    </message>
-</context>
-<context>
-    <name>LicensePage</name>
-    <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Bitte beachten Sie &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation>
-            <numerusform>Lizenz</numerusform>
-            <numerusform>Lizenzen</numerusform>
-        </translation>
-    </message>
-</context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <source>About Opal</source>
-        <translation>Über Opal</translation>
-    </message>
-    <message>
-        <source>for form and function</source>
-        <translation>für Form und Funktion</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation>Über</translation>
-    </message>
-    <message>
-        <source>Opal Gallery</source>
-        <translation>Opal-Galerie</translation>
-    </message>
-    <message>
-        <source>Preview and Examples</source>
-        <translation>Vorschau und Beispiele</translation>
     </message>
 </context>
 <context>
