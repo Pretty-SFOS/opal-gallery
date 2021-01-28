@@ -20,7 +20,8 @@ applications using Opal, you should not have to do anything.
 ## Development
 
 1. Clone this repository e.g. to `src/opal/opal`
-2. Run [libs/opal-fetch-modules.sh] to fetch the latest module sources
+2. Run [fetch-modules.sh] to fetch the latest module sources, clone required
+   module repositories as requested
 3. Open the project file [harbour-opal.pro] in the Sailfish OS IDE
 4. Build an RPM package and install it on the target device
 
@@ -28,7 +29,11 @@ applications using Opal, you should not have to do anything.
 ### Adding new modules
 
 Please refer to [the Wiki](https://github.com/Pretty-SFOS/opal) for
-documentation on how to include new modules in the gallery application.
+documentation on how to setup new modules.
+
+Module metadata and examples live in the respective repositories. After the new
+module is properly prepared, register it in [fetch-modules.sh]. Run the script
+to include the new module in Opal Gallery.
 
 
 ## License
