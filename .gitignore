@@ -5,6 +5,7 @@
 # Ignore Opal module sources. Use libs/opal-fetch-modules.sh to download latest
 # sources.
 qml/opal-modules
+qml/module-pages
 libs/opal-translations
 
 build/
