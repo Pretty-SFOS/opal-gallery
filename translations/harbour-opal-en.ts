@@ -121,6 +121,13 @@
     </message>
 </context>
 <context>
+    <name>ModuleDescriptions</name>
+    <message>
+        <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
+        <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
+    </message>
+</context>
+<context>
     <name>Opal.About</name>
     <message>
         <source>About</source>
@@ -260,13 +267,6 @@
     <message>
         <source></source>
         <translation></translation>
-    </message>
-</context>
-<context>
-    <name>harbour-opal</name>
-    <message>
-        <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt;                                for building customizable application                                information pages.</source>
-        <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
     </message>
 </context>
 </TS>
