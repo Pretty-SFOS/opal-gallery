@@ -12,24 +12,16 @@ ApplicationWindow
 {
     id: app
     property ListModel modules: ListModel {
+        //>>> GENERATED LIST OF MODULES
         ListElement {
             title: "Opal.About"
-            description: qsTr("This module provides <i>AboutPageBase</i> \
-                               for building customizable application \
-                               information pages.")
+            description: qsTranslate("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
             author: "ichthyosaurus"
             mainLicenseSpdx: "GPL-3.0-or-later"
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
-            examplePage: "About.qml"
+            examplePage: "opal-about/About.qml"
         }
-        ListElement {
-            title: "Opal.TabBar"
-            description: "Not yet included."
-            author: "ichthyosaurus"
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-tabbar"
-            examplePage: "TabBar.qml"
-        }
+        //<<< GENERATED LIST OF MODULES
     }
 
     initialPage: Component { MainPage { } }
