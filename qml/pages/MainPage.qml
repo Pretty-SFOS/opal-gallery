@@ -37,6 +37,9 @@ Page {
             menu: contextMenu
             onClicked: openMenu()
 
+            // translations must be prepared with QT_TRANSLATE_NOOP
+            property string translatedDescription: qsTranslate("ModuleDescriptions", description)
+
             Column {
                 id: contents
                 width: parent.width - 2*Theme.horizontalPageMargin
@@ -52,8 +55,7 @@ Page {
                 }
 
                 Label {
-                    // translations must be prepared with QT_TRANSLATE_NOOP
-                    text: qsTranslate("ModuleDescriptions", description)
+                    text: listItem.translatedDescription
                     font.pixelSize: Theme.fontSizeSmall
                     color: highlighted ? Theme.secondaryHighlightColor
                                        : Theme.secondaryColor
@@ -74,7 +76,7 @@ Page {
                         text: qsTr("About")
                         onClicked: pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
                                                       appName: title,
-                                                      description: description,
+                                                      description: listItem.translatedDescription,
                                                       maintainer: maintainer,
                                                       versionNumber: versionNumber,
                                                       mainLicenseSpdx: mainLicenseSpdx,
