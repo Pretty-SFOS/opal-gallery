@@ -15,8 +15,8 @@ ApplicationWindow
         //>>> GENERATED LIST OF MODULES
         ListElement {
             title: "Opal.About"
-            description: qsTranslate("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
-            author: "ichthyosaurus"
+            description:  QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
+            maintainer: "ichthyosaurus"
             mainLicenseSpdx: "GPL-3.0-or-later"
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
             examplePage: "opal-about/About.qml"

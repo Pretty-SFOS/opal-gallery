@@ -68,7 +68,7 @@ for module in "${cQML_MODULES[@]}"; do
     list_elements+=("\
         ListElement {
             title: \"$(./release-module.sh -c fullNameStyled)\"
-            description: qsTranslate(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
+            description:  QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
             author: \"$(./release-module.sh -c author)\"
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\"
             sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\"

@@ -52,7 +52,8 @@ Page {
                 }
 
                 Label {
-                    text: description
+                    // translations must be prepared with QT_TRANSLATE_NOOP
+                    text: qsTranslate("ModuleDescriptions", description)
                     font.pixelSize: Theme.fontSizeSmall
                     color: highlighted ? Theme.secondaryHighlightColor
                                        : Theme.secondaryColor
