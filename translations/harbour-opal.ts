@@ -56,11 +56,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -85,11 +81,11 @@
 <context>
     <name>EmptyDummyPage</name>
     <message>
-        <source>Empty page</source>
+        <source>Other contents could be included at this place.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This page is intentionally left blank for demonstrational purposes.</source>
+        <source>Dummy page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -191,6 +187,14 @@
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Acknowledgements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thank you!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
