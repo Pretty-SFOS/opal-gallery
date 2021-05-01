@@ -294,6 +294,10 @@
         <source>Estonian</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Terms of Use</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OpalAbout</name>

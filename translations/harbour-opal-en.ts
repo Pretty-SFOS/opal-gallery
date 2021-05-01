@@ -238,6 +238,10 @@
         </translation>
     </message>
     <message>
+        <source>Terms of Use</source>
+        <translation>Terms of Use</translation>
+    </message>
+    <message>
         <source>Swedish</source>
         <translation>Swedish</translation>
     </message>
