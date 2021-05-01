@@ -44,18 +44,6 @@
         <translation>Deutsch</translation>
     </message>
     <message>
-        <source>Some Software</source>
-        <translation>Irgendeine Software</translation>
-    </message>
-    <message>
-        <source>Other Library</source>
-        <translation>Eine andere Bibliothek</translation>
-    </message>
-    <message>
-        <source>Third-party libraries</source>
-        <translation>Externe Bibliotheken</translation>
-    </message>
-    <message>
         <source>the main author or maintainer</source>
         <translation>Haupt-Autor:in oder Maintainer</translation>
     </message>
@@ -71,12 +59,20 @@
         <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
         <translation>Das ist eine kurze Beschreibung der App. Sie kann &lt;i&gt;verschieden&lt;/i&gt; &lt;i&gt;&lt;b&gt;formatierten&lt;/b&gt;&lt;/i&gt; Text oder &lt;a href=&apos;https://example.org&apos;&gt;Links&lt;/a&gt; beinhalten.</translation>
     </message>
+    <message>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <translation>Sie können mir gerne einen Kaffee spendieren, wenn Sie meine Arbeit unterstützen möchten.</translation>
+    </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
         <translation>Opal ist eine Sammlung schöner QML-Komponenten für SailfishOS auf der Basis von Sailfishs Silica-Komponenten.</translation>
+    </message>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal-Galerie</translation>
     </message>
 </context>
 <context>
@@ -130,6 +126,25 @@
 <context>
     <name>Opal.About</name>
     <message>
+        <source>show details</source>
+        <translation>Details zeigen</translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation>Mitwirkende</translation>
+    </message>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation>
+            <numerusform>Lizenz</numerusform>
+            <numerusform>Lizenzen</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
+        <translation>Bitte beachten Sie &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>About</source>
         <translation>Über</translation>
     </message>
@@ -169,23 +184,16 @@
         <translation>Quellcode</translation>
     </message>
     <message>
-        <source>show details</source>
-        <translation>Details zeigen</translation>
+        <source>Donations</source>
+        <translation>Spenden</translation>
     </message>
     <message>
-        <source>Contributors</source>
-        <translation>Mitwirkende</translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation>
-            <numerusform>Lizenz</numerusform>
-            <numerusform>Lizenzen</numerusform>
-        </translation>
+        <source>Translations</source>
+        <translation>Übersetzungen</translation>
     </message>
     <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Bitte beachten Sie &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <source>Note: please check the source code for most accurate information.</source>
+        <translation>Hinweis: Bitte prüfen Sie den Quellcode für alle Einzelheiten.</translation>
     </message>
 </context>
 <context>
@@ -260,6 +268,30 @@
     <message>
         <source>Norwegian</source>
         <translation>Norwegisch</translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation>Estnisch</translation>
+    </message>
+    <message>
+        <source>Donations</source>
+        <translation>Spenden</translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation>Lettisch</translation>
+    </message>
+    <message>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <translation>Sie können mir gerne einen Kaffee spendieren, wenn Sie meine Arbeit unterstützen möchten.</translation>
+    </message>
+    <message>
+        <source>You can support this project by contributing, or by donating using any of these services.</source>
+        <translation>Sie können dieses Projekt durch Ihre Mitarbeit oder durch eine Spende über einen dieser Dienste unterstützen.</translation>
+    </message>
+    <message>
+        <source>Your contributions to translations or code would be most welcome.</source>
+        <translation>Ihre Mitarbeit bei Übersetzungen oder der Programmierung wäre eine große Hilfe.</translation>
     </message>
 </context>
 <context>

@@ -44,18 +44,6 @@
         <translation>German</translation>
     </message>
     <message>
-        <source>Some Software</source>
-        <translation>Some Software</translation>
-    </message>
-    <message>
-        <source>Other Library</source>
-        <translation>Other Library</translation>
-    </message>
-    <message>
-        <source>Third-party libraries</source>
-        <translation>Third-party libraries</translation>
-    </message>
-    <message>
         <source>the main author or maintainer</source>
         <translation>the main author or maintainer</translation>
     </message>
@@ -71,12 +59,20 @@
         <source>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
         <translation>This is a short description of the app which can use &lt;i&gt;styled&lt;/i&gt; &lt;i&gt;&lt;b&gt;and&lt;/b&gt;&lt;/i&gt; &lt;u&gt;rich&lt;/u&gt; text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</translation>
     </message>
+    <message>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+    </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
         <translation>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</translation>
+    </message>
+    <message>
+        <source>Opal Gallery</source>
+        <translation>Opal Gallery</translation>
     </message>
 </context>
 <context>
@@ -130,6 +126,25 @@
 <context>
     <name>Opal.About</name>
     <message>
+        <source>show details</source>
+        <translation>show details</translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation>Contributors</translation>
+    </message>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation>
+            <numerusform>License</numerusform>
+            <numerusform>Licenses</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
+        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>About</source>
         <translation>About</translation>
     </message>
@@ -169,23 +184,16 @@
         <translation>Source Code</translation>
     </message>
     <message>
-        <source>show details</source>
-        <translation>show details</translation>
+        <source>Donations</source>
+        <translation>Donations</translation>
     </message>
     <message>
-        <source>Contributors</source>
-        <translation>Contributors</translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation>
-            <numerusform>License</numerusform>
-            <numerusform>Licenses</numerusform>
-        </translation>
+        <source>Translations</source>
+        <translation>Translations</translation>
     </message>
     <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <source>Note: please check the source code for most accurate information.</source>
+        <translation>Note: please check the source code for most accurate information.</translation>
     </message>
 </context>
 <context>
@@ -260,6 +268,30 @@
     <message>
         <source>Norwegian</source>
         <translation>Norwegian</translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation>Estonian</translation>
+    </message>
+    <message>
+        <source>Donations</source>
+        <translation>Donations</translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation>Latvian</translation>
+    </message>
+    <message>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+    </message>
+    <message>
+        <source>You can support this project by contributing, or by donating using any of these services.</source>
+        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
+    </message>
+    <message>
+        <source>Your contributions to translations or code would be most welcome.</source>
+        <translation>Your contributions to translations or code would be most welcome.</translation>
     </message>
 </context>
 <context>
