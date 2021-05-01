@@ -12,14 +12,14 @@ A.AboutPageBase {
     id: page
     allowedOrientations: S.Orientation.All
     iconSource: Qt.resolvedUrl("../images/harbour-opal.png")
-    versionNumber: APP_VERSION
-    releaseNumber: APP_RELEASE
     licenses: A.License { spdxId: mainLicenseSpdx }
 
     // from module
     appName: ""
     description: ""
     maintainer: ""
+    versionNumber: ""
+    releaseNumber: ""
     property string mainLicenseSpdx: ""
     sourcesUrl: ""
 }

@@ -76,6 +76,7 @@ Page {
                                                       appName: title,
                                                       description: description,
                                                       maintainer: maintainer,
+                                                      versionNumber: versionNumber,
                                                       mainLicenseSpdx: mainLicenseSpdx,
                                                       sourcesUrl: sourcesUrl
                                                   })
