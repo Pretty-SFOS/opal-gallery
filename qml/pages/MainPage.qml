@@ -75,7 +75,7 @@ Page {
                         onClicked: pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
                                                       appName: title,
                                                       description: description,
-                                                      author: author,
+                                                      maintainer: maintainer,
                                                       mainLicenseSpdx: mainLicenseSpdx,
                                                       sourcesUrl: sourcesUrl
                                                   })
