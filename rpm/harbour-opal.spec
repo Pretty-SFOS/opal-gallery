@@ -10,7 +10,7 @@ Name:       harbour-opal
 # << macros
 
 Summary:    A collection of pretty QML components for SailfishOS
-Version:    1.0
+Version:    0.1.0
 Release:    1
 Group:      System/Libraries
 License:    GPL-3.0-or-later
