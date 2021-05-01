@@ -10,12 +10,10 @@ import Sailfish.Silica 1.0
 Page {
     SilicaFlickable {
         anchors.fill: parent
-        contentHeight: column.height
         ViewPlaceholder {
             enabled: true
-            text: qsTr("Empty page")
-            hintText: qsTr("This page is intentionally left blank " +
-                           "for demonstrational purposes.")
+            text: qsTr("Dummy page")
+            hintText: qsTr("Other contents could be included at this place.")
         }
     }
 }
