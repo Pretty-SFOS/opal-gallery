@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata2">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>SPDX-FileCopyrightText: Mirian Margiani</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:date>2019-2021</dc:date>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <path id="path2179" d="m10.465 14.3c0.63156-0.66327 1.213-1.7257 1.3423-2.8473 0.12936-1.1216-0.19355-2.3022-0.65454-3.4587-0.46099-1.1564-1.06-2.2886-1.5301-3.2687-0.47004-0.98008-0.81168-1.8096-1.1521-2.6362-0.34044 0.82659-0.68208 1.6561-1.1521 2.6362-0.47004 0.98008-1.0691 2.1122-1.5301 3.2687-0.46098 1.1564-0.78389 2.337-0.65453 3.4587 0.12936 1.1216 0.71077 2.1841 1.3423 2.8473 0.63156 0.66327 1.3128 0.5724 1.9944 0.83662 0.68156-0.26422 1.3628-0.17335 1.9944-0.83662z" fill="none" stroke="#fff" stroke-width=".47624"/>
+ <path id="path2181" d="m9.9907 5.5144c0.087599 0.645 0.17516 1.2897 0.13438 1.9188s-0.20981 1.2425-0.4402 1.6729c-0.23039 0.43037-0.52218 0.6778-0.80279 0.84543-0.28061 0.16763-0.55015 0.25548-0.85827 0.34368-0.30812 0.0882-0.65483 0.17674-0.98255 0.23-0.32772 0.05325-0.64291 0.071546-0.91969 0.056474-0.27678-0.015073-0.51837-0.063392-0.67716-0.12137-0.15879-0.057976-0.23474-0.12577-0.31093-0.19378" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+ <path id="path2185" d="m10.691 7.0143c0.07143 0.42451 0.14282 0.84875 0.11852 1.3491-0.0243 0.50037-0.14419 1.0769-0.2924 1.5279-0.14822 0.45102-0.32474 0.77655-0.55105 1.0578-0.22631 0.28128-0.50245 0.51838-0.81736 0.70348-0.31491 0.18509-0.66867 0.3182-1.0104 0.43344-0.34173 0.11524-0.67142 0.2126-1.0245 0.25969-0.35313 0.04709-0.72976 0.04386-0.98877 0.03298s-0.41023-0.03071-0.5568-0.04994" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+ <path id="path2189" d="m11.37 8.718c0.01334 0.32135 0.02668 0.64244-0.05065 1.2353-0.07733 0.59285-0.24526 1.4575-0.57578 2.03-0.33052 0.57249-0.82371 0.85301-1.2883 1.1007-0.46456 0.24774-0.90049 0.4627-1.3608 0.64647-0.4603 0.18377-0.95937 0.34088-1.4514 0.49576" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+ <path id="path2193" d="m10.53 14.096c-0.3484-0.022257-0.69703-0.044528-0.97342-0.15022-0.27639-0.10569-0.48056-0.295-0.68498-0.48454" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+ <path id="path2197" d="m8.0044 13.717c-0.27243-0.11692-0.54513-0.23396-0.7538-0.44033s-0.35314-0.5022-0.49774-0.79833" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+ <path id="path2201" d="m8.6867 11.831c-0.16823-0.17525-0.33668-0.35074-0.46912-0.58903-0.13244-0.23829-0.22872-0.53941-0.32509-0.84082" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".44978"/>
+</svg>

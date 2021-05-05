@@ -9,7 +9,7 @@ import Sailfish.Silica 1.0
 
 CoverBackground {
     CoverPlaceholder {
-        icon.source: "image://theme/icon-m-sailfish"
+        icon.source: "../images/icon-m-opal.png"
         text: qsTr("Opal Gallery")
     }
 }
