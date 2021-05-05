@@ -11,20 +11,19 @@ import "pages"
 ApplicationWindow
 {
     id: app
-    property ListModel modules: ListModel {
+    property var modules: [
         //>>> GENERATED LIST OF MODULES
-        ListElement {
-            title: "Opal.About"
-            description:  QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
-            versionNumber: "0.2.0"
-            maintainers: ['ichthyosaurus']
-            authors: ['ichthyosaurus']
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
+        {
+            title: "Opal.About",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
+            versionNumber: "0.3.0",
+            mainAttributions: ['ichthyosaurus'],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-about",
             examplePage: "opal-about/About.qml"
         }
         //<<< GENERATED LIST OF MODULES
-    }
+    ]
 
     initialPage: Component { MainPage { } }
     cover: Qt.resolvedUrl("cover/CoverPage.qml")

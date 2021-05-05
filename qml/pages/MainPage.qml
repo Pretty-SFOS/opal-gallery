@@ -38,7 +38,7 @@ Page {
             onClicked: openMenu()
 
             // translations must be prepared with QT_TRANSLATE_NOOP
-            property string translatedDescription: qsTranslate("ModuleDescriptions", description)
+            property string translatedDescription: qsTranslate("ModuleDescriptions", modelData.description)
 
             Column {
                 id: contents
@@ -49,7 +49,7 @@ Page {
                 }
 
                 Label {
-                    text: title
+                    text: modelData.title
                     wrapMode: Text.Wrap
                     width: parent.width
                 }
@@ -70,17 +70,17 @@ Page {
                 ContextMenu {
                     MenuItem {
                         text: qsTr("Preview and Examples")
-                        onClicked: pageStack.push(Qt.resolvedUrl("../module-pages/"+examplePage))
+                        onClicked: pageStack.push(Qt.resolvedUrl("../module-pages/"+modelData.examplePage))
                     }
                     MenuItem {
                         text: qsTr("About")
                         onClicked: pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
-                                                      appName: title,
+                                                      appName: modelData.title,
                                                       description: listItem.translatedDescription,
-                                                      maintainer: maintainer,
-                                                      versionNumber: versionNumber,
-                                                      mainLicenseSpdx: mainLicenseSpdx,
-                                                      sourcesUrl: sourcesUrl
+                                                      mainAttributions: modelData.mainAttributions,
+                                                      versionNumber: modelData.versionNumber,
+                                                      mainLicenseSpdx: modelData.mainLicenseSpdx,
+                                                      sourcesUrl: modelData.sourcesUrl
                                                   })
                     }
                 }

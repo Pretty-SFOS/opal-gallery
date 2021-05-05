@@ -68,27 +68,36 @@ for module in "${cQML_MODULES[@]}"; do
     mapfile -t maintainers <<<"$(./release-module.sh -c maintainers | tr ':' '\n')"
     mapfile -t authors <<<"$(./release-module.sh -c authors | tr ':' '\n')"
 
-    if [[ "${maintainers[@]}" == '' ]]; then
-        maintainers_list='// maintainers: []'
-    else
-        maintainers_list="maintainers: [$(printf -- "'%s'," "${maintainers[@]}" | sed "s/'/\'/g;" | sed 's/,$//')]"
-    fi
+    for peop in "${!authors[@]}"; do
+        v="${authors[$peop]}"
+        authors[$peop]="${v//\'/\\\'}"  # escape apostrophes
+    done
 
-    if [[ "${authors[@]}" == '' ]]; then
-        authors_list='// authors: []'
+    for peop in "${!maintainers[@]}"; do
+        v="${maintainers[$peop]}"
+        maintainers[$peop]="${v//\'/\\\'}"  # escape apostrophes
+
+        for author in "${!authors[@]}"; do
+            if [[ "${maintainers[$peop]}" == "${authors[$author]}" ]]; then
+                authors[$author]=''  # remove duplicate
+            fi
+        done
+    done
+
+    if [[ "${maintainers[@]}" != '' || "${authors[@]}" != '' ]]; then
+        main_attributions="mainAttributions: [$(printf -- "'%s'," "${maintainers[@]}" "${authors[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")]"
     else
-        authors_list="authors: [$(printf -- "'%s'," "${authors[@]}" | sed "s/'/\'/g;" | sed 's/,$//')]"
+        maintainers_list='// mainAttributions: []'
     fi
 
     list_elements+=("\
-        ListElement {
-            title: \"$(./release-module.sh -c fullNameStyled)\"
-            description:  QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
-            versionNumber: \"$(./release-module.sh -c version)\"
-            $maintainers_list
-            $authors_list
-            mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\"
-            sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\"
+        {
+            title: \"$(./release-module.sh -c fullNameStyled)\",
+            description: QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\"),
+            versionNumber: \"$(./release-module.sh -c version)\",
+            $main_attributions,
+            mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\",
+            sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\",
             examplePage: \"opal-$module/$(./release-module.sh -c nameStyled).qml\"
         }")
     cd "$base"
