@@ -17,7 +17,7 @@ A.AboutPageBase {
     // from module
     appName: ""
     description: ""
-    maintainer: ""
+    mainAttributions: ""
     versionNumber: ""
     releaseNumber: ""
     property string mainLicenseSpdx: ""
