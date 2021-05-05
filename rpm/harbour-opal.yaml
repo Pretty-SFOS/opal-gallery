@@ -1,3 +1,9 @@
+#
+# This file is part of harbour-opal.
+# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
+#
+
 Name: harbour-opal
 Summary: A collection of pretty QML components for SailfishOS
 Version: 0.1.0
