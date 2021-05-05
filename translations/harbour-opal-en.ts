@@ -63,6 +63,10 @@
         <source>another important person</source>
         <translation>another important person</translation>
     </message>
+    <message>
+        <source>additional name</source>
+        <translation>additional name</translation>
+    </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
@@ -301,12 +305,27 @@
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Your contributions to translations or code would be most welcome.</translation>
     </message>
-</context>
-<context>
-    <name>OpalAbout</name>
+    <message numerus="yes">
+        <source>Author(s)</source>
+        <translation>
+            <numerusform>Author</numerusform>
+            <numerusform>Authors</numerusform>
+        </translation>
+    </message>
     <message>
-        <source></source>
-        <translation></translation>
+        <source>Maintainer</source>
+        <translation>Maintainer</translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainer(s)</source>
+        <translation>
+            <numerusform>Maintainer</numerusform>
+            <numerusform>Maintainers</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation>Author</translation>
     </message>
 </context>
 </TS>

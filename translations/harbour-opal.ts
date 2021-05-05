@@ -63,6 +63,10 @@
         <source>another important person</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>additional name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
@@ -298,12 +302,25 @@
         <source>Terms of Use</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>OpalAbout</name>
+    <message numerus="yes">
+        <source>Author(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainer(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
-        <source></source>
-        <translation></translation>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

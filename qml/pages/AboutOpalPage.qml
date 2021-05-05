@@ -17,7 +17,7 @@ A.AboutPageBase {
     releaseNumber: APP_RELEASE
     description: qsTr("Opal is a collection of pretty QML components " +
                       "for SailfishOS, building on top of Sailfish's Silica components.")
-    mainAttributions: "ichthyosaurus"
+    authors: "ichthyosaurus"
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
     sourcesUrl: "https://github.com/Pretty-SFOS/opal"
 }
