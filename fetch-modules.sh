@@ -65,12 +65,28 @@ for module in "${cQML_MODULES[@]}"; do
     ln -s ../../pages/EmptyDummyPage.qml EmptyDummyPage.qml
     cd "$_b"
 
+    mapfile -t maintainers <<<"$(./release-module.sh -c maintainers | tr ':' '\n')"
+    mapfile -t authors <<<"$(./release-module.sh -c authors | tr ':' '\n')"
+
+    if [[ "${maintainers[@]}" == '' ]]; then
+        maintainers_list='// maintainers: []'
+    else
+        maintainers_list="maintainers: [$(printf -- "'%s'," "${maintainers[@]}" | sed "s/'/\'/g;" | sed 's/,$//')]"
+    fi
+
+    if [[ "${authors[@]}" == '' ]]; then
+        authors_list='// authors: []'
+    else
+        authors_list="authors: [$(printf -- "'%s'," "${authors[@]}" | sed "s/'/\'/g;" | sed 's/,$//')]"
+    fi
+
     list_elements+=("\
         ListElement {
             title: \"$(./release-module.sh -c fullNameStyled)\"
             description:  QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
             versionNumber: \"$(./release-module.sh -c version)\"
-            maintainer: \"$(./release-module.sh -c author)\"
+            $maintainers_list
+            $authors_list
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\"
             sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\"
             examplePage: \"opal-$module/$(./release-module.sh -c nameStyled).qml\"

@@ -17,7 +17,8 @@ ApplicationWindow
             title: "Opal.About"
             description:  QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
             versionNumber: "0.2.0"
-            maintainer: "ichthyosaurus"
+            maintainers: ['ichthyosaurus']
+            authors: ['ichthyosaurus']
             mainLicenseSpdx: "GPL-3.0-or-later"
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
             examplePage: "opal-about/About.qml"
