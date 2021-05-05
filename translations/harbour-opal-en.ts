@@ -44,10 +44,6 @@
         <translation>German</translation>
     </message>
     <message>
-        <source>the main author or maintainer</source>
-        <translation>the main author or maintainer</translation>
-    </message>
-    <message>
         <source>Open another page</source>
         <translation>Open another page</translation>
     </message>
@@ -58,6 +54,14 @@
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
         <translation>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>the app&apos;s maintainer</source>
+        <translation>the app&apos;s maintainer</translation>
+    </message>
+    <message>
+        <source>another important person</source>
+        <translation>another important person</translation>
     </message>
 </context>
 <context>
@@ -151,10 +155,6 @@
     <message>
         <source>Development</source>
         <translation>Development</translation>
-    </message>
-    <message>
-        <source>Author</source>
-        <translation>Author</translation>
     </message>
     <message>
         <source>show contributors</source>

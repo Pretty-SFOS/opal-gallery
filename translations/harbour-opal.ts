@@ -44,10 +44,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>the main author or maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open another page</source>
         <translation type="unfinished"></translation>
     </message>
@@ -57,6 +53,14 @@
     </message>
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the app&apos;s maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>another important person</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -149,10 +153,6 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
