@@ -53,10 +53,6 @@ CONFIG += sailfishapp_i18n
 TRANSLATIONS += translations/harbour-opal-de.ts \
     translations/harbour-opal-en.ts
 
-# Select Opal modules
-CONFIG += opal-about
-include(libs/opal-use-modules.pri)
-
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"
 DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"

@@ -25,7 +25,7 @@ if (( ${#missing[@]} > 0 )); then
 fi
 
 base="$(pwd)"
-rm -rf "$base/qml/opal-modules" && mkdir -p "$base/qml/opal-modules"
+rm -rf "$base/qml/modules/Opal"* && mkdir -p "$base/qml/modules"
 rm -rf "$base/libs/opal-translations" && mkdir -p "$base/libs/opal-translations"
 rm -rf "$base/qml/module-pages" && mkdir -p "$base/qml/module-pages"
 
@@ -46,7 +46,7 @@ for module in "${cQML_MODULES[@]}"; do
     fi
 
     cp -r translations "$base/libs/opal-translations/opal-$module"
-    cp -r Opal "$base/qml/opal-modules"
+    cp -r Opal "$base/qml/modules"
     rm -rf "$base/qml/module-pages/opal-$module"
     mkdir -p "$base/qml/module-pages/opal-$module"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/$(./release-module.sh -c nameStyled).qml"
