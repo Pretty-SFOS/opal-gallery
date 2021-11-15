@@ -67,6 +67,10 @@
         <source>additional name</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forum</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
