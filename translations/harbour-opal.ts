@@ -171,10 +171,6 @@
         <source>License</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>This is proprietary software. All rights reserved.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation type="unfinished">
@@ -199,6 +195,34 @@
     </message>
     <message>
         <source>Thank you!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download license texts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copied to clipboard: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
