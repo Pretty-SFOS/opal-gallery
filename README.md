@@ -13,27 +13,27 @@ modules. The module examples can be used as a starting point for new
 applications.
 
 You can find documentation on how to use Opal in other applications
-[in the Wiki](https://github.com/Pretty-SFOS/opal). If you want to *use*
+[in the main repo](https://github.com/Pretty-SFOS/opal). If you want to use
 applications using Opal, you should not have to do anything.
 
 
 ## Development
 
 1. Clone this repository e.g. to `src/opal/opal`
-2. Run [fetch-modules.sh] to fetch the latest module sources, clone required
+2. Run [fetch-modules.sh](fetch-modules.sh) to fetch the latest module sources, clone required
    module repositories as requested
-3. Open the project file [harbour-opal.pro] in the Sailfish OS IDE
+3. Open the project file [harbour-opal.pro](harbour-opal.pro) in the Sailfish OS IDE
 4. Build an RPM package and install it on the target device
 
 
 ### Adding new modules
 
-Please refer to [the Wiki](https://github.com/Pretty-SFOS/opal) for
+Please refer to [the main repo](https://github.com/Pretty-SFOS/opal) for
 documentation on how to setup new modules.
 
 Module metadata and examples live in the respective repositories. After the new
-module is properly prepared, register it in [fetch-modules.sh]. Run the script
-to include the new module in Opal Gallery.
+module is properly prepared, register it in [fetch-modules.sh](fetch-modules.sh).
+Run the script to include the new module in Opal Gallery.
 
 
 ## License
@@ -53,9 +53,10 @@ The Opal Gallery application is released under the GNU GPL v3 or later.
     You should have received a copy of the GNU General Public License
     along with harbour-opal.  If not, see <http://www.gnu.org/licenses/>.
 
-All Opal [modules](TBD: wiki link) have their own licensing. You can find more
-information about each module by opening their "about" pages in the Gallery app,
-or simply refer to the respective repositories.
+All Opal [modules](https://github.com/Pretty-SFOS/opal/blob/main/README.md) have
+their own licensing. You can find more information about each module by opening
+their "About" pages in the Gallery app, or simply refer to the respective
+repositories.
 
 All documentation is released under the terms of the
 [GFDL-1.3-or-later](https://spdx.org/licenses/GFDL-1.3-or-later.html).
