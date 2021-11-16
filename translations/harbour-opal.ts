@@ -229,6 +229,10 @@
         <source>Copied to clipboard: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Version %1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About.Common</name>

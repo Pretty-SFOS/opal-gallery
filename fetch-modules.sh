@@ -89,7 +89,7 @@ for module in "${cQML_MODULES[@]}"; do
         {
             title: \"$(./release-module.sh -c fullNameStyled)\",
             description: QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\"),
-            versionNumber: \"$(./release-module.sh -c version)\",
+            appVersion: \"$(./release-module.sh -c version)\",
             mainAttributions: [$(printf -- "'%s'," "${attributions[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             maintainers: [$(printf -- "'%s'," "${maintainers[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             contributors: [$(printf -- "'%s'," "${authors[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],

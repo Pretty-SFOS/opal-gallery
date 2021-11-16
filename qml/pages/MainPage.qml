@@ -78,7 +78,7 @@ Page {
                                                       appName: modelData.title,
                                                       description: listItem.translatedDescription,
                                                       mainAttributions: modelData.mainAttributions,
-                                                      versionNumber: modelData.versionNumber,
+                                                      appVersion: modelData.appVersion,
                                                       mainLicenseSpdx: modelData.mainLicenseSpdx,
                                                       sourcesUrl: modelData.sourcesUrl
                                                   })

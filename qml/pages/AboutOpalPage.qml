@@ -12,12 +12,12 @@ A.AboutPageBase {
     id: page
     allowedOrientations: S.Orientation.All
     appName: qsTr("Opal Gallery")
-    iconSource: Qt.resolvedUrl("../images/harbour-opal.png")
-    versionNumber: APP_VERSION
-    releaseNumber: APP_RELEASE
+    appIcon: Qt.resolvedUrl("../images/harbour-opal.png")
+    appVersion: APP_VERSION
+    appRelease: APP_RELEASE
     description: qsTr("Opal is a collection of pretty QML components " +
                       "for SailfishOS, building on top of Sailfish's Silica components.")
-    authors: "ichthyosaurus"
+    authors: "2020-2021 Mirian Margiani"
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
     sourcesUrl: "https://github.com/Pretty-SFOS/opal"
 }

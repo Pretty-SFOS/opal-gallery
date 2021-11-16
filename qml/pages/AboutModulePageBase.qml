@@ -11,15 +11,15 @@ import Opal.About 1.0 as A
 A.AboutPageBase {
     id: page
     allowedOrientations: S.Orientation.All
-    iconSource: Qt.resolvedUrl("../images/harbour-opal.png")
+    appIcon: Qt.resolvedUrl("../images/harbour-opal.png")
     licenses: A.License { spdxId: mainLicenseSpdx }
 
     // from module
     appName: ""
+    appVersion: ""
+    appRelease: ""
     description: ""
     mainAttributions: ""
-    versionNumber: ""
-    releaseNumber: ""
     property string mainLicenseSpdx: ""
     sourcesUrl: ""
 }
