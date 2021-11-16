@@ -4,10 +4,7 @@
  * SPDX-FileCopyrightText: 2020 Mirian Margiani
  */
 
-#ifdef QT_QML_DEBUG
 #include <QtQuick>
-#endif
-
 #include <sailfishapp.h>
 #include "requires_defines.h"
 
