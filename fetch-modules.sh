@@ -40,12 +40,15 @@ for module in "${cQML_MODULES[@]}"; do
     # ./release-module.sh -b _for_gallery
     # TODO extract build/_for_gallery.tar.gz instead of copying files manually
 
-    if [[ ! -d translations || ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
+    if [[ ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
         echo "error: module '$module' is missing required files"
         continue
     fi
 
-    cp -r translations "$base/libs/opal-translations/opal-$module"
+    if [[ -d translations ]]; then
+        cp -r translations "$base/libs/opal-translations/opal-$module"
+    fi
+
     cp -r Opal "$base/qml/modules"
     rm -rf "$base/qml/module-pages/opal-$module"
     mkdir -p "$base/qml/module-pages/opal-$module"
