@@ -23,6 +23,17 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about",
             examplePage: "opal-about/About.qml"
+        },
+        {
+            title: "Opal.TabBar",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a flexible docked tab bar with icons and text."),
+            appVersion: "0.1.0",
+            mainAttributions: ['2020-2021 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-tabbar",
+            examplePage: "opal-tabbar/TabBar.qml"
         }
         //<<< GENERATED LIST OF MODULES
     ]

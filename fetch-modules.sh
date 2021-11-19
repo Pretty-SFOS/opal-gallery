@@ -8,8 +8,7 @@
 
 # TODO error checking and handling
 
-cQML_MODULES=(about)
-# cQML_MODULES=(about tabbar)
+cQML_MODULES=(about tabbar)
 missing=()
 
 for module in "${cQML_MODULES[@]}"; do
