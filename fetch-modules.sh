@@ -99,13 +99,13 @@ for module in "${cQML_MODULES[@]}"; do
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\",
             sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\",
             examplePage: \"opal-$module/$(./release-module.sh -c nameStyled).qml\"
-        }")
+        },")
     cd "$base"
 done
 
 cd "$base"
 echo "configuring qml/harbour-opal.qml..."
 cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal.qml) \
-    <(printf "%s\n" "${list_elements[@]}") \
+    <(printf "%s\n" "${list_elements[@]}" | head -n -1; echo '        }') \
     <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal.qml) \
         | sponge qml/harbour-opal.qml
