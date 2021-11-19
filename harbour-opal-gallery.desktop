@@ -4,8 +4,8 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-opal
-Exec=harbour-opal
+Icon=harbour-opal-gallery
+Exec=harbour-opal-gallery
 Name=Opal Gallery
 # translation example:
 # your app name in German locale (de)

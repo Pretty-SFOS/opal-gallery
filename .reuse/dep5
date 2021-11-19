@@ -7,8 +7,8 @@ Files: translations/*
 Copyright: 2020-2021 Opal Gallery translations contributors
 License: GPL-3.0-or-later
 
-Files: rpm/harbour-opal.spec
-Copyright: harbour-opal contributors
+Files: rpm/harbour-opal-gallery.spec
+Copyright: harbour-opal-gallery contributors
 License: GPL-3.0-or-later
 Comment: This file is generated from [this file's name].yaml and shares copyright with it.
 

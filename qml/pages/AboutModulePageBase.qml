@@ -1,5 +1,5 @@
 /*
- * This file is part of harbour-opal.
+ * This file is part of harbour-opal-gallery.
  * SPDX-License-Identifier: GPL-3.0-or-later
  * SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
  */
@@ -11,7 +11,7 @@ import Opal.About 1.0 as A
 A.AboutPageBase {
     id: page
     allowedOrientations: S.Orientation.All
-    appIcon: Qt.resolvedUrl("../images/harbour-opal.png")
+    appIcon: Qt.resolvedUrl("../images/harbour-opal-gallery.png")
     licenses: A.License { spdxId: mainLicenseSpdx }
 
     // from module

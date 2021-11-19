@@ -18,14 +18,14 @@ for i in raw/*.svg; do
 done
 
 cNAME="app icons"
-cITEMS=(harbour-opal)
+cITEMS=(harbour-opal-gallery)
 cRESOLUTIONS=(86 108 128 172)
 cTARGETS=(../icons/RESXxRESY)
 render_batch
 
 cNAME="status icons"
 cITEMS=(icon-m-opal@112
-        harbour-opal@256
+        harbour-opal-gallery@256
 )
 cRESOLUTIONS=(F1)
 cTARGETS=(../qml/images)

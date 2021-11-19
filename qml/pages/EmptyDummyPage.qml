@@ -1,5 +1,5 @@
 /*
- * This file is part of harbour-opal.
+ * This file is part of harbour-opal-gallery.
  * SPDX-License-Identifier: GPL-3.0-or-later
  * SPDX-FileCopyrightText: 2021 Mirian Margiani
  */

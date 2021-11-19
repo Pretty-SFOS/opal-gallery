@@ -104,8 +104,8 @@ for module in "${cQML_MODULES[@]}"; do
 done
 
 cd "$base"
-echo "configuring qml/harbour-opal.qml..."
-cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal.qml) \
+echo "configuring qml/harbour-opal-gallery.qml..."
+cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal-gallery.qml) \
     <(printf "%s\n" "${list_elements[@]}" | head -n -1; echo '        }') \
-    <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal.qml) \
-        | sponge qml/harbour-opal.qml
+    <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal-gallery.qml) \
+        | sponge qml/harbour-opal-gallery.qml

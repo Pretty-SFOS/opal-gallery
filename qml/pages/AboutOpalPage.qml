@@ -1,5 +1,5 @@
 /*
- * This file is part of harbour-opal.
+ * This file is part of harbour-opal-gallery.
  * SPDX-License-Identifier: GPL-3.0-or-later
  * SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
  */
@@ -12,7 +12,7 @@ A.AboutPageBase {
     id: page
     allowedOrientations: S.Orientation.All
     appName: qsTr("Opal Gallery")
-    appIcon: Qt.resolvedUrl("../images/harbour-opal.png")
+    appIcon: Qt.resolvedUrl("../images/harbour-opal-gallery.png")
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
     description: qsTr("Opal is a collection of pretty QML components " +

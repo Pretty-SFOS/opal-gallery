@@ -22,7 +22,7 @@ applications using Opal, you should not have to do anything.
 1. Clone this repository e.g. to `src/opal/opal`
 2. Run [fetch-modules.sh](fetch-modules.sh) to fetch the latest module sources, clone required
    module repositories as requested
-3. Open the project file [harbour-opal.pro](harbour-opal.pro) in the Sailfish OS IDE
+3. Open the project file [harbour-opal-gallery.pro](harbour-opal-gallery.pro) in the Sailfish OS IDE
 4. Build an RPM package and install it on the target device
 
 
@@ -40,18 +40,18 @@ Run the script to include the new module in Opal Gallery.
 
 The Opal Gallery application is released under the GNU GPL v3 or later.
 
-    harbour-opal is free software: you can redistribute it and/or modify
+    harbour-opal-gallery is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    harbour-opal is distributed in the hope that it will be useful,
+    harbour-opal-gallery is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with harbour-opal.  If not, see <http://www.gnu.org/licenses/>.
+    along with harbour-opal-gallery.  If not, see <http://www.gnu.org/licenses/>.
 
 All Opal [modules](https://github.com/Pretty-SFOS/opal/blob/main/README.md) have
 their own licensing. You can find more information about each module by opening

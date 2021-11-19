@@ -17,28 +17,28 @@
 #   - translation filenames have to be changed
 
 # The name of your application
-TARGET = harbour-opal
+TARGET = harbour-opal-gallery
 CONFIG += sailfishapp
 
 # ---
 # Opal gallery configuration
 # ---
 
-SOURCES += src/harbour-opal.cpp
+SOURCES += src/harbour-opal-gallery.cpp
 
-DISTFILES += qml/harbour-opal.qml \
+DISTFILES += qml/harbour-opal-gallery.qml \
     qml/cover/CoverPage.qml \
     qml/pages/MainPage.qml \
     qml/pages/AboutOpalPage.qml \
     qml/pages/AboutModulePageBase.qml \
     qml/module-pages/About.qml \
     qml/module-pages/EmptyDummyPage.qml \
-    rpm/harbour-opal.changes.in \
-    rpm/harbour-opal.changes.run.in \
-    rpm/harbour-opal.spec \
-    rpm/harbour-opal.yaml \
+    rpm/harbour-opal-gallery.changes.in \
+    rpm/harbour-opal-gallery.changes.run.in \
+    rpm/harbour-opal-gallery.spec \
+    rpm/harbour-opal-gallery.yaml \
     translations/*.ts \
-    harbour-opal.desktop
+    harbour-opal-gallery.desktop
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
@@ -50,8 +50,8 @@ CONFIG += sailfishapp_i18n
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-TRANSLATIONS += translations/harbour-opal-de.ts \
-    translations/harbour-opal-en.ts
+TRANSLATIONS += translations/harbour-opal-gallery-de.ts \
+    translations/harbour-opal-gallery-en.ts
 
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"

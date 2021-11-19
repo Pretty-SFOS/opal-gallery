@@ -1,17 +1,17 @@
 #
-# This file is part of harbour-opal.
+# This file is part of harbour-opal-gallery.
 # SPDX-License-Identifier: GPL-3.0-or-later
 # SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
 #
 
-Name: harbour-opal
+Name: harbour-opal-gallery
 Summary: A collection of pretty QML components for SailfishOS
 Version: 0.1.0
 Release: 1
 # The contents of the Group field should be one of the groups listed here:
 # https://github.com/mer-tools/spectacle/blob/master/data/GROUPS
 Group: System/Libraries
-URL: https://github.com/Pretty-SFOS/opal
+URL: https://github.com/Pretty-SFOS/opal-gallery
 License: GPL-3.0-or-later
 # This must be generated before uploading a package to a remote build service.
 # Usually this line does not need to be modified.
