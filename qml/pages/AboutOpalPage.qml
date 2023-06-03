@@ -19,5 +19,6 @@ A.AboutPageBase {
                       "for SailfishOS, building on top of Sailfish's Silica components.")
     authors: "2020-2021 Mirian Margiani"
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
+    attributions: A.OpalAboutAttribution {}
     sourcesUrl: "https://github.com/Pretty-SFOS/opal"
 }
