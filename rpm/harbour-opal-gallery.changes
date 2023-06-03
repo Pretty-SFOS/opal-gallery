@@ -10,5 +10,5 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Sat Jun 03 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> X.Y.Z-1
-- prepared a new changelog
+* Sat Jun 03 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.0.0-1
+- initial public release of the gallery application
