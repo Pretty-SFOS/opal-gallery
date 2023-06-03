@@ -1,0 +1,14 @@
+# This file is part of harbour-opal-gallery.
+# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-FileCopyrightText: 2023 Mirian Margiani
+#
+# Add new changelog entries following the format below.
+# Add newest entries to the top of the list.
+# Separate entries from eachother with a blank line.
+#
+# FORMAT:
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+
+* Sat Jun 03 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> X.Y.Z-1
+- prepared a new changelog
