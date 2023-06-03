@@ -4,72 +4,72 @@
 <context>
     <name>About</name>
     <message>
-        <source>Data</source>
-        <translation>Data</translation>
-    </message>
-    <message>
-        <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
-    </message>
-    <message>
-        <source>Data License</source>
-        <translation>Data License</translation>
-    </message>
-    <message>
-        <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
-    </message>
-    <message>
-        <source>Development</source>
-        <translation>Development</translation>
-    </message>
-    <message>
-        <source>Programming</source>
-        <translation>Programming</translation>
-    </message>
-    <message>
-        <source>Icon Design</source>
-        <translation>Icon Design</translation>
-    </message>
-    <message>
-        <source>Translations</source>
-        <translation>Translations</translation>
-    </message>
-    <message>
-        <source>English</source>
-        <translation>English</translation>
-    </message>
-    <message>
-        <source>German</source>
-        <translation>German</translation>
-    </message>
-    <message>
-        <source>Open another page</source>
-        <translation>Open another page</translation>
-    </message>
-    <message>
-        <source>Extra info</source>
-        <translation>Extra info</translation>
-    </message>
-    <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation>the app&apos;s maintainer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>another important person</source>
-        <translation>another important person</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>additional name</source>
-        <translation>additional name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation>Forum</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data License</source>
+        <translation type="unfinished">Data License</translation>
+    </message>
+    <message>
+        <source>Extra info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Development</source>
+        <translation type="unfinished">Development</translation>
+    </message>
+    <message>
+        <source>Programming</source>
+        <translation type="unfinished">Programming</translation>
+    </message>
+    <message>
+        <source>Icon Design</source>
+        <translation type="unfinished">Icon Design</translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished">Translations</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished">English</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished">German</translation>
+    </message>
+    <message>
+        <source>Open another page</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -102,6 +102,13 @@
     </message>
 </context>
 <context>
+    <name>LicenseListPart</name>
+    <message>
+        <source>License text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
@@ -131,7 +138,7 @@
         <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
     </message>
     <message>
-        <source>This module provides a flexible docked tab bar with icons and text.</source>
+        <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -151,10 +158,6 @@
             <numerusform>License</numerusform>
             <numerusform>Licenses</numerusform>
         </translation>
-    </message>
-    <message>
-        <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About</source>
@@ -239,6 +242,14 @@
         <source>Version %1 (%2)</source>
         <translation>Version %1 (%2)</translation>
     </message>
+    <message>
+        <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
@@ -254,187 +265,15 @@
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Your contributions to translations or code would be most welcome.</translation>
     </message>
-    <message>
-        <source>Author</source>
-        <translation>Author</translation>
-    </message>
-    <message numerus="yes">
-        <source>Author(s)</source>
-        <translation>
-            <numerusform>Author</numerusform>
-            <numerusform>Authors</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Maintainer</source>
-        <translation>Maintainer</translation>
-    </message>
-    <message numerus="yes">
-        <source>Maintainer(s)</source>
-        <translation>
-            <numerusform>Maintainer</numerusform>
-            <numerusform>Maintainers</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Programming</source>
-        <translation>Programming</translation>
-    </message>
-    <message>
-        <source>Translations</source>
-        <translation>Translations</translation>
-    </message>
-    <message>
-        <source>Icon Design</source>
-        <translation>Icon Design</translation>
-    </message>
-    <message>
-        <source>Third-party libraries</source>
-        <translation>Third-party libraries</translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <translation>Data</translation>
-    </message>
-    <message>
-        <source>Data License</source>
-        <translation>Data License</translation>
-    </message>
-    <message numerus="yes">
-        <source>Data License(s)</source>
-        <translation>
-            <numerusform>Data License</numerusform>
-            <numerusform>Data Licenses</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Terms of Use</source>
-        <translation>Terms of Use</translation>
-    </message>
-    <message>
-        <source>Swedish</source>
-        <translation>Swedish</translation>
-    </message>
-    <message>
-        <source>Polish</source>
-        <translation>Polish</translation>
-    </message>
-    <message>
-        <source>German</source>
-        <translation>German</translation>
-    </message>
-    <message>
-        <source>French</source>
-        <translation>French</translation>
-    </message>
-    <message>
-        <source>Chinese</source>
-        <translation>Chinese</translation>
-    </message>
-    <message>
-        <source>English</source>
-        <translation>English</translation>
-    </message>
-    <message>
-        <source>Italian</source>
-        <translation>Italian</translation>
-    </message>
-    <message>
-        <source>Finnish</source>
-        <translation>Finnish</translation>
-    </message>
-    <message>
-        <source>Norwegian</source>
-        <translation>Norwegian</translation>
-    </message>
-    <message>
-        <source>Latvian</source>
-        <translation>Latvian</translation>
-    </message>
-    <message>
-        <source>Estonian</source>
-        <translation>Estonian</translation>
-    </message>
-    <message>
-        <source>Czech</source>
-        <translation>Czech</translation>
-    </message>
-    <message>
-        <source>Greek</source>
-        <translation>Greek</translation>
-    </message>
-    <message>
-        <source>Spanish</source>
-        <translation>Spanish</translation>
-    </message>
-    <message>
-        <source>Hungarian</source>
-        <translation>Hungarian</translation>
-    </message>
-    <message>
-        <source>Indonesian</source>
-        <translation>Indonesian</translation>
-    </message>
-    <message>
-        <source>Russian</source>
-        <translation>Russian</translation>
-    </message>
-    <message>
-        <source>Dutch</source>
-        <translation>Dutch</translation>
-    </message>
-    <message>
-        <source>Slovak</source>
-        <translation>Slovak</translation>
-    </message>
-    <message>
-        <source>Turkish</source>
-        <translation>Turkish</translation>
-    </message>
 </context>
 <context>
-    <name>TabBar</name>
+    <name>Opal.InfoCombo</name>
     <message>
-        <source>Dummy page 1</source>
-        <translation type="unfinished"></translation>
+        <source>Details</source>
+        <translation type="unfinished">Details</translation>
     </message>
     <message>
-        <source>Other contents could be included at this place.</source>
-        <translation type="unfinished">Other contents could be included at this place.</translation>
-    </message>
-    <message>
-        <source>Dummy page 3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Explore public rooms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new room</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No stuff</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Leave</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TabView</name>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No page has been defined.</source>
+        <source>Option</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
