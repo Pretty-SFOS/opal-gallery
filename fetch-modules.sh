@@ -44,12 +44,12 @@ for module in "${cQML_MODULES[@]}"; do
         continue
     fi
 
-    if [[ -d translations ]]; then
-        cp -r translations "$base/libs/opal-translations/opal-$module"
-    fi
+    # -- import module release bundle
+    ./release-module.sh -b _for_gallery
 
-    cp -r Opal "$base/qml/modules"
-    rm -rf "$base/qml/module-pages/opal-$module"
+    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/libs"
+    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml"
+
     mkdir -p "$base/qml/module-pages/opal-$module"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/$(./release-module.sh -c nameStyled).qml"
 
