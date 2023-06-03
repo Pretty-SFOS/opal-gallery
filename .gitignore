@@ -8,6 +8,7 @@ qml/module-pages
 qml/modules/Opal
 libs/opal-translations
 libs/opal-docs
+libs/module_*.txt
 
 icons-src/raw
 build/
