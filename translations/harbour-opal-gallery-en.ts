@@ -130,6 +130,10 @@
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
     </message>
+    <message>
+        <source>This module provides a flexible docked tab bar with icons and text.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About</name>
@@ -239,8 +243,38 @@
 <context>
     <name>Opal.About.Common</name>
     <message>
-        <source>Development</source>
-        <translation>Development</translation>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
+        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+    </message>
+    <message>
+        <source>You can support this project by contributing, or by donating using any of these services.</source>
+        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
+    </message>
+    <message>
+        <source>Your contributions to translations or code would be most welcome.</source>
+        <translation>Your contributions to translations or code would be most welcome.</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation>Author</translation>
+    </message>
+    <message numerus="yes">
+        <source>Author(s)</source>
+        <translation>
+            <numerusform>Author</numerusform>
+            <numerusform>Authors</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>Maintainer</translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainer(s)</source>
+        <translation>
+            <numerusform>Maintainer</numerusform>
+            <numerusform>Maintainers</numerusform>
+        </translation>
     </message>
     <message>
         <source>Programming</source>
@@ -314,50 +348,94 @@
         <translation>Norwegian</translation>
     </message>
     <message>
-        <source>Estonian</source>
-        <translation>Estonian</translation>
-    </message>
-    <message>
-        <source>Donations</source>
-        <translation>Donations</translation>
-    </message>
-    <message>
         <source>Latvian</source>
         <translation>Latvian</translation>
     </message>
     <message>
-        <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+        <source>Estonian</source>
+        <translation>Estonian</translation>
     </message>
     <message>
-        <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
+        <source>Czech</source>
+        <translation>Czech</translation>
     </message>
     <message>
-        <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Your contributions to translations or code would be most welcome.</translation>
-    </message>
-    <message numerus="yes">
-        <source>Author(s)</source>
-        <translation>
-            <numerusform>Author</numerusform>
-            <numerusform>Authors</numerusform>
-        </translation>
+        <source>Greek</source>
+        <translation>Greek</translation>
     </message>
     <message>
-        <source>Maintainer</source>
-        <translation>Maintainer</translation>
-    </message>
-    <message numerus="yes">
-        <source>Maintainer(s)</source>
-        <translation>
-            <numerusform>Maintainer</numerusform>
-            <numerusform>Maintainers</numerusform>
-        </translation>
+        <source>Spanish</source>
+        <translation>Spanish</translation>
     </message>
     <message>
-        <source>Author</source>
-        <translation>Author</translation>
+        <source>Hungarian</source>
+        <translation>Hungarian</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>Indonesian</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation>Russian</translation>
+    </message>
+    <message>
+        <source>Dutch</source>
+        <translation>Dutch</translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation>Slovak</translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation>Turkish</translation>
+    </message>
+</context>
+<context>
+    <name>TabBar</name>
+    <message>
+        <source>Dummy page 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other contents could be included at this place.</source>
+        <translation type="unfinished">Other contents could be included at this place.</translation>
+    </message>
+    <message>
+        <source>Dummy page 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explore public rooms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No stuff</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TabView</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No page has been defined.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

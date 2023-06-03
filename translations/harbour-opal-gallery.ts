@@ -130,6 +130,10 @@
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This module provides a flexible docked tab bar with icons and text.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About</name>
@@ -237,8 +241,36 @@
 <context>
     <name>Opal.About.Common</name>
     <message>
-        <source>Development</source>
+        <source>If you want to support my work, you can buy me a cup of coffee.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can support this project by contributing, or by donating using any of these services.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your contributions to translations or code would be most welcome.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Author(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainer(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>Programming</source>
@@ -269,6 +301,10 @@
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Terms of Use</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Swedish</source>
@@ -307,23 +343,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Donations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your contributions to translations or code would be most welcome.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -331,27 +351,85 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Terms of Use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>Author(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Maintainer(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Author</source>
+        <source>Czech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Maintainer</source>
+        <source>Greek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dutch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TabBar</name>
+    <message>
+        <source>Dummy page 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other contents could be included at this place.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dummy page 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explore public rooms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No stuff</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TabView</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No page has been defined.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
