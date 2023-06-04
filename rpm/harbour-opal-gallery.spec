@@ -10,7 +10,7 @@ Name:       harbour-opal-gallery
 %define __provides_exclude_from ^%{_datadir}/.*$
 
 Summary:    A collection of pretty QML components for SailfishOS
-Version:    0.1.0
+Version:    1.0.0
 Release:    1
 Group:      System/Libraries
 License:    GPL-3.0-or-later
