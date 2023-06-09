@@ -38,6 +38,10 @@ ApplicationWindow
         //<<< GENERATED LIST OF MODULES
     ]
 
+    A.ChangelogNews {
+        changelogList: Qt.resolvedUrl("Changelog.qml")
+    }
+
     initialPage: Component { MainPage { } }
     cover: Qt.resolvedUrl("cover/CoverPage.qml")
     allowedOrientations: defaultAllowedOrientations

@@ -21,4 +21,5 @@ A.AboutPageBase {
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
     attributions: A.OpalAboutAttribution {}
     sourcesUrl: "https://github.com/Pretty-SFOS/opal"
+    changelogList: Qt.resolvedUrl("../Changelog.qml")
 }
