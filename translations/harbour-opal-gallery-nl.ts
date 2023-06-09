@@ -1,280 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="nl">
 <context>
     <name>About</name>
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>This is a short description of the app. It can use styled and rich text or &lt;a href=&quot;https://example.org&quot;&gt;links&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation>the app&apos;s maintainer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>another important person</source>
-        <translation>another important person</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>additional name</source>
-        <translation>additional name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation>Forum</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Data</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation>Data License</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation>Extra info</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Development</source>
-        <translation>Development</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation>Programming</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation>Icon Design</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Translations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>English</source>
-        <translation>English</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>German</source>
-        <translation>German</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open another page</source>
-        <translation>Open another page</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmptyDummyPage</name>
     <message>
         <source>Other contents could be included at this place.</source>
-        <translation>Other contents could be included at this place.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dummy page</source>
-        <translation>Dummy page</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation>License text</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
-        <translation>About Opal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for form and function</source>
-        <translation>for form and function</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview and Examples</source>
-        <translation>Preview and Examples</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ModuleDescriptions</name>
     <message>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation>This module provides a combo box that can show details for each selectable option.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Opal.About</name>
     <message>
         <source>show details</source>
-        <translation>show details</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Contributors</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
-        <translation>
-            <numerusform>License</numerusform>
-            <numerusform>Licenses</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Version %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Development</source>
-        <translation>Development</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>show contributors</translation>
-    </message>
-    <message>
-        <source>License</source>
-        <translation>License</translation>
-    </message>
-    <message numerus="yes">
-        <source>show license(s)</source>
-        <translation>
-            <numerusform>show license</numerusform>
-            <numerusform>show licenses</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Source Code</source>
-        <translation>Source Code</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation>Donations</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>show license(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Translations</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Note: please check the source code for most accurate information.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Acknowledgements</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation>Thank you!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation>External Link</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Open in browser</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copy to clipboard</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation>Download license texts</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Homepage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Copied to clipboard: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Version %1 (%2)</source>
-        <translation>Version %1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Changelog</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Your contributions to translations or code would be most welcome.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>Option</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
