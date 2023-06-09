@@ -36,6 +36,36 @@ module is properly prepared, register it in [fetch-modules.sh](fetch-modules.sh)
 Run the script to include the new module in Opal Gallery.
 
 
+### Translations
+
+It would be wonderful if the app could be translated in as many languages as possible!
+
+Translations are managed using [Weblate](https://hosted.weblate.org/projects/opal/opal-gallery/).
+Please prefer this over pull requests (which are still welcome, of course).
+If you just found a minor problem, you can also
+[leave a comment in the forum](https://forum.sailfishos.org/t/opal-qml-components-for-app-development/15801)
+or [open an issue](https://github.com/Pretty-SFOS/opal-gallery/issues/new).
+
+Please include the following details:
+
+1. the language you were using
+2. where you found the error
+3. the incorrect text
+4. the correct translation
+
+### Manually updating translations
+
+You can follow these steps to manually add or update a translation:
+
+1. *If it did not exists before*, create a new catalog for your language by copying the
+   base file [translations/harbour-opal-gallery-log.ts](translations/harbour-opal-gallery.ts).
+   Then add the new translation to [harbour-opal-gallery.pro](harbour-opal-gallery.pro).
+2. Add yourself to the list of contributors in [qml/pages/AboutOpalPage.qml](qml/pages/AboutOpalPage.qml).
+
+See [the Qt documentation](https://doc.qt.io/qt-5/qml-qtqml-date.html#details) for
+details on how to translate date formats to your *local* format.
+
+
 ## License
 
 The Opal Gallery application is released under the GNU GPL v3 or later.
