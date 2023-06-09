@@ -25,15 +25,15 @@
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished">Daten</translation>
+        <translation>Daten</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.</translation>
+        <translation>Eines Tages beschloß eine Zeile Blindtext hinaus zu gehen in die Welt.</translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished">Daten-Lizenz</translation>
+        <translation>Daten-Lizenz</translation>
     </message>
     <message>
         <source>Extra info</source>
@@ -45,27 +45,27 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished">Entwicklung</translation>
+        <translation>Entwicklung</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished">Programmierung</translation>
+        <translation>Programmierung</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished">Icon-Design</translation>
+        <translation>Icon-Design</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Übersetzungen</translation>
+        <translation>Übersetzungen</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished">Englisch</translation>
+        <translation>Englisch</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished">Deutsch</translation>
+        <translation>Deutsch</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -270,7 +270,7 @@
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Details</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Option</source>
