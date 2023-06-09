@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Option</translation>
     </message>
 </context>
 </TS>
