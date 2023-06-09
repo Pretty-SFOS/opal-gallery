@@ -5,71 +5,71 @@
     <name>About</name>
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>This is a short description of the app. It can use styled and rich text or &lt;a href=&quot;https://example.org&quot;&gt;links&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>the app&apos;s maintainer</translation>
     </message>
     <message>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>another important person</translation>
     </message>
     <message>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>additional name</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished">Data License</translation>
+        <translation>Data License</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra info</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished">Development</translation>
+        <translation>Development</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished">Programming</translation>
+        <translation>Programming</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished">Icon Design</translation>
+        <translation>Icon Design</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Translations</translation>
+        <translation>Translations</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished">English</translation>
+        <translation>English</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished">German</translation>
+        <translation>German</translation>
     </message>
     <message>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Open another page</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>License text</translation>
     </message>
 </context>
 <context>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>This module provides a combo box that can show details for each selectable option.</translation>
     </message>
 </context>
 <context>
@@ -244,11 +244,11 @@
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelog</translation>
     </message>
 </context>
 <context>
@@ -270,7 +270,7 @@
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Details</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Option</source>
