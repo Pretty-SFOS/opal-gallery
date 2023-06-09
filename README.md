@@ -40,11 +40,11 @@ Run the script to include the new module in Opal Gallery.
 
 It would be wonderful if the app could be translated in as many languages as possible!
 
-Translations are managed using [Weblate](https://hosted.weblate.org/projects/opal/opal-gallery/).
+Translations are managed using [Weblate](https://hosted.weblate.org/projects/opal).
 Please prefer this over pull requests (which are still welcome, of course).
 If you just found a minor problem, you can also
 [leave a comment in the forum](https://forum.sailfishos.org/t/opal-qml-components-for-app-development/15801)
-or [open an issue](https://github.com/Pretty-SFOS/opal-gallery/issues/new).
+or [open an issue](https://github.com/Pretty-SFOS/opal/issues/new).
 
 Please include the following details:
 
