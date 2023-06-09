@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-opal-gallery.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
+ * SPDX-FileCopyrightText: 2020-2023 Mirian Margiani
  */
 
 import QtQuick 2.0
@@ -21,5 +21,6 @@ A.AboutPageBase {
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
     attributions: A.OpalAboutAttribution {}
     sourcesUrl: "https://github.com/Pretty-SFOS/opal"
+    translationsUrl: "https://hosted.weblate.org/projects/opal"
     changelogList: Qt.resolvedUrl("../Changelog.qml")
 }
