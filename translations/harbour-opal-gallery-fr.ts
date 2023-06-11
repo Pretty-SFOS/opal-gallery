@@ -53,19 +53,19 @@
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design de l&apos;icône</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>anglais</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>allemand</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -105,14 +105,14 @@
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte de la licence</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos d&apos;Opal</translation>
     </message>
     <message>
         <source>for form and function</source>
@@ -120,11 +120,11 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie Opal</translation>
     </message>
     <message>
         <source>Preview and Examples</source>
@@ -146,46 +146,50 @@
     <name>Opal.About</name>
     <message>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>afficher les détails</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributeurs</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Licence</numerusform>
+            <numerusform>Licences</numerusform>
+            <numerusform>Licences</numerusform>
         </translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Développement</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>afficher les contributeurs</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dons</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Afficher la licence</numerusform>
+            <numerusform>Afficher les licences</numerusform>
+            <numerusform>Afficher les licences</numerusform>
         </translation>
     </message>
     <message>
@@ -194,27 +198,27 @@
     </message>
     <message>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code source</translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note&amp;nbsp;: veuillez consulter le code source pour obtenir des informations plus précises.</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Remerciements</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci&amp;nbsp;!</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Lien externe</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans le navigateur</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -222,19 +226,19 @@
     </message>
     <message>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger les textes des licences</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Détails</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Page d&apos;accueil</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copié dans le presse-papiers&amp;nbsp;: %1</translation>
     </message>
     <message>
         <source>Version %1 (%2)</source>
@@ -242,26 +246,26 @@
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez vous référer à &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Journal des modifications</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous souhaitez soutenir mon travail, vous pouvez m&apos;offrir une tasse de café.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez soutenir ce projet en contribuant, ou en faisant un don en utilisant l&apos;un de ces services.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vos contributions aux traductions ou au code seront les bienvenues.</translation>
     </message>
 </context>
 <context>
@@ -272,7 +276,7 @@
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Option</translation>
     </message>
 </context>
 </TS>
