@@ -3,7 +3,7 @@
 # This file is part of Opal Gallery.
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
-# SPDX-FileCopyrightText: 2021 Mirian Margiani
+# SPDX-FileCopyrightText: 2021-2023 Mirian Margiani
 #
 
 # TODO error checking and handling
@@ -105,3 +105,12 @@ cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal-
     <(printf "%s\n" "${list_elements[@]}" | head -n -1; echo '        }') \
     <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal-gallery.qml) \
         | sponge qml/harbour-opal-gallery.qml
+
+cd "$base/libs"
+echo "merging translations..."
+./opal-merge-translations.sh ../translations
+
+cd "$base"
+echo "updating translations..."
+lupdate-qt5 qml src -ts translations/*.ts
+lupdate-qt5 -noobsolete qml src -ts translations/*.ts
