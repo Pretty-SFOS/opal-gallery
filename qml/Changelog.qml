@@ -8,11 +8,22 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.2.0"
+        date: "2023-06-13"
+        paragraphs: [
+            "<i>Translations:</i> Indonesian and French have been updated and many " +
+            "more have been added from other modules.",
+            "<i>Modules:</i> Opal.About has been updated to version 2.1.0.",
+            "<i>“About” page:</i> information about translations, contributors, " +
+            "and donations has been added to the “About” page."
+        ]
+    }
+    ChangelogItem {
         version: "1.1.0"
         date: "2023-06-08"
         paragraphs: [
-            "<b>Updated modules:</b> Opal.About has been updated to version 2.0.0",
-            "<b>New changelog:</b> a new in-app changelog has been introduced, built with " +
+            "<i>Updated modules:</i> Opal.About has been updated to version 2.0.0",
+            "<i>New changelog:</i> a new in-app changelog has been introduced, built with " +
             "the updated About page module."
         ]
     }
