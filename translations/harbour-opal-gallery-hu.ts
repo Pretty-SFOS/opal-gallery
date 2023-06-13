@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu">
+<TS version="2.1" language="hu_HU">
 <context>
     <name>About</name>
     <message>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
@@ -41,31 +41,31 @@
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programozás</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon design</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítások</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Angol</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Német</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -81,6 +81,26 @@
     <message>
         <source>Opal Gallery</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Fordítások</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>Angol</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>Német</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>Francia</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>Indonéz</translation>
     </message>
 </context>
 <context>
@@ -120,7 +140,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Névjegy</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
@@ -150,7 +170,7 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Közreműködők</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
@@ -160,15 +180,15 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Névjegy</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 verzió</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <source>show contributors</source>
@@ -180,7 +200,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenc</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
@@ -190,11 +210,11 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítások</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Forráskód</translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
@@ -202,7 +222,7 @@
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Köszönetnyilvánítás</translation>
     </message>
     <message>
         <source>Thank you!</source>
@@ -218,7 +238,7 @@
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolás a vágólapra</translation>
     </message>
     <message>
         <source>Download license texts</source>
@@ -237,15 +257,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Version %1 (%2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<TS version="2.1" language="cs_CZ">
 <context>
     <name>About</name>
     <message>
@@ -45,27 +45,27 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programování</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design ikon</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Překlady</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Angličtina</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Němčina</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -80,6 +80,26 @@
     </message>
     <message>
         <source>Opal Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Překlady</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>Angličtina</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>Němčina</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>Francouzština</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -150,11 +170,13 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Přispěvatelé</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -168,7 +190,7 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <source>show contributors</source>
@@ -180,17 +202,19 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Překlady</translation>
     </message>
     <message>
         <source>Source Code</source>
@@ -237,15 +261,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Version %1 (%2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

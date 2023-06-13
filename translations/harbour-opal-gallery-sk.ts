@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sk">
+<TS version="2.1" language="sk_SK">
 <context>
     <name>About</name>
     <message>
@@ -45,27 +45,27 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programovanie</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Návrh ikon</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklady</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Angličtina</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Nemčina</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -81,6 +81,26 @@
     <message>
         <source>Opal Gallery</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Preklady</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>Angličtina</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>Nemčina</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>Francúzština</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>Indonézština</translation>
     </message>
 </context>
 <context>
@@ -120,7 +140,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplikácii</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
@@ -146,99 +166,99 @@
     <name>Opal.About</name>
     <message>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>zobraziť podrobnosti</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Prispievatelia</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Licencia</numerusform>
+            <numerusform>Licencie</numerusform>
+            <numerusform>Licencií</numerusform>
         </translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplikácii</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzia %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>zobraziť prispievateľov</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dary</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>zobraziť licenciu</numerusform>
+            <numerusform>zobraziť licencie</numerusform>
+            <numerusform>zobraziť licencií</numerusform>
         </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklady</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový text</translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: Najpresnejšie informácie nájdete v zdrojovom texte.</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Poďakovania</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ďakujeme!</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Externý odkaz</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť v prehliadači</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať do schránky</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť text licencie</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Domovská stránka</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať do schránky: %1</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
@@ -248,27 +268,35 @@
         <source>Changelog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak chcete podporiť moju prácu, môžete mi kúpiť šálku kávy.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento projekt môžete podporiť príspevkom alebo darom pomocou ktorejkoľvek z týchto služieb.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša pomoc s prekladom alebo programovaním by bola veľmi vítaná.</translation>
     </message>
 </context>
 <context>
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <source>Option</source>

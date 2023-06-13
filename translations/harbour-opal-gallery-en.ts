@@ -82,6 +82,26 @@
         <source>Opal Gallery</source>
         <translation>Opal Gallery</translation>
     </message>
+    <message>
+        <source>Translations</source>
+        <translation>Translations</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>English</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>German</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>French</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>Indonesian</translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>
@@ -239,16 +259,20 @@
         <translation>Copied to clipboard: %1</translation>
     </message>
     <message>
-        <source>Version %1 (%2)</source>
-        <translation>Version %1 (%2)</translation>
-    </message>
-    <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Changelog</source>
         <translation>Changelog</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>News</translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
+        <translation>Changes since version %1</translation>
     </message>
 </context>
 <context>

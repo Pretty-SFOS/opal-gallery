@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<TS version="2.1" language="nl_NL">
 <context>
     <name>About</name>
     <message>
@@ -45,27 +45,27 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwikkeling</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmering</translation>
     </message>
     <message>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictogramontwèrp</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Duits</translation>
     </message>
     <message>
         <source>Open another page</source>
@@ -80,6 +80,26 @@
     </message>
     <message>
         <source>Opal Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Vertalingen</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>Engels</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>Duits</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>Frans</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -150,11 +170,12 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijdragers</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation type="unfinished">
+            <numerusform>Licentie</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -164,11 +185,11 @@
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwikkeling</translation>
     </message>
     <message>
         <source>show contributors</source>
@@ -180,17 +201,18 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>Source Code</source>
@@ -237,15 +259,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Version %1 (%2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

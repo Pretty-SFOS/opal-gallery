@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>About</name>
     <message>
@@ -25,15 +25,15 @@
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence de données</translation>
     </message>
     <message>
         <source>Extra info</source>
@@ -41,15 +41,15 @@
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Développement</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmation</translation>
     </message>
     <message>
         <source>Icon Design</source>
@@ -80,14 +80,34 @@
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie Opal</translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Traductions</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>anglais</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>allemand</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>français</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>indonésien</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie Opal</translation>
     </message>
 </context>
 <context>
@@ -157,7 +177,6 @@
         <translation>
             <numerusform>Licence</numerusform>
             <numerusform>Licences</numerusform>
-            <numerusform>Licences</numerusform>
         </translation>
     </message>
     <message>
@@ -189,12 +208,11 @@
         <translation>
             <numerusform>Afficher la licence</numerusform>
             <numerusform>Afficher les licences</numerusform>
-            <numerusform>Afficher les licences</numerusform>
         </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions</translation>
     </message>
     <message>
         <source>Source Code</source>
@@ -222,7 +240,7 @@
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier dans le presse-papiers</translation>
     </message>
     <message>
         <source>Download license texts</source>
@@ -241,16 +259,20 @@
         <translation>Copié dans le presse-papiers&amp;nbsp;: %1</translation>
     </message>
     <message>
-        <source>Version %1 (%2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation>Veuillez vous référer à &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Changelog</source>
         <translation>Journal des modifications</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Nouveautés</translation>
+    </message>
+    <message>
+        <source>Changes since version %1</source>
+        <translation>Changements depuis la version %1</translation>
     </message>
 </context>
 <context>
@@ -272,11 +294,11 @@
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Détails</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>Option</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
