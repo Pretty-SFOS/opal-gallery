@@ -105,7 +105,7 @@
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Teks lisensi</translation>
     </message>
 </context>
 <context>

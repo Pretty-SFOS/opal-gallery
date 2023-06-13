@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Icon Design</source>
-        <translation>Icon-Design</translation>
+        <translation>Symbol-Design</translation>
     </message>
     <message>
         <source>Translations</source>
