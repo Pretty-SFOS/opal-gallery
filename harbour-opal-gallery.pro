@@ -33,6 +33,10 @@ DISTFILES += qml/harbour-opal-gallery.qml \
     qml/pages/AboutModulePageBase.qml \
     qml/module-pages/About.qml \
     qml/module-pages/EmptyDummyPage.qml \
+    qml/module-pages/*/*.* \
+    qml/modules/Opal/*.* \
+    qml/modules/Opal/*/*.* \
+    qml/modules/Opal/*/*/*.* \
     rpm/harbour-opal-gallery.changes.in \
     rpm/harbour-opal-gallery.changes.run.in \
     rpm/harbour-opal-gallery.spec \
