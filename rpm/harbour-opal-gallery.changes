@@ -10,5 +10,14 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Tue Jun 13 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.2.0-1
+- updated translations: Indonesian, French, and many more
+- updated Opal.About to v2.1.0
+- updated about page with info about translations, contributors, etc.
+
+* Thu Jun 08 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.1.0-1
+- updated Opal.About to v2.0.0
+- added new in-app changelog built with the about page module
+
 * Sat Jun 03 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.0.0-1
 - initial public release of the gallery application
