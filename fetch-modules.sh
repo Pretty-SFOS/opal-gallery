@@ -36,9 +36,6 @@ for module in "${cQML_MODULES[@]}"; do
 
     echo "importing module $module..."
 
-    # ./release-module.sh -b _for_gallery
-    # TODO extract build/_for_gallery.tar.gz instead of copying files manually
-
     if [[ ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
         echo "error: module '$module' is missing required files"
         continue
