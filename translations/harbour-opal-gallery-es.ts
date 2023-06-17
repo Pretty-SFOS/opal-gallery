@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia de datos</translation>
     </message>
     <message>
         <source>Extra info</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de prueba</translation>
     </message>
 </context>
 <context>
@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>por su forma y función</translation>
     </message>
     <message>
         <source>About</source>
@@ -148,18 +148,18 @@
     </message>
     <message>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa y ejemplos</translation>
     </message>
 </context>
 <context>
     <name>ModuleDescriptions</name>
     <message>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona &lt;i&gt;AboutPageBase&lt;/i&gt; para construir páginas de información para aplicaciones personalizables.</translation>
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona un cuadro combinado que puede mostrar los detalles para cada opción seleccionable.</translation>
     </message>
 </context>
 <context>
