@@ -5,43 +5,43 @@
     <name>About</name>
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta är en kort beskrivning av appen. Den kan använda stiliserad och formaterad text eller &lt;a href=&quot;https://example.org&quot;&gt;links.&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>ansvariga för appen</translation>
     </message>
     <message>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>en annan viktig person</translation>
     </message>
     <message>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>ytterligare namn</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Datalicens</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra information</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <source>Development</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättningar</translation>
     </message>
     <message>
         <source>English</source>
@@ -69,22 +69,22 @@
     </message>
     <message>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna en annan sida</translation>
     </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal är en samling vackra QML-komponenter för SailfishOS, som bygger ovanpå Sailfishs Silica-komponenter.</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal galleri</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättningar</translation>
     </message>
     <message>
         <source>English</source>
@@ -107,36 +107,36 @@
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal galleri</translation>
     </message>
 </context>
 <context>
     <name>EmptyDummyPage</name>
     <message>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annat innehåll kan inkluderas på denna plats.</translation>
     </message>
     <message>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Dummy-sida</translation>
     </message>
 </context>
 <context>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenstext</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Om Opal</translation>
     </message>
     <message>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>för form och funktion</translation>
     </message>
     <message>
         <source>About</source>
@@ -144,22 +144,22 @@
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal galleri</translation>
     </message>
     <message>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsgranskning och exempel</translation>
     </message>
 </context>
 <context>
     <name>ModuleDescriptions</name>
     <message>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul innehåller &lt;i&gt;AboutPageBase&lt;/i&gt; för att bygga anpassningsbara informationssidor till applikationer.</translation>
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul innehåller en kombinationsruta som kan visa detaljer för varje valbart alternativ.</translation>
     </message>
 </context>
 <context>
@@ -264,15 +264,15 @@
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringslogg</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyheter</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändrat sedan version %1</translation>
     </message>
 </context>
 <context>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
 </context>
 </TS>

@@ -5,43 +5,43 @@
     <name>About</name>
     <message>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto es una descripción breve de la aplicación. Se puede usar texto con estilo y rico o &lt;a href=&quot;https://example.org&quot;&gt;enlaces&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>el responsable de la aplicación</translation>
     </message>
     <message>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>otra persona importante</translation>
     </message>
     <message>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>nombre adicional</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórum</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia de datos</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Información adicional</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <source>Development</source>
@@ -69,18 +69,18 @@
     </message>
     <message>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir otra página</translation>
     </message>
 </context>
 <context>
     <name>AboutOpalPage</name>
     <message>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal es una colección de bonitos componentes QML para SailfishOS, basándose en los componentes Silica de Sailfish.</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería Opal</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -107,36 +107,36 @@
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería Opal</translation>
     </message>
 </context>
 <context>
     <name>EmptyDummyPage</name>
     <message>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>En este lugar se pueden incluir otros contenidos.</translation>
     </message>
     <message>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de prueba</translation>
     </message>
 </context>
 <context>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto de la licencia</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de Opal</translation>
     </message>
     <message>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>por su forma y función</translation>
     </message>
     <message>
         <source>About</source>
@@ -144,22 +144,22 @@
     </message>
     <message>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería Opal</translation>
     </message>
     <message>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa y ejemplos</translation>
     </message>
 </context>
 <context>
     <name>ModuleDescriptions</name>
     <message>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona &lt;i&gt;AboutPageBase&lt;/i&gt; para construir páginas de información para aplicaciones personalizables.</translation>
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona un cuadro combinado que puede mostrar los detalles para cada opción seleccionable.</translation>
     </message>
 </context>
 <context>
@@ -176,6 +176,7 @@
         <source>License(s)</source>
         <translation>
             <numerusform>Licencia</numerusform>
+            <numerusform>Licencias</numerusform>
             <numerusform>Licencias</numerusform>
         </translation>
     </message>
@@ -208,6 +209,7 @@
         <translation>
             <numerusform>Mostrar licencia</numerusform>
             <numerusform>Mostrar licencias</numerusform>
+            <numerusform>Mostrar licencias</numerusform>
         </translation>
     </message>
     <message>
@@ -220,7 +222,7 @@
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: compruebe el código fuente para la información más precisa.</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
@@ -228,15 +230,15 @@
     </message>
     <message>
         <source>Thank you!</source>
-        <translation>Gracias!</translation>
+        <translation>¡Gracias!</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace externo</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en el navegador</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -244,35 +246,35 @@
     </message>
     <message>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar los textos de las licencias</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página web</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado al portapapeles: %1</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vea &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de cambios</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novedades</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambios desde la versión %1</translation>
     </message>
 </context>
 <context>
@@ -294,11 +296,11 @@
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opción</translation>
     </message>
 </context>
 </TS>
