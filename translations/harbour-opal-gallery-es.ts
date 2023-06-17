@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>el responsable de la aplicación</translation>
     </message>
     <message>
         <source>another important person</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
