@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished">Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <source>Data License</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <source>Development</source>
