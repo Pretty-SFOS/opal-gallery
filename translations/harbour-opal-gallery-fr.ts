@@ -177,6 +177,7 @@
         <translation>
             <numerusform>Licence</numerusform>
             <numerusform>Licences</numerusform>
+            <numerusform>Licences</numerusform>
         </translation>
     </message>
     <message>
@@ -207,6 +208,7 @@
         <source>show license(s)</source>
         <translation>
             <numerusform>Afficher la licence</numerusform>
+            <numerusform>Afficher les licences</numerusform>
             <numerusform>Afficher les licences</numerusform>
         </translation>
     </message>
@@ -298,7 +300,7 @@
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Option</translation>
     </message>
 </context>
 </TS>
