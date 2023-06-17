@@ -174,9 +174,9 @@
     </message>
     <message numerus="yes">
         <source>License(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Licentie</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Licenties</numerusform>
         </translation>
     </message>
     <message>
