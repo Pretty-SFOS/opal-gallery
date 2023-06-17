@@ -177,6 +177,7 @@
         <translation>
             <numerusform>Licencia</numerusform>
             <numerusform>Licencias</numerusform>
+            <numerusform>Licencias</numerusform>
         </translation>
     </message>
     <message>
@@ -207,6 +208,7 @@
         <source>show license(s)</source>
         <translation>
             <numerusform>Mostrar licencia</numerusform>
+            <numerusform>Mostrar licencias</numerusform>
             <numerusform>Mostrar licencias</numerusform>
         </translation>
     </message>
@@ -252,7 +254,7 @@
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página web</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
