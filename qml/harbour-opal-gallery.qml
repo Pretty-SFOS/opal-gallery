@@ -36,6 +36,17 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo",
             examplePage: "opal-infocombo/InfoCombo.qml"
+        },
+        {
+            title: "Opal.ComboData",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2023 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata",
+            examplePage: "opal-combodata/ComboData.qml"
         }
         //<<< GENERATED LIST OF MODULES
     ]
