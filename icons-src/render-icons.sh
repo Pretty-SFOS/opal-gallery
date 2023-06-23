@@ -32,6 +32,7 @@ render_batch
 
 cNAME="status icons"
 cITEMS=(icon-m-opal@112
+        icon-l-opal@252
         "$cMY_APP@256"
 )
 cRESOLUTIONS=(F1)
