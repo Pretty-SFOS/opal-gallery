@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开发</translation>
     </message>
     <message>
         <source>Programming</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">翻译</translation>
     </message>
     <message>
         <source>English</source>
@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">翻译</translation>
     </message>
     <message>
         <source>English</source>
@@ -100,6 +100,45 @@
     </message>
     <message>
         <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ComboData</name>
+    <message>
+        <source>Fruit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kiwi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">日志</translation>
+    </message>
+    <message>
+        <source>no details available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Index by value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -140,7 +179,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于</translation>
     </message>
     <message>
         <source>Opal Gallery</source>
@@ -159,6 +198,10 @@
     </message>
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -292,7 +335,7 @@
     <name>Opal.InfoCombo</name>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">日志</translation>
     </message>
     <message>
         <source>Option</source>

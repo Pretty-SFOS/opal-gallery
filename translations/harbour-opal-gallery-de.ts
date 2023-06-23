@@ -104,6 +104,45 @@
     </message>
 </context>
 <context>
+    <name>ComboData</name>
+    <message>
+        <source>Fruit</source>
+        <translation>Früchte</translation>
+    </message>
+    <message>
+        <source>Banana</source>
+        <translation>Banane</translation>
+    </message>
+    <message>
+        <source>Kiwi</source>
+        <translation>Kiwi</translation>
+    </message>
+    <message>
+        <source>Pear</source>
+        <translation>Birne</translation>
+    </message>
+    <message>
+        <source>Selected</source>
+        <translation>Ausgewählt</translation>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation>nichts</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation>Details</translation>
+    </message>
+    <message>
+        <source>no details available</source>
+        <translation>keine Details verfügbar</translation>
+    </message>
+    <message>
+        <source>Index by value</source>
+        <translation>Wert-Index</translation>
+    </message>
+</context>
+<context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
@@ -160,6 +199,10 @@
     <message>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>Mit diesem Modul können Auswahlfelder erstellt werden, die zu jeder Option detaillierte Informationen bieten.</translation>
+    </message>
+    <message>
+        <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
+        <translation>Dieses Modul erweitert Auswahllisten, sodass ein anderer Wert als die Beschriftung verwendet werden kann.</translation>
     </message>
 </context>
 <context>

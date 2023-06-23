@@ -104,6 +104,45 @@
     </message>
 </context>
 <context>
+    <name>ComboData</name>
+    <message>
+        <source>Fruit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kiwi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Ayrıntılar</translation>
+    </message>
+    <message>
+        <source>no details available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Index by value</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CoverPage</name>
     <message>
         <source>Opal Gallery</source>
@@ -161,6 +200,10 @@
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Opal.About</name>
@@ -176,7 +219,6 @@
         <source>License(s)</source>
         <translation>
             <numerusform>Lisans</numerusform>
-            <numerusform>Lisanslar</numerusform>
         </translation>
     </message>
     <message>
@@ -207,7 +249,6 @@
         <source>show license(s)</source>
         <translation>
             <numerusform>lisansı göster</numerusform>
-            <numerusform>lisansları göster</numerusform>
         </translation>
     </message>
     <message>
