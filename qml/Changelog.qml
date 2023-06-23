@@ -8,6 +8,16 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.3.0"
+        date: "2023-06-23"
+        paragraphs: [
+            "<i>Modules:</i> the new Opal.ComboData module has been added. " +
+            "Opal.About and Opal.InfoCombo have been updated to the latest version.",
+            "<i>Translations:</i> Swedish, Spanish, French, and many more have been " +
+            "updated."
+        ]
+    }
+    ChangelogItem {
         version: "1.2.0"
         date: "2023-06-13"
         paragraphs: [
