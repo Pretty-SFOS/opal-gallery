@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detaljerat</translation>
+        <translation>Detaljerat</translation>
     </message>
     <message>
         <source>no details available</source>
@@ -145,8 +145,8 @@
 <context>
     <name>CoverPage</name>
     <message>
-        <source>Opal Gallery</source>
-        <translation>Opal galleri</translation>
+        <source>Gallery</source>
+        <translation>galleri</translation>
     </message>
 </context>
 <context>

@@ -145,8 +145,8 @@
 <context>
     <name>CoverPage</name>
     <message>
-        <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <source>Gallery</source>
+        <translation>Gallery</translation>
     </message>
 </context>
 <context>
