@@ -107,19 +107,19 @@
     <name>ComboData</name>
     <message>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Frukt</translation>
     </message>
     <message>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banan</translation>
     </message>
     <message>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Päron</translation>
     </message>
     <message>
         <source>Selected</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>inget</translation>
     </message>
     <message>
         <source>Details</source>
@@ -135,11 +135,11 @@
     </message>
     <message>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>inga detaljer tillgängliga</translation>
     </message>
     <message>
         <source>Index by value</source>
-        <translation type="unfinished"></translation>
+        <translation>Index efter värde</translation>
     </message>
 </context>
 <context>
@@ -202,7 +202,7 @@
     </message>
     <message>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul innehåller ett tillägg för kombinationsrutor som ger åtkomst till det aktuella värdet istället för etiketten.</translation>
     </message>
 </context>
 <context>
