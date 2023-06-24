@@ -61,12 +61,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Программирование</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дизайн иконок</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Английский</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Немецкий</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
@@ -109,22 +109,22 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Английский</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Немецкий</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Французский</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Индонезийский</translation>
     </message>
 </context>
 <context>
