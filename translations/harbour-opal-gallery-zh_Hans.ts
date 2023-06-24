@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编程</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标设计</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">英语</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">德语</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
@@ -109,22 +109,22 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">英语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">德语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">法语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">印度尼西亚语</translation>
     </message>
 </context>
 <context>
@@ -294,7 +294,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="123"/>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">捐款</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="129"/>
@@ -324,12 +324,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="41"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注意：请检查源代码以获得最准确的信息。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="37"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">鸣谢</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="44"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">外部链接</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="25"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载许可证文本</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="48"/>
@@ -373,7 +373,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
@@ -402,17 +402,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果你想支持我的工作，你可以请我喝杯咖啡。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你可以通过捐款来支持这个项目，或者通过使用任何这些服务进行捐赠。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我们非常欢迎你对翻译或代码的贡献。</translation>
     </message>
 </context>
 <context>
