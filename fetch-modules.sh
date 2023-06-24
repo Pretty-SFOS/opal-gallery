@@ -37,7 +37,7 @@ for module in "${cQML_MODULES[@]}"; do
     echo "importing module $module..."
 
     if [[ ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
-        echo "error: module '$module' is missing required files"
+        echo "error: module '$module' is missing required files  (/Opal /doc/gallery.qml or /release-module.sh)""
         continue
     fi
 
