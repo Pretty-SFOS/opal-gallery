@@ -152,7 +152,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="63"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerat</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="64"/>
