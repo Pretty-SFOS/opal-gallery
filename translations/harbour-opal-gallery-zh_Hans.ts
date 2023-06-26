@@ -420,7 +420,7 @@
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="22"/>
         <source>Details</source>
-        <translation type="unfinished">日志</translation>
+        <translation>日志</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="49"/>
