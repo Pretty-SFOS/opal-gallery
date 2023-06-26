@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished">Andmed</translation>
+        <translation>Andmed</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
@@ -41,12 +41,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished">Andmete litsents</translation>
+        <translation>Andmete litsents</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="148"/>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisateave</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="149"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerii</translation>
     </message>
 </context>
 <context>
@@ -229,7 +229,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="72"/>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Eelvaade ja näited</translation>
     </message>
 </context>
 <context>
