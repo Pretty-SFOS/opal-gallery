@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="107"/>
         <source>Details</source>
-        <translation type="unfinished">Lisateave</translation>
+        <translation>Lisateave</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="108"/>
@@ -201,7 +201,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Litsentsi tekst</translation>
     </message>
 </context>
 <context>
@@ -380,23 +380,23 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Palun vaata siia: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="108"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Muudatuste logi</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="60"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Uudised</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Muudatused alates versioonist %1</translation>
     </message>
 </context>
 <context>
@@ -427,7 +427,7 @@
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="49"/>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikud</translation>
     </message>
 </context>
 </TS>
