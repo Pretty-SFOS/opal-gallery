@@ -124,7 +124,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished">印度尼西亚语</translation>
+        <translation type="unfinished">印度尼西亚</translation>
     </message>
 </context>
 <context>

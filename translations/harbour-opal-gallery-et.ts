@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Andmed</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Andmete litsents</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="148"/>
