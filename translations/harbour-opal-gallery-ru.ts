@@ -71,7 +71,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
         <source>Translations</source>
-        <translation type="unfinished">Перевод</translation>
+        <translation type="unfinished">Переводы</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="52"/>
         <source>Translations</source>
-        <translation type="unfinished">Перевод</translation>
+        <translation type="unfinished">Переводы</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
