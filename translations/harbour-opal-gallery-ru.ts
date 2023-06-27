@@ -56,12 +56,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="156"/>
         <source>Development</source>
-        <translation type="unfinished">Разработка</translation>
+        <translation>Разработка</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished">Программирование</translation>
+        <translation>Программирование</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
         <source>Translations</source>
-        <translation type="unfinished">Переводы</translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="52"/>
         <source>Translations</source>
-        <translation type="unfinished">Переводы</translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
         <source>About</source>
-        <translation type="unfinished">О программе</translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>

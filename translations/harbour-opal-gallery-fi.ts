@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="107"/>
         <source>Details</source>
-        <translation type="unfinished">Tiedot</translation>
+        <translation>Tiedot</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="108"/>

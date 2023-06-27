@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished">数据</translation>
+        <translation>数据</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
@@ -56,32 +56,32 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="156"/>
         <source>Development</source>
-        <translation type="unfinished">开发</translation>
+        <translation>开发</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished">编程</translation>
+        <translation>编程</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished">图标设计</translation>
+        <translation>图标设计</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
         <source>Translations</source>
-        <translation type="unfinished">翻译</translation>
+        <translation>翻译</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished">英语</translation>
+        <translation>英语</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished">德语</translation>
+        <translation>德语</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
@@ -104,27 +104,27 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="52"/>
         <source>Translations</source>
-        <translation type="unfinished">翻译</translation>
+        <translation>翻译</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
         <source>English</source>
-        <translation type="unfinished">英语</translation>
+        <translation>英语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
         <source>German</source>
-        <translation type="unfinished">德语</translation>
+        <translation>德语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>French</source>
-        <translation type="unfinished">法语</translation>
+        <translation>法语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished">印度尼西亚</translation>
+        <translation>印度尼西亚语</translation>
     </message>
 </context>
 <context>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="107"/>
         <source>Details</source>
-        <translation type="unfinished">日志</translation>
+        <translation>日志</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="108"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
         <source>About</source>
-        <translation type="unfinished">关于</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished">外部链接</translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
@@ -373,7 +373,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished">复制到剪贴板：%1</translation>
+        <translation>复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>

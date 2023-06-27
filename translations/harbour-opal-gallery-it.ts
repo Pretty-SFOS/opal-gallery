@@ -76,12 +76,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished">Inglese</translation>
+        <translation>Inglese</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished">Tedesco</translation>
+        <translation>Tedesco</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
@@ -109,22 +109,22 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
         <source>English</source>
-        <translation type="unfinished">Inglese</translation>
+        <translation>Inglese</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
         <source>German</source>
-        <translation type="unfinished">Tedesco</translation>
+        <translation>Tedesco</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>French</source>
-        <translation type="unfinished">Francese</translation>
+        <translation>Francese</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished">Indonesiano</translation>
+        <translation>Indonesiano</translation>
     </message>
 </context>
 <context>
