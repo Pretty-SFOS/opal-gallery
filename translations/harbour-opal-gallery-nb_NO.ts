@@ -56,32 +56,32 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="156"/>
         <source>Development</source>
-        <translation type="unfinished">Utvikling</translation>
+        <translation>Utvikling</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished">Programmering</translation>
+        <translation>Programmering</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished">Ikondesign</translation>
+        <translation>Ikondesign</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
         <source>Translations</source>
-        <translation type="unfinished">Oversettelser</translation>
+        <translation>Oversettelser</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished">Engelsk</translation>
+        <translation>Engelsk</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished">Tysk</translation>
+        <translation>Tysk</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
@@ -104,27 +104,27 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="52"/>
         <source>Translations</source>
-        <translation type="unfinished">Oversettelser</translation>
+        <translation>Oversettelser</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="55"/>
         <source>English</source>
-        <translation type="unfinished">Engelsk</translation>
+        <translation>Engelsk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
         <source>German</source>
-        <translation type="unfinished">Tysk</translation>
+        <translation>Tysk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>French</source>
-        <translation type="unfinished">Fransk</translation>
+        <translation>Fransk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>Indonesian</source>
-        <translation type="unfinished">Indonesisk</translation>
+        <translation>Indonesisk</translation>
     </message>
 </context>
 <context>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="107"/>
         <source>Details</source>
-        <translation type="unfinished">Detaljer</translation>
+        <translation>Detaljer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="108"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
         <source>About</source>
-        <translation type="unfinished">Om</translation>
+        <translation>Om</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>
@@ -341,17 +341,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished">Ekstern lenke</translation>
+        <translation>Ekstern lenke</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished">Åpne i nettleser</translation>
+        <translation>Åpne i nettleser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Kopier til utklippstavlen</translation>
+        <translation>Kopier til utklippstavlen</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="25"/>
@@ -375,7 +375,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished">Kopiert til utklippstavlen: %1</translation>
+        <translation>Kopiert til utklippstavlen: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
