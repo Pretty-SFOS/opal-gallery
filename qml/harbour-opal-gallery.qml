@@ -18,7 +18,7 @@ ApplicationWindow
         {
             title: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
-            appVersion: "2.1.1",
+            appVersion: "2.2.0",
             mainAttributions: ['2018-2023 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
@@ -29,7 +29,7 @@ ApplicationWindow
         {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
-            appVersion: "1.1.0",
+            appVersion: "2.0.0",
             mainAttributions: ['2023 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
@@ -40,7 +40,7 @@ ApplicationWindow
         {
             title: "Opal.ComboData",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
-            appVersion: "1.0.0",
+            appVersion: "2.0.0",
             mainAttributions: ['2023 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
