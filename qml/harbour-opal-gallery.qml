@@ -47,6 +47,17 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata",
             examplePage: "opal-combodata/ComboData.qml"
+        },
+        {
+            title: "Opal.LinkHandler",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
+            appVersion: "2.0.0",
+            mainAttributions: ['2020-2023 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler",
+            examplePage: "opal-linkhandler/LinkHandler.qml"
         }
         //<<< GENERATED LIST OF MODULES
     ]

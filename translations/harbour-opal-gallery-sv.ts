@@ -102,27 +102,27 @@
         <translation>Opal galleri</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="59"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="60"/>
         <source>Translations</source>
         <translation>Översättningar</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="62"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
         <source>English</source>
         <translation>Engelska</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="66"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
         <source>German</source>
         <translation>Tyska</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="70"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="71"/>
         <source>French</source>
         <translation>Franska</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="74"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="75"/>
         <source>Indonesian</source>
         <translation>Indonesiska</translation>
     </message>
@@ -248,6 +248,11 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>Denna modul innehåller ett tillägg för kombinationsrutor som ger åtkomst till det aktuella värdet istället för etiketten.</translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
+        <source>This module provides a link handler to open or copy external links.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -428,6 +433,29 @@
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="74"/>
         <source>Option</source>
         <translation>Alternativ</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
+        <source>External Link</source>
+        <translation>Extern länk</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="58"/>
+        <source>Open in browser</source>
+        <translation>Öppna i webbläsare</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="68"/>
+        <source>Copied to clipboard: %1</source>
+        <translation>Kopierat till urklipp: %1</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="77"/>
+        <source>Copy to clipboard</source>
+        <translation>Kopiera till urklipp</translation>
     </message>
 </context>
 </TS>
