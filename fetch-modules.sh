@@ -42,7 +42,7 @@ for module in "${cQML_MODULES[@]}"; do
     fi
 
     # -- import module release bundle
-    ./release-module.sh -b _for_gallery
+    ./release-module.sh --no-minify -b _for_gallery
 
     tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/libs"
     tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml"
