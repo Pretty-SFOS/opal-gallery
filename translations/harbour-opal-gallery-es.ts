@@ -92,37 +92,37 @@
 <context>
     <name>AboutOpalPage</name>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="20"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
         <translation>Opal es una colección de bonitos componentes QML para SailfishOS, basándose en los componentes Silica de Sailfish.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="16"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
         <translation>Galería Opal</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="60"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="81"/>
         <source>Translations</source>
         <translation>Traducciones</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="84"/>
         <source>English</source>
         <translation>Inglés</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
         <source>German</source>
         <translation>Alemán</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="71"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
         <source>French</source>
         <translation>Francés</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="75"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
         <source>Indonesian</source>
         <translation>Indonesio</translation>
     </message>
@@ -443,17 +443,22 @@
         <translation>Enlace externo</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="58"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
         <translation>Abrir en el navegador</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="68"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
+        <source>Open externally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
         <translation>Copiado al portapapeles: %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="77"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
         <translation>Copiar al portapapeles</translation>
     </message>

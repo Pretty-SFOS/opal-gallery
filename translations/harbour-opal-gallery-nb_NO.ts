@@ -92,37 +92,37 @@
 <context>
     <name>AboutOpalPage</name>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="20"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="16"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="60"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="81"/>
         <source>Translations</source>
         <translation>Oversettelser</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="63"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="84"/>
         <source>English</source>
         <translation>Engelsk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="67"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
         <source>German</source>
         <translation>Tysk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="71"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
         <source>French</source>
         <translation>Fransk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="75"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
         <source>Indonesian</source>
         <translation>Indonesisk</translation>
     </message>
@@ -443,17 +443,22 @@
         <translation type="unfinished">Ekstern lenke</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="58"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
         <translation type="unfinished">Åpne i nettleser</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="68"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
+        <source>Open externally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
         <translation type="unfinished">Kopiert til utklippstavlen: %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="77"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
         <translation type="unfinished">Kopier til utklippstavlen</translation>
     </message>
