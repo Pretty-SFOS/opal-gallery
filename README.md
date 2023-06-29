@@ -1,21 +1,31 @@
 <!--
-SPDX-FileCopyrightText: 2021 Mirian Margiani
+SPDX-FileCopyrightText: 2018-2023 Mirian Margiani
 SPDX-License-Identifier: GFDL-1.3-or-later
 -->
 
-# Opal
+![Opal Gallery banner](dist/banner-small.png)
+
+# Opal Gallery for Sailfish OS
+
+[![Translations](https://hosted.weblate.org/widgets/opal/-/opal-gallery/svg-badge.svg)](https://hosted.weblate.org/projects/opal/opal-gallery/)
+[![Source code license](https://img.shields.io/badge/source_code-GPL--3.0--or--later-yellowdarkgreen)](https://github.com/Pretty-SFOS/opal-gallery/tree/main/LICENSES)
+[![REUSE status](https://api.reuse.software/badge/github.com/Pretty-SFOS/opal-gallery)](https://api.reuse.software/info/github.com/Pretty-SFOS/opal-gallery)
+[![Development status](https://img.shields.io/badge/development-active-blue)](https://github.com/Pretty-SFOS/opal-gallery)
+
+
 
 Opal is a collection of pretty QML components for SailfishOS, building on top
 of Sailfish's Silica components.
 
+
+
 This repository contains the Opal Gallery application which showcases all
-modules. The module examples can be used as a starting point for new
-applications.
+modules.
+The module examples can be used as a starting point for new applications.
 
 You can find documentation on how to use Opal in other applications
 [in the main repo](https://github.com/Pretty-SFOS/opal). If you want to use
 applications using Opal, you should not have to do anything.
-
 
 ## Development
 
@@ -24,7 +34,6 @@ applications using Opal, you should not have to do anything.
    module repositories as requested
 3. Open the project file [harbour-opal-gallery.pro](harbour-opal-gallery.pro) in the Sailfish OS IDE
 4. Build an RPM package and install it on the target device
-
 
 ### Adding new modules
 
@@ -36,15 +45,23 @@ module is properly prepared, register it in [fetch-modules.sh](fetch-modules.sh)
 Run the script to include the new module in Opal Gallery.
 
 
-### Translations
+
+## Help and support
+
+You are welcome to [leave a comment in the forum](https://forum.sailfishos.org/t/opal-qml-components-for-app-development/15801)
+if you have any questions or ideas.
+
+
+## Translations
 
 It would be wonderful if the app could be translated in as many languages as possible!
 
-Translations are managed using [Weblate](https://hosted.weblate.org/projects/opal).
-Please prefer this over pull requests (which are still welcome, of course).
+Translations are managed using
+[Weblate](https://hosted.weblate.org/projects/opal/opal-gallery).
+Please prefer this over pull request (which are still welcome, of course).
 If you just found a minor problem, you can also
 [leave a comment in the forum](https://forum.sailfishos.org/t/opal-qml-components-for-app-development/15801)
-or [open an issue](https://github.com/Pretty-SFOS/opal/issues/new).
+or open an issue.
 
 Please include the following details:
 
@@ -53,48 +70,77 @@ Please include the following details:
 3. the incorrect text
 4. the correct translation
 
+
 ### Manually updating translations
 
+Please prefer using
+[Weblate](https://hosted.weblate.org/projects/opal) over this.
 You can follow these steps to manually add or update a translation:
 
 1. *If it did not exists before*, create a new catalog for your language by copying the
-   base file [translations/harbour-opal-gallery-log.ts](translations/harbour-opal-gallery.ts).
+   base file [translations/harbour-opal-gallery.ts](translations/harbour-opal-gallery.ts).
    Then add the new translation to [harbour-opal-gallery.pro](harbour-opal-gallery.pro).
 2. Add yourself to the list of contributors in [qml/pages/AboutOpalPage.qml](qml/pages/AboutOpalPage.qml).
+3. (optional) Translate the app's name in [harbour-opal-gallery.desktop](harbour-opal-gallery.desktop)
+   if there is a (short) native term for it in your language.
 
 See [the Qt documentation](https://doc.qt.io/qt-5/qml-qtqml-date.html#details) for
 details on how to translate date formats to your *local* format.
 
 
-## License
+## Building and contributing
 
-The Opal Gallery application is released under the GNU GPL v3 or later.
+*Bug reports, and contributions for translations, bug fixes, or new features are always welcome!*
 
-    harbour-opal-gallery is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+1. Clone the repository by running `git clone https://github.com/Pretty-SFOS/opal-gallery.git`
+2. Open `harbour-opal-gallery.pro` in Sailfish OS IDE (Qt Creator for Sailfish)
+3. To run on emulator, select the `i486` target and press the run button
+4. To build for the device, select the `armv7hl` target and click “deploy all”;
+   the RPM packages will be in the `RPMS` folder
 
-    harbour-opal-gallery is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+If you contribute, please do not forget to add yourself to the list of
+contributors in [qml/pages/AboutOpalPage.qml](qml/pages/AboutOpalPage.qml)!
 
-    You should have received a copy of the GNU General Public License
-    along with harbour-opal-gallery.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+## Module licensing
 
 All Opal [modules](https://github.com/Pretty-SFOS/opal/blob/main/README.md) have
 their own licensing. You can find more information about each module by opening
-their "About" pages in the Gallery app, or simply refer to the respective
+their “About” pages in the Gallery app, or simply refer to the respective
 repositories.
 
 All documentation is released under the terms of the
 [GFDL-1.3-or-later](https://spdx.org/licenses/GFDL-1.3-or-later.html).
 
-    Permission is granted to copy, distribute and/or modify this document
-    under the terms of the GNU Free Documentation License, Version 1.3
-    or any later version published by the Free Software Foundation;
-    with the Invariant Sections being [none yet], with the Front-Cover Texts
-    being [none yet], and with the Back-Cover Texts being [none yet].
-    You should have received a copy of the GNU Free Documentation License
-    along with this document.  If not, see <http://www.gnu.org/licenses/>.
+> Permission is granted to copy, distribute and/or modify this document
+> under the terms of the GNU Free Documentation License, Version 1.3
+> or any later version published by the Free Software Foundation;
+> with the Invariant Sections being \[none yet\], with the Front-Cover Texts
+> being \[none yet\], and with the Back-Cover Texts being \[none yet\].
+> You should have received a copy of the GNU Free Documentation License
+> along with this document.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+## Donations
+
+If you want to support my work, I am always happy if you buy me a cup of coffee
+through [Liberapay](https://liberapay.com/ichthyosaurus).
+
+Of course it would be much appreciated as well if you support this project by
+contributing to translations or code! See above how you can contribute 🎕.
+
+
+## License
+
+> Copyright (C) 2021-2023  Mirian Margiani
+
+Opal Gallery is Free Software released under the terms of the
+[GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
+The source code is available [on Github](https://github.com/Pretty-SFOS/opal-gallery).
+All documentation is released under the terms of the
+[GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
+
+This project follows the [REUSE specification](https://api.reuse.software/info/github.com/Pretty-SFOS/opal-gallery).
