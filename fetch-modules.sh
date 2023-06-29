@@ -29,6 +29,7 @@ rm -rf "$base/libs/opal-translations" && mkdir -p "$base/libs/opal-translations"
 rm -rf "$base/qml/module-pages" && mkdir -p "$base/qml/module-pages"
 
 list_elements=()
+attribution_elements=()
 
 for module in "${cQML_MODULES[@]}"; do
     cd "$base"
@@ -96,6 +97,11 @@ for module in "${cQML_MODULES[@]}"; do
             sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\",
             examplePage: \"opal-$module/$(./release-module.sh -c nameStyled).qml\"
         },")
+
+    fullNameStyled="$(./release-module.sh -c fullNameStyled)"
+    attribution_elements+=("\
+        ${fullNameStyled//./}Attribution {},")
+
     cd "$base"
 done
 
@@ -105,6 +111,12 @@ cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal-
     <(printf "%s\n" "${list_elements[@]}" | head -n -1; echo '        }') \
     <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal-gallery.qml) \
         | sponge qml/harbour-opal-gallery.qml
+
+echo "configuring qml/pages/AboutOpalPage.qml..."
+cat <(awk '/>>> GENERATED LIST OF ATTRIBUTIONS/ {s=1;print $0;} !s' qml/pages/AboutOpalPage.qml) \
+    <(printf "%s\n" "${attribution_elements[@]}" | sed -Ee '$ s/},/}/g') \
+    <(awk '/<<< GENERATED LIST OF ATTRIBUTIONS/ {s=1;} s' qml/pages/AboutOpalPage.qml) \
+        | sponge qml/pages/AboutOpalPage.qml
 
 cd "$base/libs"
 echo "merging translations..."

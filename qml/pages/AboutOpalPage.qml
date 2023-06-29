@@ -7,6 +7,7 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0 as S
 import Opal.About 1.0 as A
+import "../modules/Opal/Attributions"
 
 A.AboutPageBase {
     id: root
@@ -26,7 +27,13 @@ A.AboutPageBase {
     changelogList: Qt.resolvedUrl("../Changelog.qml")
 
     licenses: A.License { spdxId: "GPL-3.0-or-later" }
-    attributions: A.OpalAboutAttribution {}
+    attributions: [
+        //>>> GENERATED LIST OF ATTRIBUTIONS
+        OpalAboutAttribution {},
+        OpalInfoComboAttribution {},
+        OpalComboDataAttribution {}
+        //<<< GENERATED LIST OF ATTRIBUTIONS
+    ]
 
     donations.text: donations.defaultTextCoffee
     donations.services: A.DonationService {
