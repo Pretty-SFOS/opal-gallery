@@ -11,22 +11,22 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>rakenduse haldaja</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>veel üks oluline isik</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="23"/>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>täiendav nimi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="132"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Foorum</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="149"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="156"/>
@@ -450,7 +450,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava välise rakendusega</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
