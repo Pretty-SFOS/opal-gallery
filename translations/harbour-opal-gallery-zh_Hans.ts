@@ -41,7 +41,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>数据许可证</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="148"/>
@@ -438,12 +438,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished">外部链接</translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished">用浏览器打开</translation>
+        <translation>用浏览器打开</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -453,12 +453,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished">复制到剪贴板：%1</translation>
+        <translation>复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">复制到剪切板</translation>
+        <translation>复制到剪切板</translation>
     </message>
 </context>
 </TS>
