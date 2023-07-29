@@ -252,7 +252,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>This module provides a link handler to open or copy external links.</translation>
     </message>
 </context>
 <context>
@@ -450,7 +450,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Open externally</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>

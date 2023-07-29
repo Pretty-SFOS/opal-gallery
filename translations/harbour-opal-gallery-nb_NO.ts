@@ -440,12 +440,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished">Ekstern lenke</translation>
+        <translation>Ekstern lenke</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished">Åpne i nettleser</translation>
+        <translation>Åpne i nettleser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -455,12 +455,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished">Kopiert til utklippstavlen: %1</translation>
+        <translation>Kopiert til utklippstavlen: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Kopier til utklippstavlen</translation>
+        <translation>Kopier til utklippstavlen</translation>
     </message>
 </context>
 </TS>

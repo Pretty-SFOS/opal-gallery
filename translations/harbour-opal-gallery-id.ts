@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>pengelola aplikasi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
@@ -26,17 +26,17 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="132"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detil</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
@@ -344,17 +344,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Tautan luar</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka di browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin ke papan klip</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="48"/>
@@ -365,7 +365,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detil</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>
@@ -373,12 +373,12 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="142"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Beranda</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Disalin ke papan klip: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
@@ -389,7 +389,7 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Daftar perubahan</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="208"/>
@@ -425,12 +425,12 @@
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="34"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detil</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="74"/>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi</translation>
     </message>
 </context>
 <context>
@@ -438,12 +438,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Tautan luar</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka di browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -453,12 +453,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Disalin ke papan klip: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin ke papan klip</translation>
     </message>
 </context>
 </TS>

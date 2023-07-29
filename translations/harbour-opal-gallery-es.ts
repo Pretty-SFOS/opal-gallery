@@ -132,32 +132,32 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="38"/>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fruta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Plátano (Banana)</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pera</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionado</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>nada</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
@@ -167,12 +167,12 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>no hay detalles disponibles</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="111"/>
         <source>Index by value</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice por valor</translation>
     </message>
 </context>
 <context>
@@ -247,12 +247,12 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona una extensión para que los cuadros combinados accedan al valor actual en lugar de a la etiqueta.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona un controlador de enlaces para abrir o copiar enlaces externos.</translation>
     </message>
 </context>
 <context>
@@ -450,7 +450,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir externamente</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
