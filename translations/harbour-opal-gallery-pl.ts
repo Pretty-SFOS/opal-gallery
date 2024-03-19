@@ -21,17 +21,17 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="23"/>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>nazwa dodatkowa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="132"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="148"/>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatkowe informacje</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="149"/>
@@ -99,7 +99,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="81"/>
@@ -132,37 +132,37 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="38"/>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Owoc</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruszka</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczone</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>nic</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria</translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst licencji</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="21"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplikacji Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
@@ -224,7 +224,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="72"/>
@@ -270,10 +270,10 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="62"/>
         <source>License(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Licencja</numerusform>
             <numerusform>Licencje</numerusform>
-            <numerusform>Licencje</numerusform>
+            <numerusform>Licencji</numerusform>
         </translation>
     </message>
     <message>
@@ -311,7 +311,7 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="838"/>
         <source>show license(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>pokaż licencję</numerusform>
             <numerusform>pokaż licencje</numerusform>
             <numerusform>pokaż licencje</numerusform>
@@ -348,12 +348,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link Zewnętrzny</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz w przeglądarce</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
@@ -363,13 +363,13 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="48"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz tekst licencji</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>
@@ -377,12 +377,12 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="142"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona główna</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiowano do schowka: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
@@ -393,17 +393,17 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziennik zmian</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="208"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowości</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="209"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiany od wersji %1</translation>
     </message>
 </context>
 <context>
@@ -429,12 +429,12 @@
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="34"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="74"/>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcja</translation>
     </message>
 </context>
 <context>
@@ -442,22 +442,22 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link Zewnętrzny</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz w przeglądarce</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz za pomocą innej aplikacji</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiowano do schowka: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
