@@ -6,52 +6,52 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это краткое описание приложения, в котором может использоваться стилизованный и насыщенный текст или &lt;a href=&quot;https://example.org&quot;&gt;ссылки&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>сопровождающий приложения</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>другой важный человек</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="23"/>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>дополнительное название</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="132"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Форум</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="139"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия на работу с данными</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="148"/>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительная информация</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="149"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="156"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished">Дизайн иконок</translation>
+        <translation>Дизайн иконок</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="169"/>
@@ -76,17 +76,17 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished">Английский</translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished">Немецкий</translation>
+        <translation>Немецкий</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть другую страницу</translation>
     </message>
 </context>
 <context>
@@ -94,12 +94,12 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal - это набор красивых QML-компонентов для SailfishOS, созданный на основе компонентов Silica, используемых в Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Gallery</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="81"/>
@@ -109,22 +109,22 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="84"/>
         <source>English</source>
-        <translation type="unfinished">Английский</translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
         <source>German</source>
-        <translation type="unfinished">Немецкий</translation>
+        <translation>Немецкий</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
         <source>French</source>
-        <translation type="unfinished">Французский</translation>
+        <translation>Французский</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
         <source>Indonesian</source>
-        <translation type="unfinished">Индонезийский</translation>
+        <translation>Индонезийский</translation>
     </message>
 </context>
 <context>
@@ -132,47 +132,47 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="38"/>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Фрукт</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Банан</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Киви</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Груша</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>ничего</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробностей нет</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="111"/>
         <source>Index by value</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс по значению</translation>
     </message>
 </context>
 <context>
@@ -180,7 +180,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Галерея</translation>
     </message>
 </context>
 <context>
@@ -188,12 +188,12 @@
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие материалы могут быть включены в это место.</translation>
     </message>
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="18"/>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиктивная страница</translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст лицензии</translation>
     </message>
 </context>
 <context>
@@ -209,12 +209,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="21"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Об Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>для формы и функции</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
@@ -224,12 +224,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Gallery</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="72"/>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр и примеры</translation>
     </message>
 </context>
 <context>
@@ -237,22 +237,22 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="20"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный модуль предоставляет &lt;i&gt;AboutPageBase&lt;/i&gt; для построения настраиваемых информационных страниц приложения.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот модуль предоставляет комбобокс, который может отображать подробную информацию для каждого выбираемого варианта.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный модуль предоставляет расширение для комбобоксов, позволяющее получать доступ к текущему значению вместо метки.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот модуль предоставляет обработчик ссылок для открытия или копирования внешних ссылок.</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать детали</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="35"/>
@@ -270,10 +270,10 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="62"/>
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Лицензия</numerusform>
+            <numerusform>Лицензии</numerusform>
+            <numerusform>Лицензий</numerusform>
         </translation>
     </message>
     <message>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="815"/>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвования</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="825"/>
@@ -311,10 +311,10 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="838"/>
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>показать лицензию</numerusform>
+            <numerusform>показать лицензии</numerusform>
+            <numerusform>показать лицензии</numerusform>
         </translation>
     </message>
     <message>
@@ -333,7 +333,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="75"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание: для получения наиболее точной информации обращайтесь к исходному коду.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="77"/>
@@ -343,33 +343,33 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="95"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо вам!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешняя ссылка</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать в буфер обмена</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="48"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать тексты лицензий</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>
@@ -377,33 +377,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="142"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировано в буфер обмена: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>См. &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Список изменений</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="208"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Новости</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="209"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения начиная с версии %1</translation>
     </message>
 </context>
 <context>
@@ -411,17 +411,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="40"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы хотите поддержать мою работу, вы можете купить мне чашку кофе.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="53"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете поддержать этот проект, внеся свой вклад, или пожертвовать, используя любой из этих сервисов.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш вклад в перевод или код будет только приветствоваться.</translation>
     </message>
 </context>
 <context>
@@ -429,12 +429,12 @@
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="34"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="74"/>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр</translation>
     </message>
 </context>
 <context>
@@ -442,27 +442,27 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешняя ссылка</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть снаружи</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировано в буфер обмена: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать в буфер обмена</translation>
     </message>
 </context>
 </TS>
