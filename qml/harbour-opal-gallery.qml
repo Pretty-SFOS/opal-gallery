@@ -9,6 +9,7 @@ import Sailfish.Silica 1.0
 import "pages"
 
 import Opal.About 1.0 as A
+import Opal.SupportMe 1.0 as M
 
 ApplicationWindow
 {
@@ -27,10 +28,21 @@ ApplicationWindow
             examplePage: "opal-about/About.qml"
         },
         {
+            title: "Opal.SupportMe",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
+            appVersion: "1.0.1",
+            mainAttributions: ['2024 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme",
+            examplePage: "opal-supportme/SupportMe.qml"
+        },
+        {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
-            appVersion: "2.0.0",
-            mainAttributions: ['2023 Mirian Margiani'],
+            appVersion: "2.1.0",
+            mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -40,8 +52,8 @@ ApplicationWindow
         {
             title: "Opal.ComboData",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
-            appVersion: "2.0.0",
-            mainAttributions: ['2023 Mirian Margiani'],
+            appVersion: "2.1.0",
+            mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -64,6 +76,12 @@ ApplicationWindow
 
     A.ChangelogNews {
         changelogList: Qt.resolvedUrl("Changelog.qml")
+    }
+
+    M.AskForSupport {
+        contents: Component {
+            MySupportDialog {}
+        }
     }
 
     initialPage: Component { MainPage { } }
