@@ -30,7 +30,7 @@ ApplicationWindow
         {
             title: "Opal.SupportMe",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
-            appVersion: "1.0.1",
+            appVersion: "1.1.0",
             mainAttributions: ['2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
