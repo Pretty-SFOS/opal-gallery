@@ -19,7 +19,10 @@ done
 
 if (( ${#missing[@]} > 0 )); then
     echo "Please clone the following repositories next to opal-gallery (../opal-...):"
-    printf -- "- https://github.com/Pretty-SFOS/opal-%s\n" "${missing[@]}"
+    echo
+    printf -- "    git clone https://github.com/Pretty-SFOS/opal-%s && \\\\\n" "${missing[@]}"
+    echo "        echo 'all repositories cloned'"
+    echo
     exit 128
 fi
 
