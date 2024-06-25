@@ -40,8 +40,8 @@ ApplicationWindow
         {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
-            appVersion: "2.0.0",
-            mainAttributions: ['2023 Mirian Margiani'],
+            appVersion: "2.1.0",
+            mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -51,8 +51,8 @@ ApplicationWindow
         {
             title: "Opal.ComboData",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
-            appVersion: "2.0.0",
-            mainAttributions: ['2023 Mirian Margiani'],
+            appVersion: "2.1.0",
+            mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
