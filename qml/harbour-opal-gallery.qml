@@ -27,6 +27,17 @@ ApplicationWindow
             examplePage: "opal-about/About.qml"
         },
         {
+            title: "Opal.SupportMe",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
+            appVersion: "1.0.1",
+            mainAttributions: ['2024 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme",
+            examplePage: "opal-supportme/SupportMe.qml"
+        },
+        {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
             appVersion: "2.0.0",
