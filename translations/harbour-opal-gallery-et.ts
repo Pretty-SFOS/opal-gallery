@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>See on rakenduse lühikirjeldus. Teksti saad kujundada ning kasutada &lt;a href=&quot;https://example.org&quot;&gt;linke&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="22"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/About.qml" line="186"/>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava veel üks vaade</translation>
     </message>
 </context>
 <context>
@@ -94,12 +94,12 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal on Sailfish Silica&apos;l põhinev kenade QML&apos;i komponentide kogu Sailfish OS&apos;i jaoks.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Gallery</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="82"/>
@@ -140,32 +140,32 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="38"/>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Puuvili</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banaan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiivi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pirn</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitud</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>mitte midagi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
@@ -175,12 +175,12 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>lisateave puudub</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="111"/>
         <source>Index by value</source>
-        <translation type="unfinished"></translation>
+        <translation>Indekseeri väärtuse alusel</translation>
     </message>
 </context>
 <context>
@@ -209,12 +209,12 @@
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siin võiks olla muud sisu.</translation>
     </message>
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="18"/>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Näidisleht</translation>
     </message>
 </context>
 <context>
@@ -230,12 +230,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="21"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Teave Opal&apos;i kohta</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>sisu ja vormi jaoks</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
@@ -245,7 +245,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="27"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Gallery</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="72"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="21"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul on kasutatav &lt;i&gt;Näidislehena&lt;/i&gt; rakenduse infovaadete loomiseks.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="32"/>
@@ -268,17 +268,17 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="43"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul on kasutatav näidisena kombineeritud valikukasti jaoks, kus iga valiku kohta saab kuvada lisateavet.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="54"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul on kasutatav näidisena keerukama kombineeritud valikukasti jaoks, mis oskab kirje kohta kuvada nime asemel väärtust.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="65"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul on kasutatav näidisena väliste linkide avamiseks või kopeerimiseks.</translation>
     </message>
 </context>
 <context>
