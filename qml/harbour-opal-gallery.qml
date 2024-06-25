@@ -9,6 +9,7 @@ import Sailfish.Silica 1.0
 import "pages"
 
 import Opal.About 1.0 as A
+import Opal.SupportMe 1.0 as M
 
 ApplicationWindow
 {
@@ -75,6 +76,12 @@ ApplicationWindow
 
     A.ChangelogNews {
         changelogList: Qt.resolvedUrl("Changelog.qml")
+    }
+
+    M.AskForSupport {
+        contents: Component {
+            MySupportDialog {}
+        }
     }
 
     initialPage: Component { MainPage { } }
