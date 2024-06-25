@@ -102,29 +102,37 @@
         <translation>Galerie Opal</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="81"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="82"/>
         <source>Translations</source>
         <translation>Traductions</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="84"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="85"/>
         <source>English</source>
         <translation>anglais</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="89"/>
         <source>German</source>
         <translation>allemand</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="93"/>
         <source>French</source>
         <translation>français</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="97"/>
         <source>Indonesian</source>
         <translation>indonésien</translation>
+    </message>
+</context>
+<context>
+    <name>AskForSupport</name>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -184,6 +192,19 @@
     </message>
 </context>
 <context>
+    <name>DetailsDrawer</name>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <source>show less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <source>show more</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EmptyDummyPage</name>
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
@@ -235,23 +256,91 @@
 <context>
     <name>ModuleDescriptions</name>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="20"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="21"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="32"/>
+        <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="43"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="54"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="65"/>
         <source>This module provides a link handler to open or copy external links.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MySupportDialog</name>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <source>Donate on Liberapay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="15"/>
+        <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="22"/>
+        <source>Translate on Weblate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="23"/>
+        <source>Help with translating this app in as many languages as possible.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <source>Develop on Github</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="31"/>
+        <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="37"/>
+        <source>Why should you care?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="40"/>
+        <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="46"/>
+        <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="56"/>
+        <source>Why donate?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="59"/>
+        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="64"/>
+        <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -425,42 +514,133 @@
 <context>
     <name>Opal.InfoCombo</name>
     <message>
-        <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="34"/>
+        <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="39"/>
         <source>Details</source>
         <translation>Détails</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/InfoCombo/private/InfoComboPage.qml" line="74"/>
-        <source>Option</source>
-        <translation>Option</translation>
     </message>
 </context>
 <context>
     <name>Opal.LinkHandler</name>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
+        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
         <translation>Lien externe</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
+        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
         <translation>Ouvrir dans le navigateur</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
+        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
+        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
         <translation>Copié dans le presse-papiers&amp;nbsp;: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
+        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
         <translation>Copier dans le presse-papiers</translation>
+    </message>
+</context>
+<context>
+    <name>SupportDialog</name>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
+        <source>Hi there!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
+        <source>Thank you for using my little app! Maybe you can contribute back?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
+        <source>Thank you for your support!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <source>Remind me later</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <source>Don&apos;t ask me again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SupportMe</name>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="14"/>
+        <source>Donate on Liberapay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="15"/>
+        <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="22"/>
+        <source>Translate on Weblate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="23"/>
+        <source>Help with translating this app in as many languages as possible.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="30"/>
+        <source>Develop on Github</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="31"/>
+        <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="37"/>
+        <source>Why should you care?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="40"/>
+        <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="46"/>
+        <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="56"/>
+        <source>Why donate?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="59"/>
+        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="64"/>
+        <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
