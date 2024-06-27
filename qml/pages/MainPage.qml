@@ -40,6 +40,21 @@ Page {
             // translations must be prepared with QT_TRANSLATE_NOOP
             property string translatedDescription: qsTranslate("ModuleDescriptions", modelData.description)
 
+            function showAboutPage() {
+                pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
+                    appName: modelData.title,
+                    description: listItem.translatedDescription,
+                    mainAttributions: modelData.mainAttributions,
+                    appVersion: modelData.appVersion,
+                    mainLicenseSpdx: modelData.mainLicenseSpdx,
+                    sourcesUrl: modelData.sourcesUrl
+                })
+            }
+
+            function showExamplePage() {
+                pageStack.push(Qt.resolvedUrl("../module-pages/" + modelData.examplePage))
+            }
+
             Column {
                 id: contents
                 width: parent.width - 2*Theme.horizontalPageMargin
@@ -70,18 +85,11 @@ Page {
                 ContextMenu {
                     MenuItem {
                         text: qsTr("Preview and Examples")
-                        onClicked: pageStack.push(Qt.resolvedUrl("../module-pages/"+modelData.examplePage))
+                        onClicked: listItem.showExamplePage()
                     }
                     MenuItem {
                         text: qsTr("About")
-                        onClicked: pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
-                                                      appName: modelData.title,
-                                                      description: listItem.translatedDescription,
-                                                      mainAttributions: modelData.mainAttributions,
-                                                      appVersion: modelData.appVersion,
-                                                      mainLicenseSpdx: modelData.mainLicenseSpdx,
-                                                      sourcesUrl: modelData.sourcesUrl
-                                                  })
+                        onClicked: listItem.showAboutPage()
                     }
                 }
             }

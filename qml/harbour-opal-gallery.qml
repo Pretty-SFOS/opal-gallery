@@ -14,6 +14,13 @@ import Opal.SupportMe 1.0 as M
 ApplicationWindow
 {
     id: app
+
+    // During module development:
+    // Set this property to a module name. Its example
+    // page will be shown automatically when the app is
+    // ready. This is useful when developing using QmlLive.
+    property string develJumpToModule: ""
+
     property var modules: [
         //>>> GENERATED LIST OF MODULES
         {
@@ -87,4 +94,16 @@ ApplicationWindow
     initialPage: Component { MainPage { } }
     cover: Qt.resolvedUrl("cover/CoverPage.qml")
     allowedOrientations: defaultAllowedOrientations
+
+    Component.onCompleted: {
+        if (develJumpToModule === "") return
+
+        for (var i in modules) {
+            if (modules[i].title === develJumpToModule) {
+                pageStack.push(Qt.resolvedUrl(
+                    "module-pages/" + modules[i].examplePage))
+                break
+            }
+        }
+    }
 }
