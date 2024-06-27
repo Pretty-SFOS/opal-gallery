@@ -8,7 +8,7 @@
 
 # TODO error checking and handling
 
-cQML_MODULES=(about supportme infocombo combodata linkhandler)
+cQML_MODULES=(about supportme delegates infocombo combodata linkhandler)
 missing=()
 
 for module in "${cQML_MODULES[@]}"; do

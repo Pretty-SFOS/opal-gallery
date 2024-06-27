@@ -46,6 +46,17 @@ ApplicationWindow
             examplePage: "opal-supportme/SupportMe.qml"
         },
         {
+            title: "Opal.Delegates",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>Delegates</i> for use in QML views."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2023 Peter G (nephros)'],
+            maintainers: ['ichthyosaurus;nephros'],
+            contributors: [],
+            mainLicenseSpdx: "Apache-2.0",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates",
+            examplePage: "opal-delegates/Delegates.qml"
+        },
+        {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
             appVersion: "2.1.0",

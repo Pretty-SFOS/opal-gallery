@@ -58,6 +58,7 @@ A.AboutPageBase {
         //>>> GENERATED LIST OF ATTRIBUTIONS
         OpalAboutAttribution {},
         OpalSupportMeAttribution {},
+        OpalDelegatesAttribution {},
         OpalInfoComboAttribution {},
         OpalComboDataAttribution {},
         OpalLinkHandlerAttribution {}
