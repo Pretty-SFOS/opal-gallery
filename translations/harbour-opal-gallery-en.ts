@@ -263,7 +263,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="32"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>A dialog asking for contributions that is shown when a user has used your app for some time.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="43"/>
