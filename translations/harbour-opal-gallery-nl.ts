@@ -170,7 +170,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished">Informatie</translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/ComboData.qml" line="106"/>
@@ -456,7 +456,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
         <source>Details</source>
-        <translation type="unfinished">Informatie</translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>

@@ -196,12 +196,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>réduire</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>voir plus</translation>
     </message>
 </context>
 <context>
