@@ -48,11 +48,11 @@ ApplicationWindow
         {
             title: "Opal.Delegates",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>Delegates</i> for use in QML views."),
-            appVersion: "1.0.0",
-            mainAttributions: ['2023 Peter G (nephros)'],
-            maintainers: ['ichthyosaurus;nephros'],
+            appVersion: "3.0.0",
+            mainAttributions: ['2023 Peter G. (nephros)'],
+            maintainers: ['ichthyosaurus','nephros'],
             contributors: [],
-            mainLicenseSpdx: "Apache-2.0",
+            mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates",
             examplePage: "opal-delegates/Delegates.qml"
         },
