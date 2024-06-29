@@ -132,7 +132,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, tómese un momento para considerar si puede contribuir a este proyecto de una forma u otra.</translation>
     </message>
 </context>
 <context>
@@ -313,12 +313,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar menos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar más</translation>
     </message>
 </context>
 <context>
@@ -429,7 +429,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un cuadro de diálogo que solicita contribuciones y que se muestra cuando un usuario ha utilizado su aplicación durante algún tiempo.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
@@ -457,62 +457,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Donar en Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paga el importe de una taza de café, un trozo de pizza o una entrada para el teatro.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir en Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda a traducir esta aplicación al mayor número de idiomas posible.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollar en Github</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brinde soporte con mantenimiento y empaquetado, escriba código o proporcione valiosos informes de errores.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Por qué debería importarte?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este proyecto lo construye con amor y pasión un único desarrollador en su tiempo libre y se lo proporciona de forma gratuita.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollo software libre por convicción ética y por la alegría de este hobby. Sin embargo, el desarrollo de software requiere mucho tiempo y esfuerzo. Dado que Sailfish y la vida en general cuestan mucho dinero, cuento con vuestro apoyo para poder dedicar tiempo a proyectos no remunerados como este.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Por qué donar?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla subió los precios y está intentando obligar a los promotores (que trabajan gratis) a pagar el alquiler de Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si puedes permitírtelo, donar es la forma más fácil de asegurarme de que puedo seguir trabajando en aplicaciones para Sailfish. Se agradece cualquier cantidad, ya sea una taza de café, una porción de pizza o más.</translation>
     </message>
 </context>
 <context>
@@ -728,27 +728,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Hola!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Gracias por usar mi pequeña aplicación! ¿Quizás puedas contribuir?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Gracias por tu apoyo!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuérdame más tarde</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>No me lo vuelvas a preguntar</translation>
     </message>
 </context>
 <context>
@@ -756,62 +756,62 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Donar en Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paga el importe de una taza de café, un trozo de pizza o una entrada para el teatro.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir en Weblate</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda a traducir esta aplicación al mayor número de idiomas posible.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollar en Github</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brinde soporte con mantenimiento y empaquetado, escriba código o proporcione valiosos informes de errores.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Por qué debería importarte?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este proyecto lo construye con amor y pasión un único desarrollador en su tiempo libre y se lo proporciona de forma gratuita.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollo software libre por convicción ética y por la alegría de este hobby. Sin embargo, el desarrollo de software requiere mucho tiempo y esfuerzo. Dado que Sailfish y la vida en general cuestan mucho dinero, cuento con vuestro apoyo para poder dedicar tiempo a proyectos no remunerados como este.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Por qué donar?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla subió los precios y está intentando obligar a los promotores (que trabajan gratis) a pagar el alquiler de Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/SupportMe.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si puedes permitírtelo, donar es la forma más fácil de asegurarme de que puedo seguir trabajando en aplicaciones para Sailfish. Se agradece cualquier cantidad, ya sea una taza de café, una porción de pizza o más.</translation>
     </message>
 </context>
 </TS>
