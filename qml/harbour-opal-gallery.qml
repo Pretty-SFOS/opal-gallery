@@ -19,6 +19,9 @@ ApplicationWindow
     // Set this property to a module name. Its example
     // page will be shown automatically when the app is
     // ready. This is useful when developing using QmlLive.
+    //
+    // Example:
+    //    develJumpToModule: "Opal.SupportMe"
     property string develJumpToModule: ""
 
     property var modules: [
@@ -47,9 +50,9 @@ ApplicationWindow
         },
         {
             title: "Opal.Delegates",
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>Delegates</i> for use in QML views."),
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation."),
             appVersion: "3.0.0",
-            mainAttributions: ['2023 Peter G. (nephros)'],
+            mainAttributions: ['2023 Peter G. (nephros), 2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus','nephros'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
