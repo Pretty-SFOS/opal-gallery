@@ -105,6 +105,13 @@ for module in "${cQML_MODULES[@]}"; do
     attribution_elements+=("\
         ${fullNameStyled//./}Attribution {},")
 
+    mkdir -p "$base/dist/screenshots-weblate/opal-$module"
+
+    shopt -s nullglob
+    for i in doc/screenshot-*.webp; do
+        cp "$i" "$base/dist/screenshots-weblate/opal-$module"
+    done
+
     cd "$base"
 done
 
