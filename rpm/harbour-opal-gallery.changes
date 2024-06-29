@@ -10,6 +10,15 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sat Jun 29 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.4.0-1
+- updated translations: English, Swedish, Estonian, Chinese, Ukrainian, Indonesian, Spanish, Russian, Polish, French
+- added Opal.SupportMe v1.1.0
+- added Opal.Delegates v3.0.0
+- added Opal.LinkHandler v2.0.0
+- updated Opal.About to v2.2.0
+- updated Opal.InfoCombo to v2.1.0
+- updated Opal.ComboData to v2.1.0
+
 * Fri Jun 23 2023 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.3.0-1
 - updated translations: Swedish, Spanish, French, and many more
 - added Opal.ComboData v1.0.0

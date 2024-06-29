@@ -8,6 +8,15 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.4.0-1"
+        date: "2024-06-29"
+        paragraphs: [
+            "<i>Translations:</i> English, Swedish, Estonian, Chinese, Ukrainian, Indonesian, Spanish, Russian, Polish, French have been updated from modules.",
+            "<i>Modules:</i> the new Opal.SupportMe, Opal.Delegates, and Opal.LinkHandler modules have been added. All other modules have been updated to the latest version.",
+            "<i>New support page: a new call for support has been added, built with the Opal.SupportMe module."
+        ]
+    }
+    ChangelogItem {
         version: "1.3.0"
         date: "2023-06-23"
         paragraphs: [
