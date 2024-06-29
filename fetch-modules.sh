@@ -112,6 +112,8 @@ for module in "${cQML_MODULES[@]}"; do
         cp "$i" "$base/dist/screenshots-weblate/opal-$module"
     done
 
+    rmdir --ignore-fail-on-non-empty "$base/dist/screenshots-weblate/opal-$module"
+
     cd "$base"
 done
 
