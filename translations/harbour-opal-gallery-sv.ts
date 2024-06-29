@@ -429,7 +429,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="42"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>En dialogruta, som visas när en användare har använt appen under en viss tid, där du uppmanas att bidra.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
