@@ -140,17 +140,17 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="12"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>Jane</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="13"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>en línea</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="14"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>ayer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="15"/>
