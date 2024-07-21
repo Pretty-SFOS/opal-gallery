@@ -140,62 +140,62 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="12"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>Jane</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="13"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>en línea</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="14"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>ayer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="15"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@John: ¿quedan patatas?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="19"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>John</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="20"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>ocupado</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="21"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace 2 horas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="22"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo siento, @Jane, me los comí todos. Haré otros el sábado.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="26"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="27"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>lejos</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="28"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace 32 min</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="29"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>@Jane, ven, ¡tengo algunos listos ahora mismo!</translation>
     </message>
 </context>
 <context>
@@ -260,52 +260,52 @@
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="23"/>
         <source>Example action</source>
         <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ejemplo de acción</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="49"/>
         <source>Anatomy</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="53"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los delegados se basan en el componente “PaddedDelegate”. Proporciona relleno exterior en todos los lados, así como tres partes de contenido opcionales: izquierda, centro y derecha.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="110"/>
         <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las filas se pueden destacar alternadamente para hacerlas más distintas.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="116"/>
         <source>Emphasize rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfatizar filas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="125"/>
         <source>This component has only one content line. Left and right contents can be customized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este componente tiene solo una línea de contenido. Los contenidos izquierdo y derecho se pueden personalizar.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="171"/>
         <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este componente tiene dos líneas de contenido. Los ítems izquierdo y derecho usan “DelegateIconItem” y “DelegateInfoItem” respectivamente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="190"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>por kg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="205"/>
         <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este componente tiene tres líneas de contenido. Todas las líneas son opcionales y estarán ocultas si están vacías.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/Delegates.qml" line="226"/>
         <source>All contents can be customized. Complex content items are possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo el contenido se puede personalizar. Los elementos complejos de contenido son posibles.</translation>
     </message>
 </context>
 <context>
@@ -339,48 +339,48 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Manzana</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="14"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una fruta jugosa con una nota agria. Perfecto para ensaladas de frutas.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="15"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation>¡La mejor contra los médicos!</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="19"/>
         <source>Banana</source>
-        <translation type="unfinished">Plátano (Banana)</translation>
+        <translation>Banana</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="21"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una fruta amarilla preferida por monos y humanos.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="22"/>
         <source>Only today: two for one!</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo hoy: ¡dos por uno!</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="25"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Una cesta llena de frutas exóticas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="28"/>
         <source>Special gift!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Regalo especial!</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="31"/>
         <source>Peanut butter</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantequilla de cacahuete</translation>
     </message>
 </context>
 <context>
@@ -434,7 +434,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="53"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona elementos de lista para las vistas, para que pueda concentrarse en el manejo de los datos, sin formatear la presentación.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="64"/>
