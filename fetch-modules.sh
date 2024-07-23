@@ -52,7 +52,7 @@ for module in "${cQML_MODULES[@]}"; do
     tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml"
 
     mkdir -p "$base/qml/module-pages/opal-$module"
-    cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/$(./release-module.sh -c nameStyled).qml"
+    cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/gallery.qml"
 
     extras=($(./release-module.sh -c extraGalleryPages))
 
@@ -98,7 +98,7 @@ for module in "${cQML_MODULES[@]}"; do
             contributors: [$(printf -- "'%s'," "${authors[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\",
             sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\",
-            examplePage: \"opal-$module/$(./release-module.sh -c nameStyled).qml\"
+            examplePage: \"opal-$module/gallery.qml\"
         },")
 
     fullNameStyled="$(./release-module.sh -c fullNameStyled)"

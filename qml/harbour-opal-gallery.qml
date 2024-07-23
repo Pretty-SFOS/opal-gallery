@@ -35,7 +35,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about",
-            examplePage: "opal-about/About.qml"
+            examplePage: "opal-about/gallery.qml"
         },
         {
             title: "Opal.SupportMe",
@@ -46,7 +46,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme",
-            examplePage: "opal-supportme/SupportMe.qml"
+            examplePage: "opal-supportme/gallery.qml"
         },
         {
             title: "Opal.Delegates",
@@ -57,7 +57,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates",
-            examplePage: "opal-delegates/Delegates.qml"
+            examplePage: "opal-delegates/gallery.qml"
         },
         {
             title: "Opal.InfoCombo",
@@ -68,7 +68,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo",
-            examplePage: "opal-infocombo/InfoCombo.qml"
+            examplePage: "opal-infocombo/gallery.qml"
         },
         {
             title: "Opal.ComboData",
@@ -79,7 +79,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata",
-            examplePage: "opal-combodata/ComboData.qml"
+            examplePage: "opal-combodata/gallery.qml"
         },
         {
             title: "Opal.LinkHandler",
@@ -90,7 +90,7 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler",
-            examplePage: "opal-linkhandler/LinkHandler.qml"
+            examplePage: "opal-linkhandler/gallery.qml"
         }
         //<<< GENERATED LIST OF MODULES
     ]
