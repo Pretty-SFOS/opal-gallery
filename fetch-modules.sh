@@ -113,7 +113,7 @@ for module in "${cQML_MODULES[@]}"; do
             description: QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\"
             examplePage: \"opal-$module/gallery.qml\"
-            section: qsTr(\"Released modules\")
+            section: \"released\"
         }")
 
     fullNameStyled="$(./release-module.sh -c fullNameStyled)"

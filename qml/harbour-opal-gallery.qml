@@ -97,7 +97,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-about/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         ListElement {
             key: "opal-supportme"
@@ -105,7 +105,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-supportme/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         ListElement {
             key: "opal-delegates"
@@ -113,7 +113,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-delegates/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         ListElement {
             key: "opal-infocombo"
@@ -121,7 +121,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-infocombo/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         ListElement {
             key: "opal-combodata"
@@ -129,7 +129,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-combodata/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         ListElement {
             key: "opal-linkhandler"
@@ -137,7 +137,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-linkhandler/gallery.qml"
-            section: qsTr("Released modules")
+            section: "released"
         }
         //<<< GENERATED LIST OF MODULES
     }

@@ -35,8 +35,52 @@ Page {
             property: "section"
             labelPositioning: ViewSection.InlineLabels
             delegate: Component {
-                SectionHeader {
-                    text: section
+                Column {
+                    x: Theme.horizontalPageMargin
+                    height: Math.max(Theme.itemSizeSmall, childrenRect.height
+                                     + Theme.paddingMedium)
+                    width: (parent ? parent.width : Screen.width) - x*2
+                    spacing: Theme.paddingSmall
+
+                    Label {
+                        width: parent.width
+                        topPadding: Theme.paddingMedium
+                        verticalAlignment: Text.AlignVCenter
+                        horizontalAlignment: Text.AlignRight
+                        font.pixelSize: Theme.fontSizeSmall
+                        truncationMode: TruncationMode.Fade
+                        color: palette.highlightColor
+
+                        text: {
+                            if (section == "released") {
+                                qsTr("Released modules")
+                            } else if (section == "development") {
+                                qsTr("In development")
+                            } else {
+                                section
+                            }
+                        }
+                    }
+
+                    Label {
+                        width: parent.width
+                        horizontalAlignment: Text.AlignLeft
+                        font.pixelSize: Theme.fontSizeSmall
+                        wrapMode: Text.Wrap
+                        color: palette.secondaryHighlightColor
+
+                        text: {
+                            if (section == "released") {
+                                qsTr("These modules are finished and are ready to " +
+                                     "be used in your apps. They are fully documented " +
+                                     "in the Sailfish IDE.")
+                            } else if (section == "development") {
+                                qsTr("These are development previews of new " +
+                                     "and unfinished modules. Documentation is " +
+                                     "missing and APIs may change.")
+                            }
+                        }
+                    }
                 }
             }
         }
