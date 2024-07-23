@@ -19,7 +19,23 @@ A.AboutPageBase {
     appVersion: ""
     appRelease: ""
     description: ""
-    mainAttributions: ""
+    mainAttributions: []
     property string mainLicenseSpdx: ""
     sourcesUrl: ""
+
+    property var maintainers: []
+    property var contributors: []
+
+    contributionSections: A.ContributionSection {
+        groups: [
+            A.ContributionGroup {
+                title: qsTr("Maintainers")
+                entries: maintainers
+            },
+            A.ContributionGroup {
+                title: qsTr("Contributors")
+                entries: contributors
+            }
+        ]
+    }
 }
