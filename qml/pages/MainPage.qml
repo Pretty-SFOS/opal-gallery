@@ -30,6 +30,17 @@ Page {
 
         model: app.modules
 
+        section {
+            criteria: ViewSection.FullString
+            property: "section"
+            labelPositioning: ViewSection.InlineLabels
+            delegate: Component {
+                SectionHeader {
+                    text: section
+                }
+            }
+        }
+
         delegate: ListItem {
             id: listItem
             contentHeight: Math.max(Theme.itemSizeExtraLarge,
@@ -37,22 +48,22 @@ Page {
             menu: contextMenu
             onClicked: openMenu()
 
+            property string key: model.key
+            property string title: model.title
+            property string description: model.description
+            property string mainLicenseSpdx: model.mainLicenseSpdx
+            property string examplePage: model.examplePage
+            property string section: model.section
+
             // translations must be prepared with QT_TRANSLATE_NOOP
-            property string translatedDescription: qsTranslate("ModuleDescriptions", modelData.description)
+            property string translatedDescription: qsTranslate("ModuleDescriptions", description)
 
             function showAboutPage() {
-                pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), {
-                    appName: modelData.title,
-                    description: listItem.translatedDescription,
-                    mainAttributions: modelData.mainAttributions,
-                    appVersion: modelData.appVersion,
-                    mainLicenseSpdx: modelData.mainLicenseSpdx,
-                    sourcesUrl: modelData.sourcesUrl
-                })
+                pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), app.moduleDetails[key])
             }
 
             function showExamplePage() {
-                pageStack.push(Qt.resolvedUrl("../module-pages/" + modelData.examplePage))
+                pageStack.push(Qt.resolvedUrl("../module-pages/" + examplePage))
             }
 
             Column {
@@ -64,7 +75,7 @@ Page {
                 }
 
                 Label {
-                    text: modelData.title
+                    text: title
                     wrapMode: Text.Wrap
                     width: parent.width
                 }
