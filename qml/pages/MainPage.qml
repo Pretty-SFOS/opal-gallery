@@ -6,6 +6,7 @@
 
 import QtQuick 2.0
 import Sailfish.Silica 1.0
+import Opal.Delegates 1.0 as D
 
 Page {
     id: page
@@ -90,64 +91,83 @@ Page {
             }
         }
 
-        delegate: ListItem {
+        delegate: D.ThreeLineDelegate {
             id: listItem
-            contentHeight: Math.max(Theme.itemSizeExtraLarge,
-                                    contents.height+2*Theme.paddingMedium)
-            menu: contextMenu
-            onClicked: openMenu()
-
-            property string key: model.key
-            property string title: model.title
-            property string description: model.description
-            property string mainLicenseSpdx: model.mainLicenseSpdx
-            property string examplePage: model.examplePage
-            property string section: model.section
+            property string _key: model.key
+            property string _title: model.title
+            property string _description: model.description
+            property string _mainLicenseSpdx: model.mainLicenseSpdx
+            property string _examplePage: model.examplePage
+            property string _section: model.section
 
             // translations must be prepared with QT_TRANSLATE_NOOP
-            property string translatedDescription: qsTranslate("ModuleDescriptions", description)
+            property string _translatedDescription: qsTranslate("ModuleDescriptions", _description)
 
             function showAboutPage() {
-                pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), app.moduleDetails[key])
+                pageStack.push(Qt.resolvedUrl("AboutModulePageBase.qml"), app.moduleDetails[_key])
             }
 
             function showExamplePage() {
-                pageStack.push(Qt.resolvedUrl("../module-pages/" + examplePage))
+                pageStack.push(Qt.resolvedUrl("../module-pages/" + _examplePage))
             }
 
-            Column {
-                id: contents
-                width: parent.width - 2*Theme.horizontalPageMargin
-                anchors {
-                    horizontalCenter: parent.horizontalCenter
-                    top: parent.top; topMargin: Theme.paddingSmall
-                }
+            title: _title
+            text: _translatedDescription
+            description: _mainLicenseSpdx
 
-                Label {
-                    text: title
-                    wrapMode: Text.Wrap
-                    width: parent.width
-                }
+            menu: contextMenu
+            onClicked: openMenu()
 
-                Label {
-                    text: listItem.translatedDescription
-                    font.pixelSize: Theme.fontSizeSmall
-                    color: highlighted ? Theme.secondaryHighlightColor
-                                       : Theme.secondaryColor
-                    wrapMode: Text.Wrap
-                    textFormat: Text.StyledText
-                    width: parent.width
+            titleLabel {
+                wrapped: true
+                font.pixelSize: Theme.fontSizeMedium
+
+                palette {
+                    primaryColor: Theme.primaryColor
+                    highlightColor: Theme.highlightColor
+                }
+            }
+
+            textLabel {
+                wrapped: true
+                font.pixelSize: Theme.fontSizeExtraSmall
+
+                palette {
+                    primaryColor: Theme.secondaryColor
+                    highlightColor: Theme.secondaryHighlightColor
+                }
+            }
+
+            descriptionLabel {
+                font.pixelSize: Theme.fontSizeExtraSmall
+                opacity: Theme.opacityHigh
+
+                palette {
+                    primaryColor: Theme.secondaryColor
+                    highlightColor: Theme.secondaryHighlightColor
+                }
+            }
+
+            leftItem: D.DelegateIconItem {
+                source: "../images/icon-m-opal.png"
+                opacity: {
+                    if (highlighted) 0.9
+                    else if (section === "released") Math.max(0.5, 1.0 - index * 0.05)
+                    else if (section === "development") Math.max(0.3, 0.5 - index * 0.01)
+                    else Math.max(0.5, 0.8 - index * 0.01)
                 }
             }
 
             Component {
                 id: contextMenu
+
                 ContextMenu {
                     MenuItem {
                         text: qsTr("Preview and Examples")
                         onClicked: listItem.showExamplePage()
                     }
                     MenuItem {
+                        visible: !!app.moduleDetails[_key]
                         text: qsTr("About")
                         onClicked: listItem.showAboutPage()
                     }
