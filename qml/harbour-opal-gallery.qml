@@ -62,7 +62,7 @@ ApplicationWindow
         {
             title: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
-            appVersion: "2.1.0",
+            appVersion: "2.2.0",
             mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
