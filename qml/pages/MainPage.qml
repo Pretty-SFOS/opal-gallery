@@ -95,9 +95,9 @@ Page {
             id: listItem
             property string _key: model.key
             property string _title: model.title
-            property string _description: model.description
-            property string _mainLicenseSpdx: model.mainLicenseSpdx
-            property string _examplePage: model.examplePage
+            property string _description: model.description || ""
+            property string _mainLicenseSpdx: model.mainLicenseSpdx || ""
+            property string _examplePage: model.examplePage || ""
             property string _section: model.section
 
             // translations must be prepared with QT_TRANSLATE_NOOP
@@ -115,8 +115,12 @@ Page {
             text: _translatedDescription
             description: _mainLicenseSpdx
 
-            menu: contextMenu
-            onClicked: openMenu()
+            menu: !!_examplePage || !!app.moduleDetails[_key] ?
+                contextMenu : dummyMenu
+            onClicked: openMenu({
+                showExampleFunc: !!_examplePage ? showExamplePage : null,
+                showAboutFunc: !!app.moduleDetails[_key] ? showAboutPage : null,
+            })
 
             titleLabel {
                 wrapped: true
@@ -157,21 +161,35 @@ Page {
                     else Math.max(0.5, 0.8 - index * 0.01)
                 }
             }
+        }
+    }
 
-            Component {
-                id: contextMenu
+    Component {
+        id: contextMenu
 
-                ContextMenu {
-                    MenuItem {
-                        text: qsTr("Preview and Examples")
-                        onClicked: listItem.showExamplePage()
-                    }
-                    MenuItem {
-                        visible: !!app.moduleDetails[_key]
-                        text: qsTr("About")
-                        onClicked: listItem.showAboutPage()
-                    }
-                }
+        ContextMenu {
+            property var showExampleFunc: null
+            property var showAboutFunc: null
+
+            MenuItem {
+                visible: !!showExampleFunc
+                text: qsTr("Preview and Examples")
+                onClicked: showExampleFunc()
+            }
+            MenuItem {
+                visible: !!showAboutFunc
+                text: qsTr("About")
+                onClicked: showAboutFunc()
+            }
+        }
+    }
+
+    Component {
+        id: dummyMenu
+
+        ContextMenu {
+            MenuLabel {
+                text: qsTr("No examples available")
             }
         }
     }
