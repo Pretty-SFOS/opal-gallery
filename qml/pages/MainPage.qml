@@ -62,6 +62,8 @@ Page {
                                 qsTr("Released modules")
                             } else if (section == "development") {
                                 qsTr("In development")
+                            } else if (section == "deprecated") {
+                                qsTr("Deprecated modules")
                             } else {
                                 section
                             }
@@ -84,6 +86,10 @@ Page {
                                 qsTr("These are development previews of new " +
                                      "and unfinished modules. Documentation is " +
                                      "missing and APIs may change.")
+                            } else if (section == "deprecated") {
+                                qsTr("These modules are no longer being developed " +
+                                     "and should not be used in new apps. There are " +
+                                     "better alternatives.")
                             }
                         }
                     }
@@ -158,6 +164,7 @@ Page {
                     if (highlighted) 0.9
                     else if (section === "released") Math.max(0.5, 1.0 - index * 0.05)
                     else if (section === "development") Math.max(0.3, 0.5 - index * 0.01)
+                    else if (section === "deprecated") Math.max(0.2, 0.4 - index * 0.01)
                     else Math.max(0.5, 0.8 - index * 0.01)
                 }
             }
