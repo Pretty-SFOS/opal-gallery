@@ -28,6 +28,11 @@ Page {
             description: qsTr("for form and function")
         }
 
+        footer: Item {
+            width: parent.width
+            height: Theme.horizontalPageMargin
+        }
+
         model: app.modules
 
         section {
