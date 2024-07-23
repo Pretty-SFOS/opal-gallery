@@ -24,76 +24,123 @@ ApplicationWindow
     //    develJumpToModule: "Opal.SupportMe"
     property string develJumpToModule: ""
 
-    property var modules: [
-        //>>> GENERATED LIST OF MODULES
-        {
-            title: "Opal.About",
+    property var moduleDetails: ({
+        //>>> GENERATED LIST OF MODULE DETAILS
+        "opal-about": {
+            appName: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
             appVersion: "2.2.0",
             mainAttributions: ['2018-2023 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-about",
-            examplePage: "opal-about/gallery.qml"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
         },
-        {
-            title: "Opal.SupportMe",
+        "opal-supportme": {
+            appName: "Opal.SupportMe",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
             appVersion: "1.1.0",
             mainAttributions: ['2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme",
-            examplePage: "opal-supportme/gallery.qml"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme"
         },
-        {
-            title: "Opal.Delegates",
+        "opal-delegates": {
+            appName: "Opal.Delegates",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation."),
             appVersion: "3.0.0",
-            mainAttributions: ['2023 Peter G. (nephros), 2024 Mirian Margiani'],
-            maintainers: ['ichthyosaurus','nephros'],
-            contributors: [],
+            mainAttributions: ['2023 Peter G. (nephros)','2024 Mirian Margiani'],
+            maintainers: ['ichthyosaurus'],
+            contributors: ['nephros'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates",
-            examplePage: "opal-delegates/gallery.qml"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates"
         },
-        {
-            title: "Opal.InfoCombo",
+        "opal-infocombo": {
+            appName: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
             appVersion: "2.2.0",
             mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo",
-            examplePage: "opal-infocombo/gallery.qml"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo"
         },
-        {
-            title: "Opal.ComboData",
+        "opal-combodata": {
+            appName: "Opal.ComboData",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
             appVersion: "2.1.0",
             mainAttributions: ['2023-2024 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata",
-            examplePage: "opal-combodata/gallery.qml"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata"
         },
-        {
-            title: "Opal.LinkHandler",
+        "opal-linkhandler": {
+            appName: "Opal.LinkHandler",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
             appVersion: "2.0.0",
             mainAttributions: ['2020-2023 Mirian Margiani'],
             maintainers: ['ichthyosaurus'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler"
+        }
+        //<<< GENERATED LIST OF MODULE DETAILS
+    })
+
+    property ListModel modules: ListModel {
+        //>>> GENERATED LIST OF MODULES
+        ListElement {
+            key: "opal-about"
+            title: "Opal.About"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-about/gallery.qml"
+            section: qsTr("Released modules")
+        }
+        ListElement {
+            key: "opal-supportme"
+            title: "Opal.SupportMe"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-supportme/gallery.qml"
+            section: qsTr("Released modules")
+        }
+        ListElement {
+            key: "opal-delegates"
+            title: "Opal.Delegates"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-delegates/gallery.qml"
+            section: qsTr("Released modules")
+        }
+        ListElement {
+            key: "opal-infocombo"
+            title: "Opal.InfoCombo"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-infocombo/gallery.qml"
+            section: qsTr("Released modules")
+        }
+        ListElement {
+            key: "opal-combodata"
+            title: "Opal.ComboData"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-combodata/gallery.qml"
+            section: qsTr("Released modules")
+        }
+        ListElement {
+            key: "opal-linkhandler"
+            title: "Opal.LinkHandler"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-linkhandler/gallery.qml"
+            section: qsTr("Released modules")
         }
         //<<< GENERATED LIST OF MODULES
-    ]
+    }
 
     A.ChangelogNews {
         changelogList: Qt.resolvedUrl("Changelog.qml")

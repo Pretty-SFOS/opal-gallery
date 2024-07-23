@@ -32,6 +32,7 @@ rm -rf "$base/libs/opal-translations" && mkdir -p "$base/libs/opal-translations"
 rm -rf "$base/qml/module-pages" && mkdir -p "$base/qml/module-pages"
 
 list_elements=()
+details_elements=()
 attribution_elements=()
 
 for module in "${cQML_MODULES[@]}"; do
@@ -70,11 +71,16 @@ for module in "${cQML_MODULES[@]}"; do
 
     mapfile -t maintainers <<<"$(./release-module.sh -c maintainers | tr ':' '\n')"
     mapfile -t authors <<<"$(./release-module.sh -c authors | tr ':' '\n')"
-    mapfile -t attributions <<<"$(./release-module.sh -c attribution)"
+    mapfile -t attributions <<<"$(./release-module.sh -c attribution | tr ':' '\n')"
 
     for peop in "${!authors[@]}"; do
         v="${authors[$peop]}"
         authors[$peop]="${v//\'/\\\'}"  # escape apostrophes
+    done
+
+    for peop in "${!attributions[@]}"; do
+        v="${attributions[$peop]}"
+        attributions[$peop]="${v//\'/\\\'}"  # escape apostrophes
     done
 
     for peop in "${!maintainers[@]}"; do
@@ -88,18 +94,27 @@ for module in "${cQML_MODULES[@]}"; do
         done
     done
 
-    list_elements+=("\
-        {
-            title: \"$(./release-module.sh -c fullNameStyled)\",
+    details_elements+=("\
+        \"$(./release-module.sh -c fullName)\": {
+            appName: \"$(./release-module.sh -c fullNameStyled)\",
             description: QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\"),
             appVersion: \"$(./release-module.sh -c version)\",
             mainAttributions: [$(printf -- "'%s'," "${attributions[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             maintainers: [$(printf -- "'%s'," "${maintainers[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             contributors: [$(printf -- "'%s'," "${authors[@]}" | sed -Ee "s/''//g;s/[,]+/,/g;s/,$//")],
             mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\",
-            sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\",
-            examplePage: \"opal-$module/gallery.qml\"
+            sourcesUrl: \"https://github.com/Pretty-SFOS/opal-$module\"
         },")
+
+    list_elements+=("\
+        ListElement {
+            key: \"$(./release-module.sh -c fullName)\"
+            title: \"$(./release-module.sh -c fullNameStyled)\"
+            description: QT_TRANSLATE_NOOP(\"ModuleDescriptions\", \"$(./release-module.sh -c description)\")
+            mainLicenseSpdx: \"$(./release-module.sh -c mainLicenseSpdx)\"
+            examplePage: \"opal-$module/gallery.qml\"
+            section: qsTr(\"Released modules\")
+        }")
 
     fullNameStyled="$(./release-module.sh -c fullNameStyled)"
     attribution_elements+=("\
@@ -119,6 +134,11 @@ done
 
 cd "$base"
 echo "configuring qml/harbour-opal-gallery.qml..."
+cat <(awk '/>>> GENERATED LIST OF MODULE DETAILS/ {s=1;print $0;} !s' qml/harbour-opal-gallery.qml) \
+    <(printf "%s\n" "${details_elements[@]}" | head -n -1; echo '        }') \
+    <(awk '/<<< GENERATED LIST OF MODULE DETAILS/ {s=1;} s' qml/harbour-opal-gallery.qml) \
+        | sponge qml/harbour-opal-gallery.qml
+
 cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal-gallery.qml) \
     <(printf "%s\n" "${list_elements[@]}" | head -n -1; echo '        }') \
     <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal-gallery.qml) \
