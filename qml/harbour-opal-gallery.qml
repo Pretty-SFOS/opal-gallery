@@ -140,6 +140,15 @@ ApplicationWindow
             section: "released"
         }
         //<<< GENERATED LIST OF MODULES
+
+        ListElement {
+            key: "opal-menuswitch"
+            title: "Opal.MenuSwitch"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a toggle button to be used in Sailfish-style menus.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-menuswitch/gallery.qml"
+            section: "development"
+        }
     }
 
     A.ChangelogNews {
