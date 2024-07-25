@@ -114,7 +114,18 @@ Page {
             }
 
             function showExamplePage() {
-                pageStack.push(Qt.resolvedUrl("../module-pages/" + _examplePage))
+                if (_section == "released") {
+                    pageStack.push(Qt.resolvedUrl("../module-pages/" + _examplePage))
+                } else if (_section == "development") {
+                    pageStack.push(Qt.resolvedUrl("../modules-devel/" + _examplePage))
+                }
+            }
+
+            function showMenu() {
+                openMenu({
+                    showExampleFunc: !!_examplePage ? showExamplePage : null,
+                    showAboutFunc: !!app.moduleDetails[_key] ? showAboutPage : null,
+                })
             }
 
             title: _title
@@ -123,10 +134,9 @@ Page {
 
             menu: !!_examplePage || !!app.moduleDetails[_key] ?
                 contextMenu : dummyMenu
-            onClicked: openMenu({
-                showExampleFunc: !!_examplePage ? showExamplePage : null,
-                showAboutFunc: !!app.moduleDetails[_key] ? showAboutPage : null,
-            })
+            onClicked: showMenu()
+            onPressAndHold: showMenu()
+            openMenuOnPressAndHold: false
 
             titleLabel {
                 wrapped: true

@@ -159,10 +159,24 @@ ApplicationWindow
     Component.onCompleted: {
         if (develJumpToModule === "") return
 
-        for (var i in modules) {
-            if (modules[i].title === develJumpToModule) {
-                pageStack.push(Qt.resolvedUrl(
-                    "module-pages/" + modules[i].examplePage))
+        console.log("opening module:", develJumpToModule)
+
+        for (var i = 0; i < modules.count; i++) {
+            var mod = modules.get(i)
+
+            if (mod.title === develJumpToModule ||
+                    mod.key === develJumpToModule) {
+                if (mod.section === "released") {
+                    pageStack.push(Qt.resolvedUrl(
+                        "module-pages/" + mod.examplePage))
+                } else if (mod.section === "development") {
+                    pageStack.push(Qt.resolvedUrl(
+                        "modules-devel/" + mod.examplePage))
+                } else {
+                    console.error("cannot show example page for module in " +
+                                  "unknown section “%1”".arg(mod.section))
+                }
+
                 break
             }
         }

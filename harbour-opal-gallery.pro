@@ -1,7 +1,7 @@
 #
 # This file is part of Opal Gallery.
 #
-# SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
+# SPDX-FileCopyrightText: 2020-2024 Mirian Margiani
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 
@@ -34,6 +34,8 @@ DISTFILES += qml/harbour-opal-gallery.qml \
     qml/module-pages/About.qml \
     qml/module-pages/EmptyDummyPage.qml \
     qml/module-pages/*/*.* \
+    qml/modules-devel/*/*.* \
+    qml/modules-devel/*/*/*.* \
     qml/modules/Opal/*.* \
     qml/modules/Opal/*/*.* \
     qml/modules/Opal/*/*/*.* \
