@@ -27,11 +27,11 @@ S.Page {
             flickable: flick
 
             MenuSwitch {
-                text: qsTr("Enable a setting")
+                text: qsTranslate("Opal.MenuSwitch.Gallery", "Enable a setting")
             }
 
             MenuSwitch {
-                text: qsTr("Enable another setting")
+                text: qsTranslate("Opal.MenuSwitch.Gallery", "Enable another setting")
             }
         }
 
@@ -41,16 +41,16 @@ S.Page {
             spacing: S.Theme.paddingMedium
 
             S.PageHeader {
-                title: qsTr("Menus")
+                title: qsTranslate("Opal.MenuSwitch.Gallery", "Menus")
             }
 
             S.SectionHeader {
-                text: qsTr("Context menus")
+                text: qsTranslate("Opal.MenuSwitch.Gallery", "Context menus")
             }
 
             S.ComboBox {
                 id: fruitCombo
-                label: qsTr("Click here to open a menu")
+                label: qsTranslate("Opal.MenuSwitch.Gallery", "Click here to open a menu")
                 currentIndex: -1
 
                 onPressAndHold: clicked(mouse)
@@ -62,27 +62,27 @@ S.Page {
 
                 menu: S.ContextMenu {
                     MenuSwitch {
-                        text: qsTr("Option 1")
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 1")
                         checked: true
                     }
                     MenuSwitch {
-                        text: qsTr("Option 2")
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 2")
                     }
                     MenuSwitch {
-                        text: qsTr("Option 3")
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 3")
                     }
                 }
             }
 
             S.SectionHeader {
-                text: qsTr("Top/bottom menus")
+                text: qsTranslate("Opal.MenuSwitch.Gallery", "Top/bottom menus")
             }
 
             S.Label {
                 x: S.Theme.horizontalPageMargin
                 width: parent.width - 2*x
                 wrapMode: Text.Wrap
-                text: qsTr("Pull down to open the top menu containing " +
+                text: qsTranslate("Opal.MenuSwitch.Gallery", "Pull down to open the top menu containing " +
                            "more switches.")
                 color: S.Theme.secondaryHighlightColor
             }
