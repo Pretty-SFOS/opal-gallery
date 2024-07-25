@@ -39,7 +39,10 @@ for module in "${cQML_MODULES[@]}"; do
     cd "$base"
     cd "../opal-$module"
 
-    echo "importing module $module..."
+    fullNameStyled="$(./release-module.sh -c fullNameStyled)"
+    nameStyled="$(./release-module.sh -c nameStyled)"
+
+    echo "importing module $fullNameStyled ($module)..."
 
     if [[ ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
         echo "error: module '$module' is missing required files  (/Opal /doc/gallery.qml or /release-module.sh)"
@@ -54,6 +57,8 @@ for module in "${cQML_MODULES[@]}"; do
 
     mkdir -p "$base/qml/module-pages/opal-$module/gallery"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/gallery.qml"
+    # sed -i "s/qsTr(/qsTranslate(\"${fullNameStyled//\//\\\/}.Gallery\", /g" "$base/qml/module-pages/opal-$module/gallery.qml"
+    sed -i "s/qsTr(/qsTranslate(\"${nameStyled//\//\\\/}\", /g" "$base/qml/module-pages/opal-$module/gallery.qml"
 
     mapfile -t extras <<<"$(./release-module.sh -c extraGalleryPages | tr ' ' '\n')"
 
