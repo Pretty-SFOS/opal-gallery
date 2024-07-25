@@ -52,16 +52,19 @@ for module in "${cQML_MODULES[@]}"; do
     tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/libs"
     tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml"
 
-    mkdir -p "$base/qml/module-pages/opal-$module"
+    mkdir -p "$base/qml/module-pages/opal-$module/gallery"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/gallery.qml"
 
-    extras=($(./release-module.sh -c extraGalleryPages))
+    mapfile -t extras <<<"$(./release-module.sh -c extraGalleryPages | tr ' ' '\n')"
 
     if (( ${#extras[@]} != 0 )) && [[ "${extras[0]}" != none ]]; then
         for x in "${extras[@]}"; do
-            cp "doc/gallery/$x" "$base/qml/module-pages/opal-$module/"
+            [[ -z "$x" || ! -f "doc/gallery/$x" ]] && continue
+            cp "doc/gallery/$x" "$base/qml/module-pages/opal-$module/gallery/"
         done
     fi
+
+    rmdir --ignore-fail-on-non-empty "$base/qml/module-pages/opal-$module/gallery"
 
     # enable empty dummy page to be used directly from module example pages
     _b="$(pwd)"
