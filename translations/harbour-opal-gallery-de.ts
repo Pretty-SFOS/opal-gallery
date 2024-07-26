@@ -149,6 +149,69 @@
     </message>
 </context>
 <context>
+    <name>ChatModel</name>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="12"/>
+        <source>Jane</source>
+        <translation>Anna</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="13"/>
+        <source>online</source>
+        <translation>online</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="14"/>
+        <source>yesterday</source>
+        <translation>gestern</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="15"/>
+        <source>@John: are there any taters left?</source>
+        <translation>@Max: Gibt es noch Kartoffelpuffer?</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="19"/>
+        <source>John</source>
+        <translation>Max</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="20"/>
+        <source>busy</source>
+        <translation>beschäftigt</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="21"/>
+        <source>2h ago</source>
+        <translation>vor 2h</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="22"/>
+        <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
+        <translation>Tut mir leid @Anna, ich habe alle gegessen. Am Samstag mache ich aber neue.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="26"/>
+        <source>Lisa</source>
+        <translation>Lisa</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="27"/>
+        <source>away</source>
+        <translation>abwesend</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="28"/>
+        <source>32m ago</source>
+        <translation>vor 32m</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="29"/>
+        <source>@Jane, come over, I have some ready right now!</source>
+        <translation>@Anna, komm rüber, ich habe gerade ein paar bereit!</translation>
+    </message>
+</context>
+<context>
     <name>ComboData</name>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="38"/>
@@ -282,6 +345,55 @@
         <location filename="../qml/pages/EmptyDummyPage.qml" line="18"/>
         <source>Dummy page</source>
         <translation>Beispielseite</translation>
+    </message>
+</context>
+<context>
+    <name>FruitModel</name>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="12"/>
+        <source>Apple</source>
+        <translation type="unfinished">Apfel</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="14"/>
+        <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
+        <translation type="unfinished">Eine saftige Frucht mit saurer Note. Perfekt für Fruchtsalate.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="15"/>
+        <source>Best against doctors!</source>
+        <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
+        <translation type="unfinished">Am besten gegen Ärzte!</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="19"/>
+        <source>Banana</source>
+        <translation type="unfinished">Banane</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="21"/>
+        <source>A yellow fruit preferred by monkeys and humans alike.</source>
+        <translation type="unfinished">Eine gelbe Frucht, gleichermassen beliebt bei Affen und Menschen.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="22"/>
+        <source>Only today: two for one!</source>
+        <translation type="unfinished">Nur heute: zwei für eins!</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="25"/>
+        <source>A basket full of exotic fruits</source>
+        <translation type="unfinished">Ein Korb mit exotischen Früchten</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="28"/>
+        <source>Special gift!</source>
+        <translation type="unfinished">Besonderes Geschenk!</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="31"/>
+        <source>Peanut butter</source>
+        <translation type="unfinished">Erdnussbutter</translation>
     </message>
 </context>
 <context>
@@ -733,118 +845,6 @@
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Ihre Mitarbeit bei Übersetzungen oder der Programmierung wäre eine große Hilfe.</translation>
-    </message>
-</context>
-<context>
-    <name>Opal.Delegates.ChatModel.Gallery</name>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="12"/>
-        <source>Jane</source>
-        <translation>Anna</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="13"/>
-        <source>online</source>
-        <translation>online</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="14"/>
-        <source>yesterday</source>
-        <translation>gestern</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="15"/>
-        <source>@John: are there any taters left?</source>
-        <translation>@Max: Gibt es noch Kartoffelpuffer?</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="19"/>
-        <source>John</source>
-        <translation>Max</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="20"/>
-        <source>busy</source>
-        <translation>beschäftigt</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="21"/>
-        <source>2h ago</source>
-        <translation>vor 2h</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="22"/>
-        <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation>Tut mir leid @Anna, ich habe alle gegessen. Am Samstag mache ich aber neue.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="26"/>
-        <source>Lisa</source>
-        <translation>Lisa</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="27"/>
-        <source>away</source>
-        <translation>abwesend</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="28"/>
-        <source>32m ago</source>
-        <translation>vor 32m</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="29"/>
-        <source>@Jane, come over, I have some ready right now!</source>
-        <translation>@Anna, komm rüber, ich habe gerade ein paar bereit!</translation>
-    </message>
-</context>
-<context>
-    <name>Opal.Delegates.FruitModel.Gallery</name>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="12"/>
-        <source>Apple</source>
-        <translation>Apfel</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="14"/>
-        <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation>Eine saftige Frucht mit saurer Note. Perfekt für Fruchtsalate.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="15"/>
-        <source>Best against doctors!</source>
-        <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation>Am besten gegen Ärzte!</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="19"/>
-        <source>Banana</source>
-        <translation>Banane</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="21"/>
-        <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation>Eine gelbe Frucht, gleichermassen beliebt bei Affen und Menschen.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="22"/>
-        <source>Only today: two for one!</source>
-        <translation>Nur heute: zwei für eins!</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="25"/>
-        <source>A basket full of exotic fruits</source>
-        <translation>Ein Korb mit exotischen Früchten</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="28"/>
-        <source>Special gift!</source>
-        <translation>Besonderes Geschenk!</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="31"/>
-        <source>Peanut butter</source>
-        <translation>Erdnussbutter</translation>
     </message>
 </context>
 <context>
