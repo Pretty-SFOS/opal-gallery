@@ -30,8 +30,8 @@ ApplicationWindow
             appName: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
             appVersion: "2.2.0",
-            mainAttributions: ['2018-2023 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
+            mainAttributions: ['2018-2024 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
@@ -41,7 +41,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
             appVersion: "1.1.0",
             mainAttributions: ['2024 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
+            maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme"
@@ -50,9 +50,9 @@ ApplicationWindow
             appName: "Opal.Delegates",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation."),
             appVersion: "3.0.0",
-            mainAttributions: ['2023 Peter G. (nephros)','2024 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
-            contributors: ['nephros'],
+            mainAttributions: ['2023 Peter G. (nephros)','2024 Mirian Margiani (ichthyosaurus)'],
+            maintainers: ['Mirian Margiani'],
+            contributors: ['Peter G.'],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates"
         },
@@ -61,7 +61,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
             appVersion: "2.2.0",
             mainAttributions: ['2023-2024 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
+            maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo"
@@ -71,7 +71,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
             appVersion: "2.1.0",
             mainAttributions: ['2023-2024 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
+            maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata"
@@ -80,8 +80,8 @@ ApplicationWindow
             appName: "Opal.LinkHandler",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
             appVersion: "2.0.0",
-            mainAttributions: ['2020-2023 Mirian Margiani'],
-            maintainers: ['ichthyosaurus'],
+            mainAttributions: ['2020-2024 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler"
