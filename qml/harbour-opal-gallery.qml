@@ -141,6 +141,9 @@ ApplicationWindow
         }
         //<<< GENERATED LIST OF MODULES
 
+
+        // Modules in development
+
         ListElement {
             key: "opal-menuswitch"
             title: "Opal.MenuSwitch"
@@ -149,6 +152,130 @@ ApplicationWindow
             examplePage: "opal-menuswitch/gallery.qml"
             section: "development"
         }
+
+
+        // Upcoming modules
+        // Code exists but is not yet imported from other projects into Opal.
+
+        /*
+
+        ListElement {
+            // Code:
+            // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/components/hints
+            // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/lib/hints
+            // - https://github.com/Pretty-SFOS/opal/issues/8
+
+            key: "opal-hints"
+            title: "Opal.IconMenu"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-iconmenu/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/libs/SortFilterProxyModel.patch
+            // - https://github.com/oKcerG/SortFilterProxyModel/
+
+            key: "opal-sfpm"
+            title: "Opal.SortFilterProxyModel"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a up-to-date and patched version of SortFilterProxyModel for QML.")
+            mainLicenseSpdx: "MIT"
+            // examplePage: "opal-sfpm/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/GroupedDrawer.qml
+            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/LicenseListPart.qml
+            // - https://github.com/Pretty-SFOS/opal-supportme/blob/main/Opal/SupportMe/DetailsDrawer.qml
+            // - https://github.com/Pretty-SFOS/opal-supportme/blob/main/Opal/SupportMe/DetailsParagraph.qml
+
+            key: "opal-drawer"
+            title: "Opal.Drawer"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a drawer that allows splitting long lists into accessible groups.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-drawer/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ScrollbarType.qml
+            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ChangelogView.qml
+            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/DiaryListView.qml
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/pages/DirectoryPage.qml
+
+            key: "opal-smartscrollbar"
+            title: "Opal.SmartScrollbar"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-smartscrollbar/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://web.archive.org/web/20180611014447/https://github.com/jwintz/qchart.js
+            // - https://github.com/direc85/qchart.js
+            // - https://github.com/ichthyosaurus/harbour-meteoswiss/tree/master/qml/qchart
+            // - https://github.com/ichthyosaurus/harbour-meteoswiss/blob/master/qml/pages/components/ForecastGraphItem.qml
+
+            key: "opal-charts"
+            title: "Opal.Charts"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module allows drawing beautiful charts through QCharts.js.")
+            mainLicenseSpdx: "MIT"
+            // examplePage: "opal-charts/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://github.com/ichthyosaurus/sf-docked-tab-bar
+
+            key: "opal-tabbar"
+            title: "Opal.TabBar"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a tab bar with icons and automatic alignment.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-tabbar/gallery.qml"
+            section: "development"
+        }
+        ListElement {
+            // Code:
+            // - https://github.com/ichthyosaurus/sailfish-public-patch-sources/
+            // - https://gitlab.com/whisperfish/whisperfish/-/blob/main/qml/js/emoji.js?ref_type=heads
+            // - https://gitlab.com/whisperfish/whisperfish/-/blob/main/qml/components/Emojify.qml?ref_type=heads
+            // - https://gitlab.com/whisperfish/whisperfish/-/blob/main/qml/components/LinkedEmojiLabel.qml?ref_type=heads
+            // - notes: must support emojis, linking, custom link schemas, spoilers, markdown
+
+            key: "opal-advancedlabel"
+            title: "Opal.AdvancedLabel"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module...")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-advancedlabel/gallery.qml"
+            section: "development"
+        }
+
+        */
+
+
+        // Planned modules
+        // Code does not exist yet, or is in very early stages of development.
+
+        /*
+
+        ListElement {
+            // Code:
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/FileActions.qml
+            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/MoodMenu.qml
+            // - Whisperfish
+
+            key: "opal-iconmenu"
+            title: "Opal.IconMenu"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-iconmenu/gallery.qml"
+            section: "development"
+        }
+
+        */
     }
 
     A.ChangelogNews {
