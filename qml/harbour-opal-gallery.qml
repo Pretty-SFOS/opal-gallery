@@ -289,13 +289,14 @@ ApplicationWindow
     Component.onCompleted: {
         if (develJumpToModule === "") return
 
+        develJumpToModule = develJumpToModule.replace(/^(opal-|Opal.)/, "")
         console.log("opening module:", develJumpToModule)
 
         for (var i = 0; i < modules.count; i++) {
             var mod = modules.get(i)
 
-            if (mod.title === develJumpToModule ||
-                    mod.key === develJumpToModule) {
+            if (mod.title.replace(/^(opal-|Opal.)/, "") === develJumpToModule ||
+                    mod.key.replace(/^(opal-|Opal.)/, "") === develJumpToModule) {
                 if (mod.section === "released") {
                     pageStack.push(Qt.resolvedUrl(
                         "module-pages/" + mod.examplePage))
