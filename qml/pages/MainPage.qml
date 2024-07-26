@@ -62,6 +62,10 @@ Page {
                                 qsTr("Released modules")
                             } else if (section == "development") {
                                 qsTr("In development")
+                            } else if (section == "upcoming") {
+                                qsTr("Upcoming modules")
+                            } else if (section == "planned") {
+                                qsTr("Planned modules")
                             } else if (section == "deprecated") {
                                 qsTr("Deprecated modules")
                             } else {
@@ -86,6 +90,13 @@ Page {
                                 qsTr("These are development previews of new " +
                                      "and unfinished modules. Documentation is " +
                                      "missing and APIs may change.")
+                            } else if (section == "upcoming") {
+                                qsTr("The code for these modules already exists " +
+                                     "in other projects. They will be included in " +
+                                     "Opal in an upcoming version.")
+                            } else if (section == "planned") {
+                                qsTr("These modules are being planned, or are in " +
+                                     "the earliest stages of development.")
                             } else if (section == "deprecated") {
                                 qsTr("These modules are no longer being developed " +
                                      "and should not be used in new apps. There are " +
@@ -172,8 +183,10 @@ Page {
                 source: "../images/icon-m-opal.png"
                 opacity: {
                     if (highlighted) 0.9
-                    else if (section === "released") Math.max(0.5, 1.0 - index * 0.05)
+                    else if (section === "released") Math.max(0.5, 1.0 - index * 0.08)
                     else if (section === "development") Math.max(0.3, 0.5 - index * 0.01)
+                    else if (section === "upcoming") Math.max(0.2, 0.4 - index * 0.01)
+                    else if (section === "planned") Math.max(0.1, 0.3 - index * 0.01)
                     else if (section === "deprecated") Math.max(0.2, 0.4 - index * 0.01)
                     else Math.max(0.5, 0.8 - index * 0.01)
                 }

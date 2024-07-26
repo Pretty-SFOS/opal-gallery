@@ -143,6 +143,8 @@ ApplicationWindow
 
 
         // Modules in development
+        // Code is included in the gallery app but does not live in separate
+        // repositories yet.
 
         ListElement {
             key: "opal-menuswitch"
@@ -157,8 +159,6 @@ ApplicationWindow
         // Upcoming modules
         // Code exists but is not yet imported from other projects into Opal.
 
-        /*
-
         ListElement {
             // Code:
             // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/components/hints
@@ -170,7 +170,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-iconmenu/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
         ListElement {
             // Code:
@@ -182,7 +182,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a up-to-date and patched version of SortFilterProxyModel for QML.")
             mainLicenseSpdx: "MIT"
             // examplePage: "opal-sfpm/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
         ListElement {
             // Code:
@@ -196,7 +196,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a drawer that allows splitting long lists into accessible groups.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-drawer/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
         ListElement {
             // Code:
@@ -210,7 +210,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-smartscrollbar/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
         ListElement {
             // Code:
@@ -224,7 +224,7 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module allows drawing beautiful charts through QCharts.js.")
             mainLicenseSpdx: "MIT"
             // examplePage: "opal-charts/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
         ListElement {
             // Code:
@@ -235,8 +235,13 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a tab bar with icons and automatic alignment.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-tabbar/gallery.qml"
-            section: "development"
+            section: "upcoming"
         }
+
+
+        // Planned modules
+        // Code does not exist yet, or is in very early stages of development.
+
         ListElement {
             // Code:
             // - https://github.com/ichthyosaurus/sailfish-public-patch-sources/
@@ -247,20 +252,11 @@ ApplicationWindow
 
             key: "opal-advancedlabel"
             title: "Opal.AdvancedLabel"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module...")
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a text field and input area with support for emojis, styled text, and custom links.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-advancedlabel/gallery.qml"
-            section: "development"
+            section: "planned"
         }
-
-        */
-
-
-        // Planned modules
-        // Code does not exist yet, or is in very early stages of development.
-
-        /*
-
         ListElement {
             // Code:
             // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/FileActions.qml
@@ -272,10 +268,8 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-iconmenu/gallery.qml"
-            section: "development"
+            section: "planned"
         }
-
-        */
     }
 
     A.ChangelogNews {
