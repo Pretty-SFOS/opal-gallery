@@ -74,8 +74,20 @@ for module in "${cQML_MODULES[@]}"; do
 
     if (( ${#extras[@]} != 0 )) && [[ "${extras[0]}" != none ]]; then
         for x in "${extras[@]}"; do
-            [[ -z "$x" || ! -f "doc/gallery/$x" ]] && continue
-            cp "doc/gallery/$x" "$base/qml/module-pages/opal-$module/gallery/"
+            infile="doc/gallery/$x"
+            outfile="$base/qml/module-pages/opal-$module/gallery/$x"
+
+            [[ -z "$x" || ! -f "$infile" ]] && continue
+
+            cp "$infile" "$outfile"
+
+            if [[ "$x" == *.qml || "$x" == *.js ]]; then
+                extraModule="$(basename "$x")"
+                extraModule="${extraModule%.qml}"
+                extraModule="${extraModule%.js}"
+
+                sed -i "s/qsTr(/qsTranslate(\"${fullNameStyled//\//\\\/}.$extraModule.Gallery\", /g" "$outfile"
+            fi
         done
     fi
 
