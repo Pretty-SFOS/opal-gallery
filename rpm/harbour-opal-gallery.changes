@@ -10,6 +10,14 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Fri Jul 26 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.5.0-1
+- updated translations: German, Spanish, Estonian, French, Hungarian, Turkish
+- updated Opal.InfoCombo to v2.2.0
+- included all module contributors on module about pages
+- redesigned module list using Opal.Delegates
+- added Opal.MenuSwitch as in-dev module
+- added list of upcoming and planned modules
+
 * Sat Jun 29 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.4.0-1
 - updated translations: English, Swedish, Estonian, Chinese, Ukrainian, Indonesian, Spanish, Russian, Polish, French
 - added Opal.SupportMe v1.1.0
