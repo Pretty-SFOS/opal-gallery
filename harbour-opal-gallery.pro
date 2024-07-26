@@ -58,8 +58,7 @@ QML_IMPORT_PATH = "qml/modules"
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-TRANSLATIONS += translations/harbour-opal-gallery-de.ts \
-    translations/harbour-opal-gallery-en.ts
+TRANSLATIONS += translations/harbour-opal-gallery-*.ts
 
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"
