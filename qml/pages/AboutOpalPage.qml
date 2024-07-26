@@ -52,7 +52,7 @@ A.AboutPageBase {
 
     description: qsTr("Opal is a collection of pretty QML components " +
                       "for SailfishOS, building on top of Sailfish's Silica components.")
-    mainAttributions: "2020-2023 Mirian Margiani"
+    mainAttributions: "2020-%1 Mirian Margiani".arg((new Date()).getFullYear())
 
     attributions: [
         //>>> GENERATED LIST OF ATTRIBUTIONS
