@@ -8,6 +8,13 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.5.1-1"
+        date: "2024-07-26"
+        paragraphs: [
+            "<i>Hotfix:</i> example page of Opal.Delegates failed to load due to a mistake with translation handling."
+        ]
+    }
+    ChangelogItem {
         version: "1.5.0-1"
         date: "2024-07-26"
         paragraphs: [

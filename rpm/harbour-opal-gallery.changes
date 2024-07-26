@@ -10,6 +10,9 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Fri Jul 26 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.5.1-1
+- example page of Opal.Delegates failed to load due to a mistake with translation handling
+
 * Fri Jul 26 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.5.0-1
 - updated translations: German, Spanish, Estonian, French, Hungarian, Turkish
 - updated Opal.InfoCombo to v2.2.0
