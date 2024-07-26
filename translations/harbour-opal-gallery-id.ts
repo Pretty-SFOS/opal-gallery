@@ -366,31 +366,51 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
+        <source>Upcoming modules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="68"/>
+        <source>Planned modules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="82"/>
+        <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="86"/>
+        <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="90"/>
+        <location filename="../qml/pages/MainPage.qml" line="94"/>
+        <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="98"/>
+        <source>These modules are being planned, or are in the earliest stages of development.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="198"/>
+        <location filename="../qml/pages/MainPage.qml" line="211"/>
         <source>About</source>
         <translation>Tentang</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="209"/>
+        <location filename="../qml/pages/MainPage.qml" line="222"/>
         <source>No examples available</source>
         <translation type="unfinished"></translation>
     </message>
@@ -400,7 +420,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="193"/>
+        <location filename="../qml/pages/MainPage.qml" line="206"/>
         <source>Preview and Examples</source>
         <translation type="unfinished"></translation>
     </message>
@@ -444,8 +464,44 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="150"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="152"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="170"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="268"/>
+        <source>This module provides a context menu with support for icons instead of text entries.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="182"/>
+        <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="196"/>
+        <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="210"/>
+        <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="224"/>
+        <source>This module allows drawing beautiful charts through QCharts.js.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="235"/>
+        <source>This module provides a tab bar with icons and automatic alignment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="255"/>
+        <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
