@@ -99,7 +99,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="36"/>
         <source>Contributors</source>
-        <translation type="unfinished">Közreműködők</translation>
+        <translation>Közreműködők</translation>
     </message>
 </context>
 <context>
