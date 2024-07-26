@@ -81,7 +81,9 @@ for module in "${cQML_MODULES[@]}"; do
 
             cp "$infile" "$outfile"
 
-            if [[ "$x" == *.qml || "$x" == *.js ]]; then
+            # FIXME Workaround for ListModel not supporting qsTranslate():
+            #       skip all files that are called SomethingModel.qml
+            if [[ "$x" == *.qml || "$x" == *.js ]] && [[ "$x" != *Model.qml ]]; then
                 extraModule="$(basename "$x")"
                 extraModule="${extraModule%.qml}"
                 extraModule="${extraModule%.js}"
