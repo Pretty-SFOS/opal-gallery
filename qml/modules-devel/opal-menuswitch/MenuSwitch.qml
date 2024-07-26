@@ -1,8 +1,7 @@
-/*
- * This file is part of harbour-opal.
- * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2024 Mirian Margiani
- */
+//@ This file is part of opal-menuswitch.
+//@ https://github.com/Pretty-SFOS/opal-menuswitch
+//@ SPDX-FileCopyrightText: 2024 Mirian Margiani
+//@ SPDX-License-Identifier: GPL-3.0-or-later
 
 import QtQuick 2.6
 import Sailfish.Silica 1.0 as S
