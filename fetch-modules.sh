@@ -17,9 +17,19 @@ for module in "${cQML_MODULES[@]}"; do
     fi
 done
 
+if [[ ! -d ../opal ]]; then
+    echo "Please clone the Opal development repository next to opal-gallery (../opal):"
+    echo
+    printf -- "\t%s\n" "cd $(dirname "$(pwd)")"
+    printf -- "\t%s\n" "git clone https://github.com/Pretty-SFOS/opal"
+    echo
+    exit 128
+fi
+
 if (( ${#missing[@]} > 0 )); then
     echo "Please clone the following repositories next to opal-gallery (../opal-...):"
     echo
+    printf -- "\t%s\n" "cd $(dirname "$(pwd)")"
     printf -- "    git clone https://github.com/Pretty-SFOS/opal-%s && \\\\\n" "${missing[@]}"
     echo "        echo 'all repositories cloned'"
     echo
