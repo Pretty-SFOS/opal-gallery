@@ -145,12 +145,12 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="13"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>võrgus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="14"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>eile</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/ChatModel.qml" line="15"/>
@@ -355,7 +355,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="19"/>
         <source>Banana</source>
-        <translation type="unfinished">Banaan</translation>
+        <translation>Banaan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/FruitModel.qml" line="21"/>
