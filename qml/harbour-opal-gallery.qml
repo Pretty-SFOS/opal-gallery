@@ -166,10 +166,10 @@ ApplicationWindow
             // - https://github.com/Pretty-SFOS/opal/issues/8
 
             key: "opal-hints"
-            title: "Opal.IconMenu"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
+            title: "Opal.Hints"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides easy to use interaction hints for app tutorials.")
             mainLicenseSpdx: "GPL-3.0-or-later"
-            // examplePage: "opal-iconmenu/gallery.qml"
+            // examplePage: "opal-hints/gallery.qml"
             section: "upcoming"
         }
         ListElement {
