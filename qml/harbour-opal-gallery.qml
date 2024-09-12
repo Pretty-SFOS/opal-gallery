@@ -154,6 +154,21 @@ ApplicationWindow
             examplePage: "opal-menuswitch/gallery.qml"
             section: "development"
         }
+        ListElement {
+            // Code:
+            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ScrollbarType.qml
+            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ChangelogView.qml
+            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/DiaryListView.qml
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/pages/DirectoryPage.qml
+            // - https://github.com/ichthyosaurus/harbour-expenditure/blob/main/qml/components/SmartScrollbar.qml
+
+            key: "opal-smartscrollbar"
+            title: "Opal.SmartScrollbar"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-smartscrollbar/gallery.qml"
+            section: "development"
+        }
 
 
         // Upcoming modules
@@ -196,20 +211,6 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a drawer that allows splitting long lists into accessible groups.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-drawer/gallery.qml"
-            section: "upcoming"
-        }
-        ListElement {
-            // Code:
-            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ScrollbarType.qml
-            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ChangelogView.qml
-            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/DiaryListView.qml
-            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/pages/DirectoryPage.qml
-
-            key: "opal-smartscrollbar"
-            title: "Opal.SmartScrollbar"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            // examplePage: "opal-smartscrollbar/gallery.qml"
             section: "upcoming"
         }
         ListElement {
