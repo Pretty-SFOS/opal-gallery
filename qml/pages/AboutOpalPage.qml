@@ -59,8 +59,10 @@ A.AboutPageBase {
         OpalAboutAttribution {},
         OpalSupportMeAttribution {},
         OpalDelegatesAttribution {},
+        OpalSmartScrollbarAttribution {},
         OpalInfoComboAttribution {},
         OpalComboDataAttribution {},
+        OpalMenuSwitchAttribution {},
         OpalLinkHandlerAttribution {}
         //<<< GENERATED LIST OF ATTRIBUTIONS
     ]
