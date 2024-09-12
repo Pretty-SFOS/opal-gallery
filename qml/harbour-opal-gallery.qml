@@ -56,6 +56,16 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates"
         },
+        "opal-smartscrollbar": {
+            appName: "Opal.SmartScrollbar",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2024 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-smartscrollbar"
+        },
         "opal-infocombo": {
             appName: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
@@ -75,6 +85,16 @@ ApplicationWindow
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata"
+        },
+        "opal-menuswitch": {
+            appName: "Opal.MenuSwitch",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a toggle button to be used in Sailfish-style menus."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2024 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-menuswitch"
         },
         "opal-linkhandler": {
             appName: "Opal.LinkHandler",
@@ -116,6 +136,14 @@ ApplicationWindow
             section: "released"
         }
         ListElement {
+            key: "opal-smartscrollbar"
+            title: "Opal.SmartScrollbar"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-smartscrollbar/gallery.qml"
+            section: "released"
+        }
+        ListElement {
             key: "opal-infocombo"
             title: "Opal.InfoCombo"
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option.")
@@ -129,6 +157,14 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-combodata/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-menuswitch"
+            title: "Opal.MenuSwitch"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a toggle button to be used in Sailfish-style menus.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-menuswitch/gallery.qml"
             section: "released"
         }
         ListElement {
@@ -146,29 +182,7 @@ ApplicationWindow
         // Code is included in the gallery app but does not live in separate
         // repositories yet.
 
-        ListElement {
-            key: "opal-menuswitch"
-            title: "Opal.MenuSwitch"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a toggle button to be used in Sailfish-style menus.")
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            examplePage: "opal-menuswitch/gallery.qml"
-            section: "development"
-        }
-        ListElement {
-            // Code:
-            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ScrollbarType.qml
-            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/ChangelogView.qml
-            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/DiaryListView.qml
-            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/pages/DirectoryPage.qml
-            // - https://github.com/ichthyosaurus/harbour-expenditure/blob/main/qml/components/SmartScrollbar.qml
-
-            key: "opal-smartscrollbar"
-            title: "Opal.SmartScrollbar"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            examplePage: "opal-smartscrollbar/gallery.qml"
-            section: "development"
-        }
+        // section: "development"
 
 
         // Upcoming modules
