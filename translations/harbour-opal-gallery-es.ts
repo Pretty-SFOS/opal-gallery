@@ -153,7 +153,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="12"/>
         <source>Jane</source>
-        <translation type="unfinished">Jane</translation>
+        <translation>Juana</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="13"/>
@@ -168,12 +168,12 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="15"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished">@John: ¿quedan patatas?</translation>
+        <translation>@Juan: ¿quedan patatas?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="19"/>
         <source>John</source>
-        <translation type="unfinished">John</translation>
+        <translation>Juan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="20"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="26"/>
         <source>Lisa</source>
-        <translation type="unfinished">Lisa</translation>
+        <translation>Lisa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="27"/>
