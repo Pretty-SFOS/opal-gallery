@@ -11,11 +11,6 @@ S.Page {
     id: root
     allowedOrientations: S.Orientation.All
 
-    // TODO
-    // - handle overflowing text gracefully: the toggle indicator
-    //   should never become covered by text
-    // - write documentation
-
     S.SilicaFlickable {
         id: flick
         anchors.fill: parent
@@ -61,15 +56,15 @@ S.Page {
                 }
 
                 menu: S.ContextMenu {
+                    S.MenuItem {
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Regular option")
+                    }
                     MenuSwitch {
-                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 1")
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Activatable option")
                         checked: true
                     }
                     MenuSwitch {
-                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 2")
-                    }
-                    MenuSwitch {
-                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Option 3")
+                        text: qsTranslate("Opal.MenuSwitch.Gallery", "Third option with more text")
                     }
                 }
             }
