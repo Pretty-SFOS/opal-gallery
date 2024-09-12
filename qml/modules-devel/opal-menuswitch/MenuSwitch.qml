@@ -16,14 +16,27 @@ S.MenuItem {
         id: toggle
         checked: false
         automaticCheck: true
-        text: " "
+        text: ""
         highlighted: parent.highlighted
         height: S.Theme.itemSizeSmall
-        width: height
+        width: S.Theme.iconSizeMedium + S.Theme.paddingSmall
         anchors.verticalCenter: parent.verticalCenter
     }
 
+    TextMetrics {
+        id: metrics
+        font: root.font
+        text: root.text
+    }
+
     text: ""
+
+    property int __marginsWidth: (root.width - metrics.width) / 2
+    leftPadding: __marginsWidth >= toggle.width ? 0 :
+          toggle.width
+        + S.Theme.paddingLarge
+        - (Math.max(root.width - metrics.width,
+                    1.5*S.Theme.paddingLarge) / 2)
     onClicked: {
         toggle.clicked(null)
     }
