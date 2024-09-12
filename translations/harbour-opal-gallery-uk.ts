@@ -115,27 +115,27 @@
         <translation>Галерея Opal</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="83"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="85"/>
         <source>Translations</source>
         <translation>Переклади</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="86"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
         <source>English</source>
         <translation>Англійська</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="90"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
         <source>German</source>
         <translation>Німецька</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="94"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
         <source>French</source>
         <translation>Французька</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="98"/>
+        <location filename="../qml/pages/AboutOpalPage.qml" line="100"/>
         <source>Indonesian</source>
         <translation>Індонезійська</translation>
     </message>
@@ -541,78 +541,84 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="97"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="117"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>Цей модуль надає &lt;i&gt;AboutPageBase&lt;/i&gt; для створення інформаційних сторінок застосунку, які можна налаштовувати.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="105"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="125"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation>Діалогове вікно з проханням зробити внесок, яке з&apos;являється, коли користувач користується вашим додатком протягом певного часу.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="113"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="133"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation>Цей модуль надає елементи списку для подання, щоб ви могли зосередитися на обробці даних, а не на форматуванні.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="149"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>Цей модуль надає комбіноване вікно, яке може показувати подробиці для кожної обраної опції.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="129"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>Цей модуль надає розширення для комбінованих полів для доступу до поточного значення замість мітки.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="137"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation>Цей модуль надає обробник посилань для відкриття або копіювання зовнішніх посилань.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="152"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation>Цей модуль надає кнопку перемикання для використання в меню у стилі Sailfish.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="170"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="268"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="283"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation>Цей модуль надає контекстне меню з підтримкою іконок замість текстових пунктів.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="182"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
         <translation>Цей модуль містить оновлену та виправлену версію SortFilterProxyModel для QML.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="196"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="225"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation>Цей модуль надає роздільник, яка дозволяє розбивати довгі списки на доступні групи.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="210"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation>Цей модуль надає сумісну з Harbour смугу прокрутки smart scroll bar для довгих списків.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="224"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="199"/>
+        <source>This module provides easy to use interaction hints for app tutorials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="239"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation>Цей модуль дозволяє малювати красиві діаграми за допомогою QCharts.js.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="235"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="250"/>
         <source>This module provides a tab bar with icons and automatic alignment.</source>
         <translation>Цей модуль надає панель вкладок з іконками та автоматичним вирівнюванням.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="255"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="270"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation>Цей модуль надає текстове поле і область введення з підтримкою емодзі, стилізованого тексту і користувацьких посилань.</translation>
     </message>
@@ -885,54 +891,67 @@
 <context>
     <name>Opal.MenuSwitch.Gallery</name>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="30"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
         <translation>Увімкнути налаштування</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="34"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
         <translation>Увімкнути ще одне налаштування</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="44"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
         <translation>Меню</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="48"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
         <translation>Контекстні меню</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="53"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
         <translation>Натисніть тут, щоб відкрити меню</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="65"/>
-        <source>Option 1</source>
-        <translation>Параметр 1</translation>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
+        <source>Regular option</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="69"/>
-        <source>Option 2</source>
-        <translation>Параметр 2</translation>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
+        <source>Activatable option</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="72"/>
-        <source>Option 3</source>
-        <translation>Параметр 3</translation>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
+        <source>Third option with more text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="78"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
         <translation>Верхні/нижні меню</translation>
     </message>
     <message>
-        <location filename="../qml/modules-devel/opal-menuswitch/gallery.qml" line="85"/>
+        <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
         <translation>Потягніть вниз, щоб відкрити верхнє меню з додатковими перемикачами.</translation>
+    </message>
+</context>
+<context>
+    <name>SmartScrollbar</name>
+    <message>
+        <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
+        <source>Toggle smart scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
+        <source>Toggle quick scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
