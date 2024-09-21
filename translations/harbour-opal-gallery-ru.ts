@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation>поддерживающий приложения</translation>
+        <translation>обслуживающий приложения</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Development</source>
-        <translation>Развитие</translation>
+        <translation>Разработка</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
         <source>Opal Gallery</source>
-        <translation>Opal Gallery</translation>
+        <translation>Галерея Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="85"/>
@@ -153,7 +153,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="12"/>
         <source>Jane</source>
-        <translation>Анна</translation>
+        <translation>Джейн</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="13"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Other contents could be included at this place.</source>
-        <translation>Другие материалы могут быть добавлены в этом месте.</translation>
+        <translation>Здесь может быть другая информация.</translation>
     </message>
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="18"/>
@@ -388,7 +388,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="28"/>
         <source>Special gift!</source>
-        <translation>Особый подарок!</translation>
+        <translation>Специальный подарок!</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="31"/>
@@ -605,7 +605,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="199"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот модуль предоставляет простые в использовании подсказки по взаимодействию для учебных пособий по приложениям.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="239"/>
@@ -615,12 +615,12 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="250"/>
         <source>This module provides a tab bar with icons and automatic alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот модуль предоставляет панель вкладок со значками и автоматическим выравниванием.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="270"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот модуль предоставляет текстовое поле и область ввода с поддержкой смайлов, стилизованного текста и пользовательских ссылок.</translation>
     </message>
 </context>
 <context>
@@ -628,22 +628,22 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвовать на Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оплатите стоимость чашки кофе, кусочка пиццы или билета в театр.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевести на Веблейт</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помогите с переводом этого приложения на как можно больше языков.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
@@ -663,27 +663,27 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот проект создан одним разработчиком с любовью и увлечением в его свободное время и предоставляется вам бесплатно.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Я разрабатываю бесплатное программное обеспечение, потому что убежден, что это этично, и это веселое хобби. Однако разработка программного обеспечения требует много времени и усилий. Поскольку Sailfish и жизнь в целом стоят денег, мне нужна ваша поддержка, чтобы иметь возможность тратить время на такие неоплачиваемые проекты, как этот.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Для чего нужно пожертвование?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla повысил цены и пытается заставить разработчиков (которые работают на себя) платить за аренду Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы можете себе это позволить, пожертвование — это самый простой способ гарантировать, что я смогу продолжать работать над приложениями для Sailfish. Любая сумма будет оценена по достоинству, будь то чашка кофе, кусок пиццы или что-то еще.</translation>
     </message>
 </context>
 <context>
@@ -893,52 +893,52 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать настройку</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать другую настройку</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
-        <translation type="unfinished"></translation>
+        <translation>нажмите здесь чтобы открыть меню</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный вариант</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Активируемая опция</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation type="unfinished"></translation>
+        <translation>Третий вариант с большим количеством текста</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
-        <translation type="unfinished"></translation>
+        <translation>верхнее/нижнее меню</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Потяните вниз, чтобы открыть верхнее меню, содержащее больше переключателей.</translation>
     </message>
 </context>
 <context>
@@ -946,12 +946,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить умную полосу прокрутки</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить быструю прокрутку</translation>
     </message>
 </context>
 <context>
@@ -959,27 +959,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Привет!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо что используешь мое маленькое приложение! Возможно ты можешь помочь?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо за твою поддержку!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Напомни мне позже</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не спрашивать</translation>
     </message>
 </context>
 <context>
@@ -987,22 +987,22 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвовать через Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перечисли эквивалент стоимости чашки кофе, кусочка пиццы или билета в театр.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Переведи на Weblate</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помоги перевести это приложение на как можно больше языков.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
@@ -1022,27 +1022,27 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот проект создан с любовью и страстью одним разработчиком в свободное время и предоставляется вам бесплатно.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Я разрабатываю бесплатное программное обеспечение, потому что убежден, что это этично, и это веселое хобби. Однако разработка программного обеспечения требует много времени и усилий. Поскольку Sailfish и жизнь в целом стоят денег, мне нужна ваша поддержка, чтобы иметь возможность тратить время на такие неоплачиваемые проекты, как этот.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Для чего делать пожертвования?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla поднял цены и пытается заставить застройщиков (работающих бесплатно) платить за Sailfish арендную плату.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы можете себе это позволить, пожертвование — это самый простой способ гарантировать, что я смогу продолжать работу над приложениями для Sailfish. Это может быть любая сумма, стоимость чашки кофе, кусочка пиццы или другая.</translation>
     </message>
 </context>
 </TS>
