@@ -94,12 +94,12 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="32"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklare</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="36"/>
         <source>Contributors</source>
-        <translation type="unfinished">Medverkande</translation>
+        <translation>Medverkande</translation>
     </message>
 </context>
 <context>
@@ -153,62 +153,62 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="12"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>N.N</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="13"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>online</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="14"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>igår</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="15"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@John: Finns det några potatis kvar?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="19"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>N.N.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="20"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>upptagen</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="21"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>2 timmar sedan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="22"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlåt @Jane, jag åt upp dem alla. Jag ska dock göra nya på lördag.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="26"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="27"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>borta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="28"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>32 min. sedan</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="29"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>@Jane, kom över, jag har några redo just nu!</translation>
     </message>
 </context>
 <context>
@@ -273,12 +273,12 @@
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
         <source>Example action</source>
         <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exempel på åtgärder</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
         <source>Anatomy</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
