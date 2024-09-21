@@ -1007,17 +1007,17 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished">Разрабатывать на Github</translation>
+        <translation>Разрабатывать на Github</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished">Поддержка в разработке и упаковке, написании кодов, или важные замечания об ошибках.</translation>
+        <translation>Поддержка в разработке и упаковке, написании кодов, или важные замечания об ошибках.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished">Почему вас это должно волновать?</translation>
+        <translation>Почему вас это должно волновать?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
