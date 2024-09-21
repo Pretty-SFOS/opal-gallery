@@ -605,7 +605,7 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="199"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona sugerencias de interacción fáciles de usar para tutoriales de aplicaciones.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="239"/>
@@ -916,17 +916,17 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opción ordinaria</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opción activable</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tercera opción con más texto</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
@@ -944,12 +944,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar la barra de desplazamiento inteligente</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar el desplazamiento rápido</translation>
     </message>
 </context>
 <context>

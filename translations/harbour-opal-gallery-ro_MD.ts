@@ -987,42 +987,42 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished">Doneaza via Liberapay</translation>
+        <translation>Doneaza via Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished">Achita o cafea, o felie de pizza, sau un bilet la teatru.</translation>
+        <translation>Achita o cafea, o felie de pizza, sau un bilet la teatru.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished">Tradu pe Weblate</translation>
+        <translation>Tradu pe Weblate</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished">Ajuta la traducerea acestei aplicații in cit mai multe limbi posibile.</translation>
+        <translation>Ajuta la traducerea acestei aplicații in cit mai multe limbi posibile.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished">Dezvolta pe Github</translation>
+        <translation>Dezvolta pe Github</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished">Suport prin mentinerea, impachetarea si scrierea codurilor, sau furnizarea de informatii valoroase despre erori.</translation>
+        <translation>Suport prin mentinerea, impachetarea si scrierea codurilor, sau furnizarea de informatii valoroase despre erori.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished">De ce ar trebui sa-ti pese?</translation>
+        <translation>De ce ar trebui sa-ti pese?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished">Proiectul dat este implementat cu pasiune si dragoste de catre un dezvoltator unic in timpul liber, si iti este pus la dispozitie gratuit.</translation>
+        <translation>Proiectul dat este implementat cu pasiune si dragoste de catre un dezvoltator unic in timpul liber, si iti este pus la dispozitie gratuit.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
