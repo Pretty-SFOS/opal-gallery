@@ -99,7 +99,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="36"/>
         <source>Contributors</source>
-        <translation type="unfinished">Kontributor-kontributor</translation>
+        <translation>Kontributor-kontributor</translation>
     </message>
 </context>
 <context>
@@ -145,7 +145,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mohon luangkan waktu sejenak untuk mempertimbangkan apakah Anda ingin berkontribusi dalam proyek ini dengan satu atau lain cara.</translation>
     </message>
 </context>
 <context>

@@ -99,7 +99,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="36"/>
         <source>Contributors</source>
-        <translation type="unfinished">Bijdragers</translation>
+        <translation>Bijdragers</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="100"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesisch</translation>
     </message>
 </context>
 <context>
@@ -145,7 +145,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neem alstublieft een moment of u iets kan bijdragen aan dit project.</translation>
     </message>
 </context>
 <context>
@@ -326,12 +326,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon minder</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon meer</translation>
     </message>
 </context>
 <context>
@@ -798,7 +798,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
         <source>Details</source>
-        <translation type="unfinished">Informatie</translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>
