@@ -55,7 +55,9 @@ details_elements=()
 attribution_elements=()
 
 for module in "${cQML_MODULES[@]}"; do
+    # shellcheck disable=SC2164
     cd "$base"
+    # shellcheck disable=SC2164
     cd "../opal-$module"
 
     fullNameStyled="$(./release-module.sh -c fullNameStyled)"
@@ -106,8 +108,10 @@ for module in "${cQML_MODULES[@]}"; do
 
     # enable empty dummy page to be used directly from module example pages
     _b="$(pwd)"
+    # shellcheck disable=SC2164
     cd "$base/qml/module-pages/opal-$module/"
     ln -s ../../pages/EmptyDummyPage.qml EmptyDummyPage.qml
+    # shellcheck disable=SC2164
     cd "$_b"
 
     mapfile -t maintainers <<<"$(./release-module.sh -c maintainers | tr ':' '\n')"
@@ -116,20 +120,24 @@ for module in "${cQML_MODULES[@]}"; do
 
     for peop in "${!authors[@]}"; do
         v="${authors[$peop]}"
+        # shellcheck disable=SC2004
         authors[$peop]="${v//\'/\\\'}"  # escape apostrophes
     done
 
     for peop in "${!attributions[@]}"; do
         v="${attributions[$peop]}"
+        # shellcheck disable=SC2004
         attributions[$peop]="${v//\'/\\\'}"  # escape apostrophes
     done
 
     for peop in "${!maintainers[@]}"; do
         v="${maintainers[$peop]}"
+        # shellcheck disable=SC2004
         maintainers[$peop]="${v//\'/\\\'}"  # escape apostrophes
 
         for author in "${!authors[@]}"; do
             if [[ "${maintainers[$peop]}" == "${authors[$author]}" ]]; then
+                # shellcheck disable=SC2004
                 authors[$author]=''  # remove duplicate
             fi
         done
@@ -170,9 +178,11 @@ for module in "${cQML_MODULES[@]}"; do
 
     rmdir --ignore-fail-on-non-empty "$base/dist/screenshots-weblate/opal-$module"
 
+    # shellcheck disable=SC2164
     cd "$base"
 done
 
+# shellcheck disable=SC2164
 cd "$base"
 echo "configuring qml/harbour-opal-gallery.qml..."
 cat <(awk '/>>> GENERATED LIST OF MODULE DETAILS/ {s=1;print $0;} !s' qml/harbour-opal-gallery.qml) \
@@ -191,10 +201,12 @@ cat <(awk '/>>> GENERATED LIST OF ATTRIBUTIONS/ {s=1;print $0;} !s' qml/pages/Ab
     <(awk '/<<< GENERATED LIST OF ATTRIBUTIONS/ {s=1;} s' qml/pages/AboutOpalPage.qml) \
         | sponge qml/pages/AboutOpalPage.qml
 
+# shellcheck disable=SC2164
 cd "$base/libs"
 echo "merging translations..."
 ./opal-merge-translations.sh ../translations
 
+# shellcheck disable=SC2164
 cd "$base"
 echo "updating translations..."
 lupdate-qt5 qml src -ts translations/*.ts
