@@ -56,32 +56,32 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvoltare</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programare</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design pictograme</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduceri</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Engleză</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Germană</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
@@ -117,27 +117,27 @@
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="85"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduceri</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="88"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Engleză</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="92"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Germană</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="96"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Franceză</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="100"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indoneziană</translation>
     </message>
 </context>
 <context>
@@ -722,7 +722,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="59"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvoltare</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="767"/>
@@ -751,7 +751,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="793"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduceri</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="798"/>
