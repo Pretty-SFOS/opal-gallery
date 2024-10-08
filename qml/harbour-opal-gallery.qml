@@ -56,6 +56,16 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates"
         },
+        "opal-dragdrop": {
+            appName: "Opal.DragDrop",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2024 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-dragdrop"
+        },
         "opal-smartscrollbar": {
             appName: "Opal.SmartScrollbar",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists."),
@@ -136,6 +146,14 @@ ApplicationWindow
             section: "released"
         }
         ListElement {
+            key: "opal-dragdrop"
+            title: "Opal.DragDrop"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-dragdrop/gallery.qml"
+            section: "released"
+        }
+        ListElement {
             key: "opal-smartscrollbar"
             title: "Opal.SmartScrollbar"
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists.")
@@ -183,6 +201,15 @@ ApplicationWindow
         // repositories yet.
 
         // section: "development"
+
+        // ListElement {
+        //     key: "opal-dragdrop"
+        //     title: "Opal.DragDrop"
+        //     description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code.")
+        //     mainLicenseSpdx: "GPL-3.0-or-later"
+        //     examplePage: "opal-dragdrop/gallery.qml"
+        //     section: "development"
+        // }
 
 
         // Upcoming modules

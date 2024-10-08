@@ -12,6 +12,7 @@ cQML_MODULES=(
     about
     supportme
     delegates
+    dragdrop
     smartscrollbar
     infocombo
     combodata
