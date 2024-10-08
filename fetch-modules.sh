@@ -8,6 +8,7 @@
 
 # TODO error checking and handling
 
+cMERGE_TRANSLATIONS=bash
 cQML_MODULES=(
     about
     supportme
@@ -34,6 +35,10 @@ if [[ ! -d ../opal ]]; then
     printf -- "\t%s\n" "git clone https://github.com/Pretty-SFOS/opal"
     echo
     exit 128
+fi
+
+if [[ -f ../opal-merge-translations/merge-translations.py ]]; then
+    cMERGE_TRANSLATIONS=py
 fi
 
 if (( ${#missing[@]} > 0 )); then
@@ -202,13 +207,22 @@ cat <(awk '/>>> GENERATED LIST OF ATTRIBUTIONS/ {s=1;print $0;} !s' qml/pages/Ab
     <(awk '/<<< GENERATED LIST OF ATTRIBUTIONS/ {s=1;} s' qml/pages/AboutOpalPage.qml) \
         | sponge qml/pages/AboutOpalPage.qml
 
-# shellcheck disable=SC2164
-cd "$base/libs"
-echo "merging translations..."
-./opal-merge-translations.sh ../translations
 
-# shellcheck disable=SC2164
-cd "$base"
-echo "updating translations..."
-lupdate-qt5 qml src -ts translations/*.ts
-lupdate-qt5 -noobsolete qml src -ts translations/*.ts
+if [[ "$cMERGE_TRANSLATIONS" == "py" ]]; then
+    echo "merging and updating translations..."
+    cd "$base"
+    lupdate-qt5 -locations absolute qml src -ts translations/*.ts && \
+        ../opal-merge-translations/merge-translations.py libs/opal-translations/* translations -B -f | tee merge.log~ && \
+            lupdate-qt5 -noobsolete -locations absolute qml src -ts translations/*.ts
+else
+    # shellcheck disable=SC2164
+    cd "$base/libs"
+    echo "merging translations..."
+    ./opal-merge-translations.sh ../translations
+
+    # shellcheck disable=SC2164
+    cd "$base"
+    echo "updating translations..."
+    lupdate-qt5 qml src -ts translations/*.ts
+    lupdate-qt5 -noobsolete qml src -ts translations/*.ts
+fi
