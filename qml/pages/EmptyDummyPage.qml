@@ -13,6 +13,7 @@ Page {
 
     SilicaFlickable {
         anchors.fill: parent
+
         ViewPlaceholder {
             enabled: true
             text: qsTr("Dummy page")
