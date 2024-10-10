@@ -4,12 +4,12 @@
 <context>
     <name>AboutModulePageBase</name>
     <message>
-        <location filename="../qml/pages/AboutModulePageBase.qml" line="32"/>
+        <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
         <translation>Підтримують проект</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutModulePageBase.qml" line="36"/>
+        <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
         <source>Contributors</source>
         <translation>Учасники</translation>
     </message>
@@ -17,37 +17,102 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
+        <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
         <translation>Opal - це колекція гарних QML-компонентів для SailfishOS, побудована на основі компонентів Silica з Sailfish.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="33"/>
+        <location filename="../qml/pages/AboutPage.qml" line="25"/>
         <source>Opal Gallery</source>
         <translation>Галерея Opal</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="86"/>
+        <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Translations</source>
         <translation>Переклади</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="89"/>
+        <location filename="../qml/pages/AboutPage.qml" line="70"/>
+        <source>Ukrainian</source>
+        <translation>Українська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="77"/>
+        <source>Turkish</source>
+        <translation>Турецька</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
+        <source>Swedish</source>
+        <translation>Шведська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="90"/>
+        <source>Spanish</source>
+        <translation>Іспанська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="98"/>
+        <source>Russian</source>
+        <translation>Російська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="106"/>
+        <source>Polish</source>
+        <translation>Польська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <source>Norwegian Bokmål</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="118"/>
+        <source>Moldavian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <source>Italian</source>
+        <translation>Італійська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Finnish</source>
+        <translation>Фінська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="156"/>
+        <source>Estonian</source>
+        <translation>Естонська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="162"/>
         <source>English</source>
         <translation>Англійська</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="93"/>
+        <location filename="../qml/pages/AboutPage.qml" line="168"/>
+        <source>Dutch</source>
+        <translation>Нідерландська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="172"/>
+        <source>Chinese</source>
+        <translation>Китайська</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>German</source>
         <translation>Німецька</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="97"/>
+        <location filename="../qml/pages/AboutPage.qml" line="145"/>
         <source>French</source>
         <translation>Французька</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutOpalPage.qml" line="101"/>
+        <location filename="../qml/pages/AboutPage.qml" line="131"/>
         <source>Indonesian</source>
         <translation>Індонезійська</translation>
     </message>
@@ -584,9 +649,9 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="764"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="59"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
         <translation>Розробка</translation>
     </message>
@@ -602,7 +667,7 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="793"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="817"/>
         <source>Translations</source>
         <translation>Переклади</translation>
     </message>
@@ -627,12 +692,12 @@
         <translation>показати подробиці</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="35"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <source>Contributors</source>
         <translation>Учасники</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="62"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
         <source>License(s)</source>
         <translation>
             <numerusform>Ліцензія</numerusform>
@@ -641,32 +706,32 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="693"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="714"/>
         <source>About</source>
         <translation>Про застосунок</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="740"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="761"/>
         <source>Version %1</source>
         <translation>Версія %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="767"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
         <source>show contributors</source>
         <translation>показати учасників</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="815"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="839"/>
         <source>Donations</source>
         <translation>Пожертви</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="825"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="849"/>
         <source>License</source>
         <translation>Ліцензія</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="838"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="863"/>
         <source>show license(s)</source>
         <translation>
             <numerusform>показати ліцензію</numerusform>
@@ -675,25 +740,25 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="798"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="116"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="145"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="37"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="66"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
         <source>Source Code</source>
         <translation>Вихідний код</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="75"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
         <source>Note: please check the source code for most accurate information.</source>
         <translation>Примітка: будь ласка, перевірте вихідний код для отримання найбільш точної інформації.</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="77"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="80"/>
         <source>Acknowledgements</source>
         <translation>Подяки</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="95"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="16"/>
         <source>Thank you!</source>
         <translation>Дякую!</translation>
     </message>
@@ -713,20 +778,20 @@
         <translation>Копіювати в буфер обміну</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="48"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
         <translation>Завантажити тексти ліцензій</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="110"/>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="61"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="31"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
         <translation>Подробиці</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="780"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="118"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="142"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="39"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="63"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
         <translation>Головна</translation>
@@ -742,7 +807,7 @@
         <translation>Будь ласка, зверніться до &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
         <translation>Список змін</translation>
