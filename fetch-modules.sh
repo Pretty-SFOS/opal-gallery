@@ -85,7 +85,7 @@ for module in "${cQML_MODULES[@]}"; do
     mkdir -p "$base/qml/module-pages/opal-$module/gallery"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/gallery.qml"
     # sed -i "s/qsTr(/qsTranslate(\"${fullNameStyled//\//\\\/}.Gallery\", /g" "$base/qml/module-pages/opal-$module/gallery.qml"
-    sed -i "s/qsTr(/qsTranslate(\"${nameStyled//\//\\\/}\", /g" "$base/qml/module-pages/opal-$module/gallery.qml"
+    sed -i "s/qsTr(/qsTranslate(\"${fullNameStyled//\//\\\/}\", /g" "$base/qml/module-pages/opal-$module/gallery.qml"
 
     mapfile -t extras <<<"$(./release-module.sh -c extraGalleryPages | tr ' ' '\n')"
 
