@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 
     QScopedPointer<QQuickView> view(SailfishApp::createView());
     view->engine()->addImportPath(SailfishApp::pathTo("qml/modules").toString());
+    view->engine()->addImportPath(SailfishApp::pathTo("qml/common").toString());
     view->rootContext()->setContextProperty("APP_VERSION", QString(APP_VERSION));
     view->rootContext()->setContextProperty("APP_RELEASE", QString(APP_RELEASE));
 

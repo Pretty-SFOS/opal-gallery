@@ -1,0 +1,9 @@
+module Opal.Gallery
+# This file is part of Opal.Gallery.
+# SPDX-FileCopyrightText: 2024 Mirian Margiani
+# SPDX-License-Identifier: GPL-3.0-or-later
+GalleryLabel 1.0 GalleryLabel.qml
+GalleryEmptyDummyPage 1.0 GalleryEmptyDummyPage.qml
+GalleryChatModel 1.0 GalleryChatModel.qml
+GalleryFruitModel 1.0 GalleryFruitModel.qml
+GalleryLongFruitModel 1.0 GalleryLongFruitModel.qml
