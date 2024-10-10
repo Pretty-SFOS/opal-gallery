@@ -38,81 +38,66 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
-        <source>Turkish</source>
-        <translation>土耳其语</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Swedish</source>
         <translation>瑞典语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="90"/>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Spanish</source>
         <translation>西班牙语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="98"/>
+        <location filename="../qml/pages/AboutPage.qml" line="91"/>
         <source>Russian</source>
         <translation>俄语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="106"/>
+        <location filename="../qml/pages/AboutPage.qml" line="99"/>
         <source>Polish</source>
         <translation>波兰语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Norwegian Bokmål</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="118"/>
+        <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Italian</source>
         <translation>意大利语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="152"/>
-        <source>Finnish</source>
-        <translation>芬兰语</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="156"/>
+        <location filename="../qml/pages/AboutPage.qml" line="143"/>
         <source>Estonian</source>
         <translation>爱沙尼亚语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="162"/>
+        <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>English</source>
         <translation>英语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="168"/>
-        <source>Dutch</source>
-        <translation>荷兰语</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="172"/>
+        <location filename="../qml/pages/AboutPage.qml" line="155"/>
         <source>Chinese</source>
         <translation>汉语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="138"/>
+        <location filename="../qml/pages/AboutPage.qml" line="129"/>
         <source>German</source>
         <translation>德语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="145"/>
+        <location filename="../qml/pages/AboutPage.qml" line="136"/>
         <source>French</source>
         <translation>法语</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/AboutPage.qml" line="123"/>
         <source>Indonesian</source>
         <translation>印度尼西亚语</translation>
     </message>
@@ -737,8 +722,8 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="37"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="66"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
         <source>Source Code</source>
         <translation>源代码</translation>
@@ -754,7 +739,7 @@
         <translation>鸣谢</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="16"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
         <translation>谢谢！</translation>
     </message>
@@ -779,15 +764,15 @@
         <translation>下载许可证文本</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="31"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
         <translation>日志</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="39"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="63"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
         <translation>主页</translation>

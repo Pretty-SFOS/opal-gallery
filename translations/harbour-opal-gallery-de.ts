@@ -38,81 +38,66 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
-        <source>Turkish</source>
-        <translation>Türkisch</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Swedish</source>
         <translation>Schwedisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="90"/>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Spanish</source>
         <translation>Spanisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="98"/>
+        <location filename="../qml/pages/AboutPage.qml" line="91"/>
         <source>Russian</source>
         <translation>Russisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="106"/>
+        <location filename="../qml/pages/AboutPage.qml" line="99"/>
         <source>Polish</source>
         <translation>Polnisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Norwegian Bokmål</source>
         <translation>Norwegisch (Bokmål)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="118"/>
+        <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
         <translation>Moldauisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Italian</source>
         <translation>Italienisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="152"/>
-        <source>Finnish</source>
-        <translation>Finnisch</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="156"/>
+        <location filename="../qml/pages/AboutPage.qml" line="143"/>
         <source>Estonian</source>
         <translation>Estnisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="162"/>
+        <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>English</source>
         <translation>Englisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="168"/>
-        <source>Dutch</source>
-        <translation>Niederländisch</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="172"/>
+        <location filename="../qml/pages/AboutPage.qml" line="155"/>
         <source>Chinese</source>
         <translation>Chinesisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="138"/>
+        <location filename="../qml/pages/AboutPage.qml" line="129"/>
         <source>German</source>
         <translation>Deutsch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="145"/>
+        <location filename="../qml/pages/AboutPage.qml" line="136"/>
         <source>French</source>
         <translation>Französisch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/AboutPage.qml" line="123"/>
         <source>Indonesian</source>
         <translation>Indonesisch</translation>
     </message>
@@ -734,8 +719,8 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="37"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="66"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
         <source>Source Code</source>
         <translation>Quellcode</translation>
@@ -756,7 +741,7 @@
         <translation>Danksagungen</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="16"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
         <translation>Vielen Dank!</translation>
     </message>
@@ -781,15 +766,15 @@
         <translation>Lizenztexte herunterladen</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="31"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
         <translation>Details</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="39"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="63"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
         <translation>Webseite</translation>

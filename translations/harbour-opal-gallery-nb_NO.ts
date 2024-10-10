@@ -38,81 +38,66 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
-        <source>Turkish</source>
-        <translation>Tyrkisk</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Swedish</source>
         <translation>Svensk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="90"/>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Spanish</source>
         <translation>Spansk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="98"/>
+        <location filename="../qml/pages/AboutPage.qml" line="91"/>
         <source>Russian</source>
         <translation>Russisk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="106"/>
+        <location filename="../qml/pages/AboutPage.qml" line="99"/>
         <source>Polish</source>
         <translation>Polsk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Norwegian Bokmål</source>
         <translation>Norsk bokmål</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="118"/>
+        <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Italian</source>
         <translation>Italiensk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="152"/>
-        <source>Finnish</source>
-        <translation>Finsk</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="156"/>
+        <location filename="../qml/pages/AboutPage.qml" line="143"/>
         <source>Estonian</source>
         <translation>Estisk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="162"/>
+        <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>English</source>
         <translation>Engelsk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="168"/>
-        <source>Dutch</source>
-        <translation>Hollandsk</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="172"/>
+        <location filename="../qml/pages/AboutPage.qml" line="155"/>
         <source>Chinese</source>
         <translation>Kinesisk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="138"/>
+        <location filename="../qml/pages/AboutPage.qml" line="129"/>
         <source>German</source>
         <translation>Tysk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="145"/>
+        <location filename="../qml/pages/AboutPage.qml" line="136"/>
         <source>French</source>
         <translation>Fransk</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/AboutPage.qml" line="123"/>
         <source>Indonesian</source>
         <translation>Indonesisk</translation>
     </message>
@@ -739,8 +724,8 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="37"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="66"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
         <source>Source Code</source>
         <translation>Kildekode</translation>
@@ -756,7 +741,7 @@
         <translation>Kunngjøringer</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="16"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
         <translation>Takk.</translation>
     </message>
@@ -781,15 +766,15 @@
         <translation>Last ned lisenstekstene</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="31"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
         <translation>Detaljer</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="39"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="63"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
         <translation>Hjemmeside</translation>
