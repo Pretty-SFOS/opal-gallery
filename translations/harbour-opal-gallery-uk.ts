@@ -2,94 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="uk">
 <context>
-    <name>About</name>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
-        <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>Це короткий опис застосунку. Він може використовувати стилізований та розгорнутий текст або &lt;a href=&quot;https://example.org&quot;&gt;посилання&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
-        <source>the app&apos;s maintainer</source>
-        <translation>супроводжувач застосунку</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
-        <source>another important person</source>
-        <translation>інша важлива особа</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="23"/>
-        <source>additional name</source>
-        <translation>додаткова назва</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
-        <source>Forum</source>
-        <translation>Форум</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
-        <source>Data</source>
-        <translation>Дані</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
-        <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
-        <source>Data License</source>
-        <translation>Ліцензія на передачу даних</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
-        <source>Extra info</source>
-        <translation>Додаткова інформація</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
-        <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
-        <source>Development</source>
-        <translation>Розробка</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
-        <source>Programming</source>
-        <translation>Програмування</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
-        <source>Icon Design</source>
-        <translation>Дизайн іконок</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
-        <source>Translations</source>
-        <translation>Переклади</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
-        <source>English</source>
-        <translation>Англійська</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
-        <source>German</source>
-        <translation>Німецька</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
-        <source>Open another page</source>
-        <translation>Відкрити іншу сторінку</translation>
-    </message>
-</context>
-<context>
     <name>AboutModulePageBase</name>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="32"/>
@@ -149,216 +61,11 @@
     </message>
 </context>
 <context>
-    <name>ChatModel</name>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="19"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="19"/>
-        <source>Jane</source>
-        <translation>Jane</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="20"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="20"/>
-        <source>online</source>
-        <translation>онлайн</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="21"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="21"/>
-        <source>yesterday</source>
-        <translation>вчора</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="22"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="22"/>
-        <source>@John: are there any taters left?</source>
-        <translation>@John: чи залишилася ще картопля?</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="26"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="26"/>
-        <source>John</source>
-        <translation>John</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="27"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="27"/>
-        <source>busy</source>
-        <translation>зайнятий</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="28"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="28"/>
-        <source>2h ago</source>
-        <translation>2 год. тому</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="29"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="29"/>
-        <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation>Вибач, @Jane, я всі з&apos;їв. Але в суботу я зроблю нові.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="33"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="33"/>
-        <source>Lisa</source>
-        <translation>Lisa</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="34"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="34"/>
-        <source>away</source>
-        <translation>звідси</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="35"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="35"/>
-        <source>32m ago</source>
-        <translation>32 хв. тому</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/ChatModel.qml" line="36"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/ChatModel.qml" line="36"/>
-        <source>@Jane, come over, I have some ready right now!</source>
-        <translation>@Jane, приїжджай, у мене вже є кілька готових!</translation>
-    </message>
-</context>
-<context>
-    <name>ComboData</name>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="38"/>
-        <source>Fruit</source>
-        <translation>Фрукт</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="47"/>
-        <source>Banana</source>
-        <translation>Банан</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
-        <source>Kiwi</source>
-        <translation>Ківі</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
-        <source>Pear</source>
-        <translation>Груша</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="62"/>
-        <source>Selected</source>
-        <translation>Вибрано</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="63"/>
-        <source>nothing</source>
-        <translation>нічого</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
-        <source>Details</source>
-        <translation>Подробиці</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
-        <source>no details available</source>
-        <translation>подробиці недоступні</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="111"/>
-        <source>Index by value</source>
-        <translation>Індекс за значенням</translation>
-    </message>
-</context>
-<context>
     <name>CoverPage</name>
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
         <translation>Галерея</translation>
-    </message>
-</context>
-<context>
-    <name>Delegates</name>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
-        <source>Example action</source>
-        <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation>Приклад дії</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
-        <source>Anatomy</source>
-        <translation>Анатомія</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
-        <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation>Делегати базуються на компоненті «PaddedDelegate». Він забезпечує відступи з усіх боків, а також три необов&apos;язкові частини вмісту: ліву, центральну та праву.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
-        <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation>Рядки можна підсвічувати по черзі, щоб зробити їх більш чіткими.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
-        <source>Emphasize rows</source>
-        <translation>Виділити рядки</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
-        <source>This component has only one content line. Left and right contents can be customized.</source>
-        <translation>Цей компонент має лише один рядок вмісту. Лівий та правий вміст можна налаштувати.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
-        <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation>Цей компонент має два рядки вмісту. Лівий та правий елементи використовують «DelegateIconItem» та «DelegateInfoItem» відповідно.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="70"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="91"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="206"/>
-        <source>per kg</source>
-        <translation>на 1 кг</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
-        <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation>Цей компонент має три рядки вмісту. Всі рядки є необов&apos;язковими і будуть приховані, якщо вони порожні.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
-        <source>Drag and drop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
-        <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
-        <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
-        <source>All contents can be customized. Complex content items are possible.</source>
-        <translation>Весь вміст можна налаштувати. Можливі складні елементи вмісту.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
-        <source>Side elements</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
-        <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -375,55 +82,6 @@
     </message>
 </context>
 <context>
-    <name>DragDrop</name>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="37"/>
-        <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
-        <source>Toggle this switch to see how components react.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="46"/>
-        <source>Full page view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="51"/>
-        <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="55"/>
-        <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="98"/>
-        <source>Custom views</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="102"/>
-        <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="165"/>
-        <source>Long views</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="169"/>
-        <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>EmptyDummyPage</name>
     <message>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="20"/>
@@ -437,61 +95,193 @@
     </message>
 </context>
 <context>
-    <name>FruitModel</name>
+    <name>GalleryChatModel</name>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="12"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="12"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
+        <source>Jane</source>
+        <translation>Jane</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
+        <source>online</source>
+        <translation>онлайн</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
+        <source>yesterday</source>
+        <translation>вчора</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
+        <source>@John: are there any taters left?</source>
+        <translation>@John: чи залишилася ще картопля?</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
+        <source>John</source>
+        <translation>John</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
+        <source>busy</source>
+        <translation>зайнятий</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
+        <source>2h ago</source>
+        <translation>2 год. тому</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
+        <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
+        <translation>Вибач, @Jane, я всі з&apos;їв. Але в суботу я зроблю нові.</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
+        <source>Lisa</source>
+        <translation>Lisa</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
+        <source>away</source>
+        <translation>звідси</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
+        <source>32m ago</source>
+        <translation>32 хв. тому</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
+        <source>@Jane, come over, I have some ready right now!</source>
+        <translation>@Jane, приїжджай, у мене вже є кілька готових!</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryFruitModel</name>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
         <translation>Яблуко</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="14"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="14"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
         <translation>Соковитий фрукт з кислуватою ноткою. Ідеально підходить для фруктових салатів.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="15"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="15"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
         <translation>Найкращий засіб від лікарів!</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="19"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="19"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
         <translation>Банан</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="21"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="21"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
         <translation>Жовтий фрукт, який полюбляють мавпи та люди.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="22"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="22"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
         <translation>Тільки сьогодні: два за ціною одного!</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="25"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="25"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
         <translation>Кошик, повний екзотичних фруктів</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="28"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="28"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
         <translation>Особливий подарунок!</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-delegates/gallery/FruitModel.qml" line="31"/>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/FruitModel.qml" line="31"/>
+        <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
         <translation>Арахісове масло</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryLongFruitModel</name>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
+        <source>Apple</source>
+        <translation type="unfinished">Яблуко</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
+        <source>Banana</source>
+        <translation type="unfinished">Банан</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
+        <source>A basket full of exotic fruits</source>
+        <translation type="unfinished">Кошик, повний екзотичних фруктів</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
+        <source>Kiwi</source>
+        <translation type="unfinished">Ківі</translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
+        <source>Fig</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
+        <source>Peach</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
+        <source>Grape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
+        <source>Lemon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
+        <source>Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
+        <source>Ananas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
+        <source>Black currant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
+        <source>Raspberry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
+        <source>Watermelon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
+        <source>Honey melon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
+        <source>Rhubarb</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -500,134 +290,6 @@
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
         <source>License text</source>
         <translation>Текст ліцензії</translation>
-    </message>
-</context>
-<context>
-    <name>LinkHandler</name>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
-        <source>External links</source>
-        <translation>Зовнішні посилання</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
-        <source>Basic usage</source>
-        <translation>Базове використання</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
-        <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation>Ця мітка містить &lt;a href=&quot;https://example.org&quot;&gt;зовнішнє посилання&lt;/a&gt;, яке ви можете активувати. Після натискання відкриється нова сторінка, на якій вам буде запропоновано відкрити або скопіювати URL-адресу.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
-        <source>Advanced usage</source>
-        <translation>Просунуте використання</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
-        <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation>У мітці можуть бути різні типи посилань, і з ними можна працювати окремо. Це &lt;a href=&quot;tel:+4100000000&quot;&gt;номер телефону&lt;/a&gt;, а це &lt;a href=&quot;https://example.org&quot;&gt;вебсайт&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
-        <source>Phone number</source>
-        <translation>Номер телефону</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
-        <source>Website</source>
-        <translation>Вебсайт</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
-        <source>Silica tools</source>
-        <translation>Інструменти Silica</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
-        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation>Silica надає елемент “LinkedLabel”, який автоматично знаходить посилання та номери телефонів у тексті і робить їх клікабельними. Цей номер +4100000000 і ця URL-адреса https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically автоматично відформатовані як посилання. Також зверніть увагу, як скорочується довга URL-адреса.</translation>
-    </message>
-</context>
-<context>
-    <name>LongFruitModel</name>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="11"/>
-        <source>Apple</source>
-        <translation type="unfinished">Яблуко</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="15"/>
-        <source>Banana</source>
-        <translation type="unfinished">Банан</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="19"/>
-        <source>A basket full of exotic fruits</source>
-        <translation type="unfinished">Кошик, повний екзотичних фруктів</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="23"/>
-        <source>Kiwi</source>
-        <translation type="unfinished">Ківі</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="27"/>
-        <source>Fig</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="31"/>
-        <source>Peach</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="35"/>
-        <source>Grape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="39"/>
-        <source>Lemon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="43"/>
-        <source>Orange</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="47"/>
-        <source>Ananas</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="51"/>
-        <source>Black currant</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="55"/>
-        <source>Raspberry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="59"/>
-        <source>Watermelon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="63"/>
-        <source>Honey melon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-dragdrop/gallery/LongFruitModel.qml" line="67"/>
-        <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -871,6 +533,95 @@
 <context>
     <name>Opal.About</name>
     <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
+        <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
+        <translation>Це короткий опис застосунку. Він може використовувати стилізований та розгорнутий текст або &lt;a href=&quot;https://example.org&quot;&gt;посилання&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
+        <source>the app&apos;s maintainer</source>
+        <translation>супроводжувач застосунку</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
+        <source>another important person</source>
+        <translation>інша важлива особа</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="23"/>
+        <source>additional name</source>
+        <translation>додаткова назва</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
+        <source>Forum</source>
+        <translation>Форум</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
+        <source>Data</source>
+        <translation>Дані</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
+        <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
+        <source>Data License</source>
+        <translation>Ліцензія на передачу даних</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
+        <source>Extra info</source>
+        <translation>Додаткова інформація</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="764"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
+        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="59"/>
+        <source>Development</source>
+        <translation>Розробка</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
+        <source>Programming</source>
+        <translation>Програмування</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
+        <source>Icon Design</source>
+        <translation>Дизайн іконок</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="793"/>
+        <source>Translations</source>
+        <translation>Переклади</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
+        <source>English</source>
+        <translation>Англійська</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
+        <source>German</source>
+        <translation>Німецька</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
+        <source>Open another page</source>
+        <translation>Відкрити іншу сторінку</translation>
+    </message>
+    <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
         <translation>показати подробиці</translation>
@@ -900,13 +651,6 @@
         <translation>Версія %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="764"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
-        <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="59"/>
-        <source>Development</source>
-        <translation>Розробка</translation>
-    </message>
-    <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="767"/>
         <source>show contributors</source>
         <translation>показати учасників</translation>
@@ -929,11 +673,6 @@
             <numerusform>показати ліцензії</numerusform>
             <numerusform>показати ліцензій</numerusform>
         </translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="793"/>
-        <source>Translations</source>
-        <translation>Переклади</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="798"/>
@@ -1009,12 +748,12 @@
         <translation>Список змін</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="208"/>
+        <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
         <translation>Новини</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="209"/>
+        <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
         <source>Changes since version %1</source>
         <translation>Зміни з попередньої версії %1</translation>
     </message>
@@ -1038,7 +777,253 @@
     </message>
 </context>
 <context>
+    <name>Opal.ComboData</name>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="38"/>
+        <source>Fruit</source>
+        <translation>Фрукт</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="47"/>
+        <source>Banana</source>
+        <translation>Банан</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
+        <source>Kiwi</source>
+        <translation>Ківі</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
+        <source>Pear</source>
+        <translation>Груша</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="62"/>
+        <source>Selected</source>
+        <translation>Вибрано</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="63"/>
+        <source>nothing</source>
+        <translation>нічого</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
+        <source>Details</source>
+        <translation>Подробиці</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
+        <source>no details available</source>
+        <translation>подробиці недоступні</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="111"/>
+        <source>Index by value</source>
+        <translation>Індекс за значенням</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.Delegates</name>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
+        <source>Example action</source>
+        <comment>as in: “take an action”, this is just a dummy placeholder</comment>
+        <translation>Приклад дії</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
+        <source>Anatomy</source>
+        <translation>Анатомія</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
+        <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
+        <translation>Делегати базуються на компоненті «PaddedDelegate». Він забезпечує відступи з усіх боків, а також три необов&apos;язкові частини вмісту: ліву, центральну та праву.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
+        <source>Rows can be highlighted alternatingly to make them more distinct.</source>
+        <translation>Рядки можна підсвічувати по черзі, щоб зробити їх більш чіткими.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
+        <source>Emphasize rows</source>
+        <translation>Виділити рядки</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
+        <source>This component has only one content line. Left and right contents can be customized.</source>
+        <translation>Цей компонент має лише один рядок вмісту. Лівий та правий вміст можна налаштувати.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
+        <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
+        <translation>Цей компонент має два рядки вмісту. Лівий та правий елементи використовують «DelegateIconItem» та «DelegateInfoItem» відповідно.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
+        <source>per kg</source>
+        <translation>на 1 кг</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
+        <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
+        <translation>Цей компонент має три рядки вмісту. Всі рядки є необов&apos;язковими і будуть приховані, якщо вони порожні.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
+        <source>Drag and drop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
+        <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
+        <source>Complex customizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
+        <source>All contents can be customized. Complex content items are possible.</source>
+        <translation>Весь вміст можна налаштувати. Можливі складні елементи вмісту.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
+        <source>Side elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
+        <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Opal.DragDrop</name>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
+        <source>Enable drag and drop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
+        <source>Toggle this switch to see how components react.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
+        <source>Full page view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
+        <source>Views using “Opal.Delegates”</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
+        <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
+        <source>per kg</source>
+        <translation type="unfinished">на 1 кг</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
+        <source>Custom views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
+        <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
+        <source>Long views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
+        <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Opal.DragDrop.FullPageView.Gallery</name>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
+        <source>Enable drag and drop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
+        <source>Current index: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
+        <source>per kg</source>
+        <translation type="unfinished">на 1 кг</translation>
+    </message>
+</context>
+<context>
     <name>Opal.LinkHandler</name>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
+        <source>External links</source>
+        <translation>Зовнішні посилання</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
+        <source>Basic usage</source>
+        <translation>Базове використання</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
+        <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
+        <translation>Ця мітка містить &lt;a href=&quot;https://example.org&quot;&gt;зовнішнє посилання&lt;/a&gt;, яке ви можете активувати. Після натискання відкриється нова сторінка, на якій вам буде запропоновано відкрити або скопіювати URL-адресу.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
+        <source>Advanced usage</source>
+        <translation>Просунуте використання</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
+        <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
+        <translation>У мітці можуть бути різні типи посилань, і з ними можна працювати окремо. Це &lt;a href=&quot;tel:+4100000000&quot;&gt;номер телефону&lt;/a&gt;, а це &lt;a href=&quot;https://example.org&quot;&gt;вебсайт&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
+        <source>Phone number</source>
+        <translation>Номер телефону</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
+        <source>Website</source>
+        <translation>Вебсайт</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
+        <source>Silica tools</source>
+        <translation>Інструменти Silica</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
+        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
+        <translation>Silica надає елемент “LinkedLabel”, який автоматично знаходить посилання та номери телефонів у тексті і робить їх клікабельними. Цей номер +4100000000 і ця URL-адреса https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically автоматично відформатовані як посилання. Також зверніть увагу, як скорочується довга URL-адреса.</translation>
+    </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
@@ -1124,7 +1109,7 @@
     </message>
 </context>
 <context>
-    <name>SmartScrollbar</name>
+    <name>Opal.SmartScrollbar</name>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
@@ -1137,35 +1122,7 @@
     </message>
 </context>
 <context>
-    <name>SupportDialog</name>
-    <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
-        <source>Hi there!</source>
-        <translation>Вітаю!</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
-        <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Дякую за використання мого додатку! Можливо, ви можете зробити свій внесок у відповідь?</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
-        <source>Thank you for your support!</source>
-        <translation>Дякую за вашу підтримку!</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
-        <source>Remind me later</source>
-        <translation>Нагадати пізніше</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
-        <source>Don&apos;t ask me again</source>
-        <translation>Не питати знову</translation>
-    </message>
-</context>
-<context>
-    <name>SupportMe</name>
+    <name>Opal.SupportMe</name>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
@@ -1225,6 +1182,34 @@
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Якщо ви можете собі це дозволити, пожертвування – це найпростіший спосіб гарантувати, що я зможу продовжувати працювати над додатками для Sailfish OS. Будь-яка сума буде цінна, будь то чашка кави, шматок піци чи щось більше.</translation>
+    </message>
+</context>
+<context>
+    <name>SupportDialog</name>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
+        <source>Hi there!</source>
+        <translation>Вітаю!</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
+        <source>Thank you for using my little app! Maybe you can contribute back?</source>
+        <translation>Дякую за використання мого додатку! Можливо, ви можете зробити свій внесок у відповідь?</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
+        <source>Thank you for your support!</source>
+        <translation>Дякую за вашу підтримку!</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <source>Remind me later</source>
+        <translation>Нагадати пізніше</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <source>Don&apos;t ask me again</source>
+        <translation>Не питати знову</translation>
     </message>
 </context>
 </TS>
