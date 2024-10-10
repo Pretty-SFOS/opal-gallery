@@ -74,15 +74,8 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("Turkish")
-                    entries: [
-                        "Mirian Margiani"
-                    ]
-                },
-                A.ContributionGroup {
                     title: qsTr("Swedish")
                     entries: [
-                        "Mirian Margiani",
                         "Åke Engelbrektson"
                     ]
                 },
@@ -123,14 +116,12 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Italian")
                     entries: [
-                        "Mirian Margiani",
                         "RoundedRectangle"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Indonesian")
                     entries: [
-                        "Mirian Margiani",
                         "Reza Almanda"
                     ]
                 },
@@ -149,10 +140,6 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("Finnish")
-                    entries: []
-                },
-                A.ContributionGroup {
                     title: qsTr("Estonian")
                     entries: [
                         "Priit Jõerüüt"
@@ -163,10 +150,6 @@ A.AboutPageBase {
                     entries: [
                         "Mirian Margiani"
                     ]
-                },
-                A.ContributionGroup {
-                    title: qsTr("Dutch")
-                    entries: []
                 },
                 A.ContributionGroup {
                     title: qsTr("Chinese")
