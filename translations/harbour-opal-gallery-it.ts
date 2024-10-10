@@ -15,7 +15,7 @@
     </message>
 </context>
 <context>
-    <name>AboutOpalPage</name>
+    <name>AboutPage</name>
     <message>
         <location filename="../qml/pages/AboutOpalPage.qml" line="53"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
