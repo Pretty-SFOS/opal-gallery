@@ -201,12 +201,6 @@ cat <(awk '/>>> GENERATED LIST OF MODULES/ {s=1;print $0;} !s' qml/harbour-opal-
     <(awk '/<<< GENERATED LIST OF MODULES/ {s=1;} s' qml/harbour-opal-gallery.qml) \
         | sponge qml/harbour-opal-gallery.qml
 
-echo "configuring qml/pages/AboutOpalPage.qml..."
-cat <(awk '/>>> GENERATED LIST OF ATTRIBUTIONS/ {s=1;print $0;} !s' qml/pages/AboutOpalPage.qml) \
-    <(printf "%s\n" "${attribution_elements[@]}" | sed -Ee '$ s/},/}/g') \
-    <(awk '/<<< GENERATED LIST OF ATTRIBUTIONS/ {s=1;} s' qml/pages/AboutOpalPage.qml) \
-        | sponge qml/pages/AboutOpalPage.qml
-
 
 if [[ "$cMERGE_TRANSLATIONS" == "py" ]]; then
     echo "merging and updating translations..."

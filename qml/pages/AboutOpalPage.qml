@@ -25,7 +25,6 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0 as S
 import Opal.About 1.0 as A
-import "../modules/Opal/Attributions"
 
 A.AboutPageBase {
     id: root
@@ -53,20 +52,7 @@ A.AboutPageBase {
     description: qsTr("Opal is a collection of pretty QML components " +
                       "for SailfishOS, building on top of Sailfish's Silica components.")
     mainAttributions: "2020-%1 Mirian Margiani".arg((new Date()).getFullYear())
-
-    attributions: [
-        //>>> GENERATED LIST OF ATTRIBUTIONS
-        OpalAboutAttribution {},
-        OpalSupportMeAttribution {},
-        OpalDelegatesAttribution {},
-        OpalDragDropAttribution {},
-        OpalSmartScrollbarAttribution {},
-        OpalInfoComboAttribution {},
-        OpalComboDataAttribution {},
-        OpalMenuSwitchAttribution {},
-        OpalLinkHandlerAttribution {}
-        //<<< GENERATED LIST OF ATTRIBUTIONS
-    ]
+    autoAddOpalAttributions: true
 
     contributionSections: [
         /* A.ContributionSection {

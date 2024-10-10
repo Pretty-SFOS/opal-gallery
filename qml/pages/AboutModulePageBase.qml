@@ -13,6 +13,7 @@ A.AboutPageBase {
     allowedOrientations: S.Orientation.All
     appIcon: Qt.resolvedUrl("../images/harbour-opal-gallery.png")
     licenses: A.License { spdxId: mainLicenseSpdx }
+    autoAddOpalAttributions: false
 
     // from module
     appName: ""
