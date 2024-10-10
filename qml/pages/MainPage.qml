@@ -20,7 +20,7 @@ Page {
         PullDownMenu {
             MenuItem {
                 text: qsTr("About Opal")
-                onClicked: pageStack.push(Qt.resolvedUrl("AboutOpalPage.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
         }
 

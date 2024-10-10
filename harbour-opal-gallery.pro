@@ -29,7 +29,7 @@ SOURCES += src/harbour-opal-gallery.cpp
 DISTFILES += qml/harbour-opal-gallery.qml \
     qml/cover/CoverPage.qml \
     qml/pages/MainPage.qml \
-    qml/pages/AboutOpalPage.qml \
+    qml/pages/AboutPage.qml \
     qml/pages/AboutModulePageBase.qml \
     qml/module-pages/About.qml \
     qml/module-pages/EmptyDummyPage.qml \
