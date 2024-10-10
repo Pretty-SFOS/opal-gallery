@@ -6,21 +6,14 @@
 
 /*
  * Translators:
- * Please add yourself to the list of contributors below. If your language is already
- * in the list, add your name to the 'entries' field. If you added a new translation,
- * create a new section at the top of the list.
+ * Please add yourself to the list of translators in TRANSLATORS.json.
+ * If your language is already in the list, add your name to the 'entries'
+ * field. If you added a new translation, create a new section in the 'extra' list.
  *
  * Other contributors:
- * Please add yourself to the relevant list of contributors.
+ * Please add yourself to the relevant list of contributors below.
  *
- * <...>
- *  ContributionGroup {
- *      title: qsTr("Your language")
- *      entries: ["Existing contributor", "YOUR NAME HERE"]
- *  },
- * <...>
- *
- */
+*/
 
 import QtQuick 2.0
 import Sailfish.Silica 1.0 as S
@@ -68,26 +61,123 @@ A.AboutPageBase {
                 }
             ]
         }, */
+
+        //>>> GENERATED LIST OF TRANSLATION CREDITS
         A.ContributionSection {
             title: qsTr("Translations")
             groups: [
                 A.ContributionGroup {
-                    title: qsTr("English")
-                    entries: ["Mirian Margiani"]
+                    title: qsTr("Ukrainian")
+                    entries: [
+                        "Bohdan Kolesnyk",
+                        "Dan"
+                    ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("German")
-                    entries: ["Mirian Margiani", "J. Lavoie"]
+                    title: qsTr("Turkish")
+                    entries: [
+                        "Mirian Margiani"
+                    ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("French")
-                    entries: ["J. Lavoie"]
+                    title: qsTr("Swedish")
+                    entries: [
+                        "Mirian Margiani",
+                        "Åke Engelbrektson"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Spanish")
+                    entries: [
+                        "Jaime Marquínez Ferrándiz",
+                        "Mirian Margiani",
+                        "gallegonovato"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Russian")
+                    entries: [
+                        "Lilia Savciuc",
+                        "Marat Ismailov",
+                        "Nikolai Sinyov"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Polish")
+                    entries: [
+                        "Eryk Michalak"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Norwegian Bokmål")
+                    entries: [
+                        "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Moldavian")
+                    entries: [
+                        "Lilia Savciuc"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Italian")
+                    entries: [
+                        "Mirian Margiani",
+                        "RoundedRectangle"
+                    ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Indonesian")
-                    entries: ["Reza Almanda"]
+                    entries: [
+                        "Mirian Margiani",
+                        "Reza Almanda"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("German")
+                    entries: [
+                        "J. Lavoie",
+                        "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("French")
+                    entries: [
+                        "J. Lavoie",
+                        "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Finnish")
+                    entries: []
+                },
+                A.ContributionGroup {
+                    title: qsTr("Estonian")
+                    entries: [
+                        "Priit Jõerüüt"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("English")
+                    entries: [
+                        "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Dutch")
+                    entries: []
+                },
+                A.ContributionGroup {
+                    title: qsTr("Chinese")
+                    entries: [
+                        "JiaJia",
+                        "yangyangdaji",
+                        "复予"
+                    ]
                 }
             ]
         }
+        //<<< GENERATED LIST OF TRANSLATION CREDITS
     ]
 }
