@@ -8,6 +8,18 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.6.0-1"
+        date: "2024-10-11"
+        paragraphs: [
+            "<i>Translations:</i> Ukrainian, Spanish, Chinese, and many more<br>" +
+            "<i>New modules:</i><br>" +
+            "- Opal.DragDrop: enables ordering lists by drag-and-drop with just a few lines of code<br>" +
+            "- Opal.SmartScrollbar: a Harbour-compatible smart scroll bar for long lists<br>" +
+            "- Opal.MenuSwitch: a toggle button to be used in Sailfish-style menus<br>" +
+            "<i>Updated modules:</i> About, SupportMe, Delegates, InfoCombo, ComboData, LinkHandler"
+        ]
+    }
+    ChangelogItem {
         version: "1.5.1-1"
         date: "2024-07-26"
         paragraphs: [

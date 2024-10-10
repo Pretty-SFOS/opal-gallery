@@ -10,6 +10,16 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Fri Oct 11 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.6.0-1
+- updated translations: Ukrainian, Spanish, Chinese, and many more
+- added three new modules:
+- - Opal.DragDrop: enables ordering lists by drag-and-drop with just a few lines of code
+- - Opal.SmartScrollbar: a Harbour-compatible smart scroll bar for long lists
+- - Opal.MenuSwitch: a toggle button to be used in Sailfish-style menus
+- updated modules: About, SupportMe, Delegates, InfoCombo, ComboData, LinkHandler
+- updated list of translations contributors (auto-generated from Weblate)
+- fixed copyright year on about page
+
 * Fri Jul 26 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.5.1-1
 - example page of Opal.Delegates failed to load due to a mistake with translation handling
 
