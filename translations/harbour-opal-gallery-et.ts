@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Haldajad</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -59,12 +59,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>norra bokmål</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
-        <translation type="unfinished"></translation>
+        <translation>rumeenia (Moldova)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="117"/>
@@ -149,62 +149,62 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>Kadri</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
         <source>online</source>
-        <translation type="unfinished">võrgus</translation>
+        <translation>võrgus</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
         <source>yesterday</source>
-        <translation type="unfinished">eile</translation>
+        <translation>eile</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@Jaan: kas tuhleid on veel alles?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaan</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>hõivatud</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>2 tundi tagasi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust @Kadri, ma sõin nad kõik ära. Muide teen laupäeval uue laari.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Liisa</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>eemal</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>32 minutit tagasi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>@Kadri, tule vaatamõned on juba valmis!</translation>
     </message>
 </context>
 <context>
@@ -212,23 +212,23 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Õun</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahlane ja natuke hapukas puuvili. Võid süüa niisama, aga sobib ka küpsetistesse ja salatitesse.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aitab hästi võidelda arstidega!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation type="unfinished">Banaan</translation>
+        <translation>Banaan</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation type="unfinished">Banaan</translation>
+        <translation>Banaan</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished">Kiivi</translation>
+        <translation>Kiivi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
