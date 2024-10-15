@@ -64,7 +64,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldavo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="117"/>
