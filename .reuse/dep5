@@ -46,3 +46,7 @@ Files: dist/ambience.jpg
 Copyright: Mahdi Bafande
 License: LicenseRef-Unsplash
 Comment: https://web.archive.org/web/20230601045035/https://unsplash.com/photos/Jw922q_01RI
+
+Files: TRANSLATORS.json
+Copyright: translations contributors
+License: GPL-3.0-or-later
