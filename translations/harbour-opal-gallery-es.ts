@@ -64,7 +64,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Moldavian</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldavo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="117"/>
@@ -261,77 +261,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished">Manzana</translation>
+        <translation>Manzana</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banana</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished">Una cesta llena de frutas exóticas</translation>
+        <translation>Una cesta de frutas exóticas</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished">Kiwi</translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>Higo</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>Melocotón</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation type="unfinished"></translation>
+        <translation>Uva</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Limón</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Naranja</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>Piña</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>Grosella negra</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>Frambuesa</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandía</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation type="unfinished"></translation>
+        <translation>Melón verde</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruibarbo</translation>
     </message>
 </context>
 <context>
@@ -449,7 +449,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite ordenar listas mediante arrastrar y soltar con solo unas líneas de código.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
@@ -923,17 +923,17 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
         <source>Drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastrar y soltar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo soporta de forma nativa la acción de arrastrar y soltar para ordenar listas manualmente a través del módulo Opal.DragDrop. Consulte la página de ejemplo de Opal.DragDrop para obtener más detalles.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizaciones complejas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
@@ -943,12 +943,12 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
         <source>Side elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementos secundarios</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
         <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los ejemplos usan componentes como elementos secundarios que son parte de Opal.Delegates. Abajo hay un ejemplo que muestra cómo se puede usar el componente &quot;DelegateIconButton&quot;.</translation>
     </message>
 </context>
 <context>
@@ -956,53 +956,53 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar arrastrar y soltar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
         <source>Toggle this switch to see how components react.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa este interruptor para ver cómo reaccionan los componentes.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>A toda página</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar utilizando &quot;Opal.Delegates&quot;</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>El módulo Opal.Delegates soporta arrastrar y soltar utilizando el módulo Opal.DragDrop sin necesidad de configuración adicional.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation type="unfinished">por kg</translation>
+        <translation>por kg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Vistas personalizadas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
         <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo se necesitan unas pocas líneas más de código para habilitar las vistas personalizadas de arrastrar y soltar que no utilizan el módulo Opal.Delegates.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
         <source>Long views</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplias vistas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
         <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En las listas largas, si se arrastra por debajo del extremo inferior o por encima del extremo superior del área visible, la vista se desplazará en consecuencia.</translation>
     </message>
 </context>
 <context>
@@ -1010,17 +1010,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar arrastrar y soltar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice actual: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation type="unfinished">por kg</translation>
+        <translation>por kg</translation>
     </message>
 </context>
 <context>
