@@ -92,7 +92,8 @@ A.AboutPageBase {
                     entries: [
                         "Lilia Savciuc",
                         "Marat Ismailov",
-                        "Nikolai Sinyov"
+                        "Nikolai Sinyov",
+                        "Victor K"
                     ]
                 },
                 A.ContributionGroup {
@@ -105,12 +106,6 @@ A.AboutPageBase {
                     title: qsTr("Norwegian Bokmål")
                     entries: [
                         "Mirian Margiani"
-                    ]
-                },
-                A.ContributionGroup {
-                    title: qsTr("Moldavian")
-                    entries: [
-                        "Lilia Savciuc"
                     ]
                 },
                 A.ContributionGroup {
