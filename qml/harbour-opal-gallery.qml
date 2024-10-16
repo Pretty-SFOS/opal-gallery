@@ -29,7 +29,7 @@ ApplicationWindow
         "opal-about": {
             appName: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
-            appVersion: "2.3.0",
+            appVersion: "2.3.2",
             mainAttributions: ['2018-2024 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
@@ -39,7 +39,7 @@ ApplicationWindow
         "opal-supportme": {
             appName: "Opal.SupportMe",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
-            appVersion: "1.2.0",
+            appVersion: "1.2.1",
             mainAttributions: ['2024 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
@@ -59,7 +59,7 @@ ApplicationWindow
         "opal-dragdrop": {
             appName: "Opal.DragDrop",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code."),
-            appVersion: "1.0.0",
+            appVersion: "1.0.1",
             mainAttributions: ['2024 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
@@ -109,7 +109,7 @@ ApplicationWindow
         "opal-linkhandler": {
             appName: "Opal.LinkHandler",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
-            appVersion: "2.1.0",
+            appVersion: "2.1.1",
             mainAttributions: ['2020-2024 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
