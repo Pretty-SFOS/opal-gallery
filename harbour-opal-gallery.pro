@@ -1,12 +1,7 @@
-#
-# This file is part of Opal Gallery.
-#
+# This file is part of harbour-opal-gallery.
 # SPDX-FileCopyrightText: 2020-2024 Mirian Margiani
 # SPDX-License-Identifier: GPL-3.0-or-later
-#
 
-# NOTICE:
-#
 # Application name defined in TARGET has a corresponding QML filename.
 # If name defined in TARGET is changed, the following needs to be done
 # to match new name:
@@ -52,17 +47,12 @@ SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 # to disable building translations every time, comment out the
 # following CONFIG line
 CONFIG += sailfishapp_i18n
-
-QML_IMPORT_PATH += "qml/modules"
-QML_IMPORT_PATH += "qml/common"
-
-# German translation is enabled as an example. If you aren't
-# planning to localize your app, remember to comment out the
-# following TRANSLATIONS line. And also do not forget to
-# modify the localized app name in the the .desktop file.
 TRANSLATIONS += translations/harbour-opal-gallery-*.ts
 
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"
 DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
 include(libs/opal-cached-defines.pri)
+
+QML_IMPORT_PATH += "qml/modules"
+QML_IMPORT_PATH += "qml/common"
