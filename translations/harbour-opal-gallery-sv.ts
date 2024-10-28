@@ -19,7 +19,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation>Opal är en samling vackra QML-komponenter för SailfishOS, som bygger ovanpå Sailfishs Silica-komponenter.</translation>
+        <translation>Opal är en samling vackra QML-komponenter för SailfishOS, som bygger ovanpå Sailfish Silica-komponenter.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="25"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="106"/>
         <source>Norwegian Bokmål</source>
-        <translation>Norska Bokmål</translation>
+        <translation>Norskt bokmål</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="112"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation>galleri</translation>
+        <translation>Galleri</translation>
     </message>
 </context>
 <context>
@@ -207,48 +207,48 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Äpple</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>En saftig frukt med en syrlig ton. Perfekt till fruktsallad.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation>Håller doktorn borta!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation type="unfinished">Banan</translation>
+        <translation>Banan</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>En gul frukt som gillas av både apor och människor.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast idag! Ta två, betala för en!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>En korg full av exotiska frukter</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciell gåva!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation type="unfinished"></translation>
+        <translation>Jordnötssmör</translation>
     </message>
 </context>
 <context>
@@ -256,77 +256,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Äpple</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation type="unfinished">Banan</translation>
+        <translation>Banan</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>En korg full med exotiska frukter</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished">Kiwi</translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikon</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>Persika</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation type="unfinished"></translation>
+        <translation>Druva</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Citron</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Apelsin</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>Ananas</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>Svarta vinbär</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallon</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>Vattenmelon</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation type="unfinished"></translation>
+        <translation>Honungsmelon</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabarb</translation>
     </message>
 </context>
 <context>
@@ -352,52 +352,52 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="62"/>
         <source>Released modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Publicerade moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation type="unfinished"></translation>
+        <translation>Under utveckling</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommande moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Planerade moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Föråldrade moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessa moduler är färdiga och redo att användas i dina appar. De är fullt dokumenterade i Sailfish IDE.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här är utvecklingsförhandsvisningar av nya och ofärdiga moduler. Dokumentation saknas och API:er kan komma att ändras.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="94"/>
         <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koden för dessa moduler finns redan i andra projekt. De kommer att ingå i Opal i en kommande version.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessa moduler är under planering eller befinner sig i tidiga utvecklingsstadier.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessa moduler utvecklas inte längre och bör inte användas i nya appar. Det finns bättre alternativ.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="222"/>
         <source>No examples available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga exempel tillgängliga</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
@@ -426,7 +426,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="127"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation>Denna modul innehåller &lt;i&gt;AboutPageBase&lt;/i&gt; för att bygga anpassningsbara informationssidor till applikationer.</translation>
+        <translation>Den här modulen tillhandahåller &lt;i&gt;AboutPageBase&lt;/i&gt; för att skapa anpassningsbara programinformationssidor.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
@@ -438,13 +438,13 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="143"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen innehåller listobjekt för vyer, så att du kan koncentrera dig på att hantera data istället för att formatera presentationen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul gör det möjligt att ordna listor genom att dra och släppa, med bara några rader kod.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
@@ -468,48 +468,48 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="183"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul tillhandahåller en växlingsknapp som kan användas i Sailfish-liknande menyer.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="310"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen innehåller en snabbmeny med stöd för ikoner i stället för textposter.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="238"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulen tillhandahåller en uppdaterad och korrigerad version av SortFilterProxyModel för QML.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="252"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen tillhandahåller en låda som gör det möjligt att dela upp långa listor i tillgängliga grupper.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="159"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen har en Harbour-kompatibel smart rullningslist för långa listor.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="226"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen innehåller lättanvända interaktionstips för självstudier i appar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="266"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna modul gör det möjligt att rita vackra diagram genom QCharts.js.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="277"/>
         <source>This module provides a tab bar with icons and automatic alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen tillhandahåller ett flikfält med ikoner och automatisk justering.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="297"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen tillhandahåller ett textfält och inmatningsområde med stöd för emojis, formaterad text och anpassade länkar.</translation>
     </message>
 </context>
 <context>
@@ -883,67 +883,67 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombud baseras på komponenten &quot;PaddedDelegate&quot;. Den ger yttre vaddering på alla sidor, samt tre valfria innehållsdelar: vänster, mitten och höger.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
         <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rader kan markeras omväxlande för att göra dem mer tydliga.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
         <source>Emphasize rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv rader</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
         <source>This component has only one content line. Left and right contents can be customized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här komponenten har bara en innehållsrad. Vänster och höger innehåll kan anpassas.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
         <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här komponenten har två innehållsrader. De vänstra och högra objekten använder &quot;DelegateIconItem&quot; respektive &quot;DelegateInfoItem&quot;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>per kg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
         <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här komponenten har tre innehållsrader. Alla rader är valfria och kommer att döljas om de är tomma.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
         <source>Drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra och släpp</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen har inbyggt stöd för dra-och-släpp-åtgärden för manuell sortering av listor via modulen Opal.DragDrop. Mer information finns på exempelsidan för Opal.DragDrop.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa anpassningar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
         <source>All contents can be customized. Complex content items are possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Allt innehåll kan anpassas. Komplexa innehållsobjekt är möjliga.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
         <source>Side elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidoelement</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
         <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>I alla exempel används komponenter som sidoelement som ingår i Opal.Delegates. Nedan visas ett exempel som visar hur komponenten &quot;DelegateIconButton&quot; kan användas.</translation>
     </message>
 </context>
 <context>
@@ -951,53 +951,53 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera dra-och-släpp</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
         <source>Toggle this switch to see how components react.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla den här omkopplaren för att se hur komponenterna reagerar.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>Helsidesvy</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyer med &quot;Opal.Delegates&quot;</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulen Opal.Delegates stöder dra-och -släpp med hjälp av modulen Opal.DragDrop utan ytterligare konfiguration.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>per kg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade vyer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
         <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det krävs bara några rader mer kod för att aktivera dra-och-släpp i anpassade vyer som inte använder modulen Opal.Delegates.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
         <source>Long views</source>
-        <translation type="unfinished"></translation>
+        <translation>Långa vyer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
         <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>I långa listor kan du dra under den nedre änden eller ovanför den övre änden av det synliga området för att rulla vyn i enlighet med detta.</translation>
     </message>
 </context>
 <context>
@@ -1005,17 +1005,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera dra-och-släpp</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvarande index: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>per kg</translation>
     </message>
 </context>
 <context>
@@ -1023,49 +1023,49 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
         <source>External links</source>
-        <translation type="unfinished"></translation>
+        <translation>Externa länkar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande användning</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här etiketten innehåller en &lt;a href=&quot;https://example.org&quot;&gt;extern länk&lt;/a&gt; som du kan aktivera. När du har klickat på en ny sida kommer du att uppmanas att antingen öppna eller kopiera URL:en.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
         <source>Advanced usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerad användning</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
         <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det kan finnas olika typer av länkar i en etikett och de kan hanteras individuellt. Detta är &lt;a href=&quot;tel:+4100000000&quot;&gt;ett telefonnummer&lt;/a&gt; medan detta är &lt;a href=&quot;https://example.org&quot;&gt;en webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Webbplats</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
         <source>Silica tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica-verktyg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica tillhandahåller objektet &quot;LinkedLabel&quot; som automatiskt hittar länkar och telefonnummer i texten och gör dem klickbara. Det här numret +4100000000 och den här URL-https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically formateras automatiskt som länkar. Observera också hur den långa URL:en förkortas.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
@@ -1103,52 +1103,52 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera en inställning</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera en annan inställning</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabbmenyer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryck här för att öppna en meny</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanligt alternativ</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiveringsbart alternativ</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tredje alternativet med mer text</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp-/bottenmenyer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra nedåt för att öppna toppmenyn som innehåller fler växlar.</translation>
     </message>
 </context>
 <context>
@@ -1156,12 +1156,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart rullningslist på/av</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabb rullning på/av</translation>
     </message>
 </context>
 <context>
