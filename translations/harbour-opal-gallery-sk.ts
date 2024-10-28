@@ -59,7 +59,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="106"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>Nórčina Bokmål</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="112"/>
