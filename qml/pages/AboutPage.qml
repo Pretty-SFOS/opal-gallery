@@ -76,6 +76,7 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Swedish")
                     entries: [
+                        "bittin1ddc447d824349b2",
                         "Åke Engelbrektson"
                     ]
                 },
