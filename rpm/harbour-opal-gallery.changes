@@ -10,6 +10,15 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed Oct 30 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.7.0-1
+- Updated translations: Estonian, French, Indonesian, Italian, Russian, Slovak, Spanish, Swedish, Turkish, Ukrainian, Lithuanian, and more
+- Fixed missing translations so that all available translations are actually shippped!
+- Removed duplicate Romanian translation
+- Added two new modules:
+- - Opal.MediaPlayer: a video player with support for subtitles and headphone buttons that can be added to apps with just a few lines of code
+- - Opal.Tabs: a tab bar with a very simple API
+- Updated all modules with bug fixes and translation updates
+
 * Fri Oct 11 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.6.0-1
 - updated translations: Ukrainian, Spanish, Chinese, and many more
 - added three new modules:

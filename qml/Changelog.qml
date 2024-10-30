@@ -8,6 +8,19 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.7.0-1"
+        date: "2024-10-30"
+        paragraphs: [
+            "<i>Translations:</i><br>" +
+            "- Updated Estonian, French, Indonesian, Italian, Russian, Slovak, Spanish, Swedish, Turkish, Ukrainian, Lithuanian, and more<br>" +
+            "- Fixed missing translations so that all available translations are actually shippped!<br>" +
+            "<i>New modules:</i><br>" +
+            "- Opal.MediaPlayer: a video player with support for subtitles and headphone buttons that can be added to apps with just a few lines of code<br>" +
+            "- Opal.Tabs: a tab bar with a very simple API<br>" +
+            "<i>Updated modules:</i> all modules with bug fixes and translation updates"
+        ]
+    }
+    ChangelogItem {
         version: "1.6.0-1"
         date: "2024-10-11"
         paragraphs: [
