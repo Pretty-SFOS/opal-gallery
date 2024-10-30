@@ -46,6 +46,26 @@ ApplicationWindow
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme"
         },
+        "opal-mediaplayer": {
+            appName: "Opal.MediaPlayer",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a media player page with support for subtitles."),
+            appVersion: "0.2.0",
+            mainAttributions: ['2024 Mirian Margiani','2013-2020 Leszek Lesner'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [,'Leszek Lesner','Simo Piiroinen','Muki'],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-mediaplayer"
+        },
+        "opal-tabs": {
+            appName: "Opal.Tabs",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an easy way to add tab bars to apps."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2024 Mirian Margiani','2013-2020 Jolla Ltd','2020 Open Mobile Platform LLC'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-tabs"
+        },
         "opal-delegates": {
             appName: "Opal.Delegates",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation."),
@@ -135,6 +155,22 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-supportme/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-mediaplayer"
+            title: "Opal.MediaPlayer"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a media player page with support for subtitles.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-mediaplayer/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-tabs"
+            title: "Opal.Tabs"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an easy way to add tab bars to apps.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-tabs/gallery.qml"
             section: "released"
         }
         ListElement {
@@ -266,17 +302,6 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module allows drawing beautiful charts through QCharts.js.")
             mainLicenseSpdx: "MIT"
             // examplePage: "opal-charts/gallery.qml"
-            section: "upcoming"
-        }
-        ListElement {
-            // Code:
-            // - https://github.com/ichthyosaurus/sf-docked-tab-bar
-
-            key: "opal-tabbar"
-            title: "Opal.TabBar"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a tab bar with icons and automatic alignment.")
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            // examplePage: "opal-tabbar/gallery.qml"
             section: "upcoming"
         }
 

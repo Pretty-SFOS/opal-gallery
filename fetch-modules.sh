@@ -12,6 +12,8 @@ cMERGE_TRANSLATIONS=bash
 cQML_MODULES=(
     about
     supportme
+    mediaplayer
+    tabs
     delegates
     dragdrop
     smartscrollbar
