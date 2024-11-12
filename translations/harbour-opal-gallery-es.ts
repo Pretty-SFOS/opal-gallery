@@ -441,13 +441,13 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
         <source>This module provides a media player page with support for subtitles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona una página de reproductor multimedia con soporte para subtítulos.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona una forma sencilla de agregar barras de pestañas a las aplicaciones.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
@@ -1086,12 +1086,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto al portapapeles</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
@@ -1114,7 +1114,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir enlace</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
@@ -1194,32 +1194,32 @@
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija entre el sistema de archivos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay archivos listos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie los archivos de subtítulos en formato SRT junto al archivo de video para abrirlos rápidamente.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplácese hacia abajo para seleccionar un archivo.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar subtítulos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar subtítulos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
@@ -1376,32 +1376,32 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="27"/>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="30"/>
         <source>7 unread</source>
-        <translation type="unfinished"></translation>
+        <translation>7 sin leer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="36"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción general</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="39"/>
         <source>Nothing to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Nada que hacer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tareas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation type="unfinished"></translation>
+        <translation>59 abiertos</translation>
     </message>
 </context>
 <context>
@@ -1409,37 +1409,37 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="26"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="30"/>
         <source>Show icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar iconos</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar descripciones</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
         <source>Show tab bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar barra de pestañas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="51"/>
         <source>Tab bar position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición de la barra de pestañas</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="59"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="62"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior</translation>
     </message>
 </context>
 <context>
