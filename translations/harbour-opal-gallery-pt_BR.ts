@@ -1338,7 +1338,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajude com a manutenção e com novas versões, escreva códigos ou dê valiosos reportes de bugs.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>

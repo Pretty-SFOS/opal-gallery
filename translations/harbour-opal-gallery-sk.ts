@@ -615,7 +615,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dáta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
@@ -625,7 +625,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátová licencia</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
