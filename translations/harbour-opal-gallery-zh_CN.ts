@@ -147,62 +147,62 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>简</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>上线中</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>昨天</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@约翰: 还有剩余的炸薯球吗?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>约翰</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>忙碌中</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>2小时前</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>不好意思 @Jane, 我全吃了. 不过, 我会在来临的星期六再做多一份.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>丽莎</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>已离开</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>32分钟前</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>快来 @Jane, 我已经准备好一些了！</translation>
     </message>
 </context>
 <context>
@@ -210,18 +210,18 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>苹果</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>带有酸味和多汁的水果. 与水果沙拉是绝配.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对抗医生的最好武器！</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
@@ -231,27 +231,27 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>猴子和人类都喜欢的黄色水果.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation type="unfinished"></translation>
+        <translation>仅限今天: 买一送一!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>一篮满满的奇异水果</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation type="unfinished"></translation>
+        <translation>特别的礼物!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation type="unfinished"></translation>
+        <translation>花生酱</translation>
     </message>
 </context>
 <context>
@@ -259,7 +259,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>苹果</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
@@ -269,7 +269,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>一篮满满的奇异水果</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
@@ -279,57 +279,57 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>无花果</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>桃子</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation type="unfinished"></translation>
+        <translation>葡萄</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>柠檬</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>橙子</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>黄梨</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>黑梅</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>树莓</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>西瓜</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation type="unfinished"></translation>
+        <translation>哈密瓜</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
+        <translation>大黄</translation>
     </message>
 </context>
 <context>
@@ -355,32 +355,32 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="62"/>
         <source>Released modules</source>
-        <translation type="unfinished"></translation>
+        <translation>已发布的模块</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation type="unfinished"></translation>
+        <translation>开发中</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation type="unfinished"></translation>
+        <translation>即将推出的模块</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation type="unfinished"></translation>
+        <translation>已计划的模块</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
-        <translation type="unfinished"></translation>
+        <translation>已器用的模块</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation type="unfinished"></translation>
+        <translation>这些模块已完成开发并且已经具备兼容您的应用软件的可用性. 您可以在Sailfish IDE 中查找此模块的记录.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
@@ -1127,117 +1127,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放失败</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>资源报错</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>格式错误</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>网络错误</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>拒绝访问</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缺少该媒体服务</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该影片因资源分配上出问题而无法播放.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>该音频或视频格式不支持.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>该视频因网络原因而不能播放.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该视频因权限不足而无法播放.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该视频因媒体服务无法实例化而无法播放.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由于因预期错误而导致播放失败. 请重新启动该应用并重试.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从文件系统中选择</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无文件已准备就绪</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为了加速打开此文件，可以拷贝该字幕文件以SRT格式至下个视频文件.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">向下拉以选个文件.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除字幕</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载字幕</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>已放大至</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">原作</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">循环播放</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放一次</translation>
     </message>
 </context>
 <context>
