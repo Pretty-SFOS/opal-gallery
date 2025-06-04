@@ -60,7 +60,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>Norjan kirjakieli</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
@@ -1313,62 +1313,62 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahjoita Liberapay:ssä</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksa summa kupillisena kahvia, palana pizzaa tai lippuna elokuviin.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Käännä Weblate:ssa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auta tämän ohjelman kääntämisessä mahdollisimman monelle kielelle.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehitä Github:ssa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tue kehitystä, kokoamista, koodin kirjoittamista tai jaa arvokkaita bugiraportteja.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miksi sinua kiinnostaisi?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä projekti on yhden henkilön tekemä rakkaudella ja intohimolla hänen vapaa-ajallaan ja se on jaettu teille ilmaiseksi.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehitän ilmaisia ohjelmistoja, koska koen, että se on eettisin tapa toimia - se on myös hauska harrastus. Kuitenkin ohjelmistojen kehittäminen vie paljon aikaa ja vaivaa. Sailfish:nä ja elämänkin maksaessa rahaa, tarvitsen teidän tukeanne, jotta voin jatkaa palkatta tällaisia projekteja.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miksi lahjoittaa?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla korotti hintojaan ja yrittää saada kehittäjät (jotka toimivat palkatta) maksamaan vuokraa Sailfish:stä.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos sinulla on mahdollisuus, lahjoittaminen on helpoin tapa varmistaa, että voin jatkaa ohjelmien kehittämistä Sailfish:llä. Mikä vaan summa on arvostettu, oli se sitten kuppi kahvia, pala pizzaa tai enemmän.</translation>
     </message>
 </context>
 <context>
