@@ -119,7 +119,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation>сховати</translation>
+        <translation>показувати менше</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation>John</translation>
+        <translation>Джон</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
@@ -920,7 +920,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
         <source>per kg</source>
-        <translation>на 1 кг</translation>
+        <translation>за кг</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
@@ -989,7 +989,7 @@
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation>на 1 кг</translation>
+        <translation>за кг</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
@@ -1027,7 +1027,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation>на 1 кг</translation>
+        <translation>за кг</translation>
     </message>
 </context>
 <context>
@@ -1398,12 +1398,12 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation>завдання</translation>
+        <translation>Завдання</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation>59 ВІДЧИНЕНО</translation>
+        <translation>59 Відчинено</translation>
     </message>
 </context>
 <context>
@@ -1449,7 +1449,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Вітаю!</translation>
+        <translation>Привіт!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
