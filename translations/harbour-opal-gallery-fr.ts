@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mainteneurs</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -1091,7 +1091,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
@@ -1129,13 +1129,13 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la lecture</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Errreur de ressource</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>

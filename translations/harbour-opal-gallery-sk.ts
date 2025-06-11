@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Údržbári</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -19,13 +19,13 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal je zbierka dosť QML komponentov pre SailfishOS, budova na vrchole komponentov Silica Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-mediaplayer/gallery/ViewVideoPage.qml" line="23"/>
         <location filename="../qml/pages/AboutPage.qml" line="25"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opálna galéria</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galéria</translation>
     </message>
 </context>
 <context>
@@ -133,13 +133,13 @@
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="21"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="20"/>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ďalší obsah by mohol byť zahrnutý na tomto mieste.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="20"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Dummy stránka</translation>
     </message>
 </context>
 <context>
@@ -147,62 +147,62 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuzana</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>pripojený</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>včera</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@John: existujú nejaké taters vľavo?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>John</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>zaneprázdnený</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>2h pred</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ospravedlňujeme sa @Jane, som ich všetky. Urobím nové v sobotu, hoci.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuzana</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>vzdialený</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>32m pred</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>@Jane, prísť, mám nejaké pripravený práve teraz!</translation>
     </message>
 </context>
 <context>
@@ -210,48 +210,48 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Jablká</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šťavnaté ovocie s kyslou poznámkou. Ideálne pre ovocné šaláty.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation>Najlepšie proti lekárom!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banány</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žlté ovocie preferované opice a ľudia podobne.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba dnes: dva pre jedného!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Kôš plný exotického ovocia</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation type="unfinished"></translation>
+        <translation>Špeciálny darček!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation type="unfinished"></translation>
+        <translation>Arašidové maslo</translation>
     </message>
 </context>
 <context>
@@ -259,77 +259,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Jablká</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Banány</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Kôš plný exotického ovocia</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>Všeobecný</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>Broskyne</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrozno</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Citrón</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranžový</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>Ananas</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>Čierne ríbezle</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>Malinka</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>Melón</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation type="unfinished"></translation>
+        <translation>Medový melón</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
+        <translation>Reubarb</translation>
     </message>
 </context>
 <context>
@@ -345,62 +345,62 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="22"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>O Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="29"/>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>pre formulár a funkciu</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="62"/>
         <source>Released modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Vydané moduly</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadchádzajúce moduly</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Plánované moduly</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Deprecované moduly</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tieto moduly sú hotové a sú pripravené na použitie vo vašich aplikáciách. Sú plne zdokumentované v Sailfish IDE.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedná sa o vývojové ukážky nových a nedokončených modulov. Dokumentácia chýba a API sa môže zmeniť.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="94"/>
         <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kód pre tieto moduly už existuje v iných projektoch. Budú zahrnuté v Opal v nadchádzajúcej verzii.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tieto moduly sú plánované, alebo sú v prvých fázach vývoja.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tieto moduly už nie sú vyvinuté a nemali by sa používať v nových aplikáciách. Existuje lepšie alternatívy.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
@@ -410,17 +410,17 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="222"/>
         <source>No examples available</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne príklady k dispozícii</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opálna galéria</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="206"/>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukážka a príklady</translation>
     </message>
 </context>
 <context>
@@ -615,7 +615,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dáta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
@@ -625,7 +625,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátová licencia</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
@@ -1088,12 +1088,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať text na klipboard</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdielať</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
@@ -1116,7 +1116,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdieľať odkaz</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
@@ -1131,117 +1131,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Playback zlyhal</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba zdrojov</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba formátu</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba siete</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prístup zamietnutý</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chýbajúce služby médií</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Video nie je možné prehrávať z dôvodu problémových zdrojov.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio a alebo video formát nie je podporovaný.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Video nemožno hrať kvôli problémom siete.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Video nemožno hrať kvôli nedostatočným povoleniam.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Video nie je možné hrať, pretože mediálna služba nemôže byť okamžité.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback zlyhal kvôli očakávanej chybe. Prosím reštartujte aplikáciu a skúste to znova.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte si z súborového systému</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne súbory pripravené</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať titulky súborov v formáte SRT vedľa video súboru, aby ich rýchlo otvoril.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytiahnite si súbor.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasné titulky</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítať titulky</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Priblížené na fit displej</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Originál</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrať na opak</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrať raz</translation>
     </message>
 </context>
 <context>

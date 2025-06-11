@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT">
+<TS version="2.1" language="ta">
 <context>
     <name>AboutModulePageBase</name>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation>Mantenitori</translation>
+        <translation>பராமரிப்பாளர்கள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
         <source>Contributors</source>
-        <translation>Contributori</translation>
+        <translation>பங்களிப்பாளர்கள்</translation>
     </message>
 </context>
 <context>
@@ -19,83 +19,83 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation>Opal è una collezione di componenti QML per SailfishOS, costruiti sopra i componenti Silica di Sailfish.</translation>
+        <translation>ஓபல் என்பது படகோட்டம், படகோட்டியின் சிலிக்கா கூறுகளின் மேல் கட்டும் படகோட்டி மீன்களுக்கான அழகான QML கூறுகளின் தொகுப்பாகும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-mediaplayer/gallery/ViewVideoPage.qml" line="23"/>
         <location filename="../qml/pages/AboutPage.qml" line="25"/>
         <source>Opal Gallery</source>
-        <translation>Galleria Opal</translation>
+        <translation>ஓபல் கேலரி</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Translations</source>
-        <translation>Traduzioni</translation>
+        <translation>மொழிபெயர்ப்புகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>Ukrainian</source>
-        <translation>Ucraino</translation>
+        <translation>உக்ரேனிய</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>Swedish</source>
-        <translation>Svedese</translation>
+        <translation>ச்வீடிச்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Spanish</source>
-        <translation>Spagnolo</translation>
+        <translation>ச்பானிச்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="92"/>
         <source>Russian</source>
-        <translation>Russo</translation>
+        <translation>ரச்ய</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="101"/>
         <source>Polish</source>
-        <translation>Polacco</translation>
+        <translation>போலீச்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation>Norvegese Bokmål</translation>
+        <translation>நார்வேசியன் பொக்மால்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
         <source>Italian</source>
-        <translation>Italiano</translation>
+        <translation>இத்தாலிய</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="139"/>
         <source>Estonian</source>
-        <translation>Estone</translation>
+        <translation>எச்டோனிய</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="145"/>
         <source>English</source>
-        <translation>Inglese</translation>
+        <translation>ஆங்கிலம்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="151"/>
         <source>Chinese</source>
-        <translation>Cinese</translation>
+        <translation>சீன</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="125"/>
         <source>German</source>
-        <translation>Tedesco</translation>
+        <translation>செர்மன்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>French</source>
-        <translation>Francese</translation>
+        <translation>பிரஞ்சு</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="119"/>
         <source>Indonesian</source>
-        <translation>Indonesiano</translation>
+        <translation>இந்தோனேசிய</translation>
     </message>
 </context>
 <context>
@@ -103,7 +103,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Per favore, considera di contribuire al progetto in un modo o l&apos;altro.</translation>
+        <translation>இந்த திட்டத்திற்கு நீங்கள் ஒரு வழியில் அல்லது வேறு வழியில் பங்களிக்க முடியுமா என்பதைக் கருத்தில் கொள்ள சிறிது நேரம் ஒதுக்குங்கள்.</translation>
     </message>
 </context>
 <context>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation>Galleria</translation>
+        <translation>கேலரி</translation>
     </message>
 </context>
 <context>
@@ -119,12 +119,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation>mostra meno</translation>
+        <translation>குறைவாகக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation>mostra di più</translation>
+        <translation>மேலும் காட்டு</translation>
     </message>
 </context>
 <context>
@@ -133,13 +133,13 @@
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="21"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="20"/>
         <source>Other contents could be included at this place.</source>
-        <translation>Altri contenuti potrebbero essere inclusi qui.</translation>
+        <translation>மற்ற உள்ளடக்கங்களை இந்த இடத்தில் சேர்க்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="20"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Dummy page</source>
-        <translation>Pagina di prova</translation>
+        <translation>போலி பக்கம்</translation>
     </message>
 </context>
 <context>
@@ -147,62 +147,62 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation>Jane</translation>
+        <translation>சேன்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
         <source>online</source>
-        <translation>in linea</translation>
+        <translation>ஆன்லைனில்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
         <source>yesterday</source>
-        <translation>ieri</translation>
+        <translation>நேற்று</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation>@John: sono rimaste delle patate?</translation>
+        <translation>@சான்: டாட்டர்கள் ஏதேனும் உள்ளனவா?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation>John</translation>
+        <translation>சான்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
         <source>busy</source>
-        <translation>occupato</translation>
+        <translation>பிசியாக</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
         <source>2h ago</source>
-        <translation>2 ore fa</translation>
+        <translation>2 மணிநேரத்திற்கு முன்பு</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation>Scusa @Jane, le ho mangiate tutte. Ne cucinerò di nuove Sabato comunque.</translation>
+        <translation>மன்னிக்கவும் @சேன், நான் அனைத்தையும் சாப்பிட்டேன். நான் சனிக்கிழமையன்று புதியவற்றை உருவாக்குவேன்.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
         <source>Lisa</source>
-        <translation>Lisa</translation>
+        <translation>லிசா</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
         <source>away</source>
-        <translation>non disponibile</translation>
+        <translation>தொலைவில்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
         <source>32m ago</source>
-        <translation>32 minuti fa</translation>
+        <translation>32 மீ முன்பு</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation>@Jane, vieni, ho fatto delle patate adesso!</translation>
+        <translation>@சேன், வாருங்கள், எனக்கு இப்போது சில தயாராக உள்ளன!</translation>
     </message>
 </context>
 <context>
@@ -210,48 +210,48 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation>Mela</translation>
+        <translation>அரத்திப்பழம், குமளிப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation>Un succoso frutto con una nota acida. Perfetto per le insalate di riso.</translation>
+        <translation>புளிப்பு குறிப்புடன் ஒரு சூசி பழம். பழ சாலட்களுக்கு ஏற்றது.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation>Il meglio contro i dottori!</translation>
+        <translation>மருத்துவர்களுக்கு எதிராக சிறந்தது!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation>Banana</translation>
+        <translation>வாழைப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation>Un frutto giallo preferito da scimmie e umani allo stesso tempo.</translation>
+        <translation>குரங்குகள் மற்றும் மனிதர்களால் விரும்பப்படும் மஞ்சள் பழம்.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation>Solo oggi: due per uno!</translation>
+        <translation>இன்று மட்டுமே: ஒன்று!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation>Un cesto pieno di frutti esotici</translation>
+        <translation>கவர்ச்சியான பழங்கள் நிறைந்த ஒரு கூடை</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation>Regalo speciale!</translation>
+        <translation>சிறப்பு பரிசு!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation>Burro d&apos;arachidi</translation>
+        <translation>வேர்க்கடலை வெண்ணெய்</translation>
     </message>
 </context>
 <context>
@@ -259,77 +259,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation>Mela</translation>
+        <translation>அரத்திப்பழம், குமளிப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation>Banana</translation>
+        <translation>வாழைப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation>Un cesto pieno di frutti esotici</translation>
+        <translation>கவர்ச்சியான பழங்கள் நிறைந்த ஒரு கூடை</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation>Kiwi</translation>
+        <translation>பசலிப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation>Fico</translation>
+        <translation>படம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation>Pesca</translation>
+        <translation>குழிப்பேரி</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation>Uva</translation>
+        <translation>கொடிமுந்திரி, திராட்சைப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation>Limone</translation>
+        <translation>எலுமிச்சை</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation>Arancio</translation>
+        <translation>ஆரஞ்சு</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation>Ananas</translation>
+        <translation>அன்னாசி</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation>Ribes nero</translation>
+        <translation>கருந்திராட்சை, கருங்கொடிமுந்திரி</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation>Lampone</translation>
+        <translation>புற்றுப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation>Anguria</translation>
+        <translation>குமட்டிப்பழம், தர்பூசணி</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation>Melone</translation>
+        <translation>தேன் முலாம்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation>Rabarbaro</translation>
+        <translation>ருபார்ப்</translation>
     </message>
 </context>
 <context>
@@ -337,7 +337,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
         <source>License text</source>
-        <translation>Testo di licenza</translation>
+        <translation>உரிம உரை</translation>
     </message>
 </context>
 <context>
@@ -345,82 +345,82 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="22"/>
         <source>About Opal</source>
-        <translation>Info su Opal</translation>
+        <translation>ஓப்பல் பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="29"/>
         <source>for form and function</source>
-        <translation>per forma e funzione</translation>
+        <translation>வடிவம் மற்றும் செயல்பாட்டிற்கு</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="62"/>
         <source>Released modules</source>
-        <translation>Moduli rilasciati</translation>
+        <translation>வெளியிடப்பட்ட தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation>In sviluppo</translation>
+        <translation>வளர்ச்சியில்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation>Moduli in arrivo</translation>
+        <translation>வரவிருக்கும் தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation>Moduli previsti</translation>
+        <translation>திட்டமிட்ட தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
-        <translation>Moduli deprecati</translation>
+        <translation>நீக்கப்பட்ட தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation>Questi moduli sono finiti e pronti per essere usati nella tua app. Sono completamente documentati nell&apos;IDE di Sailfish.</translation>
+        <translation>இந்த தொகுதிகள் முடிந்துவிட்டன, உங்கள் பயன்பாடுகளில் பயன்படுத்த தயாராக உள்ளன. அவை படகில் மீன் IDE இல் முழுமையாக ஆவணப்படுத்தப்பட்டுள்ளன.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
-        <translation>Questi sono moduli in sviluppo e non completamente finiti. Mancano di documentazione e le API potrebbero cambiare.</translation>
+        <translation>இவை புதிய மற்றும் முடிக்கப்படாத தொகுதிகளின் வளர்ச்சி முன்னோட்டங்கள். ஆவணங்கள் காணவில்லை மற்றும் பநிஇ கள் மாறக்கூடும்.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="94"/>
         <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
-        <translation>Il codice di questi moduli esiste già in altri progetti. Saranno inclusi in una futura versione di Opal.</translation>
+        <translation>இந்த தொகுதிகளுக்கான குறியீடு ஏற்கனவே பிற திட்டங்களில் உள்ளது. அவை வரவிருக்கும் பதிப்பில் ஓப்பலில் சேர்க்கப்படும்.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation>Questi moduli sono pianificati, o in fasi iniziali di sviluppo.</translation>
+        <translation>இந்த தொகுதிகள் திட்டமிடப்பட்டுள்ளன, அல்லது வளர்ச்சியின் ஆரம்ப கட்டத்தில் உள்ளன.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
-        <translation>Questi moduli non sono più sviluppati e non dovrebbero essere usati in nuove app. Ci sono alternative migliori.</translation>
+        <translation>இந்த தொகுதிகள் இனி உருவாக்கப்படாது, புதிய பயன்பாடுகளில் பயன்படுத்தப்படக்கூடாது. சிறந்த மாற்று வழிகள் உள்ளன.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
         <source>About</source>
-        <translation>Info</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="222"/>
         <source>No examples available</source>
-        <translation>Nessun esempio disponibile</translation>
+        <translation>எடுத்துக்காட்டுகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>Opal Gallery</source>
-        <translation>Galleria Opal</translation>
+        <translation>ஓபல் கேலரி</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="206"/>
         <source>Preview and Examples</source>
-        <translation>Anteprima ed Esempi</translation>
+        <translation>முன்னோட்டம் மற்றும் எடுத்துக்காட்டுகள்</translation>
     </message>
 </context>
 <context>
@@ -429,97 +429,97 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="147"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation>Questo modulo fornisce &lt;i&gt;AboutPageBase&lt;/i&gt; per fare pagine di info applicazioni personalizzabili.</translation>
+        <translation>தனிப்பயனாக்கக்கூடிய பயன்பாட்டு செய்தி பக்கங்களை உருவாக்குவதற்கு இந்த தொகுதி &lt;i&gt; abageBase &lt;/i&gt; ஐ வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation>Un dialogo che chiede contributi è mostrato quando l&apos;utente ha usato la tua app per un po&apos; di tempo.</translation>
+        <translation>ஒரு பயனர் உங்கள் பயன்பாட்டை சிறிது நேரம் பயன்படுத்தும்போது காண்பிக்கப்படும் பங்களிப்புகளைக் கேட்கும் உரையாடல்.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
         <source>This module provides a media player page with support for subtitles.</source>
-        <translation>Questo modulo fornisce un lettore media con supporto ai sottotitoli.</translation>
+        <translation>இந்த தொகுதி ஒரு மீடியா பிளேயர் பக்கத்தை வசன வரிகளுக்கான ஆதரவுடன் வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
-        <translation>Questo modulo fornisce un modo facile per aggiungere schede alle app.</translation>
+        <translation>பயன்பாடுகளுக்கு தாவல் பட்டிகளைச் சேர்க்க இந்த தொகுதி எளிதான வழியை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation>Questo modulo fornisce oggetti lista per la visualizzazione, così puoi concentrarti sul gestire i dati, non sulla presentazione.</translation>
+        <translation>இந்த தொகுதி காட்சிகளுக்கான பட்டியல் உருப்படிகளை வழங்குகிறது, எனவே நீங்கள் தரவைக் கையாள்வதில் கவனம் செலுத்தலாம், விளக்கக்காட்சியை வடிவமைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation>Questo modulo abilita l&apos;ordinamento delle liste via trascinamento con giusto poche righe di codice.</translation>
+        <translation>இந்த தொகுதி குறியீட்டின் சில வரிகளுடன் இழுத்தல் மற்றும் சொட்டு மூலம் வரிசைப்படுத்தும் பட்டியல்களை செயல்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="203"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation>Questo modulo fornisce un menu a tenda che può mostrare dettagli per ogni opzione disponibile.</translation>
+        <translation>இந்த தொகுதி ஒவ்வொரு தேர்ந்தெடுக்கப்பட்ட விருப்பத்திற்கும் விவரங்களைக் காட்டக்கூடிய காம்போ பெட்டியை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation>Questo modulo fornisce un estensione per i menu a tenda per accedere al valore corrente invece dell&apos;etichetta.</translation>
+        <translation>இந்த தொகுதி லேபிளுக்கு பதிலாக தற்போதைய மதிப்பை அணுக காம்போ பெட்டிகளுக்கான நீட்டிப்பை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="227"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation>Questo modulo fornisce un gestore di collegamenti per aprire o copiare i collegamenti esterni.</translation>
+        <translation>இந்த தொகுதி வெளிப்புற இணைப்புகளைத் திறக்க அல்லது நகலெடுக்க ஒரு இணைப்பு கையாளுபவரை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation>Questo modulo fornisce un pulsante attivato/disattivato per eessere usato nei menu stile Sailfish.</translation>
+        <translation>இந்த தொகுதி படகோட்டம் பாணி மெனுக்களில் பயன்படுத்த ஒரு மாற்று பொத்தானை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
-        <translation>Questo modulo fornisce un menu contestuale con supporto alle icone invece di entrate testuali.</translation>
+        <translation>இந்த தொகுதி உரை உள்ளீடுகளுக்கு பதிலாக ஐகான்களுக்கான ஆதரவுடன் சூழல் மெனுவை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation>Questo modulo fornisce una versione aggiornata e patchata di SortFilterProxyModel per QML.</translation>
+        <translation>இந்த தொகுதி QML க்கான SortFilterProxymodel இன் புதுப்பித்த மற்றும் இணைக்கப்பட்ட பதிப்பை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation>Questo modulo fornisce uno strumento che permette di dividere lunghe liste in gruppi accessibili.</translation>
+        <translation>இந்த தொகுதி ஒரு டிராயரை வழங்குகிறது, இது நீண்ட பட்டியல்களை அணுகக்கூடிய குழுக்களாகப் பிரிக்க அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation>Questo modulo fornisce una barra di scorrimento intelligente per liste lunghe compatibile con lo store ufficiale.</translation>
+        <translation>இந்த தொகுதி நீண்ட பட்டியல்களுக்கு ஒரு ஆர்பர்-இணக்கமான அறிவுள்ள ச்க்ரோல் பட்டியை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation>Questo modulo fornisce suggerimenti di interazione facili da usare per tutorial di applicazioni.</translation>
+        <translation>இந்த தொகுதி பயன்பாட்டு பயிற்சிகளுக்கான தொடர்பு குறிப்புகளைப் பயன்படுத்த எளிதானது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation>Questo modulo consente di disegnare grafici gradevoli con QCharts.js.</translation>
+        <translation>இந்த தொகுதி qcharts.js மூலம் அழகான விளக்கப்படங்களை வரைய அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation>Questo modulo fornisce un campo di testo e un area di input con supporto per emoji, testo con stili vari e collegamenti personalizzati.</translation>
+        <translation>இந்த தொகுதி ஈமோசிகள், பாணியிலான உரை மற்றும் தனிப்பயன் இணைப்புகளுக்கான ஆதரவுடன் உரை புலம் மற்றும் உள்ளீட்டு பகுதியை வழங்குகிறது.</translation>
     </message>
 </context>
 <context>
@@ -527,62 +527,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Dona su Liberapay</translation>
+        <translation>லிபராபேயில் நன்கொடை</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Donami una tazza di caffè, un pezzo di pizza o un biglietto per il cinema.</translation>
+        <translation>ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது தியேட்டருக்கு டிக்கெட் ஆகியவற்றின் அளவு செலுத்துங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Traduci su Weblate</translation>
+        <translation>வெப்லேட்டில் மொழிபெயர்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Aiutaci traducendo questa applicazione in quante più lingue possibile.</translation>
+        <translation>இந்த பயன்பாட்டை முடிந்தவரை பல மொழிகளில் மொழிபெயர்க்க உதவுங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Sviluppato su Github</translation>
+        <translation>கிட்அப்பில் உருவாக்குங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Supportaci con manutenzione e pacchettizzazione, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
+        <translation>பராமரிப்பு மற்றும் பேக்கேசிங், குறியீட்டை எழுதுதல் அல்லது மதிப்புமிக்க பிழை அறிக்கைகளை வழங்குதல்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Perché dovrebbe importartene?</translation>
+        <translation>நீங்கள் ஏன் கவலைப்பட வேண்டும்?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Questo progetto è sviluppato con amore e passione da un solo sviluppatore nel suo tempo libero, ed è rilasciato gratuitamente.</translation>
+        <translation>இந்த திட்டம் அவர்களின் ஓய்வு நேரத்தில் ஒரு டெவலப்பரால் அன்புடனும் ஆர்வத்துடனும் கட்டப்பட்டுள்ளது, மேலும் இது உங்களுக்கு இலவசமாக வழங்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo ed impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
+        <translation>நான் இலவச மென்பொருளை உருவாக்குகிறேன், ஏனென்றால் இது நெறிமுறை சேதி என்று நான் நம்புகிறேன் - இது ஒரு வேடிக்கையான பொழுதுபோக்கு. இருப்பினும், மென்பொருளை உருவாக்குவதற்கு நிறைய நேரமும் முயற்சியும் தேவை. படகோட்டியாகவும், பொது செலவினங்களுடனும், இது போன்ற ஊதியம் பெறாத திட்டங்களுக்கு நேரத்தை செலவிட எனக்கு உங்கள் உதவி தேவை.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Perché donare?</translation>
+        <translation>ஏன் நன்கொடை?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla ha recentemente alzato i prezzi e sta cercando di obbligare gli sviluppatori (che lavorano già gratis) a pagare un abbonamento per Sailfish.</translation>
+        <translation>சொல்லா விலைகளை உயர்த்தினார், மேலும் டெவலப்பர்களை (இலவசமாக வேலை செய்யும்) படகோட்டிக்கு வாடகை செலுத்த கட்டாயப்படுத்த முயற்சிக்கிறார்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza, o di più.</translation>
+        <translation>நீங்கள் அதை வாங்க முடிந்தால், சாய்ல்ஃபிசிற்கான பயன்பாடுகளில் நான் தொடர்ந்து பணியாற்ற முடியும் என்பதை உறுதிப்படுத்த நன்கொடை என்பது எளிதான வழியாகும். எந்தவொரு தொகையும் பாராட்டப்படுகிறது, அது ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது அதற்கு மேற்பட்டதாக இருக்கலாம்.</translation>
     </message>
 </context>
 <context>
@@ -590,52 +590,52 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>Questa è una piccola descrizione dell&apos;app. Può usare stili vari e rich text o &lt;a href=&quot;https://example.org&quot;&gt;collegamenti&lt;/a&gt;.</translation>
+        <translation>இது பயன்பாட்டின் குறுகிய விளக்கம். இது பாணியிலான மற்றும் பணக்கார உரை அல்லது &lt;a&gt; இணைப்புகள் &lt;/a&gt; ஐப் பயன்படுத்தலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation>mantenitore app</translation>
+        <translation>பயன்பாட்டின் பராமரிப்பாளர்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>another important person</source>
-        <translation>altra persona importante</translation>
+        <translation>மற்றொரு முக்கியமான நபர்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="23"/>
         <source>additional name</source>
-        <translation>nome aggiuntivo</translation>
+        <translation>கூடுதல் பெயர்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
         <source>Forum</source>
-        <translation>Forum</translation>
+        <translation>மன்றம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
         <source>Data</source>
-        <translation>Data</translation>
+        <translation>தகவல்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation>Solita frase in latino che si scrive di solito per queste evenienze.</translation>
+        <translation>லோரெம் மிகவும் கேரட் மற்றும் மீதமுள்ள விருப்ப சித் ஆலம்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Data License</source>
-        <translation>Data Licenza</translation>
+        <translation>தரவு உரிமம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
         <source>Extra info</source>
-        <translation>Informazioni aggiuntive</translation>
+        <translation>கூடுதல் செய்தி</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation>Solita frase in latino che si scrive di solito per queste evenienze. Però ancora più lunga.</translation>
+        <translation>லோரெம் மிகவும் கேரட், ஐட்ரசன் இளங்கலை உருவாக்குபவர். மல்லிகை வசதி ஒதுக்கப்பட்ட வலி தேவை.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
@@ -643,88 +643,88 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
-        <translation>Sviluppo</translation>
+        <translation>வளர்ச்சி</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
         <source>Programming</source>
-        <translation>Programmazione</translation>
+        <translation>நிரலாக்க</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
         <source>Icon Design</source>
-        <translation>Stile Icone</translation>
+        <translation>படவுரு வடிவமைப்பு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="817"/>
         <source>Translations</source>
-        <translation>Traduzioni</translation>
+        <translation>மொழிபெயர்ப்புகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
         <source>English</source>
-        <translation>Inglese</translation>
+        <translation>ஆங்கிலம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
         <source>German</source>
-        <translation>Tedesco</translation>
+        <translation>செர்மன்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
         <source>Open another page</source>
-        <translation>Apri un&apos;altra pagina</translation>
+        <translation>மற்றொரு பக்கத்தைத் திறக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
-        <translation>mostra dettagli</translation>
+        <translation>விவரங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <source>Contributors</source>
-        <translation>Contributori</translation>
+        <translation>பங்களிப்பாளர்கள்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
         <source>License(s)</source>
         <translation>
-            <numerusform>Licenza</numerusform>
-            <numerusform>Licenze</numerusform>
+            <numerusform>உரிமம்</numerusform>
+            <numerusform>உரிமங்கள்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="714"/>
         <source>About</source>
-        <translation>Info</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="761"/>
         <source>Version %1</source>
-        <translation>Versione %1</translation>
+        <translation>பதிப்பு %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
         <source>show contributors</source>
-        <translation>mostra contributori</translation>
+        <translation>பங்களிப்பாளர்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="839"/>
         <source>Donations</source>
-        <translation>Donazioni</translation>
+        <translation>நன்கொடைகள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="849"/>
         <source>License</source>
-        <translation>Licenza</translation>
+        <translation>உரிமம்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="863"/>
         <source>show license(s)</source>
         <translation>
-            <numerusform>mostra licenza</numerusform>
-            <numerusform>mostra licenze</numerusform>
+            <numerusform>உரிமத்தைக் காட்டு</numerusform>
+            <numerusform>உரிமங்களைக் காட்டு</numerusform>
         </translation>
     </message>
     <message>
@@ -733,48 +733,48 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
         <source>Source Code</source>
-        <translation>Codice sorgente</translation>
+        <translation>மூலக் குறியீடு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Nota: controlla il codice sorgente per avere le informazioni più accurate.</translation>
+        <translation>குறிப்பு: மிகவும் துல்லியமான தகவல்களுக்கு மூலக் குறியீட்டைச் சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="80"/>
         <source>Acknowledgements</source>
-        <translation>Informazioni</translation>
+        <translation>ஒப்புதல்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
-        <translation>Grazie mille!</translation>
+        <translation>நன்றி!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation>Collegamento esterno</translation>
+        <translation>வெளிப்புற இணைப்பு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
         <source>Open in browser</source>
-        <translation>Apri nel browser</translation>
+        <translation>உலாவியில் திற</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
         <source>Copy to clipboard</source>
-        <translation>Copia negli appunti</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
-        <translation>Scarica testi di licenza</translation>
+        <translation>உரிம உரைகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
-        <translation>Dettagli</translation>
+        <translation>விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
@@ -782,33 +782,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
         <source>Homepage</source>
-        <translation>Pagina iniziale</translation>
+        <translation>முகப்புப்பக்கம்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Copiato negli appunti %1</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Per favore fai riferimento a &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>தயவுசெய்து &lt;a href=&quot;%1&quot;&gt;%1 &lt;/a&gt; ஐப் பார்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation>Cambiamenti</translation>
+        <translation>மாற்றபதிவு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
-        <translation>Novità</translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
         <source>Changes since version %1</source>
-        <translation>Cambiamenti dalla versione %1</translation>
+        <translation>பதிப்பு %1 முதல் மாற்றங்கள்</translation>
     </message>
 </context>
 <context>
@@ -816,17 +816,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="40"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Se vuoi supportare il mio lavoro puoi offrirmi una tazza di caffè.</translation>
+        <translation>நீங்கள் எனது வேலையை ஆதரிக்க விரும்பினால், நீங்கள் எனக்கு ஒரு கப் காபி வாங்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="53"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Puoi supportare questo progetto contribuendo o donando con uno di questi servizi.</translation>
+        <translation>இந்த திட்டத்தை பங்களிப்பதன் மூலம் அல்லது இந்த சேவைகளில் ஏதேனும் ஒன்றைப் பயன்படுத்தி நன்கொடை அளிப்பதன் மூலம் நீங்கள் ஆதரிக்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Le tue contribuzioni per le traduzioni o per il codice sono le benvenute.</translation>
+        <translation>மொழிபெயர்ப்புகள் அல்லது குறியீட்டிற்கான உங்கள் பங்களிப்புகள் மிகவும் வரவேற்கப்படும்.</translation>
     </message>
 </context>
 <context>
@@ -834,47 +834,47 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="38"/>
         <source>Fruit</source>
-        <translation>Frutta</translation>
+        <translation>கனி</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="47"/>
         <source>Banana</source>
-        <translation>Banana</translation>
+        <translation>வாழைப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
         <source>Kiwi</source>
-        <translation>Kiwi</translation>
+        <translation>பசலிப்பழம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
         <source>Pear</source>
-        <translation>Pera</translation>
+        <translation>பியர்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="62"/>
         <source>Selected</source>
-        <translation>Selezionato</translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="63"/>
         <source>nothing</source>
-        <translation>niente</translation>
+        <translation>எதுவும்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation>Dettagli</translation>
+        <translation>விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
         <source>no details available</source>
-        <translation>nessun dettaglio disponibile</translation>
+        <translation>விவரங்கள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="111"/>
         <source>Index by value</source>
-        <translation>Indice per valore</translation>
+        <translation>மதிப்பு மூலம் குறியீட்டு</translation>
     </message>
 </context>
 <context>
@@ -883,77 +883,77 @@
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
         <source>Example action</source>
         <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation>Azione di esempio</translation>
+        <translation>எடுத்துக்காட்டு செயல்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
         <source>Anatomy</source>
-        <translation>Anatomia</translation>
+        <translation>உடல்கூற்றியல்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation>I delegati sono basati sul componente &quot;PaddedDelegate&quot;. Forniscono riempimento esterno su tutti i lati, così come tre parti contenuto opzionali: sinistra, centro e destra.</translation>
+        <translation>பிரதிநிதிகள் “பேடெட் டெலிகேட்” கூறுகளை அடிப்படையாகக் கொண்டவர்கள். இது எல்லா பக்கங்களிலும் வெளிப்புற திணிப்பையும், மூன்று விருப்ப உள்ளடக்க பகுதிகளையும் வழங்குகிறது: இடது, நடுவண் மற்றும் வலது.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
         <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation>Le file possono essere evidenziate alternativamente per renderle più distinguibili.</translation>
+        <translation>வரிசைகள் அவற்றை இன்னும் தனித்துவமாக்குவதற்கு மாற்றாக முன்னிலைப்படுத்தலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
         <source>Emphasize rows</source>
-        <translation>Enfatizza righe</translation>
+        <translation>வரிசைகளை வலியுறுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
         <source>This component has only one content line. Left and right contents can be customized.</source>
-        <translation>Questo componente ha solo una riga di contenuto. I contenuti a sinistra e destra possono essere personalizzati.</translation>
+        <translation>இந்த கூறு ஒரே ஒரு உள்ளடக்க வரி மட்டுமே உள்ளது. இடது மற்றும் வலது உள்ளடக்கங்களைத் தனிப்பயனாக்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
         <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation>Questo componente ha due righe di contenuto. Gli oggetti a sinistra e destra usano rispettivamente &quot;DelegateIconItem&quot; e &quot;DelegateInfoItem&quot;.</translation>
+        <translation>இந்த கூறு இரண்டு உள்ளடக்க வரிகளைக் கொண்டுள்ளது. இடது மற்றும் வலது உருப்படிகள் முறையே “பிரதிநிதி” மற்றும் “பிரதிநிதிஃபாய்டெம்” ஐப் பயன்படுத்துகின்றன.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
         <source>per kg</source>
-        <translation>per kg</translation>
+        <translation>ஒரு கிலோ</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
         <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation>Questo componente ha tre righe di contenuto. Tutte le righe sono opzionali e saranno nascoste se vuote.</translation>
+        <translation>இந்த கூறு மூன்று உள்ளடக்க வரிகளைக் கொண்டுள்ளது. எல்லா வரிகளும் விருப்பமானவை, அவை காலியாக இருந்தால் மறைக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
         <source>Drag and drop</source>
-        <translation>Trascina</translation>
+        <translation>இழுத்து விடுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation>Questo modulo supporta nativamente il trascinamento per ordinare manualmente le liste con il modulo Opal.DragDrop. Vedi la pagina dell&apos;esempio di Opal.DragDrop per i dettagli.</translation>
+        <translation>இந்த தொகுதி Opal.Dragdrop தொகுதி வழியாக கைமுறையாக வரிசைப்படுத்தும் பட்டியலுக்கான இழுவை மற்றும் துளி நடவடிக்கையை சொந்தமாக ஆதரிக்கிறது. விவரங்களுக்கு opal.dragdrop இன் எடுத்துக்காட்டு பக்கத்தைப் பார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation>Personalizzazioni complesse</translation>
+        <translation>சிக்கலான தனிப்பயனாக்கங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
         <source>All contents can be customized. Complex content items are possible.</source>
-        <translation>Tutti i contenuti possono essere personalizzati. Sono anche possibili oggetti con contenuto complesso.</translation>
+        <translation>அனைத்து உள்ளடக்கங்களையும் தனிப்பயனாக்கலாம். சிக்கலான உள்ளடக்க உருப்படிகள் சாத்தியமாகும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
         <source>Side elements</source>
-        <translation>Elementi di contorno</translation>
+        <translation>பக்க கூறுகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
         <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
-        <translation>Tutti gli esempi usano componenti come elementi di contorno che sono parte di Opal.Delegates. Di seguito un esempio che mostra come il componente &quot;DelegateIconButton&quot; può essere usato.</translation>
+        <translation>அனைத்து எடுத்துக்காட்டுகளும் Opal.delegates இன் ஒரு பகுதியாக இருக்கும் பக்க கூறுகளாக கூறுகளைப் பயன்படுத்துகின்றன. “பிரதிநிதி கன்சான்பட்டன்” கூறுகளை எவ்வாறு பயன்படுத்தலாம் என்பதைக் காட்டும் ஒரு எடுத்துக்காட்டு கீழே உள்ளது.</translation>
     </message>
 </context>
 <context>
@@ -961,53 +961,53 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation>Abilita trascinamento</translation>
+        <translation>இழுத்து விடு இயக்கு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
         <source>Toggle this switch to see how components react.</source>
-        <translation>Premi qui per vedere come funziona il componente.</translation>
+        <translation>கூறுகள் எவ்வாறு செயல்படுகின்றன என்பதைக் காண இந்த சுவிட்சை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation>Vista pagina intera</translation>
+        <translation>முழு பக்கக் காட்சி</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation>Vista con &quot;Opal.Delegates&quot;</translation>
+        <translation>“Opal.delegates” ஐப் பயன்படுத்தும் காட்சிகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation>Il modulo Opal.Delegates supporta il trascinamento usando il modulo Opal.DragDrop senza ulteriori configurazioni.</translation>
+        <translation>Opal.Delegates தொகுதி மேலும் உள்ளமைவு இல்லாமல் Opal.Dragdrop தொகுதியைப் பயன்படுத்தி இழுத்து விடுகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation>per kg</translation>
+        <translation>ஒரு கிலோ</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation>Viste personalizzate</translation>
+        <translation>தனிப்பயன் காட்சிகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
         <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation>Ci vogliono solo alcune righe di codice per abilitare le viste personalizzate a trascinamento che non usano il modulo Opal.Delegates.</translation>
+        <translation>Opal.delegates தொகுதியைப் பயன்படுத்தாத இழுவை மற்றும் டிராப்ச் தனிப்பயன் காட்சிகளை இயக்க சில வரிகள் மட்டுமே கூடுதல் குறியீட்டை மட்டுமே எடுக்கும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
         <source>Long views</source>
-        <translation>Viste lunghe</translation>
+        <translation>நீண்ட காட்சிகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
         <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation>Nelle liste lunghe, trascinare dopo la fine dell&apos;area visibile o poco prima scorrerà la vista di conseguenza.</translation>
+        <translation>நீண்ட பட்டியல்களில், புலப்படும் பகுதியின் மேல் முனைக்கு கீழே அல்லது மேலே இழுப்பது அதற்கேற்ப பார்வையை உருட்டும்.</translation>
     </message>
 </context>
 <context>
@@ -1015,17 +1015,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation>Abilità trascinamento</translation>
+        <translation>இழுத்து விடு இயக்கு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation>Indice corrente: %1</translation>
+        <translation>தற்போதைய அட்டவணை: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation>per kg</translation>
+        <translation>ஒரு கிலோ</translation>
     </message>
 </context>
 <context>
@@ -1033,94 +1033,94 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
         <source>External links</source>
-        <translation>Collegamenti esterni</translation>
+        <translation>வெளிப்புற இணைப்புகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation>Uso di base</translation>
+        <translation>அடிப்படை பயன்பாடு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation>Questa etichetta contiene un &lt;a href=&quot;https://example.org&quot;&gt;collegamento esterno&lt;/a&gt; che puoi attivare. Una volta cliccato, si aprirà una nuova pagina che ti chiederà di aprire o copiare l&apos;URL.</translation>
+        <translation>இந்த லேபிளில் &lt;a href=&quot;https://example.org&quot;&gt; வெளிப்புற இணைப்பு &lt;/a&gt; நீங்கள் செயல்படுத்த முடியும். சொடுக்கு செய்ததும், ஒரு புதிய பக்கம் முகவரி ஐ திறக்க அல்லது நகலெடுக்கும்படி கேட்கும்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
         <source>Advanced usage</source>
-        <translation>Uso avanzato</translation>
+        <translation>மேம்பட்ட பயன்பாடு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
         <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation>Possono esserci diversi tipi di collegamenti in un&apos;etichetta che possono essere gestiti individualmente. Questo è un &lt;a href=&quot;tel:+3900000000&quot;&gt;numero di telefono&lt;/a&gt; mentre questo è &lt;a href=&quot;https://example.org&quot;&gt; un sito internet&lt;/a&gt;.</translation>
+        <translation>ஒரு லேபிளில் பல்வேறு வகையான இணைப்புகள் இருக்கலாம், அவை தனித்தனியாக கையாளப்படலாம். இது &lt;a href=&quot;தொலைபேசி: +4100000000&quot;&gt; ஒரு தொலைபேசி எண் &lt;/a&gt; இது &lt;a href=&quot;https://example.org&quot;&gt; ஒரு வலைத்தளம் &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
         <source>Phone number</source>
-        <translation>Numero di telefono</translation>
+        <translation>தொலைபேசி எண்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
         <source>Website</source>
-        <translation>Sito internet</translation>
+        <translation>வலைத்தளம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
         <source>Silica tools</source>
-        <translation>Strumenti di silica</translation>
+        <translation>சிலிக்கா கருவிகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation>Silica fornisce l&apos;oggetto &quot;LinkedLabel&quot; che trova automaticamente collegamenti e numeri di telefono nei testi e li rende cliccabili. Questo numero +3900000000 e questo URL https://esempio.org/collegamento?molto-lungo-che-verrà-ridotto-automaticamente sono automaticamente formattati come collegamenti. Inoltre nota come l&apos;URL si è accorciato.</translation>
+        <translation>சிலிக்கா அதன் உரையில் இணைப்புகள் மற்றும் தொலைபேசி எண்களைக் கண்டுபிடித்து அவற்றை சொடுக்கு செய்யக்கூடிய “சென்டர் லேபல்” உருப்படியை வழங்குகிறது. இந்த எண் +4100000000 மற்றும் இந்த முகவரி https://example.org/very-long?extra-long-data-Wheich-will-will-shortened-automatically தானாகவே இணைப்புகளாக வடிவமைக்கப்படுகின்றன. நீண்ட முகவரி எவ்வாறு சுருக்கப்படுகிறது என்பதையும் கவனியுங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation>Collegamento esterno</translation>
+        <translation>வெளிப்புற இணைப்பு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation>Copia testo negli appunti</translation>
+        <translation>கிளிப்போர்டுக்கு உரையை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation>Condividi</translation>
+        <translation>பங்கு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation>Apri nel browser</translation>
+        <translation>உலாவியில் திற</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation>Apri esternamente</translation>
+        <translation>வெளிப்புறமாக திறக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Copiato negli appunti %1</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation>Condividi collegamento</translation>
+        <translation>இணைப்பைப் பகிரவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation>Copia negli appunti</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -1129,117 +1129,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation>Riproduzione fallita</translation>
+        <translation>பிளேபேக் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation>Errore contenuto</translation>
+        <translation>வள பிழை</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation>Errore formato</translation>
+        <translation>வடிவமைப்பு பிழை</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation>Errore di rete</translation>
+        <translation>பிணைய பிழை</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation>Accesso negato</translation>
+        <translation>அணுகல் மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation>Servizio media mancante</translation>
+        <translation>ஊடக பணி இல்லை</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation>Il video non può essere riprodotto per un problema nell&apos;allocare le risorse.</translation>
+        <translation>வளங்களை ஒதுக்குவதில் சிக்கல் காரணமாக வீடியோவை இயக்க முடியாது.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation>L&apos;audio e/o il video non sono supportati.</translation>
+        <translation>ஆடியோ மற்றும் வீடியோ வடிவம் ஆதரிக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation>Il video non può essere riprodotto per errori di rete.</translation>
+        <translation>பிணையம் சிக்கல்கள் காரணமாக வீடியோவை இயக்க முடியாது.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation>Il video non può essere riprodotto per permessi insufficienti.</translation>
+        <translation>போதிய அனுமதிகள் இல்லாததால் வீடியோவை இயக்க முடியாது.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation>Il video non può essere riprodotto perché il servizio media non può essere inizializzato.</translation>
+        <translation>ஊடக சேவையை உடனடிப்படுத்த முடியாததால் வீடியோவை இயக்க முடியாது.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation>Riproduzione fallita a causa di un errore inaspettato. Per favore riavvia l&apos;app e prova di nuovo.</translation>
+        <translation>எதிர்பார்க்கப்படும் பிழை காரணமாக பின்னணி தோல்வியடைந்தது. பயன்பாட்டை மறுதொடக்கம் செய்து மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation>Scegli dal file system</translation>
+        <translation>கோப்பு முறைமையிலிருந்து தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation>Nessun file pronto</translation>
+        <translation>கோப்புகள் தயாராக இல்லை</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation>Copia il file dei sottotitoli nel formato SRT vicino al video per poterli aprire velocemente.</translation>
+        <translation>நகலெடுக்க வீடியோ கோப்புக்கு அடுத்த SRT வடிவத்தில் நகலெடுக்கவும் அவற்றை விரைவாக திறக்க.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation>Trascina in basso per scegliere un file.</translation>
+        <translation>ஒரு கோப்பை எடுக்க கீழே இழுக்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation>Togli sottotitoli</translation>
+        <translation>தெளிவான வசன வரிகள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation>Carica sottotitoli</translation>
+        <translation>வசன வரிகள் ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation>Ingrandito per adattarsi allo schermo</translation>
+        <translation>திரைக்கு பொருத்தமாக பெரிதாக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation>Originale</translation>
+        <translation>அசல்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation>Ripeti</translation>
+        <translation>மீண்டும் விளையாடுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation>Riproduci una volta sola</translation>
+        <translation>ஒரு முறை விளையாடுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -1247,52 +1247,52 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
-        <translation>Abilita un impostazione</translation>
+        <translation>ஒரு அமைப்பை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
-        <translation>Abilita un&apos;altra impostazione</translation>
+        <translation>மற்றொரு அமைப்பை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
-        <translation>Menu</translation>
+        <translation>மெனுக்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
-        <translation>Menu contestuali</translation>
+        <translation>சூழல் மெனுக்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
-        <translation>Clicca qui per aprire un menu</translation>
+        <translation>மெனுவைத் திறக்க இங்கே சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation>Opzione normale</translation>
+        <translation>வழக்கமான விருப்பம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation>Opzione attivabile</translation>
+        <translation>செயல்படுத்தக்கூடிய விருப்பம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation>Terza opzione con più testo</translation>
+        <translation>மேலும் உரையுடன் மூன்றாவது விருப்பம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
-        <translation>Menu alto/basso</translation>
+        <translation>மேல்/கீழ் மெனுக்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
-        <translation>Trascina in basso per aprire il menu contenente più pulsanti.</translation>
+        <translation>மேலும் சுவிட்சுகள் கொண்ட மேல் மெனுவைத் திறக்க கீழே இழுக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -1300,12 +1300,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation>Alterna barra di scorrimento intelligente</translation>
+        <translation>அறிவுள்ள சுருள்பட்டியை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation>Alterna scorrimento veloce</translation>
+        <translation>விரைவான ச்க்ரோலிங் மாற்றவும்</translation>
     </message>
 </context>
 <context>
@@ -1313,62 +1313,62 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Dona su Liberapay</translation>
+        <translation>லிபராபேயில் நன்கொடை</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Donami una tazza di caffè, un pezzo di pizza o un biglietto per il cinema.</translation>
+        <translation>ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது தியேட்டருக்கு டிக்கெட் ஆகியவற்றின் அளவு செலுத்துங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Traduci su Weblate</translation>
+        <translation>வெப்லேட்டில் மொழிபெயர்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Aiutaci traducendo questa applicazione in quante più lingue possibile.</translation>
+        <translation>இந்த பயன்பாட்டை முடிந்தவரை பல மொழிகளில் மொழிபெயர்க்க உதவுங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Sviluppato su Github</translation>
+        <translation>கிட்அப்பில் உருவாக்குங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Supportaci con manutenzione e pacchettizzazione, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
+        <translation>பராமரிப்பு மற்றும் பேக்கேசிங், குறியீட்டை எழுதுதல் அல்லது மதிப்புமிக்க பிழை அறிக்கைகளை வழங்குதல்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Perché dovrebbe importartene?</translation>
+        <translation>நீங்கள் ஏன் கவலைப்பட வேண்டும்?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Questo progetto è sviluppato con amore e passione da un solo sviluppatore nel suo tempo libero, ed è rilasciato gratuitamente.</translation>
+        <translation>இந்த திட்டம் அவர்களின் ஓய்வு நேரத்தில் ஒரு டெவலப்பரால் அன்புடனும் ஆர்வத்துடனும் கட்டப்பட்டுள்ளது, மேலும் இது உங்களுக்கு இலவசமாக வழங்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo ed impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
+        <translation>நான் இலவச மென்பொருளை உருவாக்குகிறேன், ஏனென்றால் இது நெறிமுறை சேதி என்று நான் நம்புகிறேன் - இது ஒரு வேடிக்கையான பொழுதுபோக்கு. இருப்பினும், மென்பொருளை உருவாக்குவதற்கு நிறைய நேரமும் முயற்சியும் தேவை. படகோட்டியாகவும், பொது செலவினங்களுடனும், இது போன்ற ஊதியம் பெறாத திட்டங்களுக்கு நேரத்தை செலவிட எனக்கு உங்கள் உதவி தேவை.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Perché donare?</translation>
+        <translation>ஏன் நன்கொடை?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla ha recentemente alzato i prezzi e sta cercando di obbligare gli sviluppatori (che lavorano già gratis) a pagare un abbonamento per Sailfish.</translation>
+        <translation>சொல்லா விலைகளை உயர்த்தினார், மேலும் டெவலப்பர்களை (இலவசமாக வேலை செய்யும்) படகோட்டிக்கு வாடகை செலுத்த கட்டாயப்படுத்த முயற்சிக்கிறார்.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza, o di più.</translation>
+        <translation>நீங்கள் அதை வாங்க முடிந்தால், சாய்ல்ஃபிசிற்கான பயன்பாடுகளில் நான் தொடர்ந்து பணியாற்ற முடியும் என்பதை உறுதிப்படுத்த நன்கொடை என்பது எளிதான வழியாகும். எந்தவொரு தொகையும் பாராட்டப்படுகிறது, அது ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது அதற்கு மேற்பட்டதாக இருக்கலாம்.</translation>
     </message>
 </context>
 <context>
@@ -1376,32 +1376,32 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="27"/>
         <source>Chats</source>
-        <translation>Conversazioni</translation>
+        <translation>அரட்டைகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="30"/>
         <source>7 unread</source>
-        <translation>7 non letti</translation>
+        <translation>7 படிக்காதது</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="36"/>
         <source>Overview</source>
-        <translation>Panoramica</translation>
+        <translation>கண்ணோட்டம்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="39"/>
         <source>Nothing to do</source>
-        <translation>Niente da fare</translation>
+        <translation>செய்ய எதுவும் இல்லை</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation>Attività</translation>
+        <translation>பணிகள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation>59 aperti</translation>
+        <translation>59 திறந்த</translation>
     </message>
 </context>
 <context>
@@ -1409,37 +1409,37 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="26"/>
         <source>Options</source>
-        <translation>Opzioni</translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="30"/>
         <source>Show icons</source>
-        <translation>Mostra icone</translation>
+        <translation>ஐகான்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation>Mostra descrizioni</translation>
+        <translation>விளக்கங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
         <source>Show tab bar</source>
-        <translation>Mostra barra schede</translation>
+        <translation>தாவல் பட்டியைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="51"/>
         <source>Tab bar position</source>
-        <translation>Posizione barra schede</translation>
+        <translation>தாவல் பட்டை நிலை</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="59"/>
         <source>Top</source>
-        <translation>In alto</translation>
+        <translation>மேலே</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="62"/>
         <source>Bottom</source>
-        <translation>In basso</translation>
+        <translation>கீழே</translation>
     </message>
 </context>
 <context>
@@ -1447,27 +1447,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Salve!</translation>
+        <translation>ஆய்!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Grazie per aver usato la mia applicazione! Forse potresti contribuire?</translation>
+        <translation>எனது சிறிய பயன்பாட்டைப் பயன்படுத்தியதற்கு நன்றி! ஒருவேளை நீங்கள் மீண்டும் பங்களிக்க முடியுமா?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation>Grazie per il tuo supporto!</translation>
+        <translation>உங்கள் ஆதரவுக்கு நன்றி!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
         <source>Remind me later</source>
-        <translation>Ricordamelo dopo</translation>
+        <translation>பின்னர் எனக்கு நினைவூட்டுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
         <source>Don&apos;t ask me again</source>
-        <translation>Non chiedermelo di nuovo</translation>
+        <translation>மீண்டும் என்னிடம் கேட்க வேண்டாம்</translation>
     </message>
 </context>
 </TS>

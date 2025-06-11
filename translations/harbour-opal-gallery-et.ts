@@ -380,27 +380,27 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nende moodulite arendus on lõppenud ja nad on valmis kasutamiseks sinu rakendustes. Täisdokumentatsiooni leiad Sailfishi IDEst.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Need moodulid on veel arendusjärgus ning tegemist on esialgse vaatega. Dokumentatsioon puudub ja APId võivad muutuda.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="94"/>
         <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nende moodulite kood juba on olemas muudes projektides. Nad ilmselt lisanduvad Opalisse järgmises versioonis.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation type="unfinished"></translation>
+        <translation>Need moodulid on veel planeerimisjärgus või väga varajases arendusjärgus.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neid mooduleid enam ei arendata ning neid ei peaks rakendustes kasutama. Leidub paremaid alternatiive.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
@@ -435,31 +435,31 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peale mõningast rakenduse kasutamist kuvatav vaade, kus on lisateave rahalise toetamise võimaluste kohta.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
         <source>This module provides a media player page with support for subtitles.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul võimaldab kasutada subtiitrite toega meediamängijat.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul pakub lihtsa võimaluse lisada rakendusse ribasid.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle mooduliga saad vaadetele lisada loendeid ning seeläbi saad välimuse loomise asemel keskenduda andmete töötlemisele.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul võimaldab vaid paari koodirea lisamisega loendite järjestamist lohistades.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
@@ -483,43 +483,43 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab sisse- ja väljalülitamise nupud tüüpiliste Sailfishi menüüde jaoks.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab kontekstimenüü kasutamise võimaluse, kus tekstikirjete asemel on ikoonid.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul tagab QMLi jaoks uuendatud ja paigatud SortFilterProxyModel meetodi kasutamise võimaluse.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab laeka, mis võimaldab pikad loendid muuta hallatavateks gruppideks.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab pikkade loendte jaoks Harbouri reeglitele vastava nutika kerimisriba.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab kergestikasutatava liidestuse rakenduse juhenditega.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab võimaluse joonistada ilusaid graafikud QCharts.js teegi abil.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul lisab võimaluse kasutada tekstivälja ja sisestusvälja, millel on emojide, kujundatud tekstide ja linkide tugi.</translation>
     </message>
 </context>
 <context>
@@ -883,7 +883,7 @@
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
         <source>Example action</source>
         <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Näidistegevus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
@@ -1033,49 +1033,49 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
         <source>External links</source>
-        <translation type="unfinished"></translation>
+        <translation>Välised lingid</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihtne kasutus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sellel sildil on &lt;a href=&quot;https://example.org&quot;&gt;väline link&lt;/a&gt;, mida sa saad klõpsida. Peale klõpsimist tekib vaade, mis pakub võimalust lingi avamiseks või kopeerimiseks.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
         <source>Advanced usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitmekülgne kasutus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
         <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sildil saab olla erinevaid linke ja neist igaüks võib toimida erinevalt. See on &lt;a href=&quot;tel:+4100000000&quot;&gt;telefoninumber&lt;/a&gt;, aga see on &lt;a href=&quot;https://example.org&quot;&gt;hoopis veebisait&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoninumber</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Veebisait</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
         <source>Silica tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica tarvikud</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silicas leidub „LinkedLabel“ kirjetüüp, mis automaatselt tuvastab tekstist telefoninumbrid ja teeb nad klikatavaks. See number +4100000000 ja see veebiaadress https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically vorminduvad automaatselt linkidena. Samas näed ka, kuidas toimib hiidpikkade linkide lühendamine.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
@@ -1086,12 +1086,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri tekst lõikelauale</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaga</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
@@ -1114,7 +1114,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaga linki</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
@@ -1194,32 +1194,32 @@
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali failipuust</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Ühtegi faili pole valmis</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiitrite kiireks avamiseks kopeeri srt-vormingus subtiitrifailid videofaili kõrvale.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faili valimiseks viipa alla.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemalda subtiitrid</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Laadi subtiitrid</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
@@ -1247,52 +1247,52 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Näide seadistuse sisselülitamisest</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja sama teise seadisega</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüüd</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontekstimenüüd</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüü avamiseks klõpsi siin</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation type="unfinished"></translation>
+        <translation>Tavaline valik</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisselülitatav valik</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolmas valik pikema tekstiga</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Üla- ja alamenüüd</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisavalikutega ülamenüü avamiseks viipa alla.</translation>
     </message>
 </context>
 <context>
@@ -1300,12 +1300,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Lülita nutikas kerimisriba sisse/välja</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Lülita kiirkerimisriba sisse/välja</translation>
     </message>
 </context>
 <context>
@@ -1376,32 +1376,32 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="27"/>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Vestlused</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="30"/>
         <source>7 unread</source>
-        <translation type="unfinished"></translation>
+        <translation>7 on lugemata</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="36"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülevaade</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="39"/>
         <source>Nothing to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegevusi pole</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesanded</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation type="unfinished"></translation>
+        <translation>59 avatud</translation>
     </message>
 </context>
 <context>
@@ -1409,37 +1409,37 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="26"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikud</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="30"/>
         <source>Show icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita ikoone</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita kirjeldusi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
         <source>Show tab bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita vahekaartide riba</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="51"/>
         <source>Tab bar position</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahekaartide riba asukoht</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="59"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleval</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="62"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>All</translation>
     </message>
 </context>
 <context>
