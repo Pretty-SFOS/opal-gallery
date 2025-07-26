@@ -60,7 +60,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>挪威博克马尔语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
