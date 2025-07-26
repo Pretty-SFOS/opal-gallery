@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Geliştiriciler</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -19,13 +19,13 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Opal is a collection of pretty QML components for SailfishOS, building on top of Sailfish&apos;s Silica components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal, SailfishOS için Sailfish&apos;in Silica bileşenlerinin üzerine kurulan QML bileşenlerinden oluşan bir koleksiyondur.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-mediaplayer/gallery/ViewVideoPage.qml" line="23"/>
         <location filename="../qml/pages/AboutPage.qml" line="25"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Galerisi</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="53"/>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeri</translation>
     </message>
 </context>
 <context>
@@ -133,13 +133,13 @@
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="21"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="20"/>
         <source>Other contents could be included at this place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer içerikler buraya eklenebilir.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/DummyTab.qml" line="20"/>
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Dummy page</source>
-        <translation type="unfinished"></translation>
+        <translation>Deneme sayfası</translation>
     </message>
 </context>
 <context>
@@ -147,62 +147,62 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation type="unfinished"></translation>
+        <translation>Jane</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimiçi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="22"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>dün</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation type="unfinished"></translation>
+        <translation>@John: hiç patates kaldı mı?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
         <source>John</source>
-        <translation type="unfinished"></translation>
+        <translation>John</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="28"/>
         <source>busy</source>
-        <translation type="unfinished"></translation>
+        <translation>meşgul</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="29"/>
         <source>2h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>2s önce</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="30"/>
         <source>Sorry @Jane, I ate them all. I&apos;ll make new ones on Saturday, though.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm @Jane, hepsini yedim ama Cumartesiye yine yaparım.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="34"/>
         <source>Lisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="35"/>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>uzakta</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="36"/>
         <source>32m ago</source>
-        <translation type="unfinished"></translation>
+        <translation>32dk önce</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation type="unfinished"></translation>
+        <translation>@Jane, buraya gel. Biraz hazırladım!</translation>
     </message>
 </context>
 <context>
@@ -210,48 +210,48 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Elma</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
         <source>A juicy fruit with a sour note. Perfect for fruit salads.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekşi aromalı sulu bir meyve. Meyve salatalarının vazgeçilmezi.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doktorlara karşı işe yarar!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Muz</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
         <source>A yellow fruit preferred by monkeys and humans alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maymun ve insanlar tarafından tercih edilen sarı bir meyve.</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece bugün: bir alana bir bedava!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Egzotik meyve dolu bir sepet</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel hediye!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation type="unfinished"></translation>
+        <translation>Fıstık ezmesi</translation>
     </message>
 </context>
 <context>
@@ -259,77 +259,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation type="unfinished"></translation>
+        <translation>Elma</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Muz</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Egzotik meyve dolu bir sepet</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kivi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>İncir</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeftali</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzüm</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Elma</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portakal</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>Ananas</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>Siyah frenk üzümü</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahududu</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>Karpuz</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation type="unfinished"></translation>
+        <translation>Kavun</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rhubarb</translation>
     </message>
 </context>
 <context>
@@ -337,7 +337,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans Metni</translation>
     </message>
 </context>
 <context>
@@ -345,62 +345,62 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="22"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal hakkında</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="29"/>
         <source>for form and function</source>
-        <translation type="unfinished"></translation>
+        <translation>form ve işlev için</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="62"/>
         <source>Released modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Yayınlanmış modüller</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişimde</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelecek modüller</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Planlanmış modüller</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
         <source>Deprecated modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldırılmış modüller</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modüller tamamlanmıştır ve uygulamalarınızda kullanıma hazırdır. Sailfish IDE’sinde dokümanları bulunur.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
         <source>These are development previews of new and unfinished modules. Documentation is missing and APIs may change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunlar tamamlanmamış modüllerin gelişim süreci önizlemeleridir. Dökümantasyonu tam değildir ve API değişebilir.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="94"/>
         <source>The code for these modules already exists in other projects. They will be included in Opal in an upcoming version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modüller için kod zaten başka projelerde mevcuttur. Gelecek bir sürümde Opal&apos;a dahil edileceklerdir.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modüller planlanmaktadır veya geliştirmenin ilk aşamalarındadır.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
         <source>These modules are no longer being developed and should not be used in new apps. There are better alternatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modüller artık geliştirilmemektedir ve yeni uygulamalarda kullanılmamalıdır. Daha iyi alternatifler vardır.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
@@ -410,17 +410,17 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="222"/>
         <source>No examples available</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut örnek bulunmamakta</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>Opal Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal Galerisi</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="206"/>
         <source>Preview and Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Önizleme ve Örnekler</translation>
     </message>
 </context>
 <context>
@@ -429,97 +429,97 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="147"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, özelleştirilebilir uygulama bilgi sayfaları oluşturmak için &lt;i&gt;AboutPageBase&lt;/i&gt; sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir kullanıcı uygulamanızı bir süre kullandığında gösterilen ve katkı isteyen bir iletişim kutusu.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
         <source>This module provides a media player page with support for subtitles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, altyazı desteği olan bir medya oynatıcı sayfası sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, uygulamalara sekme çubukları eklemek için kolay bir yol sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül görünümler için liste öğeleri sağlar, böylece sunumu biçimlendirmeye değil verileri işlemeye odaklanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, sadece birkaç satır kodla listelerin sürükle-bırak yöntemiyle sıralanmasını sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="203"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, seçilebilir her seçenek için ayrıntıları gösterebilen bir birleşik giriş kutusu sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, birleşik giriş kutularının etiket yerine geçerli değere erişmesi için bir uzantı sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="227"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, harici bağlantıları açmak veya kopyalamak için bir bağlantı işleyicisi sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, Sailfish tarzı menülerde kullanılmak üzere bir geçiş düğmesi sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, metin girişleri yerine simgeleri destekleyen bir içerik menüsü sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, QML için SortFilterProxyModel&apos;in güncel ve yamalı bir sürümünü sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, uzun listelerin erişilebilir gruplara bölünmesini sağlayan bir çekmece sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, uzun listeler için Harbour uyumlu bir akıllı kaydırma çubuğu sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, uygulama eğitimleri için kullanımı kolay etkileşim ipuçları sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, QCharts.js aracılığıyla güzel grafikler çizilmesini sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, emojiler, şekillendirilmiş metin ve özel bağlantılar için destek içeren bir metin alanı ve giriş alanı sağlar.</translation>
     </message>
 </context>
 <context>
@@ -527,7 +527,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Liberapay üzerinden bağış yap</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
@@ -572,7 +572,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Neden bağışta bulunmalısınız?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
@@ -590,52 +590,52 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>This is a short description of the app. It can use styled and rich text or &lt;a href=&quot;https://example.org&quot;&gt;links&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>uygulamanın bakımcısı</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>another important person</source>
-        <translation type="unfinished"></translation>
+        <translation>diğer önemki kişi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="23"/>
         <source>additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>ek isim</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri Lisansı</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
         <source>Extra info</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek bilgi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
@@ -674,7 +674,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
         <source>Open another page</source>
-        <translation type="unfinished"></translation>
+        <translation>Başka sayfa aç</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
@@ -796,12 +796,12 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Değişim günlüğü</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Haberler</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
@@ -832,32 +832,32 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="38"/>
         <source>Fruit</source>
-        <translation type="unfinished"></translation>
+        <translation>Meyve</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished"></translation>
+        <translation>Muz</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kivi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Armut</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>hiçbir şey</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
@@ -867,12 +867,12 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>detaylar mevcut değil</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="111"/>
         <source>Index by value</source>
-        <translation type="unfinished"></translation>
+        <translation>Değere göre endeks</translation>
     </message>
 </context>
 <context>
@@ -881,77 +881,77 @@
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="24"/>
         <source>Example action</source>
         <comment>as in: “take an action”, this is just a dummy placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Örnek eylem</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="50"/>
         <source>Anatomy</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temsilciler &quot;PaddedDelegate&quot; bileşenini temel alır. Her tarafta dış dolgunun yanı sıra üç isteğe bağlı içerik parçası sağlar: sol, orta ve sağ.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
         <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Satırlar, daha belirgin hale getirmek için dönüşümlü olarak vurgulanabilir.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
         <source>Emphasize rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Satırları vurgula</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
         <source>This component has only one content line. Left and right contents can be customized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu bileşenin yalnızca bir içerik satırı vardır. Sol ve sağ içerikler özelleştirilebilir.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
         <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu bileşenin iki içerik satırı vardır. Sol ve sağ öğeler sırasıyla &quot;DelegateIconItem&quot; ve &quot;DelegateInfoItem&quot; kullanır.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kg başına</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
         <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu bileşenin üç içerik satırı vardır. Tüm satırlar isteğe bağlıdır ve boş olmaları halinde gizlenirler.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
         <source>Drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürükle ve bırak</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modül, Opal.DragDrop modülü aracılığıyla listeleri manuel olarak sıralamak için sürükle ve bırak eylemini yerel olarak destekler. Ayrıntılar için Opal.DragDrop&apos;un örnek sayfasına bakın.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompleks kişiselleştirmeler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
         <source>All contents can be customized. Complex content items are possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün içerik kişiselleştirilebilir. Kompleks içerik öğeleri mümkündür.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="290"/>
         <source>Side elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Yan elementler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="294"/>
         <source>All examples use components as side elements that are part of Opal.Delegates. Below is an example that shows how the “DelegateIconButton” component can be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm örnekler, Opal.Delegates&apos;in bir parçası olan bileşenleri yan öğeler olarak kullanır. Aşağıda &quot;DelegateIconButton&quot; bileşeninin nasıl kullanılabileceğini gösteren bir örnek yer almaktadır.</translation>
     </message>
 </context>
 <context>
@@ -959,53 +959,53 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürükle ve bırakı etkinleştir</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
         <source>Toggle this switch to see how components react.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bileşenlerin nasıl tepki verdiğini görmek için bu anahtarı değiştirin.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam sayfa görünümü</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Opal.Delegates&quot; kullanan görünümler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal.Delegates modülü, Opal.DragDrop modülünü kullanarak başka bir yapılandırma olmadan sürükle ve bırak özelliğini destekler.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kg başına</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel görünüm</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
         <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opal.Delegates modülünü kullanmayan özel görünümlerde sürükle ve bırak özelliğini etkinleştirmek için yalnızca birkaç satır daha fazla kod gerekir.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
         <source>Long views</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzun görünüm</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
         <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzun listelerde, görünür alanın alt ucunun altına veya üst ucunun üstüne sürüklemek görünümü uygun şekilde kaydıracaktır.</translation>
     </message>
 </context>
 <context>
@@ -1013,17 +1013,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürükle ve bırakı etkinleştir</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut indeks: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kg başına</translation>
     </message>
 </context>
 <context>
@@ -1031,49 +1031,49 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
         <source>External links</source>
-        <translation type="unfinished"></translation>
+        <translation>Harici bağlantılar</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Temel kullanım</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu etiket, etkinleştirebileceğiniz bir &lt;a href=&quot;https://example.org&quot;&gt;harici bağlantı&lt;/a&gt; içerir. Tıklandığında, yeni bir sayfa sizden URL&apos;yi açmanızı veya kopyalamanızı isteyecektir.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
         <source>Advanced usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş kullanım</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
         <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir etikette farklı türde bağlantılar olabilir ve bunlar ayrı ayrı ele alınabilir. Bu &lt;a href=&quot;tel:+4100000000&quot;&gt;bir telefon numarası&lt;/a&gt; iken bu &lt;a href=&quot;https://example.org&quot;&gt;bir web sitesidir&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon numarası</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>İnternet sayfası</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
         <source>Silica tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica araçları</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica, metnindeki bağlantıları ve telefon numaralarını otomatik olarak bulan ve bunları tıklanabilir hale getiren &quot;LinkedLabel&quot; öğesini sağlar. Bu numara +4100000000 ve bu URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically otomatik olarak bağlantı olarak biçimlendirilir. Ayrıca uzun URL&apos;nin nasıl kısaltıldığına da dikkat edin.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
@@ -1084,12 +1084,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Metni panoya kopyala</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
@@ -1101,7 +1101,7 @@
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Harici olarak aç</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
@@ -1112,7 +1112,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Linki paylaş</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
@@ -1127,117 +1127,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oynatma başarısız</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak hatası</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Biçim hatası</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ağ hatası</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erişim reddedildi</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medya servisi bulunamadı</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak tahsisinde yaşanan bir sorun nedeniyle video oynatılamıyor.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses ve/veya video biçimi desteklenmiyor.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu video ağ sorunları nedeniyle oynatılamaz.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu video yetersiz izinler nedeniyle oynatılamaz.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Medya servisi başlatılamadığından bu video oynatılamaz.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynatma beklenmedik bir hatadan dolayı başarısız. Lütfen uygulamayı yeniden açıp tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya sisteminden seç</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Hazır dosya yok</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Altyazı dosyalarını hızlı bir şekilde açmak için SRT formatında video dosyasının yanına kopyalayın.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya seçmek için aşağı kaydırın.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Altyazıyı kaldır</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Altyazı yükle</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrana sığması için yakınlaştırıldı</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Orijinal</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürekli oynat</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir kere oynat</translation>
     </message>
 </context>
 <context>
@@ -1245,52 +1245,52 @@
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="26"/>
         <source>Enable a setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir ayar etkinleştir</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="30"/>
         <source>Enable another setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir başka ayar etkinleştir</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="40"/>
         <source>Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="44"/>
         <source>Context menus</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik menüleri</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="49"/>
         <source>Click here to open a menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir menü açmak için buraya tıklayın</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="61"/>
         <source>Regular option</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal seçenek</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="64"/>
         <source>Activatable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirilebilir seçenek</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="68"/>
         <source>Third option with more text</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla metin ile üçüncü seçenek</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="74"/>
         <source>Top/bottom menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarı/aşağı menüler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-menuswitch/gallery.qml" line="81"/>
         <source>Pull down to open the top menu containing more switches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla anahtar içeren üst menüyü açmak için aşağı çekin.</translation>
     </message>
 </context>
 <context>
@@ -1298,12 +1298,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Akıllı kaydırma çubuğunu aç / kapat</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı kaydırmayı aç / kapat</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1311,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Liberapay üzerinden bağışta bulun</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
@@ -1356,7 +1356,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Neden bağışta bulunulmalı?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
@@ -1374,32 +1374,32 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="27"/>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Sohbetler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="30"/>
         <source>7 unread</source>
-        <translation type="unfinished"></translation>
+        <translation>7 okunmamış</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="36"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Genel bakış</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="39"/>
         <source>Nothing to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapacak hiçbir şey yok</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Görevler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation type="unfinished"></translation>
+        <translation>59 açık</translation>
     </message>
 </context>
 <context>
@@ -1407,37 +1407,37 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="26"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="30"/>
         <source>Show icons</source>
-        <translation type="unfinished"></translation>
+        <translation>İkonları göster</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanımları göster</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
         <source>Show tab bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekme çubuğunu göster</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="51"/>
         <source>Tab bar position</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekme çubuğu konumu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="59"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="62"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
 </context>
 <context>
@@ -1445,7 +1445,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Merhaba!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
