@@ -21,6 +21,9 @@ cQML_MODULES=(
     combodata
     menuswitch
     linkhandler
+    localstorage
+    propertymacros
+    sfpm
 )
 missing=()
 
