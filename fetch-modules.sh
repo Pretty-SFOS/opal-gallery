@@ -3,7 +3,7 @@
 # This file is part of Opal Gallery.
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
-# SPDX-FileCopyrightText: 2021-2023 Mirian Margiani
+# SPDX-FileCopyrightText: 2021-2025 Mirian Margiani
 #
 
 # TODO error checking and handling
@@ -146,7 +146,7 @@ for module in "${cQML_MODULES[@]}"; do
         for author in "${!authors[@]}"; do
             if [[ "${maintainers[$peop]}" == "${authors[$author]}" ]]; then
                 # shellcheck disable=SC2004
-                authors[$author]=''  # remove duplicate
+                unset "authors[$author]"  # remove duplicate
             fi
         done
     done
