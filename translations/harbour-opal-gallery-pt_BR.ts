@@ -101,9 +101,9 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Por favor, reserve um momento para considerar se você pode contribuir com este projeto de alguma forma.</translation>
+        <translation>Por favor, tome um momento para considerar se você pode contribuir para este projeto de uma forma ou de outra.</translation>
     </message>
 </context>
 <context>
@@ -117,14 +117,14 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation>exibir menos</translation>
+        <translation>mostrar menos</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation>exibir mais</translation>
+        <translation>mostrar mais</translation>
     </message>
 </context>
 <context>
@@ -335,9 +335,9 @@
 <context>
     <name>LicenseListPart</name>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
-        <translation>Texto de licença</translation>
+        <translation>Texto da licença</translation>
     </message>
 </context>
 <context>
@@ -427,97 +427,103 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="147"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>Esse módulo fornece &lt;i&gt;AboutPageBase&lt;/i&gt; para construir páginas customizáveis de informações de aplicações.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation>Um diálogo pedindo por contribuições que é exibido quando o usuário usou o seu app por algum tempo.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
         <source>This module provides a media player page with support for subtitles.</source>
         <translation>Este módulo fornece uma página de um player de mídia com suporte à legendas.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
         <translation>Este módulo fornece uma forma fácil de adicionar tab bars aos apps.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation>Este módulo fornece itens de lista para visualizações, para que você possa se concentrar em lidar com os dados, e não em formatar a apresentação.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
         <translation>Este módulo possibilita ordenar listas através do deslizar-e-soltar com apenas algumas linhas de código.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="203"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="227"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation>Este módulo fornece um menu de contexto com suporte a ícones em vez de entradas de texto.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
+        <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
         <translation>Este módulo fornece dicas de interações fáceis de usar para tutoriais de apps.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -537,12 +543,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduza no Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajude a traduzir este app na maior quantidade possível de idiomas.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
@@ -567,7 +573,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Eu desenvolvo software livre porque eu acredito que essa é a coisa ética a se fazer - e é um hobby divertido. De qualquer forma, desenvolver software exige muito tempo e esforço. Como o Sailfish e a vida em geral custam dinheiro, eu preciso do seu apoio para poder dedicar tempo a projetos não remunerados como este.</translation>
+        <translation>Eu desenvolvo software livre porque eu acresito que isso é a coisa ética a se fazer - e é um hobby diveetido. De qualquer forma, desenvolver software exige muito tempo e esforço. Como o Sailfish e a vida em geral custam dinheiro, eu preciso do seu suporte para poder continuar dedicando tempo em projetos não-remunerados como este.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
@@ -577,12 +583,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla aumentou os preços e está tentando forçar os desenvolvedores (que trabalham de graça) a pagar mensalidades ao Sailfish.</translation>
+        <translation>Jolla aumentou os preços e está tentando forçar os desenvolvedores (que trabalham de graça) a pagar mensalidades para o Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tiver condições, doar é a forma mais fácil de garantir que eu possa continuar trabalhando em apps para o Sailfish. Qualquer quantia é apreciada, seja um copo de café, uma fatia de pizza ou mais.</translation>
     </message>
 </context>
 <context>
@@ -608,71 +614,71 @@
         <translation>nome adicional</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="125"/>
         <source>Forum</source>
         <translation>Fórum</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
         <translation>Dados</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
         <translation>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation>Licença de Dados</translation>
+        <translation>Licença de dados</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
         <source>Extra info</source>
         <translation>Informações extras</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
         <translation>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
         <translation>Desenvolvimento</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
         <translation>Programação</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
         <translation>Design de ícones</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="817"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
         <source>Translations</source>
         <translation>Traduções</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
         <translation>Inglês</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
         <translation>Alemão</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
         <source>Open another page</source>
         <translation>Abrir outra página</translation>
     </message>
@@ -695,32 +701,32 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="714"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
         <source>About</source>
         <translation>Sobre</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="761"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
         <source>Version %1</source>
         <translation>Versão %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
         <source>show contributors</source>
         <translation>exibir contribuidores</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="839"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
         <source>Donations</source>
         <translation>Doações</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="849"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
         <source>License</source>
         <translation>Licença</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="863"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
         <source>show license(s)</source>
         <translation>
             <numerusform>exibir licença</numerusform>
@@ -728,10 +734,10 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="827"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
         <source>Source Code</source>
         <translation>Código Fonte</translation>
     </message>
@@ -743,7 +749,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="80"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
@@ -751,24 +757,9 @@
         <translation>Obrigado!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
-        <source>Open in browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
-        <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar os textos de licença</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
@@ -777,28 +768,23 @@
         <translation>Detalhes</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
         <source>Homepage</source>
         <translation>Página inicial</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
-        <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, consulte &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de mudanças</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
@@ -808,7 +794,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudanças desde a veesão %1</translation>
     </message>
 </context>
 <context>
@@ -821,12 +807,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="53"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Você pode apoiar este projeto contribuindo, ou doando usando um desses serviços.</translation>
+        <translation>Você pode apoiar esse projeto contribuindo ou doando por um desses serviços.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Sua contribuição com traduções ou códigos serão muito bem-vindas.</translation>
+        <translation>Sua contribuição com traduções ou códigos serão sempre muito bem-vindas.</translation>
     </message>
 </context>
 <context>
@@ -1079,14 +1065,13 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link Externo</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto para a área de transferência</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
@@ -1095,21 +1080,18 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir no navegador</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir externamente</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado para a área de transferência: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
@@ -1118,8 +1100,81 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
+        <translation>Copiar para a área de transferência</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LocalStorage</name>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
+        <source>Example Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
+        <source>Basic usage</source>
+        <translation type="unfinished">Uso básico</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
+        <source>This is how to use the new component.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
+        <source>Advanced usage</source>
+        <translation type="unfinished">Uso avançado</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
+        <source>This is a more complex scenario.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
+        <source>Database upgrade failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
+        <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
+        <source>Developer information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
+        <source>Invalid database version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
+        <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
+        <source>Database Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
+        <source>Please be patient and allow up to 30 seconds for this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
+        <source>Database issue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
+        <source>An unexpected issue occurred in the database. Try restarting the app.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1129,7 +1184,7 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation>A reprodução falhou</translation>
+        <translation>Falha na reprodução</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
@@ -1147,7 +1202,7 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation>Erro de conexão</translation>
+        <translation>Erro de rede</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
@@ -1159,57 +1214,57 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation>Serviço de mídia não encontrado</translation>
+        <translation>Serviço de mídia ausente</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation>O vídeo não pôde ser reproduzido devido a um problema alocando recursos.</translation>
+        <translation>O vídeo não pode ser reproduzido devido a um problema na alocação de recursos.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation>O formato do áudio e/ou vídeo não são suportados.</translation>
+        <translation>O formato de áudio e/ou vídeo não é suportado.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation>O vídeo não pôde ser reproduzido devido a problemas de conexão.</translation>
+        <translation>O vídeo não pode ser reproduzido devido a problemas na rede.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation>O vídeo não pôde ser reproduzido devido a permissões insuficientes.</translation>
+        <translation>O vídeo não pode ser reproduzido devido a permissões insuficientes.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation>O vídeo não pode ser reproduzido porque o serviço de mídia não pode ser instanciado.</translation>
+        <translation>O vídeo não pode ser reproduzido porque o serviço de mídia não pôde ser instanciado.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation>A reprodução falhou devido a um erro esperado. Por favor, reinicie o app e tente novamente.</translation>
+        <translation>A reprodução falhou devido a um erro inesperado. Por favor, reinicie o aplicativo e tente novamente.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar do sistema de arquivos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation>Nenhum arquivo pronto</translation>
+        <translation>Sem ficheiros prontos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation>Copie arquivos de legenda no formato SRT ao lado do arquivo do vídeo para abri-los rapidamente.</translation>
+        <translation>Copie os arquivos de legenda no formato SRT ao lado do arquivo de vídeo para abri-los rapidamente.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation>Deslize para baixo para escolher um arquivo.</translation>
+        <translation>Puxe para baixo para escolher um arquivo.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
@@ -1224,7 +1279,7 @@
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation>Zoom para encaixar na tela</translation>
+        <translation>Zoom ajustado para caber na tela</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
@@ -1234,7 +1289,7 @@
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation>Reproduza em repetição</translation>
+        <translation>Reproduzir em loop</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
@@ -1313,7 +1368,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Doe pelo Liberapay</translation>
+        <translation>Doar pelo Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
@@ -1323,12 +1378,12 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Traduza em Weblate</translation>
+        <translation>Traduza no Weblate</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Ajude a traduzir este app para a maior quantidade possível de idiomas.</translation>
+        <translation>Ajude a traduzir este app na maior quantidade possível de idiomas.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
@@ -1348,7 +1403,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Este projeto é construído com amor e paixão por um único desenvolvedor em seu tempo livre, e é disponibilizado à você livre de custos.</translation>
+        <translation>Esse projeto é construído com amor e paixão por um único desenvolvedor em seu tempo livre, e é disponibilizado à você livre de custos.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
@@ -1368,7 +1423,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se tiver coneições, doar é a forma mais fácil de garantir que eu possa continuar trabalhando em apps para o Sailfish. Qualquer quantia é apreciada, seja um copo de café, uma fatia de pizza ou mais.</translation>
+        <translation>Se tiver condições, doar é a forma mais fácil de garantir que eu possa continuar trabalhando em apps para o Sailfish. Qualquer quantia é apreciada, seja um copo de café, uma fatia de pizza ou mais.</translation>
     </message>
 </context>
 <context>
@@ -1447,27 +1502,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Olá!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrigado por usar meu pequeno app! Talvez você poderia contribuir de volta?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrigado pelo seu apoio!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Me lembre mais tarde</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não pergunte novamente</translation>
     </message>
 </context>
 </TS>

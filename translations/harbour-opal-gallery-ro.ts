@@ -60,7 +60,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation>Bokmål norvegian</translation>
+        <translation>bokmål norvegian</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
@@ -101,7 +101,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Gindeste putin daca poti contribui la acest proiect intr-un fel sau altul.</translation>
     </message>
@@ -117,12 +117,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
         <translation>arata mai putin</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
         <translation>arata mai mult</translation>
     </message>
@@ -335,9 +335,9 @@
 <context>
     <name>LicenseListPart</name>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
-        <translation>licenta textului</translation>
+        <translation>Textul licenta</translation>
     </message>
 </context>
 <context>
@@ -427,97 +427,103 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="147"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>Acest modul oferă &lt;i&gt;AboutPageBase&lt;/i&gt; pentru construirea de pagini personalizabile cu informații despre aplicații.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation>O casetă de dialog care solicită contribuții, care este afișată atunci când un utilizator a folosit aplicația dvs. de ceva timp.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
         <source>This module provides a media player page with support for subtitles.</source>
         <translation>Acest modul oferă o pagină de player media cu suport pentru subtitrări.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
         <translation>Acest modul oferă o modalitate ușoară de a adăuga bare de file la aplicații.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation>Acest modul oferă elemente de listă pentru vizualizări, astfel încât să vă puteți concentra pe manipularea datelor, nu pe formatarea prezentării.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
         <translation>Acest modul permite comandarea listelor prin drag-and-drop cu doar câteva linii de cod.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="203"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>Acest modul oferă o casetă combinată care poate afișa detalii pentru fiecare opțiune selectabilă.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>Acest modul oferă o extensie pentru casetele combinate pentru a accesa valoarea curentă în loc de etichetă.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="227"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation>Acest modul oferă un handler de legături pentru a deschide sau copia legături externe.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation>Acest modul oferă un buton de comutare pentru a fi utilizat în meniurile tip Sailfish.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation>Acest modul pentru a oferi un buton de comutare a fi utilizat în meniurile tip Sailfish.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
         <translation>Acest modul oferă o versiune actualizată și corectată a SortFilterProxyModel pentru QML.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation>Acest modul oferă un sertar care permite împărțirea listelor lungi în grupuri accesibile.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation>Acest modul oferă o bară de derulare inteligentă compatibilă cu Harbour pentru liste lungi.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
+        <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
         <translation>Acest modul oferă indicii de interacțiune ușor de utilizat pentru tutorialele aplicației.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation>Acest modul permite desenarea unor diagrame frumoase prin QCharts.js.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation>Acest modul oferă un câmp de text și o zonă de introducere cu suport pentru emoji, text cu stil și linkuri personalizate.</translation>
     </message>
@@ -608,134 +614,134 @@
         <translation>nume suplimentar</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="125"/>
         <source>Forum</source>
         <translation>forum</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
         <translation>date</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
         <translation>lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
         <translation>Licenta de date</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
         <source>Extra info</source>
         <translation>Informatii extra</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
         <translation>lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
         <translation>Dezvoltare</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
         <translation>Programare</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
         <translation>Design pictograme</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="817"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
         <source>Translations</source>
         <translation>Traduceri</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
         <translation>Engleză</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
         <translation>Germană</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
         <source>Open another page</source>
         <translation>Deschide alta pagina</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
-        <translation>arata detalii</translation>
+        <translation>Arata detali</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <source>Contributors</source>
-        <translation>contributori</translation>
+        <translation>Contributori</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
         <source>License(s)</source>
         <translation>
-            <numerusform>licență</numerusform>
-            <numerusform>licențe</numerusform>
-            <numerusform>licențe</numerusform>
+            <numerusform>Licență</numerusform>
+            <numerusform>Licențe</numerusform>
+            <numerusform>Licențe</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="714"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
         <source>About</source>
-        <translation>despre</translation>
+        <translation>Despre</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="761"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
         <source>Version %1</source>
         <translation>Versiune%1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
         <source>show contributors</source>
-        <translation>arata contributori</translation>
+        <translation>Arata contributori</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="839"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
         <source>Donations</source>
-        <translation>Dontatii</translation>
+        <translation>Donații</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="849"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
         <source>License</source>
-        <translation>Licenta</translation>
+        <translation>Licență</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="863"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
         <source>show license(s)</source>
         <translation>
-            <numerusform>arata licenta</numerusform>
-            <numerusform>arata licente</numerusform>
-            <numerusform>arata licente</numerusform>
+            <numerusform>arată licența</numerusform>
+            <numerusform>arată licențele</numerusform>
+            <numerusform>arată licențe</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="827"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
         <source>Source Code</source>
-        <translation>codul sursa</translation>
+        <translation>Codul Sursa</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
@@ -753,51 +759,31 @@
         <translation>Multumesc!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation>LInk extern</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
-        <source>Open in browser</source>
-        <translation>Deschide in browser</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
-        <source>Copy to clipboard</source>
-        <translation>Copiaza in clipboard</translation>
-    </message>
-    <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
-        <translation>Descarca textele pentru licenta</translation>
+        <translation>Descarca textle licentei</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
-        <translation>Detalii</translation>
+        <translation>Datali</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
         <source>Homepage</source>
         <translation>Pagina principala</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
-        <source>Copied to clipboard: %1</source>
-        <translation>Copiat in clipboard%1</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation>Consultați &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
         <translation>Jurnalul modificărilor</translation>
@@ -805,7 +791,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
-        <translation>Noutati</translation>
+        <translation>Noutăți</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
@@ -866,7 +852,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation>detalii</translation>
+        <translation>Datali</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
@@ -1081,7 +1067,6 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
         <translation>Link extern</translation>
     </message>
@@ -1097,19 +1082,16 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
         <translation>Deschide în browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
         <translation>Deschide in mod extern</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
         <translation>Copiat în clipboard:%1</translation>
     </message>
@@ -1120,9 +1102,82 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
         <translation>Copiaza in clipboard</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LocalStorage</name>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
+        <source>Example Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
+        <source>Basic usage</source>
+        <translation type="unfinished">uz de baza</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
+        <source>This is how to use the new component.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
+        <source>Advanced usage</source>
+        <translation type="unfinished">uz avansat</translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
+        <source>This is a more complex scenario.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
+        <source>Database upgrade failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
+        <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
+        <source>Developer information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
+        <source>Invalid database version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
+        <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
+        <source>Database Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
+        <source>Please be patient and allow up to 30 seconds for this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
+        <source>Database issue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
+        <source>An unexpected issue occurred in the database. Try restarting the app.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1360,7 +1415,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>De ce sa donati?</translation>
+        <translation>De ce sa donezi?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
@@ -1462,12 +1517,12 @@
         <translation>Vă mulțumim pentru susținere!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
         <translation>Amintește-mi mai târziu</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
         <translation>Nu ma intreba din nou</translation>
     </message>

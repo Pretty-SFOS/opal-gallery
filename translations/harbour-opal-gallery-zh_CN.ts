@@ -101,7 +101,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>您可以花点时间考虑一下您是否可以为这个项目做出贡献。</translation>
     </message>
@@ -117,12 +117,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
         <translation>收起</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
         <translation>展开</translation>
     </message>
@@ -335,7 +335,7 @@
 <context>
     <name>LicenseListPart</name>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="183"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
         <translation>许可证文本</translation>
     </message>
@@ -427,97 +427,103 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="147"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>此模组提供了 &lt;i&gt;AboutPageBase&lt;/i&gt;，用来建立可自定义的应用信息页面。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="155"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="163"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
         <source>This module provides a media player page with support for subtitles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="171"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="179"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="187"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="203"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>此模组提供了可以显示可选项细节的组合框。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="211"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>此模组为组合框提供了一个扩展，让其可以访问当前数值而非标签。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="227"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation>此模组提供了链接处理功能，来打开或复制外部链接。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="219"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="335"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="274"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="288"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="195"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="262"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
+        <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="302"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="322"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -608,71 +614,71 @@
         <translation>附加名称</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="125"/>
         <source>Forum</source>
         <translation>论坛</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="138"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
         <translation>数据</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="139"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
         <source>Lorem ipsum dolor sit amet et cetera ad libitum plurum sid alum.</source>
         <translation>奔蕴刷军遥牵嘀食币缓哗挽值，乱组虹硷获纪稠滨完芽潭蔓落朗胸订扩垦葛岘睛顶修姓角粉听搬融征立穗庆琅概场。</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
         <translation>数据许可证</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="148"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
         <source>Extra info</source>
         <translation>附加信息</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="142"/>
         <source>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolorus.</source>
         <translation>雨宿菱酚姐郑店铃鄂飞仆融哀休旦个扩扯佛门橡吐旧零怨钒蒙藻牧键媳关园侣侦仓鄙箭磺，盈灸羊丁、狗酸沛谚氯虚慨矫。需津旨套零隔猜弟逸熹采嘿迟薄厂办突官陪罐舞狠默城痢职加符朝怜侮郭逢峡抵耘。</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="785"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
         <translation>开发</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="159"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
         <translation>编程</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="163"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
         <translation>图标设计</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="817"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
         <source>Translations</source>
         <translation>翻译</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="172"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
         <translation>英语</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="176"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
         <translation>德语</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-about/gallery.qml" line="186"/>
+        <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
         <source>Open another page</source>
         <translation>打开新页面</translation>
     </message>
@@ -694,42 +700,42 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="714"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="761"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
         <source>Version %1</source>
         <translation>版本 %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
         <source>show contributors</source>
         <translation>显示贡献者</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="839"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
         <source>Donations</source>
         <translation>捐款</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="849"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
         <source>License</source>
         <translation>许可协议</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="863"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
         <source>show license(s)</source>
         <translation>
             <numerusform>显示许可协议</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="827"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="79"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
         <source>Source Code</source>
         <translation>源代码</translation>
     </message>
@@ -749,21 +755,6 @@
         <translation>谢谢！</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation>外部链接</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="57"/>
-        <source>Open in browser</source>
-        <translation>用浏览器打开</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="76"/>
-        <source>Copy to clipboard</source>
-        <translation>复制到剪切板</translation>
-    </message>
-    <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
         <translation>下载许可证文本</translation>
@@ -775,25 +766,20 @@
         <translation>日志</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="804"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="73"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
         <source>Homepage</source>
         <translation>主页</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="67"/>
-        <source>Copied to clipboard: %1</source>
-        <translation>复制到剪贴板：%1</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="184"/>
+        <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
         <translation>请参考 &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
         <translation>更改日志</translation>
@@ -1077,7 +1063,6 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
         <translation>外部链接</translation>
     </message>
@@ -1093,19 +1078,16 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
         <translation>用浏览器打开</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
         <translation>用外部应用打开</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
         <translation>复制到剪贴板：%1</translation>
     </message>
@@ -1116,9 +1098,82 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
-        <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
         <translation>复制到剪切板</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LocalStorage</name>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
+        <source>Example Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
+        <source>Basic usage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
+        <source>This is how to use the new component.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
+        <source>Advanced usage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
+        <source>This is a more complex scenario.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
+        <source>Database upgrade failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
+        <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
+        <source>Developer information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
+        <source>Invalid database version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
+        <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
+        <source>Database Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
+        <source>Please be patient and allow up to 30 seconds for this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
+        <source>Database issue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
+        <source>An unexpected issue occurred in the database. Try restarting the app.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1127,13 +1182,13 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished">播放失败</translation>
+        <translation>播放失败</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation>资源报错</translation>
+        <translation>资源错误</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
@@ -1151,93 +1206,93 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation>拒绝访问</translation>
+        <translation>访问被拒绝</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished">缺少该媒体服务</translation>
+        <translation>媒体服务缺失</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation type="unfinished">该影片因资源分配上出问题而无法播放.</translation>
+        <translation>由于资源分配问题，无法播放视频。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation>该音频或视频格式不支持.</translation>
+        <translation>不支持音频和/或视频格式。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation>该视频因网络原因而不能播放.</translation>
+        <translation>由于网络问题，无法播放视频。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation type="unfinished">该视频因权限不足而无法播放.</translation>
+        <translation>由于权限不足，无法播放视频。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation type="unfinished">该视频因媒体服务无法实例化而无法播放.</translation>
+        <translation>无法播放视频，因为无法实例化媒体服务。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation type="unfinished">由于因预期错误而导致播放失败. 请重新启动该应用并重试.</translation>
+        <translation>预期错误，播放失败。请重新启动应用程序并重试。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished">从文件系统中选择</translation>
+        <translation>从文件系统中选择</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished">无文件已准备就绪</translation>
+        <translation>没有准备好的文件</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished">为了加速打开此文件，可以拷贝该字幕文件以SRT格式至下个视频文件.</translation>
+        <translation>将 SRT 格式的字幕文件复制到视频文件旁边，以便快速打开。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished">向下拉以选个文件.</translation>
+        <translation>下拉以选择文件。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished">清除字幕</translation>
+        <translation>清晰的字幕</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished">加载字幕</translation>
+        <translation>加载字幕</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation>已放大至</translation>
+        <translation>缩放以适应屏幕</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation type="unfinished">原作</translation>
+        <translation>原始</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation type="unfinished">循环播放</translation>
+        <translation>重复播放</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation type="unfinished">播放一次</translation>
+        <translation>播放一次</translation>
     </message>
 </context>
 <context>
@@ -1458,12 +1513,12 @@
         <translation>非常感谢您的支持！</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
         <translation>等会儿提醒我</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
         <translation>别再问我了</translation>
     </message>

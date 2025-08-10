@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fi_FI">
+<TS version="2.1" language="af">
 <context>
     <name>AboutModulePageBase</name>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation>Ylläpitäjät</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
         <source>Contributors</source>
-        <translation>Osallistujat</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30,72 +30,72 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Translations</source>
-        <translation>Käännökset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>Ukrainian</source>
-        <translation>Ukraina</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>Swedish</source>
-        <translation>Ruotsi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Spanish</source>
-        <translation>Espanja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="92"/>
         <source>Russian</source>
-        <translation>Venäjä</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="101"/>
         <source>Polish</source>
-        <translation>Puola</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation>Norja (kirjanorja)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
         <source>Italian</source>
-        <translation>Italia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="139"/>
         <source>Estonian</source>
-        <translation>Viro</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="145"/>
         <source>English</source>
-        <translation>Englanti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="151"/>
         <source>Chinese</source>
-        <translation>Kiina</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="125"/>
         <source>German</source>
-        <translation>Saksa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>French</source>
-        <translation>Ranska</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="119"/>
         <source>Indonesian</source>
-        <translation>Indonesia</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -103,7 +103,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Harkitse, voisitko tukea tätä projektia jollain tavalla.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -119,12 +119,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation>näytä vähemmän</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation>näytä enemmän</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -210,7 +210,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="13"/>
         <source>Apple</source>
-        <translation type="unfinished">Omena</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="15"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
         <source>Banana</source>
-        <translation type="unfinished">Banaani</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="22"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished">Eksoottinen hedelmäkori</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
@@ -251,7 +251,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
         <source>Peanut butter</source>
-        <translation>Maapähkinävoi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -259,77 +259,77 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="12"/>
         <source>Apple</source>
-        <translation>Omena</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="16"/>
         <source>Banana</source>
-        <translation>Banaani</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation>Eksoottinen hedelmäkori</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation>Kiivi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation>Viikuna</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation>Persikka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
         <source>Grape</source>
-        <translation>Rypäle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation>Sitruuna</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation>Appelsiini</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation>Ananas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation>Mustaherukka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation>Vadelma</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation>Vesimeloni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
         <source>Honey melon</source>
-        <translation>Hunajameloni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="68"/>
         <source>Rhubarb</source>
-        <translation>Raparperi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -337,7 +337,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
-        <translation>Lisenssiteksti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -405,7 +405,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="211"/>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="222"/>
@@ -533,62 +533,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Lahjoita Liberapayssä</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Maksa kahvikupin, pizzasiivun tai elokuvalipun verran.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Käännä Weblatessa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Auta tämän sovelluksen kääntämisessä mahdollisimman monelle kielelle.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Kehitä GitHubissa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Auta ylläpidossa ja paketoinnissa, kirjoita koodia tai jaa arvokkaita vikaraportteja.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Miksi välittäisit?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Tämä on yhden kehittäjän vapaa-ajallaan rakkaudella ja intohimolla rakentama projekti ja se tarjotaan sinulle ilmaiseksi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Kehitän ilmaisia ohjelmistoja, koska uskon, että se on eettinen tapa toimia - se on myös hauska harrastus. Ohjelmistojen kehittäminen vaatii kuitenkin paljon aikaa ja vaivaa. Koska Sailfish sekä eläminen yleensäkin maksaa, tarvitsen tukeasi, jotta voin käyttää aikaani tämän kaltaisiin palkattomiin projekteihin.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Miksi lahjoittaa?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla korotti hintojaan ja yrittää saada kehittäjät (jotka työskentelevät palkatta) maksamaan vuokraa Sailfishistä.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Jos sinulla on mahdollisuus lahjoittaa, se on helpoin tapa varmistaa, että voin jatkaa sovellusten kehittämistä Sailfishille. Mikä tahansa summa on tervetullut, oli se sitten kupillinen kahvia, pala pizzaa tai enemmän.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -621,7 +621,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
-        <translation>Data</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
@@ -631,7 +631,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation>Datalisenssi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
@@ -649,33 +649,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
-        <translation>Kehitys</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
-        <translation>Ohjelmointi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
-        <translation>Kuvakesuunnittelu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
         <source>Translations</source>
-        <translation>Käännökset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
-        <translation>Englanti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
-        <translation>Saksa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
@@ -685,52 +685,52 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
-        <translation>näytä lisätietoja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <source>Contributors</source>
-        <translation>Osallistujat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
         <source>License(s)</source>
-        <translation>
-            <numerusform>Lisenssi</numerusform>
-            <numerusform>Lisenssit</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
         <source>Version %1</source>
-        <translation>Versio %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
         <source>show contributors</source>
-        <translation>näytä osallistujat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
         <source>Donations</source>
-        <translation>Lahjoitukset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
         <source>License</source>
-        <translation>Lisenssi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
         <source>show license(s)</source>
-        <translation>
-            <numerusform>näytä lisenssi</numerusform>
-            <numerusform>näytä lisenssit</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -739,33 +739,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
         <source>Source Code</source>
-        <translation>Lähdekoodi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Huom: Tarkimman tiedon löydät suoraan lähdekoodista.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="80"/>
         <source>Acknowledgements</source>
-        <translation>Tunnustukset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
-        <translation>Kiitos!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
         <source>Download license texts</source>
-        <translation>Lataa lisenssitekstit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
@@ -773,28 +773,28 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
         <source>Homepage</source>
-        <translation>Kotisivu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Katso lisätietoja &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation>Muutosloki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
-        <translation>Uutiset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
         <source>Changes since version %1</source>
-        <translation>Muutoksia versiosta %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -802,17 +802,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="40"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Jos haluat tukea työtäni, voit ostaa minulle kupin kahvia.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="53"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Voit tukea tätä projektia joko osallistumalla koodin kehittämiseen tai tekemällä lahjoituksen johonkin seuraavista palveluista.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Koodipäivityksesi ja käännöksesi ovat mitä tervetulleimpia.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -825,12 +825,12 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="47"/>
         <source>Banana</source>
-        <translation type="unfinished">Banaani</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished">Kiivi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
@@ -850,7 +850,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
@@ -1066,42 +1066,42 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>External Link</source>
-        <translation>Ulkoinen linkki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
         <source>Copy text to clipboard</source>
-        <translation>Kopioi teksti leikepöydälle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
         <source>Share</source>
-        <translation>Jaa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
         <source>Open in browser</source>
-        <translation>Avaa selaimessa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
         <source>Open externally</source>
-        <translation>Avaa ulkoisesti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Kopioitu leikepöydälle: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
         <source>Share link</source>
-        <translation>Jaa linkki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
         <source>Copy to clipboard</source>
-        <translation>Kopioi leiikepöydälle</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1184,117 +1184,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation>Toisto epäonnistui</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation>Resurssivirhe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation>Virhe tiedostomuodossa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation>Verkkovirhe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation>Pääsy evätty</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation>Mediapalvelu puuttuu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation>Videota ei voitu toistaa resurssien allokoinnissa ilmenneen ongelman vuoksi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio and or video format is not supported.</source>
-        <translation>Ääni- tai videoformaattia ei tueta.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation>Videota ei voitu toistaa verkkovirheen vuoksi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation>Videota ei voitu toistaa riittämättömien oikeuksien vuoksi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation>Videon toisto epäonnistui, koska mediapalvelua ei voitu määrittää.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation>Toisto epäonnistui odottamattoman virheen vuoksi. Sulje sovellus ja yritä uudelleen.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation>Valitse tiedostoista</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation>Ei tiedostoja saatavilla</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation>Kopioi tekstitystiedostot SRT-muodossa videotiedoston yhteyteen avataksesi ne nopeasti.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation>Valitse tiedosto vetämällä alaspäin.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation>Poista tekstitys</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation>Lisää tekstitystiedosto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation>Sovitettu näytölle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation>Alkuperäinen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation>Toista kertauksella</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation>Toista kerran</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1368,62 +1368,62 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Lahjoita Liberapayssä</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Maksa kahvikupin, pizzasiivun tai elokuvalipun verran.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Käännä Weblatessa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Auta tämän sovelluksen kääntämisessä mahdollisimman monelle kielelle.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Kehitä GitHubissa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Auta ylläpidossa ja paketoinnissa, kirjoita koodia tai jaa arvokkaita vikaraportteja.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Miksi välittäisit?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Tämä on yhden kehittäjän vapaa-ajallaan rakkaudella ja intohimolla rakentama projekti ja se tarjotaan sinulle ilmaiseksi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Kehitän ilmaisia ohjelmistoja, koska uskon, että se on eettinen tapa toimia - se on myös hauska harrastus. Ohjelmistojen kehittäminen vaatii kuitenkin paljon aikaa ja vaivaa. Koska Sailfish sekä eläminen yleensäkin maksaa, tarvitsen tukeasi, jotta voin käyttää aikaani tämän kaltaisiin palkattomiin projekteihin.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Miksi lahjoittaa?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla korotti hintojaan ja yrittää saada kehittäjät (jotka työskentelevät palkatta) maksamaan vuokraa Sailfishistä.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Jos sinulla on mahdollisuus lahjoittaa, se on helpoin tapa varmistaa, että voin jatkaa sovellusten kehittämistä Sailfishille. Mikä tahansa summa on tervetullut, oli se sitten kupillinen kahvia, pala pizzaa tai enemmän.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1502,27 +1502,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Hei siellä!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Kiitos, että kokeilit sovellustani! Ehkä voisit tukea projektia?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation>Kiitos tuestasi!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
-        <translation>Muistuta myöhemmin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation>Älä kysy uudelleen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
