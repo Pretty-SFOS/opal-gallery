@@ -510,7 +510,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль надає набір інструментів для безпечної та розширюваної роботи з локальними базами даних.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
@@ -1111,27 +1111,27 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
         <source>Example Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Приклад сторінки</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished">Базове використання</translation>
+        <translation>Базове використання</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
         <source>This is how to use the new component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ось як використовувати новий компонент.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
         <source>Advanced usage</source>
-        <translation type="unfinished">Просунуте використання</translation>
+        <translation>Розширене використання</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
         <source>This is a more complex scenario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це складніший сценарій.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
