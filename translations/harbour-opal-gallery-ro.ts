@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation>Mentinatori</translation>
+        <translation>Responsabili</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
         <source>Contributors</source>
-        <translation>Contributori</translation>
+        <translation>Contribuitori</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
         <location filename="../qml/module-pages/opal-mediaplayer/gallery/ViewVideoPage.qml" line="23"/>
         <location filename="../qml/pages/AboutPage.qml" line="25"/>
         <source>Opal Gallery</source>
-        <translation>Galeria de Opal</translation>
+        <translation>Galeria Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Norwegian Bokmål</source>
-        <translation>bokmål norvegian</translation>
+        <translation>Norvegiană Bokmål</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="113"/>
@@ -103,7 +103,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Gindeste putin daca poti contribui la acest proiect intr-un fel sau altul.</translation>
+        <translation>Vă rugăm să vă gândiți dacă puteți contribui la acest proiect într-un fel sau altul.</translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="20"/>
         <source>Jane</source>
-        <translation>jane</translation>
+        <translation>Jane</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="21"/>
@@ -510,7 +510,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest modul oferă un set de instrumente pentru gestionarea bazelor de date locale în siguranță și extensibilitate.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
@@ -1111,7 +1111,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
         <source>Example Page</source>
-        <translation type="unfinished"></translation>
+        <translation>pagină exemplu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
@@ -1121,7 +1121,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
         <source>This is how to use the new component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asa se utilizează noua componentă.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
@@ -1131,53 +1131,53 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
         <source>This is a more complex scenario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta este un scenariu mai complex.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea bazei de date a eșuat</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare la actualizarea bazei de date de la versiunea %1 la versiunea %2. Vă rugăm să raportați această problemă.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații pentru dezvoltatori:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune nevalidă a bazei de date</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicația nu poate porni, deoarece baza de date are versiunea %1, dar este acceptată numai versiunea %2.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreținerea bazei de date</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să aveți răbdare și să acordați până la 30 de secunde pentru acest lucru.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema bazei de date</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o problemă neașteptată în baza de date. Încercați să reporniți aplicația.</translation>
     </message>
 </context>
 <context>
