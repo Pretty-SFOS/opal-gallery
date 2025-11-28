@@ -465,25 +465,25 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece uma caixa de combinação que pode exibir detalhes para cada opção selecionável.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece uma extensão para caixas de combinação, permitindo o acesso ao valor atual em vez do rótulo.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
         <source>This module provides a link handler to open or copy external links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece um manipulador de links para abrir ou copiar links externos.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece um botão de alternância para ser usado em menus no estilo Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
@@ -493,24 +493,24 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
         <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece uma versão atualizada e corrigida do SortFilterProxyModel para QML.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece uma gaveta que permite dividir listas longas em grupos de fácil acesso.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece uma barra de rolagem inteligente compatível para listas longas.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece um conjunto de ferramentas para gerenciar bancos de dados locais de forma segura e extensível.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
@@ -520,12 +520,12 @@
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite criar gráficos visualmente atraentes usando o QCharts.js.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo fornece um campo de texto e uma área de entrada com suporte para emojis, texto formatado e links personalizados.</translation>
     </message>
 </context>
 <context>
@@ -879,12 +879,12 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os delegados são baseados no componente “PaddedDelegate”. Ele fornece preenchimento externo em todos os lados, bem como três partes de conteúdo opcionais: esquerda, centro e direita.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
         <source>Rows can be highlighted alternatingly to make them more distinct.</source>
-        <translation type="unfinished"></translation>
+        <translation>As linhas podem ser destacadas alternadamente para torná-las mais distintas.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
@@ -919,7 +919,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo oferece suporte nativo à ação de arrastar e soltar para ordenar listas manualmente por meio do módulo Opal.DragDrop. Consulte a página de exemplo do Opal.DragDrop para obter detalhes.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
@@ -993,7 +993,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
         <source>In long lists, dragging below the bottom end or above the top end of the visible area will scroll the view accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Em listas longas, arrastar o dedo abaixo da extremidade inferior ou acima da extremidade superior da área visível fará com que a visualização role de acordo.</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1006,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice atual: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
@@ -1029,7 +1029,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este rótulo contém um &lt;a href=&quot;https://example.org&quot;&gt;link externo&lt;/a&gt; que você pode ativar. Ao clicar, uma nova página solicitará que você abra ou copie o URL.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
@@ -1039,7 +1039,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
         <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode haver diferentes tipos de links em um rótulo e eles podem ser tratados individualmente. Este é &lt;a href=&quot;tel:+4100000000&quot;&gt;um número de telefone&lt;/a&gt;, enquanto este é &lt;a href=&quot;https://example.org&quot;&gt;um site&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
@@ -1061,7 +1061,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Silica oferece o recurso “LinkedLabel”, que encontra automaticamente links e números de telefone no texto e os torna clicáveis. Este número +4100000000 e este URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically são formatados automaticamente como links. Observe também como o URL longo é encurtado.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
@@ -1109,73 +1109,73 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
         <source>Example Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de exemplo</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished">Uso básico</translation>
+        <translation>Uso básico</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
         <source>This is how to use the new component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veja como usar o novo componente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
         <source>Advanced usage</source>
-        <translation type="unfinished">Uso avançado</translation>
+        <translation>Uso avançado</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
         <source>This is a more complex scenario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este é um cenário mais complexo.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na atualização do banco de dados</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao atualizar o banco de dados da versão %1 para a versão %2. Por favor, relate este problema.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informações do desenvolvedor:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão de banco de dados inválida</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplicativo não pode ser iniciado porque o banco de dados possui a versão %1, mas somente a versão %2 é compatível.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenção de banco de dados</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, tenha paciência e aguarde até 30 segundos.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema de banco de dados</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um problema inesperado no banco de dados. Tente reiniciar o aplicativo.</translation>
     </message>
 </context>
 <context>
@@ -1355,12 +1355,12 @@
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
         <source>Toggle smart scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar barra de rolagem inteligente</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="47"/>
         <source>Toggle quick scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar rolagem rápida</translation>
     </message>
 </context>
 <context>
