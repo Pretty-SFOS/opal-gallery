@@ -1114,7 +1114,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation>Uso basico</translation>
+        <translation>Uso básico</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
