@@ -441,25 +441,25 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
         <source>This module provides a media player page with support for subtitles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul stellt einen Medienspieler mit Unterstützung für Untertitel bereit.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit diesem Modul können Tab-Leisten für Apps erstellt werden.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul stellt Listen-Elemente bereit, damit Sie sich auf die Daten statt auf die Darstellung konzentrieren können.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit diesem Modul können Listen per Klicken-und-Ziehen sortiert werden.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
@@ -483,7 +483,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul stellt einen Schalterknopf für Sailfish-Menüs bereit.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
@@ -1134,28 +1134,28 @@
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank-Aktualisierung fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Während der Datenbank-Aktualisierung von Version %1 auf Version %2 ist ein Fehler aufgetreten. Bitte melden Sie dieses Problem.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklerinformationen:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Datenbankversion</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App kann nicht gestartet werden, weil die Datenbankversion nicht unterstützt wird (%1 gefunden, aber %2 erwartet).</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
@@ -1170,12 +1170,12 @@
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbankproblem</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>In der Datenbank ist ein unerwarteter Fehler aufgetreten. Versuchen Sie, die App neuzustarten.</translation>
     </message>
 </context>
 <context>
