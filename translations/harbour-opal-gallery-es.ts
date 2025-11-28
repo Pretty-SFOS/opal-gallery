@@ -337,7 +337,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
-        <translation type="unfinished">Texto de la licencia</translation>
+        <translation>Texto de la licencia</translation>
     </message>
 </context>
 <context>
