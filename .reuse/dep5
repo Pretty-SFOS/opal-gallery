@@ -14,12 +14,12 @@ Comment: This file is generated from [this file's name].yaml and shares copyrigh
 
 Files: icons/* qml/images/* dist/harbour-*.png
 Copyright: Mirian Margiani
-License: CC-BY-SA-4.0
+License: CC-BY-NC-SA-4.0
 Comment: These files are generated from the sources at icon-src/*.
 
 Files: icons-src/*
 Copyright: Mirian Margiani
-License: CC-BY-SA-4.0
+License: CC-BY-NC-SA-4.0
 Comment: These files contain proper Dublin Core licensing metadata.
 
 Files: dist/screenshots-*/*.webp dist/screenshots-*/*.png
