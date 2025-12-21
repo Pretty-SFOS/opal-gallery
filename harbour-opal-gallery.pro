@@ -54,5 +54,5 @@ DEFINES += APP_VERSION=\\\"$$VERSION\\\"
 DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
 include(libs/opal-cached-defines.pri)
 
-QML_IMPORT_PATH += "qml/modules"
+include(libs/opal.pri)
 QML_IMPORT_PATH += "qml/common"
