@@ -9,7 +9,7 @@
 # TODO error checking and handling
 
 cMERGE_TRANSLATIONS=bash
-cQML_MODULES=(
+cMODULES=(
     about
     supportme
     mediaplayer
@@ -27,7 +27,7 @@ cQML_MODULES=(
 )
 missing=()
 
-for module in "${cQML_MODULES[@]}"; do
+for module in "${cMODULES[@]}"; do
     if [[ ! -d "../opal-$module" ]]; then
         missing+=("$module")
     fi
@@ -60,12 +60,13 @@ base="$(pwd)"
 rm -rf "$base/qml/modules/Opal"* ; mkdir -p "$base/qml/modules"
 rm -rf "$base/libs/opal-translations" ; mkdir -p "$base/libs/opal-translations"
 rm -rf "$base/libs/opal-docs" ; mkdir -p "$base/libs/opal-docs"
+rm -rf "$base/libs/opal" ; mkdir -p "$base/libs/opal"
 rm -rf "$base/qml/module-pages" ; mkdir -p "$base/qml/module-pages"
 
 list_elements=()
 details_elements=()
 
-for module in "${cQML_MODULES[@]}"; do
+for module in "${cMODULES[@]}"; do
     # shellcheck disable=SC2164
     cd "$base"
     # shellcheck disable=SC2164
@@ -75,16 +76,21 @@ for module in "${cQML_MODULES[@]}"; do
 
     echo "importing module $fullNameStyled ($module)..."
 
-    if [[ ! -d Opal || ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
-        echo "error: module '$module' is missing required files  (/Opal /doc/gallery.qml or /release-module.sh)"
+    if [[ ! -f doc/gallery.qml || ! -x release-module.sh ]]; then
+        echo "error: module '$module' is missing required files (/doc/gallery.qml or /release-module.sh)"
         continue
     fi
 
     # -- import module release bundle
     ./release-module.sh --no-minify -b _for_gallery
 
-    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/libs"
-    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml"
+    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/libs" || {
+        printf -- "%s\n" "error: failed to extract 'libs' for $fullNameStyled" >&2
+    }
+    tar -C "$base" --strip-components=1 -xzvf ./build/_for_gallery.tar.gz "opal-$(./release-module.sh -c name)/qml" || {
+        # C++ modules don't have a qml folder, so this is ok
+        true
+    }
 
     mkdir -p "$base/qml/module-pages/opal-$module/gallery"
     cp "doc/gallery.qml" "$base/qml/module-pages/opal-$module/gallery.qml"
