@@ -13,7 +13,7 @@
 
 # The name of your application
 TARGET = harbour-opal-gallery
-CONFIG += sailfishapp
+CONFIG += sailfishapp c++14
 
 # ---
 # Opal gallery configuration
