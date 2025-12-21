@@ -57,9 +57,10 @@ if (( ${#missing[@]} > 0 )); then
 fi
 
 base="$(pwd)"
-rm -rf "$base/qml/modules/Opal"* && mkdir -p "$base/qml/modules"
-rm -rf "$base/libs/opal-translations" && mkdir -p "$base/libs/opal-translations"
-rm -rf "$base/qml/module-pages" && mkdir -p "$base/qml/module-pages"
+rm -rf "$base/qml/modules/Opal"* ; mkdir -p "$base/qml/modules"
+rm -rf "$base/libs/opal-translations" ; mkdir -p "$base/libs/opal-translations"
+rm -rf "$base/libs/opal-docs" ; mkdir -p "$base/libs/opal-docs"
+rm -rf "$base/qml/module-pages" ; mkdir -p "$base/qml/module-pages"
 
 list_elements=()
 details_elements=()
