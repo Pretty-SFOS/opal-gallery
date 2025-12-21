@@ -64,7 +64,6 @@ rm -rf "$base/qml/module-pages" ; mkdir -p "$base/qml/module-pages"
 
 list_elements=()
 details_elements=()
-attribution_elements=()
 
 for module in "${cQML_MODULES[@]}"; do
     # shellcheck disable=SC2164
@@ -73,7 +72,6 @@ for module in "${cQML_MODULES[@]}"; do
     cd "../opal-$module"
 
     fullNameStyled="$(./release-module.sh -c fullNameStyled)"
-    nameStyled="$(./release-module.sh -c nameStyled)"
 
     echo "importing module $fullNameStyled ($module)..."
 
@@ -176,10 +174,6 @@ for module in "${cQML_MODULES[@]}"; do
             examplePage: \"opal-$module/gallery.qml\"
             section: \"released\"
         }")
-
-    fullNameStyled="$(./release-module.sh -c fullNameStyled)"
-    attribution_elements+=("\
-        ${fullNameStyled//./}Attribution {},")
 
     mkdir -p "$base/dist/screenshots-weblate/opal-$module"
 
