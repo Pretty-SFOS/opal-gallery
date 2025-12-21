@@ -1,14 +1,6 @@
 # This file is part of Opal and has been released into the public domain.
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2020-2021 Mirian Margiani
-
-# Ignore Opal module sources. Use libs/opal-fetch-modules.sh to download latest
-# sources.
-qml/module-pages
-qml/modules/Opal
-libs/opal-translations
-libs/opal-docs
-libs/module_*.txt
+# SPDX-FileCopyrightText: 2020-2025 Mirian Margiani
 
 icons-src/raw
 build/
