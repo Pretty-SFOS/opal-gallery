@@ -104,6 +104,13 @@ If you contribute, please do not forget to add yourself to the list of
 contributors in [qml/pages/AboutOpalPage.qml](qml/pages/AboutOpalPage.qml)!
 
 
+## Gallery app permissions
+
+- Videos and MediaIndexing: to showcase the media player module `Opal.MediaPlayer`
+- Internet: to showcase link previews in `Opal.LinkHandler`, and license text downloads in `Opal.About`
+
+All network access requires explicit user interaction.
+
 
 ## Module licensing
 

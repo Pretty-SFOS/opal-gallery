@@ -2,6 +2,13 @@ dnl/// SPDX-FileCopyrightText: 2021-2025 Mirian Margiani
 dnl/// SPDX-License-Identifier: GFDL-1.3-or-later
 dnl/// kate: syntax Markdown;
 
+## Gallery app permissions
+
+- Videos and MediaIndexing: to showcase the media player module `Opal.MediaPlayer`
+- Internet: to showcase link previews in `Opal.LinkHandler`, and license text downloads in `Opal.About`
+
+All network access requires explicit user interaction.
+
 ifdef(${__X_readme}, ${
 ## Module licensing
 

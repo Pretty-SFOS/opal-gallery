@@ -16,6 +16,6 @@ Name[en]=Opal Gallery
 Name[de]=Opal-Galerie
 
 [X-Sailjail]
-Permissions=Videos;MediaIndexing
+Permissions=Videos;MediaIndexing;Internet
 OrganizationName=harbour-opal-gallery
 ApplicationName=harbour-opal-gallery
