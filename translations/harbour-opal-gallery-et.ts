@@ -510,7 +510,7 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selles moodulis on tarvikud kohalike andmebaaside käsitlemiseks turvalisel ja mitmekülgsel viisil.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
@@ -889,7 +889,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="117"/>
         <source>Emphasize rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rõhuta ridu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="126"/>
@@ -904,7 +904,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kilo ohta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
@@ -973,12 +973,12 @@
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kilo kohta</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohandatud vaated</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
@@ -988,7 +988,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
         <source>Long views</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikad vaated</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="170"/>
@@ -1001,12 +1001,12 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba lohistamine</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Praegune indeks: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
@@ -1114,7 +1114,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished">Lihtne kasutus</translation>
+        <translation>Lihtne kasutus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
@@ -1124,7 +1124,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
         <source>Advanced usage</source>
-        <translation type="unfinished">Mitmekülgne kasutus</translation>
+        <translation>Mitmekülgne kasutus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
