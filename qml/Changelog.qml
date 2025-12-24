@@ -8,6 +8,18 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.8.0-1"
+        date: "2025-12-24"
+        paragraphs: [
+            "- Added translations: Arabic, Bengali, Chinese (Traditional Han script), Dutch (Belgium), Hindi, Malayalam, Norwegian Nynorsk, Persian, Portuguese, Portuguese (Brazil), Tamil, Thai<br>" +
+            "- Updated translations: Arabic, Chinese (Simplified Han script), Czech, Dutch (Belgium), Estonian, Finnish, French, German, Italian, Norwegian Nynorsk, Portuguese, Portuguese (Brazil), Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Tamil, Turkish, Ukrainian<br>" +
+            "- Fixed Opal.MediaPlayer example: requires Videos and MediaIndexing permissions<br>" +
+            "- Added modules: SortFilterProxyModel, PropertyMacros, LocalStorage<br>" +
+            "- Updated all modules: check out LinkHandler, About, Delegates, and more<br>" +
+            "- Added a new app icon"
+        ]
+    }
+    ChangelogItem {
         version: "1.7.0-1"
         date: "2024-10-30"
         paragraphs: [

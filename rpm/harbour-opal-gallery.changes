@@ -10,6 +10,14 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed Dec 24 2025 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.8.0-1
+- Added translations: Arabic, Bengali, Chinese (Traditional Han script), Dutch (Belgium), Hindi, Malayalam, Norwegian Nynorsk, Persian, Portuguese, Portuguese (Brazil), Tamil, Thai
+- Updated translations: Arabic, Chinese (Simplified Han script), Czech, Dutch (Belgium), Estonian, Finnish, French, German, Italian, Norwegian Nynorsk, Portuguese, Portuguese (Brazil), Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Tamil, Turkish, Ukrainian
+- Fixed Opal.MediaPlayer example: requires Videos and MediaIndexing permissions
+- Added modules: SortFilterProxyModel, PropertyMacros, LocalStorage
+- Updated all modules: check out LinkHandler, About, Delegates, and more
+- Added a new app icon
+
 * Wed Oct 30 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.7.0-1
 - Updated translations: Estonian, French, Indonesian, Italian, Russian, Slovak, Spanish, Swedish, Turkish, Ukrainian, Lithuanian, and more
 - Fixed missing translations so that all available translations are actually shippped!
