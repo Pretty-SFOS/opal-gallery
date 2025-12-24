@@ -7,10 +7,15 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
+import Opal.LinkHandler 1.0
+
 Label {
     x: Theme.horizontalPageMargin
     width: parent.width - 2*x
     wrapMode: Text.Wrap
     color: Theme.secondaryHighlightColor
     font.pixelSize: Theme.fontSizeSmall
+
+    linkColor: Theme.primaryColor
+    onLinkActivated: LinkHandler.openOrCopyUrl(link, "", LinkPreviewMode.auto)
 }
