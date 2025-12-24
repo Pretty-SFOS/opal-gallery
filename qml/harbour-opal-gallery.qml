@@ -239,11 +239,11 @@ ApplicationWindow
         // section: "development"
 
         // ListElement {
-        //     key: "opal-dragdrop"
-        //     title: "Opal.DragDrop"
-        //     description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code.")
+        //     key: "opal-<module>"
+        //     title: "Opal.<Module>"
+        //     description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module <description>.")
         //     mainLicenseSpdx: "GPL-3.0-or-later"
-        //     examplePage: "opal-dragdrop/gallery.qml"
+        //     examplePage: "opal-<module>/gallery.qml"
         //     section: "development"
         // }
 
