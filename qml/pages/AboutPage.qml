@@ -70,7 +70,20 @@ A.AboutPageBase {
                     title: qsTr("Ukrainian")
                     entries: [
                         "Bohdan Kolesnyk",
-                        "Dan"
+                        "Dan",
+                        "Максим Горпиніч"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Turkish")
+                    entries: [
+                        "Burak Hüseyin Ekseli"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Tamil")
+                    entries: [
+                        "தமிழ்நேரம்"
                     ]
                 },
                 A.ContributionGroup {
@@ -83,9 +96,19 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Spanish")
                     entries: [
+                        "Carmen F. B.",
+                        "Francisco Serrador",
                         "Jaime Marquínez Ferrándiz",
+                        "Kamborio",
                         "Mirian Margiani",
-                        "gallegonovato"
+                        "gallegonovato",
+                        "iloky_67"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Slovak")
+                    entries: [
+                        "Milan Šalka"
                     ]
                 },
                 A.ContributionGroup {
@@ -94,13 +117,25 @@ A.AboutPageBase {
                         "Lilia Savciuc",
                         "Marat Ismailov",
                         "Nikolai Sinyov",
-                        "Victor K"
+                        "Romeostar",
+                        "RoundedRectangle",
+                        "Victor K",
+                        "gfbdrgng",
+                        "vanapro1"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Romanian")
+                    entries: [
+                        "Alex Zander",
+                        "GREEN MONSTER"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Polish")
                     entries: [
-                        "Eryk Michalak"
+                        "Eryk Michalak",
+                        "J3Extreme"
                     ]
                 },
                 A.ContributionGroup {
@@ -112,7 +147,8 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Italian")
                     entries: [
-                        "RoundedRectangle"
+                        "RoundedRectangle",
+                        "luca rastelli"
                     ]
                 },
                 A.ContributionGroup {
@@ -131,8 +167,18 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("French")
                     entries: [
+                        "Adi",
+                        "David D.",
                         "J. Lavoie",
+                        "Laurent FAVOLE",
                         "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Finnish")
+                    entries: [
+                        "Elmeri Länsiharju",
+                        "Lassi Määttä"
                     ]
                 },
                 A.ContributionGroup {
@@ -148,11 +194,26 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Czech")
+                    entries: [
+                        "Jiří Vírava",
+                        "Michal Čihař"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Chinese")
                     entries: [
                         "JiaJia",
+                        "Larm Kai Xian",
                         "yangyangdaji",
                         "复予"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Brazilian Portuguese")
+                    entries: [
+                        "Mateus Liberale Gomes",
+                        "Thiago Carmona"
                     ]
                 }
             ]
