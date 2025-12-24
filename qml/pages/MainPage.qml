@@ -181,15 +181,7 @@ Page {
 
             leftItem: D.DelegateIconItem {
                 source: "../images/icon-m-opal.png"
-                opacity: {
-                    if (highlighted) 0.9
-                    else if (section === "released") Math.max(0.5, 1.0 - index * 0.08)
-                    else if (section === "development") Math.max(0.3, 0.5 - index * 0.01)
-                    else if (section === "upcoming") Math.max(0.2, 0.4 - index * 0.01)
-                    else if (section === "planned") Math.max(0.1, 0.3 - index * 0.01)
-                    else if (section === "deprecated") Math.max(0.2, 0.4 - index * 0.01)
-                    else Math.max(0.5, 0.8 - index * 0.01)
-                }
+                opacity: 1 - (listItem.y - view.contentY) / view.height + 0.3
             }
         }
     }
