@@ -181,7 +181,8 @@ for module in "${cMODULES[@]}"; do
             section: \"released\"
         }")
 
-    mkdir -p "$base/dist/screenshots-weblate/opal-$module"
+    rm -rf "$base/dist/screenshots-weblate/opal-$module" && \
+        mkdir -p "$base/dist/screenshots-weblate/opal-$module"
 
     shopt -s nullglob
     for i in doc/screenshot-*.webp; do

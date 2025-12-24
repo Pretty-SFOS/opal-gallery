@@ -101,7 +101,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Lütfen bu projeye herhangi bir şekilde katkıda bulunup bulunamayacağınızı düşünmek için bir dakikanızı ayırın.</translation>
     </message>
@@ -140,6 +140,19 @@
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Dummy page</source>
         <translation>Deneme sayfası</translation>
+    </message>
+</context>
+<context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="216"/>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -403,12 +416,12 @@
         <translation>Bu modüller artık geliştirilmemektedir ve yeni uygulamalarda kullanılmamalıdır. Daha iyi alternatifler vardır.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="211"/>
+        <location filename="../qml/pages/MainPage.qml" line="203"/>
         <source>About</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="222"/>
+        <location filename="../qml/pages/MainPage.qml" line="214"/>
         <source>No examples available</source>
         <translation>Mevcut örnek bulunmamakta</translation>
     </message>
@@ -418,7 +431,7 @@
         <translation>Opal Galerisi</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="206"/>
+        <location filename="../qml/pages/MainPage.qml" line="198"/>
         <source>Preview and Examples</source>
         <translation>Önizleme ve Örnekler</translation>
     </message>
@@ -427,103 +440,110 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="177"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>Bu modül, özelleştirilebilir uygulama bilgi sayfaları oluşturmak için &lt;i&gt;AboutPageBase&lt;/i&gt; sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="185"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation>Bir kullanıcı uygulamanızı bir süre kullandığında gösterilen ve katkı isteyen bir iletişim kutusu.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="193"/>
         <source>This module provides a media player page with support for subtitles.</source>
         <translation>Bu modül, altyazı desteği olan bir medya oynatıcı sayfası sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="201"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
         <translation>Bu modül, uygulamalara sekme çubukları eklemek için kolay bir yol sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="209"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation>Bu modül görünümler için liste öğeleri sağlar, böylece sunumu biçimlendirmeye değil verileri işlemeye odaklanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="217"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
         <translation>Bu modül, sadece birkaç satır kodla listelerin sürükle-bırak yöntemiyle sıralanmasını sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="233"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>Bu modül, seçilebilir her seçenek için ayrıntıları gösterebilen bir birleşik giriş kutusu sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="241"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>Bu modül, birleşik giriş kutularının etiket yerine geçerli değere erişmesi için bir uzantı sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="257"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation>Bu modül, harici bağlantıları açmak veya kopyalamak için bir bağlantı işleyicisi sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="249"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation>Bu modül, Sailfish tarzı menülerde kullanılmak üzere bir geçiş düğmesi sağlar.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
+        <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
+        <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
+        <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation>Bu modül, metin girişleri yerine simgeleri destekleyen bir içerik menüsü sağlar.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
-        <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation>Bu modül, QML için SortFilterProxyModel&apos;in güncel ve yamalı bir sürümünü sağlar.</translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="345"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation>Bu modül, uzun listelerin erişilebilir gruplara bölünmesini sağlayan bir çekmece sağlar.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="225"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation>Bu modül, uzun listeler için Harbour uyumlu bir akıllı kaydırma çubuğu sağlar.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
-        <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="331"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
         <translation>Bu modül, uygulama eğitimleri için kullanımı kolay etkileşim ipuçları sağlar.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="359"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation>Bu modül, QCharts.js aracılığıyla güzel grafikler çizilmesini sağlar.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="379"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation>Bu modül, emojiler, şekillendirilmiş metin ve özel bağlantılar için destek içeren bir metin alanı ve giriş alanı sağlar.</translation>
     </message>
@@ -531,62 +551,57 @@
 <context>
     <name>MySupportDialog</name>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <location filename="../qml/MySupportDialog.qml" line="13"/>
         <source>Donate on %1</source>
         <translation>%1 üzerinden bağış yap</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="15"/>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>Bir fincan kahve, bir dilim pizza ya da bir tiyatro bileti bedelini ödeyin.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
+        <location filename="../qml/MySupportDialog.qml" line="21"/>
         <source>Translate on %1</source>
         <translation>%1&apos;te çevir</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="23"/>
+        <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Help with translating this app in as many languages as possible.</source>
         <translation>Bu uygulamanın mümkün olduğunca çok dile çevrilmesine yardımcı olun.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <location filename="../qml/MySupportDialog.qml" line="29"/>
         <source>Develop on %1</source>
         <translation>%1&apos;da geliştirin</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="31"/>
+        <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>Bakım ve paketleme konusunda destek verin, kod yazın veya değerli hata raporları sağlayın.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="37"/>
+        <location filename="../qml/MySupportDialog.qml" line="36"/>
         <source>Why should you care?</source>
         <translation>Neden umurunuzda olmalı?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="40"/>
+        <location filename="../qml/MySupportDialog.qml" line="39"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>Bu proje tek bir geliştiricinin boş zamanlarında sevgi ve tutkuyla inşa edilmiş olup, size ücretsiz olarak sunulmaktadır.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="46"/>
+        <location filename="../qml/MySupportDialog.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>Özgür Yazılım geliştiriyorum çünkü bunun etik bir şey olduğuna ikna oldum - ve bu eğlenceli bir hobi. Ancak, yazılım geliştirmek çok fazla zaman ve çaba gerektirir. Sailfish ve genel olarak yaşamak paraya mal olduğu için, bunun gibi ücretli olmayan projelere zaman ayırabilmek için desteğinize ihtiyacım var.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="56"/>
+        <location filename="../qml/MySupportDialog.qml" line="55"/>
         <source>Why donate?</source>
         <translation>Neden bağışta bulunmalısınız?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="59"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla fiyatları artırdı ve bedava çalışan müteahhitleri Sailfish için kira ödemeye zorlamaya çalışıyor.</translation>
-    </message>
-    <message>
-        <location filename="../qml/MySupportDialog.qml" line="64"/>
+        <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Eğer karşılayabiliyorsanız, Sailfish uygulamaları üzerinde çalışmaya devam edebilmemi sağlamanın en kolay yolu bağışta bulunmaktır. Bir fincan kahve, bir dilim pizza veya daha fazlası olsun, her miktar takdir edilir.</translation>
     </message>
@@ -645,7 +660,7 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="813"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
@@ -663,7 +678,7 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="845"/>
         <source>Translations</source>
         <translation>Çeviriler</translation>
     </message>
@@ -692,47 +707,52 @@
         <source>Contributors</source>
         <translation>Katkıda Bulunanlar</translation>
     </message>
+    <message>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
         <source>License(s)</source>
         <translation>
             <numerusform>Lisans</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="742"/>
         <source>About</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
         <source>Version %1</source>
         <translation>Sürüm %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="818"/>
         <source>show contributors</source>
         <translation>katkıda bulunanları göster</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="867"/>
         <source>Donations</source>
         <translation>Bağışlar</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="877"/>
         <source>License</source>
         <translation>Lisans</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="891"/>
         <source>show license(s)</source>
         <translation>
             <numerusform>lisansı göster</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="827"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="850"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
@@ -740,7 +760,7 @@
         <translation>Kaynak Kodları</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="107"/>
         <source>Note: please check the source code for most accurate information.</source>
         <translation>Not: En doğru bilgi için lütfen kaynak kodlarına bakın.</translation>
     </message>
@@ -755,18 +775,18 @@
         <translation>Teşekkürler!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
         <source>Download license texts</source>
         <translation>Lisans metinlerini indir</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="92"/>
         <source>Details</source>
         <translation>Ayrıntılar</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="832"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
@@ -779,7 +799,7 @@
         <translation>Lütfen &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&apos;e bakın</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
         <translation>Değişim günlüğü</translation>
@@ -1015,91 +1035,169 @@
 <context>
     <name>Opal.LinkHandler</name>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="33"/>
         <source>External links</source>
         <translation>Harici bağlantılar</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="37"/>
         <source>Basic usage</source>
         <translation>Temel kullanım</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
+        <source>This module lets users decide what to do when they click on a link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
         <translation>Bu etiket, etkinleştirebileceğiniz bir &lt;a href=&quot;https://example.org&quot;&gt;harici bağlantı&lt;/a&gt; içerir. Tıklandığında, yeni bir sayfa sizden URL&apos;yi açmanızı veya kopyalamanızı isteyecektir.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="60"/>
         <source>Advanced usage</source>
         <translation>Gelişmiş kullanım</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
-        <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation>Bir etikette farklı türde bağlantılar olabilir ve bunlar ayrı ayrı ele alınabilir. Bu &lt;a href=&quot;tel:+4100000000&quot;&gt;bir telefon numarası&lt;/a&gt; iken bu &lt;a href=&quot;https://example.org&quot;&gt;bir web sitesidir&lt;/a&gt;.</translation>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
+        <source>The link handler can optionally allow users to quickly preview a link by swiping left, without having to open the browser.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
+        <source>No network connections will be made without explicit user interaction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
+        <source>Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
+        <source>The URL scheme is checked and must be valid in all modes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
+        <source>automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
+        <source>This mode enables the preview if any network connection is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="97"/>
+        <source>no mobile data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="98"/>
+        <source>This mode only enables the preview if connected via Wifi. The preview is disabled when using mobile data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
+        <source>enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
+        <source>This mode enables the preview without checking for network access. Use this e.g. for links on &lt;i&gt;localhost&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
+        <source>This mode disables the preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="118"/>
+        <source>There can be different kinds of links in a label and they can be handled individually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="126"/>
+        <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="134"/>
+        <source>Call me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="146"/>
+        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="155"/>
+        <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="133"/>
         <source>Phone number</source>
         <translation>Telefon numarası</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
         <source>Website</source>
         <translation>İnternet sayfası</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="142"/>
         <source>Silica tools</source>
         <translation>Silica araçları</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
-        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation>Silica, metnindeki bağlantıları ve telefon numaralarını otomatik olarak bulan ve bunları tıklanabilir hale getiren &quot;LinkedLabel&quot; öğesini sağlar. Bu numara +4100000000 ve bu URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically otomatik olarak bağlantı olarak biçimlendirilir. Ayrıca uzun URL&apos;nin nasıl kısaltıldığına da dikkat edin.</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
-        <source>External Link</source>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="134"/>
+        <source>External link</source>
         <translation>Dış Bağlantı</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
-        <source>Copy text to clipboard</source>
-        <translation>Metni panoya kopyala</translation>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="171"/>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="176"/>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="186"/>
         <source>Share</source>
         <translation>Paylaş</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="205"/>
         <source>Open in browser</source>
         <translation>Tarayıcıda aç</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="206"/>
         <source>Open externally</source>
         <translation>Harici olarak aç</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="95"/>
         <source>Copied to clipboard: %1</source>
         <translation>Panoya kopyalandı: %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
         <source>Share link</source>
         <translation>Linki paylaş</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
-        <source>Copy to clipboard</source>
-        <translation>Panoya kopyala</translation>
     </message>
 </context>
 <context>
@@ -1221,7 +1319,7 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
-        <source>The audio and or video format is not supported.</source>
+        <source>The audio or video format is not supported.</source>
         <translation>Ses ve/veya video biçimi desteklenmiyor.</translation>
     </message>
     <message>
@@ -1349,6 +1447,14 @@
     </message>
 </context>
 <context>
+    <name>Opal.PropertyMacros</name>
+    <message>
+        <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
+        <source>About this module</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Opal.SmartScrollbar</name>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
@@ -1362,64 +1468,92 @@
     </message>
 </context>
 <context>
+    <name>Opal.SortFilterProxyModel</name>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
+        <source>Sort by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
+        <source>Price</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
+        <source>Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Opal.SupportMe</name>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="13"/>
         <source>Donate on %1</source>
         <translation>%1 üzerinden bağış yap</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>Bir fincan kahve, bir dilim pizza ya da bir tiyatro bileti bedelini ödeyin.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="21"/>
         <source>Translate on %1</source>
         <translation>%1&apos;te çevir</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Help with translating this app in as many languages as possible.</source>
         <translation>Bu uygulamanın mümkün olduğunca çok dile çevrilmesine yardımcı olun.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="29"/>
         <source>Develop on %1</source>
         <translation>%1&apos;da geliştirin</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>Bakım ve paketleme konusunda destek verin, kod yazın veya değerli hata raporları sağlayın.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="36"/>
         <source>Why should you care?</source>
         <translation>Neden umurunuzda olmalı?</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="39"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>Bu proje tek bir geliştiricinin boş zamanlarında sevgi ve tutkuyla inşa edilmiş olup, size ücretsiz olarak sunulmaktadır.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>Özgür Yazılım geliştiriyorum çünkü bunun etik bir şey olduğuna ikna oldum - ve bu eğlenceli bir hobi. Ancak, yazılım geliştirmek çok fazla zaman ve çaba gerektirir. Sailfish ve genel olarak yaşamak paraya mal olduğu için, bunun gibi ücretli olmayan projelere zaman ayırabilmek için desteğinize ihtiyacım var.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="55"/>
         <source>Why donate?</source>
         <translation>Neden bağışta bulunmalısınız?</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla fiyatları artırdı ve bedava çalışan müteahhitleri Sailfish için kira ödemeye zorlamaya çalışıyor.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Eğer karşılayabiliyorsanız, Sailfish uygulamaları üzerinde çalışmaya devam edebilmemi sağlamanın en kolay yolu bağışta bulunmaktır. Bir fincan kahve, bir dilim pizza veya daha fazlası olsun, her miktar takdir edilir.</translation>
     </message>

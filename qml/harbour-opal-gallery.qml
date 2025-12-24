@@ -29,8 +29,8 @@ ApplicationWindow
         "opal-about": {
             appName: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
-            appVersion: "2.3.2",
-            mainAttributions: ['2018-2024 Mirian Margiani'],
+            appVersion: "3.1.0",
+            mainAttributions: ['2018-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -39,8 +39,8 @@ ApplicationWindow
         "opal-supportme": {
             appName: "Opal.SupportMe",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "A dialog asking for contributions that is shown when a user has used your app for some time."),
-            appVersion: "1.2.1",
-            mainAttributions: ['2024 Mirian Margiani'],
+            appVersion: "2.1.1",
+            mainAttributions: ['2024-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -49,28 +49,28 @@ ApplicationWindow
         "opal-mediaplayer": {
             appName: "Opal.MediaPlayer",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a media player page with support for subtitles."),
-            appVersion: "0.2.0",
-            mainAttributions: ['2024 Mirian Margiani','2013-2020 Leszek Lesner'],
+            appVersion: "1.0.10",
+            mainAttributions: ['2024-2025 Mirian Margiani','2013-2020 Leszek Lesner'],
             maintainers: ['Mirian Margiani'],
-            contributors: [,'Leszek Lesner','Simo Piiroinen','Muki'],
+            contributors: ['Leszek Lesner','Simo Piiroinen','Muki'],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-mediaplayer"
         },
         "opal-tabs": {
             appName: "Opal.Tabs",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an easy way to add tab bars to apps."),
-            appVersion: "1.0.0",
-            mainAttributions: ['2024 Mirian Margiani','2013-2020 Jolla Ltd','2020 Open Mobile Platform LLC'],
+            appVersion: "2.1.1",
+            mainAttributions: ['2024-2025 Mirian Margiani','2025 roundedrectangle','2013-2020 Jolla Ltd','2020 Open Mobile Platform LLC'],
             maintainers: ['Mirian Margiani'],
-            contributors: [],
+            contributors: ['roundedrectangle'],
             mainLicenseSpdx: "GPL-3.0-or-later",
             sourcesUrl: "https://github.com/Pretty-SFOS/opal-tabs"
         },
         "opal-delegates": {
             appName: "Opal.Delegates",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation."),
-            appVersion: "3.2.0",
-            mainAttributions: ['2023 Peter G. (nephros)','2024 Mirian Margiani (ichthyosaurus)'],
+            appVersion: "3.5.3",
+            mainAttributions: ['2024-2025 Mirian Margiani','2023 Peter G. (nephros)'],
             maintainers: ['Mirian Margiani'],
             contributors: ['Peter G.'],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -79,8 +79,8 @@ ApplicationWindow
         "opal-dragdrop": {
             appName: "Opal.DragDrop",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module enables ordering lists by drag-and-drop with just a few lines of code."),
-            appVersion: "1.0.1",
-            mainAttributions: ['2024 Mirian Margiani'],
+            appVersion: "1.0.6",
+            mainAttributions: ['2024-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -89,8 +89,8 @@ ApplicationWindow
         "opal-smartscrollbar": {
             appName: "Opal.SmartScrollbar",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a Harbour-compatible smart scroll bar for long lists."),
-            appVersion: "1.0.0",
-            mainAttributions: ['2024 Mirian Margiani'],
+            appVersion: "1.0.2",
+            mainAttributions: ['2024-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -99,8 +99,8 @@ ApplicationWindow
         "opal-infocombo": {
             appName: "Opal.InfoCombo",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a combo box that can show details for each selectable option."),
-            appVersion: "2.2.1",
-            mainAttributions: ['2023-2024 Mirian Margiani'],
+            appVersion: "2.2.3",
+            mainAttributions: ['2023-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -109,8 +109,8 @@ ApplicationWindow
         "opal-combodata": {
             appName: "Opal.ComboData",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an extension for combo boxes to access the current value instead of the label."),
-            appVersion: "2.1.1",
-            mainAttributions: ['2023-2024 Mirian Margiani'],
+            appVersion: "2.1.3",
+            mainAttributions: ['2023-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -119,8 +119,8 @@ ApplicationWindow
         "opal-menuswitch": {
             appName: "Opal.MenuSwitch",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a toggle button to be used in Sailfish-style menus."),
-            appVersion: "1.0.0",
-            mainAttributions: ['2024 Mirian Margiani'],
+            appVersion: "1.0.3",
+            mainAttributions: ['2024-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -129,12 +129,42 @@ ApplicationWindow
         "opal-linkhandler": {
             appName: "Opal.LinkHandler",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
-            appVersion: "2.1.1",
-            mainAttributions: ['2020-2024 Mirian Margiani'],
+            appVersion: "2.4.0",
+            mainAttributions: ['2020-2025 Mirian Margiani','2025 roundedrectangle'],
+            maintainers: ['Mirian Margiani'],
+            contributors: ['roundedrectangle'],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler"
+        },
+        "opal-localstorage": {
+            appName: "Opal.LocalStorage",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python."),
+            appVersion: "0.3.2",
+            mainAttributions: ['2018-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler"
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-localstorage"
+        },
+        "opal-propertymacros": {
+            appName: "Opal.PropertyMacros",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides C++ macros that simplify adding properties to Qt objects."),
+            appVersion: "1.0.0",
+            mainAttributions: ['2025 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
+            contributors: [],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-propertymacros"
+        },
+        "opal-sfpm": {
+            appName: "Opal.SortFilterProxyModel",
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5)."),
+            appVersion: "1.0.2",
+            mainAttributions: ['2016 Pierre-Yves Siret','2025 Mirian Margiani'],
+            maintainers: ['Mirian Margiani'],
+            contributors: ['Pierre-Yves Siret'],
+            mainLicenseSpdx: "GPL-3.0-or-later",
+            sourcesUrl: "https://github.com/Pretty-SFOS/opal-sfpm"
         }
         //<<< GENERATED LIST OF MODULE DETAILS
     })
@@ -227,6 +257,30 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             examplePage: "opal-linkhandler/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-localstorage"
+            title: "Opal.LocalStorage"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-localstorage/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-propertymacros"
+            title: "Opal.PropertyMacros"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides C++ macros that simplify adding properties to Qt objects.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-propertymacros/gallery.qml"
+            section: "released"
+        }
+        ListElement {
+            key: "opal-sfpm"
+            title: "Opal.SortFilterProxyModel"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            examplePage: "opal-sfpm/gallery.qml"
             section: "released"
         }
         //<<< GENERATED LIST OF MODULES

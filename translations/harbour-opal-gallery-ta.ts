@@ -101,7 +101,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="181"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>இந்த திட்டத்திற்கு நீங்கள் ஒரு வழியில் அல்லது வேறு வழியில் பங்களிக்க முடியுமா என்பதைக் கருத்தில் கொள்ள சிறிது நேரம் ஒதுக்குங்கள்.</translation>
     </message>
@@ -140,6 +140,19 @@
         <location filename="../qml/pages/EmptyDummyPage.qml" line="19"/>
         <source>Dummy page</source>
         <translation>போலி பக்கம்</translation>
+    </message>
+</context>
+<context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="216"/>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -403,12 +416,12 @@
         <translation>இந்த தொகுதிகள் இனி உருவாக்கப்படாது, புதிய பயன்பாடுகளில் பயன்படுத்தப்படக்கூடாது. சிறந்த மாற்று வழிகள் உள்ளன.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="211"/>
+        <location filename="../qml/pages/MainPage.qml" line="203"/>
         <source>About</source>
         <translation>பற்றி</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="222"/>
+        <location filename="../qml/pages/MainPage.qml" line="214"/>
         <source>No examples available</source>
         <translation>எடுத்துக்காட்டுகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
@@ -418,7 +431,7 @@
         <translation>ஓபல் கேலரி</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="206"/>
+        <location filename="../qml/pages/MainPage.qml" line="198"/>
         <source>Preview and Examples</source>
         <translation>முன்னோட்டம் மற்றும் எடுத்துக்காட்டுகள்</translation>
     </message>
@@ -427,103 +440,110 @@
     <name>ModuleDescriptions</name>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="31"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="157"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="177"/>
         <source>This module provides &lt;i&gt;AboutPageBase&lt;/i&gt; for building customizable application information pages.</source>
         <translation>தனிப்பயனாக்கக்கூடிய பயன்பாட்டு செய்தி பக்கங்களை உருவாக்குவதற்கு இந்த தொகுதி &lt;i&gt; abageBase &lt;/i&gt; ஐ வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="41"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="165"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="185"/>
         <source>A dialog asking for contributions that is shown when a user has used your app for some time.</source>
         <translation>ஒரு பயனர் உங்கள் பயன்பாட்டை சிறிது நேரம் பயன்படுத்தும்போது காண்பிக்கப்படும் பங்களிப்புகளைக் கேட்கும் உரையாடல்.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="51"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="173"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="193"/>
         <source>This module provides a media player page with support for subtitles.</source>
         <translation>இந்த தொகுதி ஒரு மீடியா பிளேயர் பக்கத்தை வசன வரிகளுக்கான ஆதரவுடன் வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="61"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="181"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="201"/>
         <source>This module provides an easy way to add tab bars to apps.</source>
         <translation>பயன்பாடுகளுக்கு தாவல் பட்டிகளைச் சேர்க்க இந்த தொகுதி எளிதான வழியை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="71"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="189"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="209"/>
         <source>This module provides list items for views, so you can concentrate on handling the data, not formatting the presentation.</source>
         <translation>இந்த தொகுதி காட்சிகளுக்கான பட்டியல் உருப்படிகளை வழங்குகிறது, எனவே நீங்கள் தரவைக் கையாள்வதில் கவனம் செலுத்தலாம், விளக்கக்காட்சியை வடிவமைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="81"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="197"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="217"/>
         <source>This module enables ordering lists by drag-and-drop with just a few lines of code.</source>
         <translation>இந்த தொகுதி குறியீட்டின் சில வரிகளுடன் இழுத்தல் மற்றும் சொட்டு மூலம் வரிசைப்படுத்தும் பட்டியல்களை செயல்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="101"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="213"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="233"/>
         <source>This module provides a combo box that can show details for each selectable option.</source>
         <translation>இந்த தொகுதி ஒவ்வொரு தேர்ந்தெடுக்கப்பட்ட விருப்பத்திற்கும் விவரங்களைக் காட்டக்கூடிய காம்போ பெட்டியை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="111"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="221"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="241"/>
         <source>This module provides an extension for combo boxes to access the current value instead of the label.</source>
         <translation>இந்த தொகுதி லேபிளுக்கு பதிலாக தற்போதைய மதிப்பை அணுக காம்போ பெட்டிகளுக்கான நீட்டிப்பை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="131"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="237"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="257"/>
         <source>This module provides a link handler to open or copy external links.</source>
         <translation>இந்த தொகுதி வெளிப்புற இணைப்புகளைத் திறக்க அல்லது நகலெடுக்க ஒரு இணைப்பு கையாளுபவரை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="121"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="229"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="249"/>
         <source>This module provides a toggle button to be used in Sailfish-style menus.</source>
         <translation>இந்த தொகுதி படகோட்டம் பாணி மெனுக்களில் பயன்படுத்த ஒரு மாற்று பொத்தானை வழங்குகிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="353"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
+        <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
+        <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
+        <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
         <translation>இந்த தொகுதி உரை உள்ளீடுகளுக்கு பதிலாக ஐகான்களுக்கான ஆதரவுடன் சூழல் மெனுவை வழங்குகிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="292"/>
-        <source>This module provides a up-to-date and patched version of SortFilterProxyModel for QML.</source>
-        <translation>இந்த தொகுதி QML க்கான SortFilterProxymodel இன் புதுப்பித்த மற்றும் இணைக்கப்பட்ட பதிப்பை வழங்குகிறது.</translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="306"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="345"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
         <translation>இந்த தொகுதி ஒரு டிராயரை வழங்குகிறது, இது நீண்ட பட்டியல்களை அணுகக்கூடிய குழுக்களாகப் பிரிக்க அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="205"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="225"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
         <translation>இந்த தொகுதி நீண்ட பட்டியல்களுக்கு ஒரு ஆர்பர்-இணக்கமான அறிவுள்ள ச்க்ரோல் பட்டியை வழங்குகிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
-        <location filename="../qml/harbour-opal-gallery.qml" line="245"/>
-        <source>This module provides a set of tools for handling local databases safely and extensibly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="280"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="331"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
         <translation>இந்த தொகுதி பயன்பாட்டு பயிற்சிகளுக்கான தொடர்பு குறிப்புகளைப் பயன்படுத்த எளிதானது.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="320"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="359"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
         <translation>இந்த தொகுதி qcharts.js மூலம் அழகான விளக்கப்படங்களை வரைய அனுமதிக்கிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-opal-gallery.qml" line="340"/>
+        <location filename="../qml/harbour-opal-gallery.qml" line="379"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
         <translation>இந்த தொகுதி ஈமோசிகள், பாணியிலான உரை மற்றும் தனிப்பயன் இணைப்புகளுக்கான ஆதரவுடன் உரை புலம் மற்றும் உள்ளீட்டு பகுதியை வழங்குகிறது.</translation>
     </message>
@@ -531,62 +551,57 @@
 <context>
     <name>MySupportDialog</name>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <location filename="../qml/MySupportDialog.qml" line="13"/>
         <source>Donate on %1</source>
         <translation>லிபராபேயில் நன்கொடை</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="15"/>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது தியேட்டருக்கு டிக்கெட் ஆகியவற்றின் அளவு செலுத்துங்கள்.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
+        <location filename="../qml/MySupportDialog.qml" line="21"/>
         <source>Translate on %1</source>
         <translation>வெப்லேட்டில் மொழிபெயர்க்கவும்</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="23"/>
+        <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Help with translating this app in as many languages as possible.</source>
         <translation>இந்த பயன்பாட்டை முடிந்தவரை பல மொழிகளில் மொழிபெயர்க்க உதவுங்கள்.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <location filename="../qml/MySupportDialog.qml" line="29"/>
         <source>Develop on %1</source>
         <translation>கிட்அப்பில் உருவாக்குங்கள்</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="31"/>
+        <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>பராமரிப்பு மற்றும் பேக்கேசிங், குறியீட்டை எழுதுதல் அல்லது மதிப்புமிக்க பிழை அறிக்கைகளை வழங்குதல்.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="37"/>
+        <location filename="../qml/MySupportDialog.qml" line="36"/>
         <source>Why should you care?</source>
         <translation>நீங்கள் ஏன் கவலைப்பட வேண்டும்?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="40"/>
+        <location filename="../qml/MySupportDialog.qml" line="39"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>இந்த திட்டம் அவர்களின் ஓய்வு நேரத்தில் ஒரு டெவலப்பரால் அன்புடனும் ஆர்வத்துடனும் கட்டப்பட்டுள்ளது, மேலும் இது உங்களுக்கு இலவசமாக வழங்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="46"/>
+        <location filename="../qml/MySupportDialog.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>நான் இலவச மென்பொருளை உருவாக்குகிறேன், ஏனென்றால் இது நெறிமுறை சேதி என்று நான் நம்புகிறேன் - இது ஒரு வேடிக்கையான பொழுதுபோக்கு. இருப்பினும், மென்பொருளை உருவாக்குவதற்கு நிறைய நேரமும் முயற்சியும் தேவை. படகோட்டியாகவும், பொது செலவினங்களுடனும், இது போன்ற ஊதியம் பெறாத திட்டங்களுக்கு நேரத்தை செலவிட எனக்கு உங்கள் உதவி தேவை.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="56"/>
+        <location filename="../qml/MySupportDialog.qml" line="55"/>
         <source>Why donate?</source>
         <translation>ஏன் நன்கொடை?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="59"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>சொல்லா விலைகளை உயர்த்தினார், மேலும் டெவலப்பர்களை (இலவசமாக வேலை செய்யும்) படகோட்டிக்கு வாடகை செலுத்த கட்டாயப்படுத்த முயற்சிக்கிறார்.</translation>
-    </message>
-    <message>
-        <location filename="../qml/MySupportDialog.qml" line="64"/>
+        <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>நீங்கள் அதை வாங்க முடிந்தால், சாய்ல்ஃபிசிற்கான பயன்பாடுகளில் நான் தொடர்ந்து பணியாற்ற முடியும் என்பதை உறுதிப்படுத்த நன்கொடை என்பது எளிதான வழியாகும். எந்தவொரு தொகையும் பாராட்டப்படுகிறது, அது ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது அதற்கு மேற்பட்டதாக இருக்கலாம்.</translation>
     </message>
@@ -645,7 +660,7 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="149"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="790"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="813"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
@@ -663,7 +678,7 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="822"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="845"/>
         <source>Translations</source>
         <translation>மொழிபெயர்ப்புகள்</translation>
     </message>
@@ -692,8 +707,13 @@
         <source>Contributors</source>
         <translation>பங்களிப்பாளர்கள்</translation>
     </message>
+    <message>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="68"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
         <source>License(s)</source>
         <translation>
             <numerusform>உரிமம்</numerusform>
@@ -701,32 +721,32 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="719"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="742"/>
         <source>About</source>
         <translation>பற்றி</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="766"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
         <source>Version %1</source>
         <translation>பதிப்பு %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="795"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="818"/>
         <source>show contributors</source>
         <translation>பங்களிப்பாளர்களைக் காட்டு</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="844"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="867"/>
         <source>Donations</source>
         <translation>நன்கொடைகள்</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="854"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="877"/>
         <source>License</source>
         <translation>உரிமம்</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="868"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="891"/>
         <source>show license(s)</source>
         <translation>
             <numerusform>உரிமத்தைக் காட்டு</numerusform>
@@ -734,7 +754,7 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="827"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="850"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="42"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
@@ -742,7 +762,7 @@
         <translation>மூலக் குறியீடு</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="82"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="107"/>
         <source>Note: please check the source code for most accurate information.</source>
         <translation>குறிப்பு: மிகவும் துல்லியமான தகவல்களுக்கு மூலக் குறியீட்டைச் சரிபார்க்கவும்.</translation>
     </message>
@@ -757,18 +777,18 @@
         <translation>நன்றி!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="54"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
         <source>Download license texts</source>
         <translation>உரிம உரைகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
-        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="67"/>
+        <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="92"/>
         <source>Details</source>
         <translation>விவரங்கள்</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="809"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="832"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="44"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
@@ -781,7 +801,7 @@
         <translation>தயவுசெய்து &lt;a href=&quot;%1&quot;&gt;%1 &lt;/a&gt; ஐப் பார்க்கவும்</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="814"/>
+        <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
         <translation>மாற்றபதிவு</translation>
@@ -1017,91 +1037,169 @@
 <context>
     <name>Opal.LinkHandler</name>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="27"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="33"/>
         <source>External links</source>
         <translation>வெளிப்புற இணைப்புகள்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="31"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="37"/>
         <source>Basic usage</source>
         <translation>அடிப்படை பயன்பாடு</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="38"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
+        <source>This module lets users decide what to do when they click on a link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
         <source>This label contains an &lt;a href=&quot;https://example.org&quot;&gt;external link&lt;/a&gt; that you can activate. Once clicked, a new page will prompt you to either open or copy the URL.</source>
         <translation>இந்த லேபிளில் &lt;a href=&quot;https://example.org&quot;&gt; வெளிப்புற இணைப்பு &lt;/a&gt; நீங்கள் செயல்படுத்த முடியும். சொடுக்கு செய்ததும், ஒரு புதிய பக்கம் முகவரி ஐ திறக்க அல்லது நகலெடுக்கும்படி கேட்கும்.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="48"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="60"/>
         <source>Advanced usage</source>
         <translation>மேம்பட்ட பயன்பாடு</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="55"/>
-        <source>There can be different kinds of links in a label and they can be handled individually. This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation>ஒரு லேபிளில் பல்வேறு வகையான இணைப்புகள் இருக்கலாம், அவை தனித்தனியாக கையாளப்படலாம். இது &lt;a href=&quot;தொலைபேசி: +4100000000&quot;&gt; ஒரு தொலைபேசி எண் &lt;/a&gt; இது &lt;a href=&quot;https://example.org&quot;&gt; ஒரு வலைத்தளம் &lt;/a&gt;.</translation>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
+        <source>The link handler can optionally allow users to quickly preview a link by swiping left, without having to open the browser.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="63"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="88"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
+        <source>No network connections will be made without explicit user interaction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
+        <source>Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
+        <source>The URL scheme is checked and must be valid in all modes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
+        <source>automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
+        <source>This mode enables the preview if any network connection is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="97"/>
+        <source>no mobile data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="98"/>
+        <source>This mode only enables the preview if connected via Wifi. The preview is disabled when using mobile data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
+        <source>enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
+        <source>This mode enables the preview without checking for network access. Use this e.g. for links on &lt;i&gt;localhost&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
+        <source>This mode disables the preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="118"/>
+        <source>There can be different kinds of links in a label and they can be handled individually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="126"/>
+        <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="134"/>
+        <source>Call me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="146"/>
+        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="155"/>
+        <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="133"/>
         <source>Phone number</source>
         <translation>தொலைபேசி எண்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="65"/>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="90"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
         <source>Website</source>
         <translation>வலைத்தளம்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="71"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="142"/>
         <source>Silica tools</source>
         <translation>சிலிக்கா கருவிகள்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="78"/>
-        <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links. Also note how the long URL is shortened.</source>
-        <translation>சிலிக்கா அதன் உரையில் இணைப்புகள் மற்றும் தொலைபேசி எண்களைக் கண்டுபிடித்து அவற்றை சொடுக்கு செய்யக்கூடிய “சென்டர் லேபல்” உருப்படியை வழங்குகிறது. இந்த எண் +4100000000 மற்றும் இந்த முகவரி https://example.org/very-long?extra-long-data-Wheich-will-will-shortened-automatically தானாகவே இணைப்புகளாக வடிவமைக்கப்படுகின்றன. நீண்ட முகவரி எவ்வாறு சுருக்கப்படுகிறது என்பதையும் கவனியுங்கள்.</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
-        <source>External Link</source>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="134"/>
+        <source>External link</source>
         <translation>வெளிப்புற இணைப்பு</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="80"/>
-        <source>Copy text to clipboard</source>
-        <translation>கிளிப்போர்டுக்கு உரையை நகலெடுக்கவும்</translation>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="171"/>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="103"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="176"/>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="186"/>
         <source>Share</source>
         <translation>பங்கு</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="205"/>
         <source>Open in browser</source>
         <translation>உலாவியில் திற</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="119"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="206"/>
         <source>Open externally</source>
         <translation>வெளிப்புறமாக திறக்கவும்</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="26"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="95"/>
         <source>Copied to clipboard: %1</source>
         <translation>கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது: %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="21"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="118"/>
         <source>Share link</source>
         <translation>இணைப்பைப் பகிரவும்</translation>
-    </message>
-    <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="91"/>
-        <source>Copy to clipboard</source>
-        <translation>கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -1223,7 +1321,7 @@
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
-        <source>The audio and or video format is not supported.</source>
+        <source>The audio or video format is not supported.</source>
         <translation>ஆடியோ மற்றும் வீடியோ வடிவம் ஆதரிக்கப்படவில்லை.</translation>
     </message>
     <message>
@@ -1351,6 +1449,14 @@
     </message>
 </context>
 <context>
+    <name>Opal.PropertyMacros</name>
+    <message>
+        <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
+        <source>About this module</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Opal.SmartScrollbar</name>
     <message>
         <location filename="../qml/module-pages/opal-smartscrollbar/gallery.qml" line="43"/>
@@ -1364,64 +1470,92 @@
     </message>
 </context>
 <context>
+    <name>Opal.SortFilterProxyModel</name>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
+        <source>Sort by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
+        <source>Price</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
+        <source>Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Opal.SupportMe</name>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="13"/>
         <source>Donate on %1</source>
         <translation>லிபராபேயில் நன்கொடை</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது தியேட்டருக்கு டிக்கெட் ஆகியவற்றின் அளவு செலுத்துங்கள்.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="21"/>
         <source>Translate on %1</source>
         <translation>வெப்லேட்டில் மொழிபெயர்க்கவும்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"/>
         <source>Help with translating this app in as many languages as possible.</source>
         <translation>இந்த பயன்பாட்டை முடிந்தவரை பல மொழிகளில் மொழிபெயர்க்க உதவுங்கள்.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="29"/>
         <source>Develop on %1</source>
         <translation>கிட்அப்பில் உருவாக்குங்கள்</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>பராமரிப்பு மற்றும் பேக்கேசிங், குறியீட்டை எழுதுதல் அல்லது மதிப்புமிக்க பிழை அறிக்கைகளை வழங்குதல்.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="37"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="36"/>
         <source>Why should you care?</source>
         <translation>நீங்கள் ஏன் கவலைப்பட வேண்டும்?</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="40"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="39"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>இந்த திட்டம் அவர்களின் ஓய்வு நேரத்தில் ஒரு டெவலப்பரால் அன்புடனும் ஆர்வத்துடனும் கட்டப்பட்டுள்ளது, மேலும் இது உங்களுக்கு இலவசமாக வழங்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="46"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>நான் இலவச மென்பொருளை உருவாக்குகிறேன், ஏனென்றால் இது நெறிமுறை சேதி என்று நான் நம்புகிறேன் - இது ஒரு வேடிக்கையான பொழுதுபோக்கு. இருப்பினும், மென்பொருளை உருவாக்குவதற்கு நிறைய நேரமும் முயற்சியும் தேவை. படகோட்டியாகவும், பொது செலவினங்களுடனும், இது போன்ற ஊதியம் பெறாத திட்டங்களுக்கு நேரத்தை செலவிட எனக்கு உங்கள் உதவி தேவை.</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="56"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="55"/>
         <source>Why donate?</source>
         <translation>ஏன் நன்கொடை?</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="59"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>சொல்லா விலைகளை உயர்த்தினார், மேலும் டெவலப்பர்களை (இலவசமாக வேலை செய்யும்) படகோட்டிக்கு வாடகை செலுத்த கட்டாயப்படுத்த முயற்சிக்கிறார்.</translation>
-    </message>
-    <message>
-        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="64"/>
+        <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>நீங்கள் அதை வாங்க முடிந்தால், சாய்ல்ஃபிசிற்கான பயன்பாடுகளில் நான் தொடர்ந்து பணியாற்ற முடியும் என்பதை உறுதிப்படுத்த நன்கொடை என்பது எளிதான வழியாகும். எந்தவொரு தொகையும் பாராட்டப்படுகிறது, அது ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது அதற்கு மேற்பட்டதாக இருக்கலாம்.</translation>
     </message>
