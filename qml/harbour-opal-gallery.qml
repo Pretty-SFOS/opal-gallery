@@ -281,18 +281,6 @@ ApplicationWindow
         }
         ListElement {
             // Code:
-            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/libs/SortFilterProxyModel.patch
-            // - https://github.com/oKcerG/SortFilterProxyModel/
-
-            key: "opal-sfpm"
-            title: "Opal.SortFilterProxyModel"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a up-to-date and patched version of SortFilterProxyModel for QML.")
-            mainLicenseSpdx: "MIT"
-            // examplePage: "opal-sfpm/gallery.qml"
-            section: "upcoming"
-        }
-        ListElement {
-            // Code:
             // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/GroupedDrawer.qml
             // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/LicenseListPart.qml
             // - https://github.com/Pretty-SFOS/opal-supportme/blob/main/Opal/SupportMe/DetailsDrawer.qml
