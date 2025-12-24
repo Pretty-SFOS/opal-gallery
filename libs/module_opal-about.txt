@@ -13,7 +13,7 @@
 #   on the About page of your app. Use the information below.
 
 module: Opal.About (opal-about)
-version: 3.1.0 (git:199a1f1)
+version: 3.1.1 (git:db8ad22)
 description: This module provides <i>AboutPageBase</i> for building customizable application information pages.
 maintainers: Mirian Margiani
 attribution: 2018-2025 Mirian Margiani

@@ -29,7 +29,7 @@ ApplicationWindow
         "opal-about": {
             appName: "Opal.About",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides <i>AboutPageBase</i> for building customizable application information pages."),
-            appVersion: "3.1.0",
+            appVersion: "3.1.1",
             mainAttributions: ['2018-2025 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: [],
