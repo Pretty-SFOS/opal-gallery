@@ -253,6 +253,21 @@ ApplicationWindow
 
         ListElement {
             // Code:
+            // - https://github.com/Pretty-SFOS/opal/issues/9
+            // - https://github.com/Michal-Szczepaniak/Yottagram/blob/master/Yottagram/qml/components/MessageContextMenu.qml
+            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/FileActions.qml
+            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/MoodMenu.qml
+            // - Whisperfish
+
+            key: "opal-iconmenu"
+            title: "Opal.IconMenu"
+            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
+            mainLicenseSpdx: "GPL-3.0-or-later"
+            // examplePage: "opal-iconmenu/gallery.qml"
+            section: "upcoming"
+        }
+        ListElement {
+            // Code:
             // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/components/hints
             // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/lib/hints
             // - https://github.com/Pretty-SFOS/opal/issues/8
@@ -322,19 +337,6 @@ ApplicationWindow
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a text field and input area with support for emojis, styled text, and custom links.")
             mainLicenseSpdx: "GPL-3.0-or-later"
             // examplePage: "opal-advancedlabel/gallery.qml"
-            section: "planned"
-        }
-        ListElement {
-            // Code:
-            // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/FileActions.qml
-            // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/MoodMenu.qml
-            // - Whisperfish
-
-            key: "opal-iconmenu"
-            title: "Opal.IconMenu"
-            description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a context menu with support for icons instead of text entries.")
-            mainLicenseSpdx: "GPL-3.0-or-later"
-            // examplePage: "opal-iconmenu/gallery.qml"
             section: "planned"
         }
     }
