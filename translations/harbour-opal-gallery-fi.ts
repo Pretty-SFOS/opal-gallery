@@ -532,8 +532,8 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"></location>
-        <source>Donate on Liberapay</source>
-        <translation>Lahjoita Liberapayssä</translation>
+        <source>Donate on %1</source>
+        <translation>Lahjoita %1ssä</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"></location>
@@ -542,8 +542,8 @@
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"></location>
-        <source>Translate on Weblate</source>
-        <translation>Käännä Weblatessa</translation>
+        <source>Translate on %1</source>
+        <translation>Käännä %1ssa</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"></location>
@@ -552,8 +552,8 @@
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"></location>
-        <source>Develop on Github</source>
-        <translation>Kehitä GitHubissa</translation>
+        <source>Develop on %1</source>
+        <translation>Kehitä %1issa</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"></location>
@@ -1367,8 +1367,8 @@
     <name>Opal.SupportMe</name>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="14"></location>
-        <source>Donate on Liberapay</source>
-        <translation>Lahjoita Liberapayssä</translation>
+        <source>Donate on %1</source>
+        <translation>Lahjoita %1ssä</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="15"></location>
@@ -1377,8 +1377,8 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="22"></location>
-        <source>Translate on Weblate</source>
-        <translation>Käännä Weblatessa</translation>
+        <source>Translate on %1</source>
+        <translation>Käännä %1ssa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="23"></location>
@@ -1387,8 +1387,8 @@
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="30"></location>
-        <source>Develop on Github</source>
-        <translation>Kehitä GitHubissa</translation>
+        <source>Develop on %1</source>
+        <translation>Kehitä %1issa</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="31"></location>
