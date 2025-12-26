@@ -182,12 +182,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="214"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eelvaateks viipa vasakule.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sa kasutad mobiilset andmesideühendust.</translation>
     </message>
 </context>
 <context>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sa kasutad mobiilset andmesideühendust.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -1002,7 +1002,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished">Luba lohistamine</translation>
+        <translation>Luba lohistamine</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
@@ -1012,17 +1012,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehe täisvaade</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaated, kus kasutusel on „Opal.Delegates“</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moodul „Opal.Delegates“ toetab lohistamist ja selleks on kasutusel „Opal.DragDrop“ moodul ilma täiendava seadistamiseta.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
@@ -1066,7 +1066,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>kilo kohta</translation>
     </message>
 </context>
 <context>
@@ -1084,7 +1084,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
         <source>This module lets users decide what to do when they click on a link.</source>
-        <translation type="unfinished"></translation>
+        <translation>See moodul võimaldab kasutajatel otsustada, mida saab lingi klõpsimisel teha.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
@@ -1104,12 +1104,12 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
         <source>No network connections will be made without explicit user interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilma otsese kasutaja loata ei l isata õhtegi võrguühendust.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režiim</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
@@ -1204,12 +1204,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="170"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri link</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri tekst</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="185"/>
@@ -1242,7 +1242,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
         <source>Example Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Näidisleht</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
@@ -1252,7 +1252,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
         <source>This is how to use the new component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nii toimib uue komponendi kasutamine.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
@@ -1262,7 +1262,7 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
         <source>This is a more complex scenario.</source>
-        <translation type="unfinished"></translation>
+        <translation>See on palju keerukam lahendus.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
@@ -1488,7 +1488,7 @@
     <message>
         <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
         <source>About this module</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle mooduli teave</translation>
     </message>
 </context>
 <context>
@@ -1509,32 +1509,32 @@
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadistused</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Hind</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Suund</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulemus</translation>
     </message>
 </context>
 <context>
