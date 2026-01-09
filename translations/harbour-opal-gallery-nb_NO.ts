@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedlikeholdere</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -182,12 +182,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="214"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveip til venstre for forhåndsvisning.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bruker mobilnett.</translation>
     </message>
 </context>
 <context>
@@ -317,22 +317,22 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="20"/>
         <source>A basket full of exotic fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>En kurv full av eksotisk frukt</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="24"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="28"/>
         <source>Fig</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiken</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="32"/>
         <source>Peach</source>
-        <translation type="unfinished"></translation>
+        <translation>Fersken</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="36"/>
@@ -342,32 +342,32 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="40"/>
         <source>Lemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitron</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="44"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelsin</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="48"/>
         <source>Ananas</source>
-        <translation type="unfinished"></translation>
+        <translation>Ananas</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="52"/>
         <source>Black currant</source>
-        <translation type="unfinished"></translation>
+        <translation>Solbær</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="56"/>
         <source>Raspberry</source>
-        <translation type="unfinished"></translation>
+        <translation>Bringebær</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="60"/>
         <source>Watermelon</source>
-        <translation type="unfinished"></translation>
+        <translation>Vannmelon</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryLongFruitModel.qml" line="64"/>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="22"/>
         <source>About Opal</source>
-        <translation type="unfinished"></translation>
+        <translation>Om Opal</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="29"/>
@@ -408,17 +408,17 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>In development</source>
-        <translation type="unfinished"></translation>
+        <translation>Under utvikling</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="66"/>
         <source>Upcoming modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommende moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Planned modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Planlagte moduler</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="70"/>
@@ -458,7 +458,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="214"/>
         <source>No examples available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen eksempler tilgjengelig</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bruker mobildata.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -809,7 +809,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
-        <translation>Takk.</translation>
+        <translation>Takk!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
@@ -885,22 +885,22 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="51"/>
         <source>Kiwi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiwi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="55"/>
         <source>Pear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pære</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="62"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgt</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="63"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>ingenting</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
@@ -910,7 +910,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
         <source>no details available</source>
-        <translation type="unfinished"></translation>
+        <translation>ingen detaljer tilgjengelig</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="111"/>
@@ -979,7 +979,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplekse tilpasninger</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
@@ -1002,7 +1002,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver Drag &amp;amp; Drop</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
@@ -1012,7 +1012,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullsidevisning</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
@@ -1028,12 +1028,12 @@
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="207"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>per kg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Egendefinerte visninger</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
@@ -1056,17 +1056,17 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="39"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver Drag &amp;amp; Drop</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nåværende indeks: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
         <source>per kg</source>
-        <translation type="unfinished"></translation>
+        <translation>per kg</translation>
     </message>
 </context>
 <context>
@@ -1074,12 +1074,12 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="33"/>
         <source>External links</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksterne lenker</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="37"/>
         <source>Basic usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel bruk</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
@@ -1094,7 +1094,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="60"/>
         <source>Advanced usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Avansert bruk</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
@@ -1109,7 +1109,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modus</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
@@ -1119,7 +1119,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
         <source>automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>automatisk</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
@@ -1139,7 +1139,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>aktivert</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
@@ -1149,12 +1149,12 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>deaktivert</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
         <source>This mode disables the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modusen deaktiverer forhåndsvisning.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="118"/>
@@ -1169,7 +1169,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="134"/>
         <source>Call me</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring meg</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="146"/>
@@ -1184,7 +1184,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="132"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
@@ -1204,17 +1204,17 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="170"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier lenke</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier tekst</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="185"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="204"/>
@@ -1234,7 +1234,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="117"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Del lenke</translation>
     </message>
 </context>
 <context>
@@ -1267,48 +1267,48 @@
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Databaseoppgradering feilet</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det oppsto en feil under oppgradering av databasen fra versjon %1 til versjon %2. Vennligst rapporter dette problemet.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utviklerinformasjon:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig databaseversjon</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appen kan ikke starte fordi databasen har versjon %1, men bare versjon %2 støttes.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedlikehold av database</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vær tålmodig og beregn opptil 30 sekunder for dette.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Databaseproblem</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det oppsto et uventet problem i databasen. Prøv å starte appen på nytt.</translation>
     </message>
 </context>
 <context>
@@ -1317,117 +1317,117 @@
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="26"/>
         <source>Playback failed</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Avspilling feilet</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="30"/>
         <source>Resource error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ressursfeil</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="32"/>
         <source>Format error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatfeil</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="34"/>
         <source>Network error</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nettverksfeil</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="36"/>
         <source>Access denied</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ingen tilgang</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="38"/>
         <source>Media service missing</source>
         <comment>error info page heading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mediatjenesten mangler</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="42"/>
         <source>The video cannot be played due to a problem allocating resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoen kan ikke spilles av på grunn av et problem med tildeling av ressurser.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio or video format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyd- eller videoformatet er ikke støttet.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>
         <source>The video cannot be played due to network issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoen kan ikke spilles av på grunn av nettverksproblemer.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="51"/>
         <source>The video cannot be played due to insufficient permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoen kan ikke spilles av på grunn av manglende rettigheter.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="54"/>
         <source>The video cannot be played because the media service could not be instantiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoen kan ikke spilles av fordi mediatjenesten ikke kunne opprettes.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="57"/>
         <source>Playback failed due to an expected error. Please restart the app and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avspilling mislyktes på grunn av en forventet feil. Start appen på nytt og prøv igjen.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="118"/>
         <source>Select from file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg fra filsystem</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="128"/>
         <source>No files ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen filer klare</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="131"/>
         <source>Copy subtitle files in the SRT format next to the video file to open them quickly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier undertekstfiler i SRT‑format ved siden av videofilen for å åpne dem raskt.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/LoadSubtitlesDialog.qml" line="135"/>
         <source>Pull down to pick a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trekk ned for å velge en fil.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="208"/>
         <source>Clear subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern undertekster</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="212"/>
         <source>Load subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Last inn undertekster</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="663"/>
         <source>Zoomed to fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpasset skjermen</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="664"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Original</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="671"/>
         <source>Play on repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Spill gjentatte ganger</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/VideoPlayerPage.qml" line="672"/>
         <source>Play once</source>
-        <translation type="unfinished"></translation>
+        <translation>Spill en gang</translation>
     </message>
 </context>
 <context>
@@ -1610,22 +1610,22 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="36"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Oversikt</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="39"/>
         <source>Nothing to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingenting å gjøre</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="49"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgaver</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="52"/>
         <source>59 open</source>
-        <translation type="unfinished"></translation>
+        <translation>59 åpne</translation>
     </message>
 </context>
 <context>
@@ -1633,17 +1633,17 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="26"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativer</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="30"/>
         <source>Show icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis ikoner</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis beskrivelser</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
@@ -1658,12 +1658,12 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="59"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="62"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunn</translation>
     </message>
 </context>
 <context>
@@ -1671,7 +1671,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Hei på deg</translation>
+        <translation>Hei på deg!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
@@ -1681,7 +1681,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation>Takk for din støtte.</translation>
+        <translation>Takk for din støtte!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
