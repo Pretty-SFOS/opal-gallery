@@ -1359,7 +1359,7 @@
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="45"/>
         <source>The audio or video format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát zvuku nebo videa není podporován.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/MediaPlayer/private/ErrorOverlay.qml" line="48"/>

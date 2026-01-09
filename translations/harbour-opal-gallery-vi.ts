@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl_NL">
+<TS version="2.1" language="vi">
 <context>
     <name>AboutModulePageBase</name>
     <message>
@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
         <source>Contributors</source>
-        <translation>Bijdragers</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30,52 +30,52 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Translations</source>
-        <translation>Vertalingen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>Ukrainian</source>
-        <translation>Oekraïense</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="78"/>
         <source>Turkish</source>
-        <translation>Turks</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Tamil</source>
-        <translation>Tamil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Swedish</source>
-        <translation>Zweeds</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="97"/>
         <source>Spanish</source>
-        <translation>Spaans</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="109"/>
         <source>Slovak</source>
-        <translation>Slowaaks</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Russian</source>
-        <translation>Russisch</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="128"/>
         <source>Romanian</source>
-        <translation>Roemeen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="135"/>
         <source>Polish</source>
-        <translation>Pools</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
@@ -85,32 +85,32 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="148"/>
         <source>Italian</source>
-        <translation>Italiaans</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="178"/>
         <source>Finnish</source>
-        <translation>Fins</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="185"/>
         <source>Estonian</source>
-        <translation>Ests</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="191"/>
         <source>English</source>
-        <translation>Engels</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="197"/>
         <source>Czech</source>
-        <translation>Tsjechisch</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="204"/>
         <source>Chinese</source>
-        <translation>Chinees</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="213"/>
@@ -120,17 +120,17 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>German</source>
-        <translation>Duits</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="168"/>
         <source>French</source>
-        <translation>Frans</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="155"/>
         <source>Indonesian</source>
-        <translation>Indonesisch</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Neem alstublieft een moment of u iets kan bijdragen aan dit project.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -154,12 +154,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation>Toon minder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation>Toon meer</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Apabila Anda berkenan, donasi merupakan cara paling sederhana untuk mendukung keberlanjutan pengembangan aplikasi Sailfish. Setiap kontribusi sangat berarti, baik berupa secangkir kopi, sepotong pizza, maupun lebih.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -646,12 +646,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation>Ini adalah deskripsi singkat aplikasi. Dapat menggunakan teks bergaya dan kaya format atau &lt;a href=&quot;https://example.org&quot;&gt;tautan&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation>Pengelola aplikasi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
@@ -699,33 +699,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
-        <translation>Ontwikkeling</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
-        <translation>Programmering</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
-        <translation>Pictogramontwèrp</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="845"/>
         <source>Translations</source>
-        <translation>Vertalingen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
-        <translation>Engels</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
-        <translation>Duits</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
@@ -740,7 +740,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
         <source>Contributors</source>
-        <translation>Bijdragers</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
@@ -750,9 +750,8 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
         <source>License(s)</source>
-        <translation>
-            <numerusform>Licentie</numerusform>
-            <numerusform>Licenties</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -763,7 +762,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
         <source>Version %1</source>
-        <translation>Versie %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="818"/>
@@ -778,13 +777,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="877"/>
         <source>License</source>
-        <translation>Licentie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="891"/>
         <source>show license(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -820,7 +818,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="92"/>
         <source>Details</source>
-        <translation>Informatie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="832"/>
@@ -905,7 +903,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation>Informatie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
