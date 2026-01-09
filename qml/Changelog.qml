@@ -8,6 +8,15 @@ import Opal.About 1.0
 
 ChangelogList {
     ChangelogItem {
+        version: "1.8.1-1"
+        date: "2026-01-09"
+        paragraphs: [
+            "- Added translations: Vietnamese<br>" +
+            "- Updated translations: Czech, Dutch, Estonian, French, Indonesian, Norwegian Bokmål, Spanish, Swedish<br>" +
+            "- Updated modules: LinkHandler with improved preview support, SortFilterProxyModel with improved integration, SupportMe with minor gallery fixes"
+        ]
+    }
+    ChangelogItem {
         version: "1.8.0-1"
         date: "2025-12-24"
         paragraphs: [

@@ -10,6 +10,11 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Fri Jan 09 2026 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.8.1-1
+- Added translations: Vietnamese
+- Updated translations: Czech, Dutch, Estonian, French, Indonesian, Norwegian Bokmål, Spanish, Swedish
+- Updated modules: LinkHandler with improved preview support, SortFilterProxyModel with improved integration, SupportMe with minor gallery fixes
+
 * Wed Dec 24 2025 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.8.0-1
 - Added translations: Arabic, Bengali, Chinese (Traditional Han script), Dutch (Belgium), Hindi, Malayalam, Norwegian Nynorsk, Persian, Portuguese, Portuguese (Brazil), Tamil, Thai
 - Updated translations: Arabic, Chinese (Simplified Han script), Czech, Dutch (Belgium), Estonian, Finnish, French, German, Italian, Norwegian Nynorsk, Portuguese, Portuguese (Brazil), Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Tamil, Turkish, Ukrainian
