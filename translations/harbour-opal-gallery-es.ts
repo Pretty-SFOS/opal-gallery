@@ -187,7 +187,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Está utilizando una conexión de datos al móvil.</translation>
     </message>
 </context>
 <context>
@@ -537,19 +537,19 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona un conjunto de herramientas para manipulación de bases de datos locales con seguridad y extensivamente en JavaScript y Python.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
         <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona macros de C++ que simplifica añadir propiedades a objetos Qt.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
         <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona una versión al día y parcheada de SortFilterProxyModel para QML (antiguo Qt 5).</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Está utilizando una conexión de datos móvil.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -1184,7 +1184,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="132"/>
         <source>Phone number</source>
-        <translation>Número de teléfono</translation>
+        <translation>Número telefónico</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
@@ -1204,12 +1204,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="170"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar enlace</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="185"/>
