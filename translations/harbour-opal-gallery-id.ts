@@ -182,12 +182,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="214"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geser ke kiri untuk melihat pratinjau.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat ini Anda terhubung melalui data seluler.</translation>
     </message>
 </context>
 <context>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda sedang menggunakan koneksi data seluler.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -831,7 +831,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Silakan mengacu &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Silakan mengacu ke &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
@@ -1182,7 +1182,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="132"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomer HP</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
@@ -1202,17 +1202,17 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="170"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin link</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin tulisan</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="185"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagikan</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="204"/>
@@ -1232,7 +1232,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="117"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagikan link</translation>
     </message>
 </context>
 <context>

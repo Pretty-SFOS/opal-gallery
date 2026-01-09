@@ -638,7 +638,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apabila Anda berkenan, donasi merupakan cara paling sederhana untuk mendukung keberlanjutan pengembangan aplikasi Sailfish. Setiap kontribusi sangat berarti, baik berupa secangkir kopi, sepotong pizza, maupun lebih.</translation>
     </message>
 </context>
 <context>
@@ -646,12 +646,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="18"/>
         <source>This is a short description of the app. It can use styled and rich text or &lt;a href=&apos;https://example.org&apos;&gt;links&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini adalah deskripsi singkat aplikasi. Dapat menggunakan teks bergaya dan kaya format atau &lt;a href=&quot;https://example.org&quot;&gt;tautan&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
         <source>the app&apos;s maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengelola aplikasi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="22"/>
