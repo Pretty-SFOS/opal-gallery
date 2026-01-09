@@ -28,9 +28,58 @@ Page {
                     opacity: 0.0
                     Behavior on opacity { FadeAnimation { duration: 300 } }
                     url: externalUrl
+                    privateMode: true
             }", root)
-        } else if (__webview) {
+
+            spinnerTimeout.restart()
+            timeout.restart()
+        } else if (!!__webview) {
+            __webview.stop()
             __webview.destroy()
+            loadSpinner.running = false
+            spinnerTimeout.stop()
+            timeout.stop()
+        }
+    }
+
+    BusyLabel {
+        id: loadSpinner
+        running: false
+    }
+
+    SilicaFlickable {
+        id: previewFailed
+        anchors.fill: parent
+        visible: false
+
+        ViewPlaceholder {
+            enabled: true
+            text: qsTranslate("Opal.LinkHandler", "No preview available.")
+            hintText: qsTranslate("Opal.LinkHandler", "The page is taking too long to load.")
+        }
+    }
+
+    Timer {
+        id: timeout
+        interval: 10*1000
+        running: false
+        onTriggered: {
+            if (!!__webview && !__webview.loaded) {
+                __webview.stop()
+                __webview.destroy()
+                loadSpinner.running = false
+                previewFailed.visible = true
+            }
+        }
+    }
+
+    Timer {
+        id: spinnerTimeout
+        interval: 1000
+        onTriggered: {
+            if (!!__webview && !__webview.loaded) {
+                loadSpinner.running = true
+            }
         }
     }
 
@@ -39,6 +88,7 @@ Page {
         onLoadProgressChanged: {
             if (__webview.loadProgress > 80) {
                 __webview.opacity = 1.0
+                loadSpinner.running = false
             }
         }
     }

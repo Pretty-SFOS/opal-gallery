@@ -108,7 +108,8 @@ S.Page {
                     }
                     I.InfoMenuItem {
                         text: qsTranslate("Opal.LinkHandler", "disabled")
-                        info: qsTranslate("Opal.LinkHandler", "This mode disables the preview.")
+                        info: qsTranslate("Opal.LinkHandler", "This mode disables the preview.") + " " +
+                              qsTranslate("Opal.LinkHandler", "This is the default setting.")
                         property int value: L.LinkPreviewMode.disabled
                     }
                 }

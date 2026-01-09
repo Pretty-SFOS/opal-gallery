@@ -27,7 +27,7 @@ Page {
      */
     property url externalUrl
     property string title: '' // optional
-    property int previewMode: LinkPreviewMode.auto
+    property int previewMode: LinkPreviewMode.disabled
 
     /*
      Implementation details:
@@ -98,6 +98,10 @@ Page {
 
     Loader {
         id: netCheck
+
+        // With LinkPreviewMode.enabled, we don't check for neither connection
+        // nor connection type. The mobile data warning is also not available
+        // in that case.
         active: previewMode == LinkPreviewMode.auto ||
                 previewMode == LinkPreviewMode.disabledIfMobile
         asynchronous: true
@@ -211,8 +215,8 @@ Page {
         }
 
         Label {
-            text: qsTr("Swipe left to preview.") + (_networkIsWifi ?
-                "" : "\n" + qsTr("You are using a mobile data connection."))
+            text: qsTr("Swipe left to preview.") + (_networkIsConnected && !_networkIsWifi ?
+                "\n" + qsTr("You are using a mobile data connection.") : "")
             visible: canNavigateForward &&
                      pageStack.nextPage(root).hasOwnProperty('__linkhandler_webview')
             width: parent.width - 2*Theme.horizontalPageMargin

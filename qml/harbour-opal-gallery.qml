@@ -129,8 +129,8 @@ ApplicationWindow
         "opal-linkhandler": {
             appName: "Opal.LinkHandler",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides a link handler to open or copy external links."),
-            appVersion: "2.4.0",
-            mainAttributions: ['2020-2025 Mirian Margiani','2025 roundedrectangle'],
+            appVersion: "2.6.0",
+            mainAttributions: ['2020-2026 Mirian Margiani','2025 roundedrectangle'],
             maintainers: ['Mirian Margiani'],
             contributors: ['roundedrectangle'],
             mainLicenseSpdx: "GPL-3.0-or-later",
@@ -159,8 +159,8 @@ ApplicationWindow
         "opal-sfpm": {
             appName: "Opal.SortFilterProxyModel",
             description: QT_TRANSLATE_NOOP("ModuleDescriptions", "This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5)."),
-            appVersion: "1.0.2",
-            mainAttributions: ['2016 Pierre-Yves Siret','2025 Mirian Margiani'],
+            appVersion: "1.0.3",
+            mainAttributions: ['2016 Pierre-Yves Siret','2025-2026 Mirian Margiani'],
             maintainers: ['Mirian Margiani'],
             contributors: ['Pierre-Yves Siret'],
             mainLicenseSpdx: "GPL-3.0-or-later",

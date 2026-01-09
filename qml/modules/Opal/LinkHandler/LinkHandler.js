@@ -7,7 +7,7 @@
 // Note: this file is not a marked as a library because it needs some variables
 // from the calling context (pageStack).
 
-var _defaultPreviewMode = 0
+var _defaultPreviewMode = 3
 
 /*!
     \qmltype LinkHandler
@@ -69,13 +69,25 @@ function _fixPageOrientations() {
   You can give an optional page title in the \a title argument. A default title based
   on the URL type is used if this argument is empty.
 
-  The preview is only enabled if the link is a web address (HTTP or HTTPS) and
-  the app has network access (connection and permissions).
+  \section2 Link previews
 
-  \note this module is compatible with older Sailfish versions where the \c WebView
-  module is not available. However, the preview will be disabled.
+  \note link previews are only available on recent Sailfish versions where the
+  \c WebView module is available. Older Sailfish versions are still supported
+  but without previews.
+
+  The link handler can optionally allow users to quickly preview a link by swiping
+  left, without having to open the browser. This feature is disabled by default.
+
+  \warning Considerations before enabling link previews: once the first preview is
+  loaded, your app will get a new browser profile data folder which takes up valuable space.
+  This folder is also shared with other \c WebView instances in your app which can
+  be a privacy concern.
 
   Optionally, set the \a previewMode parameter to one of the following values.
+
+  In any case, the preview is only enabled if the link is a valid address
+  (only HTTPS by default, see \c allowedSchemesRegex to change this) and
+  the app has network access (connection and permissions).
 
   \table
     \header
@@ -83,7 +95,7 @@ function _fixPageOrientations() {
         \li Description
     \row
         \li \c LinkPreviewMode.auto
-        \li default: enables the preview if any network connection is available and the URL scheme is valid
+        \li enables the preview if any network connection is available and the URL scheme is valid
     \row
         \li \c LinkPreviewMode.disabledIfMobile
         \li disables the preview if the device is connected via a mobile data connection
@@ -92,7 +104,7 @@ function _fixPageOrientations() {
         \li enables the preview if the URL scheme is valid
     \row
         \li \c LinkPreviewMode.disabled
-        \li disables the preview
+        \li default: disables the preview
   \endtable
 
   You can pass extra properties directly to the handler page by passing an object in
