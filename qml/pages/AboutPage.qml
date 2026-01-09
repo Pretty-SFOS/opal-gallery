@@ -100,7 +100,6 @@ A.AboutPageBase {
                         "Francisco Serrador",
                         "Jaime Marquínez Ferrándiz",
                         "Kamborio",
-                        "Mirian Margiani",
                         "gallegonovato",
                         "iloky_67"
                     ]
@@ -141,7 +140,7 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Norwegian Bokmål")
                     entries: [
-                        "Mirian Margiani"
+                        "Frank Paul Silye"
                     ]
                 },
                 A.ContributionGroup {
@@ -154,6 +153,7 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Indonesian")
                     entries: [
+                        "Om Era",
                         "Reza Almanda"
                     ]
                 },
@@ -191,6 +191,12 @@ A.AboutPageBase {
                     title: qsTr("English")
                     entries: [
                         "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Dutch")
+                    entries: [
+                        "Om Era"
                     ]
                 },
                 A.ContributionGroup {
