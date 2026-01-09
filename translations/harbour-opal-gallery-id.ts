@@ -58,32 +58,32 @@
         <translation>Bahasa Spanyol</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="109"/>
+        <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Slovak</source>
         <translation>Bahasa Slovakia</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="115"/>
+        <location filename="../qml/pages/AboutPage.qml" line="114"/>
         <source>Russian</source>
         <translation>Bahasa Rusia</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="128"/>
+        <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Romanian</source>
         <translation>Bahasa Rumania</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="135"/>
+        <location filename="../qml/pages/AboutPage.qml" line="134"/>
         <source>Polish</source>
         <translation>Bahasa Polandia</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="142"/>
+        <location filename="../qml/pages/AboutPage.qml" line="141"/>
         <source>Norwegian Bokmål</source>
         <translation>Bokmål Norwegia</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="148"/>
+        <location filename="../qml/pages/AboutPage.qml" line="147"/>
         <source>Italian</source>
         <translation>Bahasa Italia</translation>
     </message>
@@ -104,16 +104,21 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="197"/>
+        <source>Dutch</source>
+        <translation>Bahasa Belanda</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="203"/>
         <source>Czech</source>
         <translation>Bahasa Ceko</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="204"/>
+        <location filename="../qml/pages/AboutPage.qml" line="210"/>
         <source>Chinese</source>
         <translation>Bahasa Cina</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="213"/>
+        <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
         <translation type="unfinished"></translation>
     </message>
@@ -128,7 +133,7 @@
         <translation>Bahasa Prancis</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="155"/>
+        <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Indonesian</source>
         <translation>Bahasa Indonesia</translation>
     </message>
@@ -180,12 +185,12 @@
 <context>
     <name>ExternalUrlPage</name>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="214"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>Swipe left to preview.</source>
         <translation>Geser ke kiri untuk melihat pratinjau.</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="215"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="220"/>
         <source>You are using a mobile data connection.</source>
         <translation>Saat ini Anda terhubung melalui data seluler.</translation>
     </message>
@@ -745,7 +750,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation>Anda sedang menggunakan koneksi data seluler.</translation>
+        <translation>Saat ini Anda terhubung melalui data seluler.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -831,7 +836,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Silakan mengacu ke &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Silakan mengacu &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
@@ -1155,84 +1160,99 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="118"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
+        <source>This is the default setting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
         <source>There can be different kinds of links in a label and they can be handled individually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="126"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="127"/>
         <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="134"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="135"/>
         <source>Call me</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="146"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="147"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="155"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="156"/>
         <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="132"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="137"/>
         <source>Phone number</source>
         <translation>Nomer HP</translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="136"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="137"/>
         <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="142"/>
+        <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="143"/>
         <source>Silica tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="133"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="138"/>
         <source>External link</source>
         <translation>Tautan luar</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="170"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
         <source>Copy link</source>
         <translation>Salin link</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="175"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="180"/>
         <source>Copy text</source>
         <translation>Salin tulisan</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="185"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="190"/>
         <source>Share</source>
         <translation>Bagikan</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="204"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="209"/>
         <source>Open in browser</source>
         <translation>Buka di browser</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="205"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="210"/>
         <source>Open externally</source>
         <translation>Buka di luar</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="94"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="95"/>
         <source>Copied to clipboard: %1</source>
         <translation>Disalin ke papan klip: %1</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="117"/>
+        <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="122"/>
         <source>Share link</source>
         <translation>Bagikan link</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
+        <source>No preview available.</source>
+        <translation>Pratinjau tidak dapat ditampilkan</translation>
+    </message>
+    <message>
+        <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="59"/>
+        <source>The page is taking too long to load.</source>
+        <translation>Waktu muat halaman terlalu lama.</translation>
     </message>
 </context>
 <context>
