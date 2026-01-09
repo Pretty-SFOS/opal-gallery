@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2018-2025 Mirian Margiani
+SPDX-FileCopyrightText: 2018-2026 Mirian Margiani
 SPDX-License-Identifier: GFDL-1.3-or-later
 -->
 
@@ -156,7 +156,7 @@ AI-generated contributions.
 
 ## License
 
-> Copyright (C) 2021-2025  Mirian Margiani
+> Copyright (C) 2021-2026  Mirian Margiani
 
 Opal Gallery is Free Software released under the terms of the
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
