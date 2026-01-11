@@ -187,12 +187,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="218"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проведіть пальцем ліворуч для попереднього перегляду.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви використовуєте мобільне передавання даних.</translation>
     </message>
 </context>
 <context>
@@ -542,19 +542,19 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль надає набір інструментів для безпечної та розширюваної роботи з локальними базами даних у JavaScript та Python.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
         <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль надає макроси C++, які спрощують додавання властивостей до об&apos;єктів Qt.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
         <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль надає оновлену та виправлену версію SortFilterProxyModel для QML (стара версія Qt 5).</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
@@ -750,7 +750,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви використовуєте мобільне передавання даних.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -1091,7 +1091,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
         <source>This module lets users decide what to do when they click on a link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль дозволяє користувачам вирішувати, що робити, коли вони натискають на посилання.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
@@ -1106,92 +1106,92 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
         <source>The link handler can optionally allow users to quickly preview a link by swiping left, without having to open the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обробник посилань може за бажанням дозволити користувачам швидко переглянути посилання, провівши пальцем ліворуч, без необхідності відкривати браузер.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
         <source>No network connections will be made without explicit user interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Жодні мережеві з&apos;єднання не будуть встановлені без явної взаємодії з користувачем.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
         <source>The URL scheme is checked and must be valid in all modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Схема URL-адреси перевірена та має бути дійсною в усіх режимах.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
         <source>automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>автоматичний</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
         <source>This mode enables the preview if any network connection is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей режим дозволяє попередній перегляд, якщо доступне мережеве з’єднання.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="97"/>
         <source>no mobile data</source>
-        <translation type="unfinished"></translation>
+        <translation>немає мобільних даних</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="98"/>
         <source>This mode only enables the preview if connected via Wifi. The preview is disabled when using mobile data.</source>
-        <translation type="unfinished"></translation>
+        <translation>У цьому режимі попередній перегляд доступний лише за умови підключення через Wi-Fi. Під час використання мобільних даних попередній перегляд вимикається.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>увімкнено</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
         <source>This mode enables the preview without checking for network access. Use this e.g. for links on &lt;i&gt;localhost&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей режим дозволяє перегляд без перевірки доступу до мережі. Використовуйте це, наприклад, для посилань на &lt;i&gt;localhost&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>вимкнено</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
         <source>This mode disables the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>У цьому режимі попередній перегляд вимикається.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
         <source>This is the default setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це налаштування за замовчуванням.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
         <source>There can be different kinds of links in a label and they can be handled individually.</source>
-        <translation type="unfinished"></translation>
+        <translation>У мітці можуть бути різні типи посилань, і їх можна обробляти окремо.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="127"/>
         <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це &lt;a href=&quot;tel:+4100000000&quot;&gt;номер телефону&lt;/a&gt;, тоді як це &lt;a href=&quot;https://example.org&quot;&gt;вебсайт&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="135"/>
         <source>Call me</source>
-        <translation type="unfinished"></translation>
+        <translation>Зателефонуй мені</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="147"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica надає елемент «LinkedLabel», який автоматично знаходить посилання та номери телефонів у своєму тексті та робить їх клікабельними. Також зверніть увагу, як скорочується довга URL-адреса.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="156"/>
         <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це число +4100000000 та ця URL-адреса https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically автоматично форматуються як посилання.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="136"/>
@@ -1216,12 +1216,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="174"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати посилання</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="179"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати текст</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="189"/>
@@ -1251,12 +1251,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="57"/>
         <source>No preview available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередній перегляд недоступний.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
         <source>The page is taking too long to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка завантажується занадто довго.</translation>
     </message>
 </context>
 <context>
@@ -1510,7 +1510,7 @@
     <message>
         <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
         <source>About this module</source>
-        <translation type="unfinished"></translation>
+        <translation>Про цей модуль</translation>
     </message>
 </context>
 <context>
@@ -1531,32 +1531,32 @@
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортувати за</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Ціна</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Напрямок</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат</translation>
     </message>
 </context>
 <context>
