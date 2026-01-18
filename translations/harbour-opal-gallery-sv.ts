@@ -1164,7 +1164,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
         <source>This is the default setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta är standardinställningen.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
@@ -1249,12 +1249,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="57"/>
         <source>No preview available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen förhandsvisning tillgänglig.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
         <source>The page is taking too long to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidan tar för lång tid att läsa in.</translation>
     </message>
 </context>
 <context>
