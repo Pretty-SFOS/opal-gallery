@@ -187,12 +187,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="218"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatsele pyyhkäisemällä vasemmalle.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytössäsi on mobiilidatayhteys.</translation>
     </message>
 </context>
 <context>
@@ -433,7 +433,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="86"/>
         <source>These modules are finished and are ready to be used in your apps. They are fully documented in the Sailfish IDE.</source>
-        <translation>Nämä moduulit ovat viimeistelyjä ja valmiita käytettäviksi sovelluksissasi. Ne on dokumentoitu kokonaisuudessaan Sailfish IDE:ssa.</translation>
+        <translation>Nämä moduulit ovat viimeisteltyjä ja valmiita käytettäviksi sovelluksissasi. Ne on dokumentoitu kokonaisuudessaan Sailfish IDE:ssa.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="90"/>
@@ -750,7 +750,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytössäsi on mobiilidatayhteys.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -1194,7 +1194,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="136"/>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Puhelinnumero</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="137"/>
@@ -1214,12 +1214,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="174"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi linkki</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="179"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi teksti</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="189"/>
@@ -1249,12 +1249,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="57"/>
         <source>No preview available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatselu ei ole saatavilla.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
         <source>The page is taking too long to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivun lataaminen kestää liian kauan.</translation>
     </message>
 </context>
 <context>
@@ -1298,7 +1298,7 @@
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehittäjän tiedot:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
@@ -1308,12 +1308,12 @@
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovelluksen käynnistäminen epäonnistui, koska tietokannan versio on %1, mutta vain versio %2 on tuettu.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokannan ylläpito</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
