@@ -1612,7 +1612,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished">Apabila Anda berkenan, donasi merupakan cara paling sederhana untuk mendukung keberlanjutan pengembangan aplikasi Sailfish. Setiap kontribusi sangat berarti, baik berupa secangkir kopi, sepotong pizza, maupun lebih.</translation>
+        <translation>Apabila Anda berkenan, donasi merupakan cara paling sederhana untuk mendukung keberlanjutan pengembangan aplikasi Sailfish. Setiap kontribusi sangat berarti, baik berupa secangkir kopi, sepotong pizza, maupun lebih.</translation>
     </message>
 </context>
 <context>

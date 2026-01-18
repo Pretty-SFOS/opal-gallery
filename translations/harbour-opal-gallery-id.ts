@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugis Brasil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Hak lisensi data</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>

@@ -45,7 +45,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilsk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumensk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisisk (Brasil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
@@ -676,7 +676,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Datalisens</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
