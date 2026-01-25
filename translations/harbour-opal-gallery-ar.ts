@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>البرتغالية البرازيلية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت تستخدم بيانات الهاتف.</translation>
     </message>
 </context>
 <context>
@@ -676,7 +676,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>البيانات</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>تراخيص البيانات</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
