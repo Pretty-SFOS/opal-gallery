@@ -70,8 +70,9 @@ Module metadata and examples live in the respective repositories. After the new
 module is properly prepared, register it in [fetch-modules.sh](fetch-modules.sh).
 Run the script to include the new module in Opal Gallery.
 
-> You can find screenshots [here](https://codeberg.org/ichthyosaurus/sailfish-app-assets/src/branch/main/harbour-opal-gallery/screenshots-store).
+## Screenshots
 
+You can find screenshots [here](https://codeberg.org/ichthyosaurus/sailfish-app-assets/src/branch/main/harbour-opal-gallery/screenshots-store).
 
 ## Permissions
 
