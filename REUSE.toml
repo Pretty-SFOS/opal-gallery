@@ -1,0 +1,37 @@
+version = 1
+SPDX-PackageName = "Opal Gallery"
+SPDX-PackageSupplier = "Mirian Margiani <mixosaurus+ichthyo@pm.me>"
+SPDX-PackageDownloadLocation = "https://codeberg.org/opal-sfos/harbour-opal-gallery"
+
+[[annotations]]
+path = "translations/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2020-2021 Opal Gallery translations contributors"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+
+[[annotations]]
+path = "rpm/harbour-opal-gallery.spec"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "harbour-opal-gallery contributors"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileComment = "This file is generated from [this file's name].yaml and shares copyright with it."
+
+[[annotations]]
+path = ["icons/**", "qml/images/**", "dist/harbour-**.png"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mirian Margiani"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+SPDX-FileComment = "These files are generated from the sources at icon-src/*."
+
+[[annotations]]
+path = "icons-src/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mirian Margiani"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+SPDX-FileComment = "These files contain proper Dublin Core licensing metadata."
+
+[[annotations]]
+path = "TRANSLATORS.json"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "translations contributors"
+SPDX-License-Identifier = "GPL-3.0-or-later"
