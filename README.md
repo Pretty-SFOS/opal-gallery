@@ -96,7 +96,7 @@ if you have any questions or ideas.
 
 It would be wonderful if the app could be translated in as many languages as possible!
 
-[![Translations status](https://hosted.weblate.org/widget/harbour-opal-gallery/horizontal-auto.svg)](https://hosted.weblate.org/engage/harbour-opal-gallery/)
+[![Translations status](https://hosted.weblate.org/widget/opal/opal-gallery/horizontal-auto.svg)](https://hosted.weblate.org/engage/opal/)
 
 Translations are managed using
 [Weblate](https://hosted.weblate.org/projects/opal).
