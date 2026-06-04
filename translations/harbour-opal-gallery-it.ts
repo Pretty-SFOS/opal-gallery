@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation>Mantenitori</translation>
+        <translation>Manutentori</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Tamil</source>
-        <translation>tamil</translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="97"/>
         <source>Spanish</source>
-        <translation>spagnolo</translation>
+        <translation>Spagnolo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese brasiliano</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Per favore, considera di contribuire al progetto in un modo o l&apos;altro.</translation>
+        <translation>Per favore, considera di contribuire al progetto in un modo o nell&apos;altro.</translation>
     </message>
 </context>
 <context>
@@ -187,12 +187,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="218"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorri a sinistra per l&apos;anteprima.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai utilizzando una connessione dati mobile.</translation>
     </message>
 </context>
 <context>
@@ -542,19 +542,19 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo modulo fornisce un set di strumenti per gestire in modo sicuro ed estensibile i database locali in JavaScript e Python.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
         <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo modulo fornisce macro C++ che semplificano l&apos;aggiunta di proprietà agli oggetti Qt.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
         <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo modulo fornisce una versione aggiornata e corretta di SortFilterProxyModel per QML (vecchio Qt 5).</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
@@ -618,7 +618,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Supportaci con manutenzione e pacchettizzazione, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
+        <translation>Supportaci con manutenzione e impacchettamento, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="36"/>
@@ -633,7 +633,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo ed impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
+        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un&apos;hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo e impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="55"/>
@@ -643,7 +643,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza, o di più.</translation>
+        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza o altro.</translation>
     </message>
 </context>
 <context>
@@ -750,7 +750,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai utilizzando una connessione dati mobile.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
@@ -763,7 +763,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="742"/>
         <source>About</source>
-        <translation>In riguardo</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
@@ -819,7 +819,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
         <source>Download license texts</source>
-        <translation>Scarica i testi delle licenze</translation>
+        <translation>Scarica testi delle licenze</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
@@ -844,7 +844,7 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation>Registro delle modifiche</translation>
+        <translation>Rapporto delle modifiche</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
@@ -1089,7 +1089,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
         <source>This module lets users decide what to do when they click on a link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo modulo consente agli utenti di decidere cosa fare quando cliccano su un collegamento.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
@@ -1104,92 +1104,92 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
         <source>The link handler can optionally allow users to quickly preview a link by swiping left, without having to open the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gestore dei link può facoltativamente consentire agli utenti di visualizzare rapidamente un&apos;anteprima di un link scorrendo verso sinistra, senza dover aprire il browser.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
         <source>No network connections will be made without explicit user interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna connessione di rete verrà effettuata senza l&apos;interazione esplicita dell&apos;utente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
         <source>The URL scheme is checked and must be valid in all modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo schema URL viene verificato e deve essere valido in tutte le modalità.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
         <source>automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>automatico</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
         <source>This mode enables the preview if any network connection is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa modalità consente l&apos;anteprima se è disponibile una connessione di rete.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="97"/>
         <source>no mobile data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna connessione dati</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="98"/>
         <source>This mode only enables the preview if connected via Wifi. The preview is disabled when using mobile data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa modalità consente l&apos;anteprima solo se connessi tramite Wi-Fi. L&apos;anteprima è disabilitata quando si utilizzano i dati mobili.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>abilitato</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
         <source>This mode enables the preview without checking for network access. Use this e.g. for links on &lt;i&gt;localhost&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa modalità consente l&apos;anteprima senza verificare l&apos;accesso alla rete. Utilizzarla ad esempio per i link su &lt;i&gt;localhost&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>disabilitato</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
         <source>This mode disables the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa modalità disabilita l&apos;anteprima.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
         <source>This is the default setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa è l&apos;impostazione predefinita.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
         <source>There can be different kinds of links in a label and they can be handled individually.</source>
-        <translation type="unfinished"></translation>
+        <translation>In un&apos;etichetta possono essere presenti diversi tipi di link, che possono essere gestiti singolarmente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="127"/>
         <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è &lt;a href=&quot;tel:+4100000000&quot;&gt;un numero di telefono&lt;/a&gt; mentre questo è &lt;a href=&quot;https://example.org&quot;&gt;un sito web&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="135"/>
         <source>Call me</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamami</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="147"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica fornisce l&apos;elemento &quot;LinkedLabel&quot; che trova automaticamente link e numeri di telefono nel testo e li rende cliccabili. Nota anche come l&apos;URL lungo sia stato abbreviato.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="156"/>
         <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo numero +4100000000 e questo URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically vengono formattati automaticamente come link.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="136"/>
@@ -1214,12 +1214,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="174"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia collegamento</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="179"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia testo</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="189"/>
@@ -1249,12 +1249,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="57"/>
         <source>No preview available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna anteprima disponibile.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
         <source>The page is taking too long to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>La pagina impiega troppo tempo a caricarsi.</translation>
     </message>
 </context>
 <context>
@@ -1262,73 +1262,73 @@
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="27"/>
         <source>Example Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina di esempio</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="31"/>
         <source>Basic usage</source>
-        <translation type="unfinished">Uso di base</translation>
+        <translation>Utilizzo di base</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="38"/>
         <source>This is how to use the new component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecco come utilizzare il nuovo componente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="43"/>
         <source>Advanced usage</source>
-        <translation type="unfinished">Uso avanzato</translation>
+        <translation>Utilizzo avanzato</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-localstorage/gallery.qml" line="50"/>
         <source>This is a more complex scenario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è uno scenario più complesso.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="206"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento del database non riuscito</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="207"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore durante l&apos;aggiornamento del database dalla versione %1 alla versione %2. Segnala il problema.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sullo sviluppatore:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione del database non valida</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="223"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;app non può essere avviata perché il database ha la versione %1 ma è supportata solo la versione %2.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="230"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenzione del database</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="231"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di essere pazienti e di attendere fino a 30 secondi.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="234"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema del database</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="235"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un problema imprevisto nel database. Prova a riavviare l&apos;app.</translation>
     </message>
 </context>
 <context>
@@ -1508,7 +1508,7 @@
     <message>
         <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
         <source>About this module</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su questo modulo</translation>
     </message>
 </context>
 <context>
@@ -1529,32 +1529,32 @@
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordina per</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezzo</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direzione</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Risultato</translation>
     </message>
 </context>
 <context>

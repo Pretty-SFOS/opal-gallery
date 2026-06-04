@@ -35,7 +35,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ukraine</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="78"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="97"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Tây Ban Nha</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
@@ -65,12 +65,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="114"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Nga</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Roman</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="147"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ý</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="178"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="191"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Anh</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="197"/>
@@ -115,27 +115,27 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="210"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Trung Quốc</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Bồ Đào Nha (Brazil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Đức</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="168"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Pháp</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Indonesia</translation>
     </message>
 </context>
 <context>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đang sử dụng dữ liệu di động.</translation>
     </message>
 </context>
 <context>
@@ -390,7 +390,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="178"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Văn bản giấy phép</translation>
     </message>
 </context>
 <context>
@@ -458,7 +458,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="203"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Về</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="214"/>
@@ -676,7 +676,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dữ liệu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép dữ liệu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
@@ -704,17 +704,17 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="41"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="62"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Phát triển</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Lập trình</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiết kế biểu tượng</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
@@ -725,12 +725,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Anh</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Đức</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
@@ -740,7 +740,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="78"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>hiện chi tiết</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="38"/>
@@ -750,39 +750,39 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đang sử dụng dữ liệu di động.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Giấy phép</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="742"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Về</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="818"/>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>hiện người đóng góp</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="867"/>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ủng hộ</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="877"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="891"/>
@@ -797,7 +797,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="71"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="74"/>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã nguồn</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="107"/>
@@ -812,18 +812,18 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="21"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cảm ơn bạn!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải văn bản giấy phép</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="92"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Chi tiết</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="832"/>
@@ -831,7 +831,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="68"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="68"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Trang chủ</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="179"/>
@@ -842,17 +842,17 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhật ký thay đổi</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Tin tức</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="215"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay đổi từ phiên bản %1</translation>
     </message>
 </context>
 <context>
@@ -860,17 +860,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="40"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu bạn muốn hỗ trợ công việc của tôi, bạn có thể mua cho tôi cốc cà phê.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="53"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có thể hỗ trợ dự án bằng cách đóng góp, hoặc ủng hộ bằng 1 trong các dịch vụ sau.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="65"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chúng tôi rất hoan nghênh sự đóng góp của bạn vào việc dịch thuật hoặc lập trình.</translation>
     </message>
 </context>
 <context>
@@ -908,7 +908,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Chi tiết</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
@@ -1661,7 +1661,7 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="37"/>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện mô tả</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery/OptionsTab.qml" line="44"/>
@@ -1709,7 +1709,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Đừng hỏi lại</translation>
     </message>
 </context>
 </TS>

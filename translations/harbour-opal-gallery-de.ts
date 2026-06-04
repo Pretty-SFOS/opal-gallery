@@ -542,50 +542,50 @@
         <location filename="../qml/harbour-opal-gallery.qml" line="141"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="265"/>
         <source>This module provides a set of tools for handling local databases safely and extensibly in JavaScript and Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet eine Reihe von Werkzeugen, um lokale Datenbanken sicher und erweiterbar in JavaScript und Python zu bearbeiten.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="151"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="273"/>
         <source>This module provides C++ macros that simplify adding properties to Qt objects.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dieses Modul bietet C++-Makros, die das Hinzufügen von Eigenschaften zu Qt-Objekten vereinfachen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="161"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="281"/>
         <source>This module provides an up-to-date and patched version of SortFilterProxyModel for QML (old Qt 5).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet eine aktualisierte und gepatchte Version von SortFilterProxyModel für QML (alte Qt 5).</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="318"/>
         <source>This module provides a context menu with support for icons instead of text entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet ein Kontextmenü mit Unterstützung für Icons anstelle von Texteinträgen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="345"/>
         <source>This module provides a drawer that allows splitting long lists into accessible groups.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dieses Modul bietet eine Schublade, die es ermöglicht, lange Listen in zugängliche Gruppen zu teilen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="91"/>
         <location filename="../qml/harbour-opal-gallery.qml" line="225"/>
         <source>This module provides a Harbour-compatible smart scroll bar for long lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet eine Harbour-kompatible Smart Scroll Bar für lange Listen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="331"/>
         <source>This module provides easy to use interaction hints for app tutorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet einfach zu verwendende Interaktionshinweise für App-Tutorials.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="359"/>
         <source>This module allows drawing beautiful charts through QCharts.js.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul ermöglicht das Anfertigen schöner Diagramme mittels QCharts.js.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-opal-gallery.qml" line="379"/>
         <source>This module provides a text field and input area with support for emojis, styled text, and custom links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul bietet ein Textfeld und einen Eingabebereich mit Unterstützung für Emojis, gestylten Text und benutzerdefinierte Links.</translation>
     </message>
 </context>
 <context>
@@ -939,7 +939,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegates basieren auf der Komponente &quot;PaddedDelegate&quot;. Es bietet Outer Padding auf allen Seiten sowie drei optionale Inhaltsteile: links, mitte und rechts.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
@@ -959,7 +959,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="167"/>
         <source>This component has two content lines. The left and right items use “DelegateIconItem” and “DelegateInfoItem” respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Komponente weist zwei Inhaltslinien auf. Die linken und rechten Elemente verwenden jeweils „DelegateIconItem“ bzw. „DelegateInfoItem“.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="186"/>
@@ -969,22 +969,22 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="201"/>
         <source>This component has three content lines. All lines are optional and will be hidden if they are empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Komponente weist drei Inhaltslinien auf. Alle Zeilen sind optional und werden versteckt, wenn sie leer sind.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="222"/>
         <source>Drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag and Drop</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="226"/>
         <source>This module natively supports the drag-and-drop action for manually sorting lists via the Opal.DragDrop module. See the example page of Opal.DragDrop for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul unterstützt die native Drag-and-Drop-Action für manuelles Sortieren von Listen über das Opal.DragDrop-Modul. Siehe die Beispielseite von Opal.DragDrop für Details.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="232"/>
         <source>Complex customizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexe Anpassungen</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="236"/>
@@ -1007,27 +1007,27 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="38"/>
         <source>Enable drag and drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren von Drag and Drop</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="39"/>
         <source>Toggle this switch to see how components react.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Hilfe dieses Schalters kannst Du sehen wie die Komponenten reagieren.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="47"/>
         <source>Full page view</source>
-        <translation type="unfinished"></translation>
+        <translation>Volle Seitenansicht</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="52"/>
         <source>Views using “Opal.Delegates”</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansichten die „Opal.Delegates“ verwenden</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="56"/>
         <source>The Opal.Delegates module supports drag and drop using the Opal.DragDrop module without further configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Opal.Delegates-Modul unterstützt Drag and Drop mit dem Opal.DragDrop-Modul ohne zusätzliche Konfiguration.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="92"/>
@@ -1038,12 +1038,12 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="99"/>
         <source>Custom views</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Ansichten</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="103"/>
         <source>It only takes a few lines more code to enable drag and dropin custom views that do not use the Opal.Delegates module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lediglich ein paar mehr Zeilen Code werden benötigt um Drag and Drop in benutzerdefinierten Ansichten zu aktivieren, die nicht das Opal.Delegates-Modul benutzen.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery.qml" line="166"/>
@@ -1249,12 +1249,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="57"/>
         <source>No preview available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Vorschau vorhanden.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/PreviewPage.qml" line="58"/>
         <source>The page is taking too long to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Seite benötigt zu viel Zeit zum Laden.</translation>
     </message>
 </context>
 <context>

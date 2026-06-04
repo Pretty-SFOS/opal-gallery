@@ -187,7 +187,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="218"/>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslizar a la izquierda para vista anticipada.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
@@ -448,7 +448,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="98"/>
         <source>These modules are being planned, or are in the earliest stages of development.</source>
-        <translation>Estos módulos se están desarrollando o se encuentran en las primeras fases de desarrollo.</translation>
+        <translation>Estos módulos se encuentran en fase de planificación o en las primeras etapas de desarrollo.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="101"/>
@@ -1089,7 +1089,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="41"/>
         <source>This module lets users decide what to do when they click on a link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite a los usuarios decidir qué hacer cuando pulsen sobre un enlace.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="50"/>
@@ -1104,92 +1104,92 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="64"/>
         <source>The link handler can optionally allow users to quickly preview a link by swiping left, without having to open the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>El manipulador de enlace puede permitir opcionalmente a los usuarios obtener una vista previa rápidamente de un enlace deslizando el dedo hacia la izquierda, sin tener que abrir el navegador.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="70"/>
         <source>No network connections will be made without explicit user interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin conexiones de red serán hechas sin interacción de usuario explícito.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="75"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="84"/>
         <source>The URL scheme is checked and must be valid in all modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se verifica el esquema de URL y debe ser válido en todos los modos.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="91"/>
         <source>automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>automático</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="92"/>
         <source>This mode enables the preview if any network connection is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este modo habilita la vista previa si hay alguna conexión de red disponible.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="97"/>
         <source>no mobile data</source>
-        <translation type="unfinished"></translation>
+        <translation>sin datos del móvil</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="98"/>
         <source>This mode only enables the preview if connected via Wifi. The preview is disabled when using mobile data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este modo solo habilita la vista previa si conectó por vía Wifi. La vista previa está inhabilitada cuando utiliza datos móviles.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="104"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>habilitado</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="105"/>
         <source>This mode enables the preview without checking for network access. Use this e.g. for links on &lt;i&gt;localhost&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este modo habilita la vista previa sin comprobar para acceso de red. Utilice esto p.e. para enlaces en &lt;i&gt;localhost&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="110"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>inhabilitado</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="111"/>
         <source>This mode disables the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este modo inhabilita la vista previa.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
         <source>This is the default setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estos son los ajustes por defecto.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
         <source>There can be different kinds of links in a label and they can be handled individually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Allí puede ser reinos de enlaces diferentes dentro de una etiqueta y pueden ser manipulados individualmente.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="127"/>
         <source>This is &lt;a href=&quot;tel:+4100000000&quot;&gt;a phone number&lt;/a&gt; while this is &lt;a href=&quot;https://example.org&quot;&gt;a website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto es &lt;a href=&quot;tel:+4100000000&quot;&gt;un número telefónico&lt;/a&gt; mientras esto es &lt;a href=&quot;https://example.org&quot;&gt;un sitio web&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="135"/>
         <source>Call me</source>
-        <translation type="unfinished"></translation>
+        <translation>Llámame</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="147"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silica proporciona el elemento “LinkedLabel” que encuentra automáticamente y números de teléfonos en este texto y los hacer pulsables. Además anota como el URL largo es recortado.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="156"/>
         <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este número +4100000000 y este URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically son formateados automáticamente como enlaces.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="136"/>
@@ -1508,7 +1508,7 @@
     <message>
         <location filename="../qml/module-pages/opal-propertymacros/gallery.qml" line="30"/>
         <source>About this module</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre este módulo</translation>
     </message>
 </context>
 <context>
@@ -1529,32 +1529,32 @@
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="56"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="64"/>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="71"/>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Precio</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado</translation>
     </message>
 </context>
 <context>

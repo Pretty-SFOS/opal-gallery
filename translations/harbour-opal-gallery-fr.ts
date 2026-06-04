@@ -215,7 +215,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="23"/>
         <source>@John: are there any taters left?</source>
-        <translation>@John : y a-t-il encore des patates ?</translation>
+        <translation>@John&#xa0;: y a-t-il encore des patates&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="27"/>
@@ -255,7 +255,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryChatModel.qml" line="37"/>
         <source>@Jane, come over, I have some ready right now!</source>
-        <translation>@Jane, viens par ici, j’en ai de prêtes tout de suite !</translation>
+        <translation>@Jane, viens par ici, j’en ai de prêtes tout de suite&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -274,7 +274,7 @@
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="16"/>
         <source>Best against doctors!</source>
         <comment>example text, as in: “an apple a day keeps the doctor away”</comment>
-        <translation>Meilleure contre les médecins !</translation>
+        <translation>Meilleure contre les médecins&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="20"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="23"/>
         <source>Only today: two for one!</source>
-        <translation>Seulement aujourd’hui : deux pour un(e) !</translation>
+        <translation>Seulement aujourd’hui&#xa0;: deux pour un(e)&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="26"/>
@@ -299,7 +299,7 @@
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="29"/>
         <source>Special gift!</source>
-        <translation>Cadeau spécial !</translation>
+        <translation>Cadeau spécial&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/common/Opal/Gallery/GalleryFruitModel.qml" line="32"/>
@@ -623,7 +623,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="36"/>
         <source>Why should you care?</source>
-        <translation>En quoi ça te concerne ?</translation>
+        <translation>En quoi ça te concerne&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="39"/>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="55"/>
         <source>Why donate?</source>
-        <translation>Pourquoi faire un don ?</translation>
+        <translation>Pourquoi faire un don&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="58"/>
@@ -939,7 +939,7 @@
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="54"/>
         <source>Delegates are based on the “PaddedDelegate” component. It provides outer padding on all sides, as well as three optional content parts: left, center, and right.</source>
-        <translation>Les délégués sont basés sur le composant “PaddedDelegate”. Il fournit un rembourrage extérieur sur tous les côtés, ainsi que trois parties de contenu en option : gauche, centre et droite.</translation>
+        <translation>Les délégués sont basés sur le composant “PaddedDelegate”. Il fournit un rembourrage extérieur sur tous les côtés, ainsi que trois parties de contenu en option&#xa0;: gauche, centre et droite.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-delegates/gallery.qml" line="111"/>
@@ -1066,7 +1066,7 @@
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="63"/>
         <source>Current index: %1</source>
-        <translation>Indice actuel : %1</translation>
+        <translation>Indice actuel&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-dragdrop/gallery/FullPageView.qml" line="73"/>
@@ -1164,7 +1164,7 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="112"/>
         <source>This is the default setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;est le réglage par défaut.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="119"/>
@@ -1179,17 +1179,17 @@
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="135"/>
         <source>Call me</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelle-moi</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="147"/>
         <source>Silica provides the “LinkedLabel” item that automatically finds links and phone numbers in its text and makes them clickable. Also note how the long URL is shortened.</source>
-        <translation>Silica fournit l’élément « LinkedLabel » qui trouve automatiquement des liens et des numéros de téléphone dans son texte et les rend cliquables. Notez également comme l’URL longue est raccourcie.</translation>
+        <translation>Silica fournit l’élément «&#xa0;LinkedLabel&#xa0;» qui trouve automatiquement des liens et des numéros de téléphone dans son texte et les rend cliquables. Notez également comme l’URL longue est raccourcie.</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-linkhandler/gallery.qml" line="156"/>
         <source>This number +4100000000 and this URL https://example.org/very-long?extra-long-data-which-will-be-shortened-automatically are automatically formatted as links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce numéro +4100000000 et cette URL https://exemple.org/very-long?extra-long-data-which-will-be-shortened-automatically sont automatiquement formatés en tant que liens.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="136"/>
@@ -1298,7 +1298,7 @@
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="213"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="238"/>
         <source>Developer information:</source>
-        <translation>Information développeur :</translation>
+        <translation>Information développeur&#xa0;:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="222"/>
@@ -1549,12 +1549,12 @@
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="81"/>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-sfpm/gallery.qml" line="94"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat</translation>
     </message>
 </context>
 <context>
@@ -1592,7 +1592,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="36"/>
         <source>Why should you care?</source>
-        <translation>En quoi ça te concerne ?</translation>
+        <translation>En quoi ça te concerne&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="39"/>
@@ -1607,7 +1607,7 @@
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="55"/>
         <source>Why donate?</source>
-        <translation>Pourquoi faire un don ?</translation>
+        <translation>Pourquoi faire un don&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-supportme/gallery.qml" line="58"/>
@@ -1620,7 +1620,7 @@
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="27"/>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Tchats</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-tabs/gallery.qml" line="30"/>
@@ -1691,17 +1691,17 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Salut !</translation>
+        <translation>Salut&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Merci d&apos;utiliser ma petite application ! Vous pouvez peut-être contribuer ?</translation>
+        <translation>Merci d&apos;utiliser ma petite application&#x202f;! Vous pouvez peut-être contribuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation>Merci pour votre soutien !</translation>
+        <translation>Merci pour votre soutien&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="148"/>
