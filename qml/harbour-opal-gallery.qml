@@ -34,7 +34,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-about"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-about"
         },
         "opal-supportme": {
             appName: "Opal.SupportMe",
@@ -44,7 +44,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-supportme"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-supportme"
         },
         "opal-mediaplayer": {
             appName: "Opal.MediaPlayer",
@@ -54,7 +54,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: ['Leszek Lesner','Simo Piiroinen','Muki'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-mediaplayer"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-mediaplayer"
         },
         "opal-tabs": {
             appName: "Opal.Tabs",
@@ -64,7 +64,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: ['roundedrectangle'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-tabs"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-tabs"
         },
         "opal-delegates": {
             appName: "Opal.Delegates",
@@ -74,7 +74,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: ['Peter G.'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-delegates"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-delegates"
         },
         "opal-dragdrop": {
             appName: "Opal.DragDrop",
@@ -84,7 +84,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-dragdrop"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-dragdrop"
         },
         "opal-smartscrollbar": {
             appName: "Opal.SmartScrollbar",
@@ -94,7 +94,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-smartscrollbar"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-smartscrollbar"
         },
         "opal-infocombo": {
             appName: "Opal.InfoCombo",
@@ -104,7 +104,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-infocombo"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-infocombo"
         },
         "opal-combodata": {
             appName: "Opal.ComboData",
@@ -114,7 +114,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-combodata"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-combodata"
         },
         "opal-menuswitch": {
             appName: "Opal.MenuSwitch",
@@ -124,7 +124,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-menuswitch"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-menuswitch"
         },
         "opal-linkhandler": {
             appName: "Opal.LinkHandler",
@@ -134,7 +134,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: ['roundedrectangle'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-linkhandler"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-linkhandler"
         },
         "opal-localstorage": {
             appName: "Opal.LocalStorage",
@@ -144,7 +144,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-localstorage"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-localstorage"
         },
         "opal-propertymacros": {
             appName: "Opal.PropertyMacros",
@@ -154,7 +154,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: [],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-propertymacros"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-propertymacros"
         },
         "opal-sfpm": {
             appName: "Opal.SortFilterProxyModel",
@@ -164,7 +164,7 @@ ApplicationWindow
             maintainers: ['Mirian Margiani'],
             contributors: ['Pierre-Yves Siret'],
             mainLicenseSpdx: "GPL-3.0-or-later",
-            sourcesUrl: "https://github.com/Pretty-SFOS/opal-sfpm"
+            sourcesUrl: "https://codeberg.org/opal-sfos/opal-sfpm"
         }
         //<<< GENERATED LIST OF MODULE DETAILS
     })
@@ -307,7 +307,7 @@ ApplicationWindow
 
         ListElement {
             // Code:
-            // - https://github.com/Pretty-SFOS/opal/issues/9
+            // - https://codeberg.org/opal-sfos/opal/issues/9
             // - https://github.com/Michal-Szczepaniak/Yottagram/blob/master/Yottagram/qml/components/MessageContextMenu.qml
             // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/FileActions.qml
             // - https://github.com/ichthyosaurus/harbour-captains-log/blob/main/qml/components/MoodMenu.qml
@@ -324,7 +324,7 @@ ApplicationWindow
             // Code:
             // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/components/hints
             // - https://gitlab.com/cy8aer/podqast/-/tree/master/qml/lib/hints
-            // - https://github.com/Pretty-SFOS/opal/issues/8
+            // - https://codeberg.org/opal-sfos/opal/issues/8
 
             key: "opal-hints"
             title: "Opal.Hints"
@@ -336,9 +336,9 @@ ApplicationWindow
         ListElement {
             // Code:
             // - https://github.com/ichthyosaurus/harbour-file-browser/blob/main/qml/components/GroupedDrawer.qml
-            // - https://github.com/Pretty-SFOS/opal-about/blob/main/Opal/About/private/LicenseListPart.qml
-            // - https://github.com/Pretty-SFOS/opal-supportme/blob/main/Opal/SupportMe/DetailsDrawer.qml
-            // - https://github.com/Pretty-SFOS/opal-supportme/blob/main/Opal/SupportMe/DetailsParagraph.qml
+            // - https://codeberg.org/opal-sfos/opal-about/blob/main/Opal/About/private/LicenseListPart.qml
+            // - https://codeberg.org/opal-sfos/opal-supportme/blob/main/Opal/SupportMe/DetailsDrawer.qml
+            // - https://codeberg.org/opal-sfos/opal-supportme/blob/main/Opal/SupportMe/DetailsParagraph.qml
 
             key: "opal-drawer"
             title: "Opal.Drawer"

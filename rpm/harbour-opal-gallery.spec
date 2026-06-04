@@ -14,7 +14,7 @@ Version:    1.8.1
 Release:    1
 Group:      System/Libraries
 License:    GPL-3.0-or-later
-URL:        https://github.com/Pretty-SFOS/opal-gallery
+URL:        https://codeberg.org/opal-sfos/opal-gallery
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-opal-gallery.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
